@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Google News - Global Leader Visits",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=%22state%20visit%22%20OR%20%22official%20visit%22%20OR%20%22working%20visit%22%20president%20OR%20%22prime%20minister%22%20when%3A2d&hl=en-US&gl=US&ceid=US:en",
+    "language": "en",
+    "country_hint": "Global",
+    "enabled": true
+  },
+  {
+    "name": "Google News - Chinese Leader Visits",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=%E9%A2%86%E5%AF%BC%E4%BA%BA%20%E8%AE%BF%E9%97%AE%20OR%20%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%20OR%20%E5%87%BA%E8%AE%BF%20when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "language": "zh",
+    "country_hint": "Global",
+    "enabled": true
+  },
+  {
+    "name": "GOV.UK FCDO",
+    "type": "rss",
+    "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom",
+    "language": "en",
+    "country_hint": "United Kingdom",
+    "enabled": true
+  },
+  {
+    "name": "The White House",
+    "type": "rss",
+    "url": "https://www.whitehouse.gov/feed/",
+    "language": "en",
+    "country_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "European External Action Service",
+    "type": "rss",
+    "url": "https://www.eeas.europa.eu/rss_en",
+    "language": "en",
+    "country_hint": "European Union",
+    "enabled": true
+  },
+  {
+    "name": "Government of Canada News",
+    "type": "rss",
+    "url": "https://www.canada.ca/en/news/advanced-news-search/news-results.atom?typ=newsreleases",
+    "language": "en",
+    "country_hint": "Canada",
+    "enabled": true
+  },
+  {
+    "name": "MFA China - Foreign Ministry Spokesperson",
+    "type": "html",
+    "url": "https://www.mfa.gov.cn/eng/xw/fyrbt/",
+    "language": "en",
+    "country_hint": "China",
+    "enabled": false,
+    "link_selector": "a",
+    "base_url": "https://www.mfa.gov.cn"
+  },
+  {
+    "name": "Gov.cn English",
+    "type": "html",
+    "url": "https://english.www.gov.cn/news/",
+    "language": "en",
+    "country_hint": "China",
+    "enabled": false,
+    "link_selector": "a",
+    "base_url": "https://english.www.gov.cn"
+  }
+]

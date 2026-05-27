@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Leader Visit Watch</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page-shell">
+    <header class="topbar">
+      <div>
+        <h1>Leader Visit Watch</h1>
+        <p>公开新闻中的领导人外事访问、抵达、启程、会见与会议出席动态</p>
+      </div>
+      <div class="summary">
+        <span id="recordCount">0</span>
+        <small>records</small>
+      </div>
+    </header>
+
+    <section class="filters" aria-label="Filters">
+      <label>
+        国家/地区
+        <select id="countryFilter">
+          <option value="">全部</option>
+        </select>
+      </label>
+      <label>
+        访问日期
+        <input id="dateFilter" type="date">
+      </label>
+      <label class="search-field">
+        关键词
+        <input id="searchInput" type="search" placeholder="搜索领导人、目的地、来源、摘要">
+      </label>
+    </section>
+
+    <section id="status" class="status">Loading local JSON...</section>
+    <section id="list" class="visit-list" aria-live="polite"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
