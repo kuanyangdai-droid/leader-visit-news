@@ -42,3 +42,9 @@ jobs:
             git commit -m "Update leader visit news [skip ci]"
             git push
           fi
+
+      - name: Trigger Pages deploy
+        if: always()
+        run: gh workflow run deploy-pages.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}

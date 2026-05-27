@@ -118,11 +118,13 @@ http://localhost:8000
 
 ## GitHub Pages 部署
 
+本仓库使用 GitHub Actions 部署 Pages，因为 GitHub Pages 的分支模式只支持 `/` 或 `/docs`，不能直接选择 `/public`。
+
 1. 把仓库推到 GitHub。
 2. 进入 Settings → Pages。
-3. Source 选择 `Deploy from a branch`。
-4. Branch 选择 `main`，目录选择 `/public`。
-5. 保存后，GitHub Pages 会直接读取 `public/index.html`。
+3. Source 选择 `GitHub Actions`。
+4. 手动运行一次 `Deploy GitHub Pages` workflow，或等待下一次 push 触发。
+5. Pages 会把 `public/` 目录作为站点根目录发布。
 
 ## 自动更新
 
