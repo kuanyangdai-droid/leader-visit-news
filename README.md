@@ -132,7 +132,9 @@ http://localhost:8000
 
 ## 嵌入现有网站
 
-如果你使用 GoDaddy、WordPress 或其他支持 Custom HTML 的网站编辑器，把 `leader-visit-widget.html` 的完整内容粘贴到自定义 HTML 模块即可。这个组件自带样式和脚本，只读取 GitHub Pages 上公开的 `data/visits.json`，不会在你的网站里暴露采集逻辑或 API key。
+如果你使用 GoDaddy、WordPress 或其他支持 Custom HTML 的网站编辑器，优先把 `leader-visit-iframe-embed.html` 的完整内容粘贴到自定义 HTML 模块。它直接嵌入已部署的 GitHub Pages 页面，兼容性最好。
+
+`leader-visit-widget.html` 是可选的高级版本：它自带样式和筛选脚本，优先直接读取 GitHub Pages 上公开的 `data/visits.json`。如果你的网站限制外部 JSON 请求，它会自动切换到 iframe 嵌入模式。两种方案都不会在你的网站里暴露采集逻辑或 API key。
 
 ## 自动更新
 

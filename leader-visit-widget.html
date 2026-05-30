@@ -105,6 +105,13 @@
     #lvw-widget a { color: var(--lvw-accent); font-weight: 700; text-decoration: none; }
     #lvw-widget a:hover { text-decoration: underline; }
     #lvw-widget .lvw-empty { padding: 18px; border: 1px dashed var(--lvw-line); border-radius: 8px; color: var(--lvw-muted); text-align: center; }
+    #lvw-widget .lvw-frame {
+      width: 100%;
+      min-height: 900px;
+      border: 1px solid var(--lvw-line);
+      border-radius: 8px;
+      background: var(--lvw-panel);
+    }
     @media (max-width: 700px) {
       #lvw-widget .lvw-shell { padding: 12px; }
       #lvw-widget .lvw-head { align-items: start; flex-direction: column; }
@@ -202,8 +209,8 @@
           render();
         })
         .catch((error) => {
-          $("[data-lvw-status]").textContent = `读取 JSON 失败：${error.message}`;
-          $("[data-lvw-list]").innerHTML = '<div class="lvw-empty">暂时无法加载数据</div>';
+          $("[data-lvw-status]").textContent = "当前网站限制了外部 JSON 请求，已自动切换到嵌入页面模式。";
+          $("[data-lvw-list]").innerHTML = '<iframe class="lvw-frame" src="https://kuanyangdai-droid.github.io/leader-visit-news/" title="Leader Visit Watch" loading="lazy"></iframe>';
         });
 
       $("[data-lvw-country]").addEventListener("change", (event) => { state.country = event.target.value; render(); });
