@@ -130,6 +130,10 @@ http://localhost:8000
 4. 手动运行一次 `Deploy GitHub Pages` workflow，或等待下一次 push 触发。
 5. Pages 会把 `public/` 目录作为站点根目录发布。
 
+## 嵌入现有网站
+
+如果你使用 GoDaddy、WordPress 或其他支持 Custom HTML 的网站编辑器，把 `leader-visit-widget.html` 的完整内容粘贴到自定义 HTML 模块即可。这个组件自带样式和脚本，只读取 GitHub Pages 上公开的 `data/visits.json`，不会在你的网站里暴露采集逻辑或 API key。
+
 ## 自动更新
 
 `.github/workflows/update-visits.yml` 已配置：

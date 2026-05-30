@@ -1,0 +1,214 @@
+<!-- Paste this entire block into your website's Custom HTML section. -->
+<meta charset="utf-8">
+<section id="lvw-widget">
+  <style>
+    #lvw-widget {
+      --lvw-bg: #f6f7f9;
+      --lvw-panel: #fff;
+      --lvw-text: #17202a;
+      --lvw-muted: #65717f;
+      --lvw-line: #d9dee5;
+      --lvw-accent: #0f766e;
+      --lvw-accent-soft: #dff5f2;
+      --lvw-warning: #8a5a00;
+      --lvw-warning-bg: #fff4d6;
+      color: var(--lvw-text);
+      font-family: Inter, Arial, sans-serif;
+    }
+    #lvw-widget * { box-sizing: border-box; }
+    #lvw-widget .lvw-shell {
+      max-width: 1160px;
+      margin: 0 auto;
+      padding: 18px;
+      background: var(--lvw-bg);
+    }
+    #lvw-widget .lvw-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: end;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--lvw-line);
+    }
+    #lvw-widget h2 { margin: 0; font-size: 26px; }
+    #lvw-widget .lvw-subtitle,
+    #lvw-widget .lvw-status { color: var(--lvw-muted); font-size: 13px; }
+    #lvw-widget .lvw-count { color: var(--lvw-accent); font-size: 26px; font-weight: 800; }
+    #lvw-widget .lvw-filters {
+      display: grid;
+      grid-template-columns: minmax(150px, 1fr) minmax(145px, .8fr) minmax(210px, 2fr);
+      gap: 10px;
+      margin: 16px 0;
+    }
+    #lvw-widget label { display: grid; gap: 5px; color: var(--lvw-muted); font-size: 12px; font-weight: 700; }
+    #lvw-widget select,
+    #lvw-widget input {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid var(--lvw-line);
+      border-radius: 6px;
+      background: var(--lvw-panel);
+      padding: 0 10px;
+      font: inherit;
+    }
+    #lvw-widget .lvw-list { display: grid; gap: 10px; margin-top: 10px; }
+    #lvw-widget .lvw-card {
+      padding: 14px;
+      border: 1px solid var(--lvw-line);
+      border-radius: 8px;
+      background: var(--lvw-panel);
+    }
+    #lvw-widget .lvw-card-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: start;
+    }
+    #lvw-widget .lvw-country {
+      margin: 0 0 4px;
+      color: var(--lvw-accent);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    #lvw-widget h3 { margin: 0; font-size: 17px; }
+    #lvw-widget .lvw-pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 0 7px;
+      border-radius: 999px;
+      background: #eef1f5;
+      color: #3d4854;
+      font-size: 11px;
+      font-weight: 700;
+    }
+    #lvw-widget .lvw-route {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 24px minmax(0, 1fr);
+      gap: 6px;
+      align-items: center;
+      margin: 12px 0;
+      padding: 11px;
+      border-left: 4px solid var(--lvw-accent);
+      border-radius: 6px;
+      background: var(--lvw-accent-soft);
+    }
+    #lvw-widget .lvw-route div:not(.lvw-arrow) { display: grid; gap: 2px; }
+    #lvw-widget .lvw-route small,
+    #lvw-widget .lvw-route span { color: var(--lvw-muted); font-size: 10px; font-weight: 700; }
+    #lvw-widget .lvw-route strong { overflow-wrap: anywhere; font-size: 15px; }
+    #lvw-widget .lvw-arrow { color: var(--lvw-accent); font-size: 20px; font-weight: 800; text-align: center; }
+    #lvw-widget .lvw-meta { display: flex; flex-wrap: wrap; gap: 7px; color: var(--lvw-muted); font-size: 12px; }
+    #lvw-widget .lvw-summary { margin: 10px 0; color: #2d3742; font-size: 13px; line-height: 1.55; }
+    #lvw-widget .lvw-aircraft { background: var(--lvw-warning-bg); color: var(--lvw-warning); }
+    #lvw-widget a { color: var(--lvw-accent); font-weight: 700; text-decoration: none; }
+    #lvw-widget a:hover { text-decoration: underline; }
+    #lvw-widget .lvw-empty { padding: 18px; border: 1px dashed var(--lvw-line); border-radius: 8px; color: var(--lvw-muted); text-align: center; }
+    @media (max-width: 700px) {
+      #lvw-widget .lvw-shell { padding: 12px; }
+      #lvw-widget .lvw-head { align-items: start; flex-direction: column; }
+      #lvw-widget .lvw-filters { grid-template-columns: 1fr; }
+      #lvw-widget h2 { font-size: 22px; }
+    }
+  </style>
+
+  <div class="lvw-shell">
+    <header class="lvw-head">
+      <div>
+        <h2>Leader Visit Watch</h2>
+        <p class="lvw-subtitle">公开新闻中的领导人访问动态与推测出发路线</p>
+      </div>
+      <div><span class="lvw-count" data-lvw-count>0</span> <span class="lvw-subtitle">records</span></div>
+    </header>
+
+    <div class="lvw-filters">
+      <label>国家/地区<select data-lvw-country><option value="">全部</option></select></label>
+      <label>访问日期<input data-lvw-date type="date"></label>
+      <label>关键词<input data-lvw-search type="search" placeholder="搜索领导人、国家、路线、摘要"></label>
+    </div>
+
+    <div class="lvw-status" data-lvw-status>正在读取公开 JSON...</div>
+    <div class="lvw-list" data-lvw-list></div>
+  </div>
+
+  <script>
+    (() => {
+      const root = document.getElementById("lvw-widget");
+      const DATA_URL = "https://kuanyangdai-droid.github.io/leader-visit-news/data/visits.json";
+      const state = { records: [], country: "", date: "", query: "" };
+      const $ = (selector) => root.querySelector(selector);
+      const esc = (value) => String(value ?? "").replace(/[&<>"']/g, (char) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
+      })[char]);
+      const norm = (value) => String(value || "").toLowerCase();
+      const date = (value) => value ? String(value).slice(0, 10) : "日期未知";
+      const eventLabel = (value) => ({
+        state_visit: "国事访问", official_visit: "正式访问", working_visit: "工作访问",
+        conference_attendance: "会议出席", arrival: "抵达", departure: "启程",
+        meeting: "会见", other: "其他"
+      })[value] || value || "其他";
+
+      function filtered() {
+        const query = norm(state.query);
+        return state.records.filter((item) => {
+          if (state.country && item.country !== state.country) return false;
+          if (state.date && item.visit_date !== state.date) return false;
+          if (!query) return true;
+          return [item.leader_name, item.leader_title, item.country, item.origin, item.destination,
+            item.summary, item.source_name, eventLabel(item.event_type)].map(norm).join(" ").includes(query);
+        });
+      }
+
+      function render() {
+        const rows = filtered().sort((a, b) => String(b.published_at || "").localeCompare(String(a.published_at || "")));
+        $("[data-lvw-count]").textContent = rows.length;
+        $("[data-lvw-status]").textContent = rows.length ? `按发布时间倒序显示 ${rows.length} 条记录。` : "没有符合条件的记录。";
+        $("[data-lvw-list]").innerHTML = rows.length ? rows.map((item) => `
+          <article class="lvw-card">
+            <div class="lvw-card-head">
+              <div>
+                <p class="lvw-country">${esc(item.country || "所属国家未识别")}</p>
+                <h3>${esc(item.leader_name || "未识别领导人")} <span class="lvw-pill">${esc(item.leader_title || "职务未知")}</span></h3>
+                <div class="lvw-meta"><span>${esc(date(item.visit_date))}</span></div>
+              </div>
+              <span class="lvw-pill">${esc(eventLabel(item.event_type))}</span>
+            </div>
+            <div class="lvw-route">
+              <div><small>FROM</small><strong>${esc(item.origin || "启程地未确认")}</strong>${item.origin_inferred ? "<span>推测：所属国首都出发</span>" : item.origin ? "<span>新闻中明确提及</span>" : ""}</div>
+              <div class="lvw-arrow">→</div>
+              <div><small>TO</small><strong>${esc(item.destination || "目的地未确认")}</strong></div>
+            </div>
+            <p class="lvw-summary">${esc(item.summary || "")}</p>
+            <div class="lvw-meta">
+              ${item.possibly_special_aircraft ? '<span class="lvw-pill lvw-aircraft">可能涉及专机</span>' : ""}
+              <span>${esc(item.source_name || "Unknown source")}</span>
+              <a href="${esc(item.source_url || "#")}" target="_blank" rel="noopener noreferrer">查看原文</a>
+            </div>
+          </article>
+        `).join("") : '<div class="lvw-empty">暂无公开访问新闻记录</div>';
+      }
+
+      fetch(DATA_URL, { cache: "no-store" })
+        .then((response) => {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return response.json();
+        })
+        .then((data) => {
+          state.records = Array.isArray(data) ? data : [];
+          const select = $("[data-lvw-country]");
+          [...new Set(state.records.map((item) => item.country).filter(Boolean))].sort()
+            .forEach((country) => select.insertAdjacentHTML("beforeend", `<option value="${esc(country)}">${esc(country)}</option>`));
+          render();
+        })
+        .catch((error) => {
+          $("[data-lvw-status]").textContent = `读取 JSON 失败：${error.message}`;
+          $("[data-lvw-list]").innerHTML = '<div class="lvw-empty">暂时无法加载数据</div>';
+        });
+
+      $("[data-lvw-country]").addEventListener("change", (event) => { state.country = event.target.value; render(); });
+      $("[data-lvw-date]").addEventListener("change", (event) => { state.date = event.target.value; render(); });
+      $("[data-lvw-search]").addEventListener("input", (event) => { state.query = event.target.value; render(); });
+    })();
+  </script>
+</section>
