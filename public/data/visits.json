@@ -4,7 +4,7 @@
     "leader_name": "Begins Official Visit",
     "leader_title": "President",
     "country": "Myanmar",
-    "origin": "",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-30",
     "event_type": "official_visit",
     "destination": "",
@@ -15,14 +15,15 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": true
   },
   {
     "id": "5748231a54e1fa04",
     "leader_name": "缅甸",
     "leader_title": "总统",
     "country": "Myanmar",
-    "origin": "",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-30",
     "event_type": "arrival",
     "destination": "India",
@@ -33,7 +34,27 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": true
+  },
+  {
+    "id": "ba8e06a6f88ceefb",
+    "leader_name": "中国",
+    "leader_title": "外长",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-05-30",
+    "event_type": "other",
+    "destination": "Canada",
+    "summary": "时隔10年，中国外长访问加拿大！专家：时间点非常精妙，释放了这些信号 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWNfNFF3RFR0YnlmTm5keVVDSkFfdjU0OEtMTEg3dnh5NzJKekF4b2Z0TmVxZXZYY1o5ZUhuSnBmV0ZhQWFaNzJfNmpTUHkzdnBwRkFEcmprMnpYcEhhel9YY0FCcnkxRVBiT3VBMjJJQXVJTlR5dFk5dzF0UWswcGJlY1diOGdo?oc=5",
+    "published_at": "2026-05-30T10:06:02Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-30T14:17:03Z"
   },
   {
     "id": "853960ffabb3948d",
@@ -51,7 +72,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "c9ac174e1d2145a2",
@@ -69,25 +91,27 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "e5add87188e42320",
     "leader_name": "",
     "leader_title": "President",
     "country": "Myanmar",
-    "origin": "",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-30",
     "event_type": "official_visit",
     "destination": "Myanmar",
-    "summary": "Strengthening Cooperation: President arrives Delhi for official visit Myanmar International TV",
+    "summary": "Myanmar president to pay 5-day official visit to India The Business Standard",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzlFX3dRbXg2amotRU1VY1BtWjNGMWdTZExrLWhjZm5uc3VsWWphUXoweTZZbTlldkItRUpuNFlPX2NZX2tBaXB3dVN2XzBhdnhZWmlBdkNJeDJpb1NBcXNEbGJnTy1McVg5NFBONmlDczFqRHVGVWVhUDFhSDhyVk1RbXAxOGx5S0FGNWVqVzdWN2dVeHJBam5XWlM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEtyTlhOZXEwU2V1dUs2MTNSS2hEb3hxRW5yWWxhUXpnUzBqUnJQR1ZudW9VVndCLTIwUHFZa3lhTl9HMmlfMHlfTjlUY0x0VDF1YWlIYnM4Q2ZhVlFPRFpaMEF0aDhMMDVIVFcySm9kZWJUaThpT2lUNld6QzBzbkdzTkZ5c1FiR1RiM1BRLUlRWnRCYkJ6VlU0dl9YZ9IBowFBVV95cUxNQzVuUVk0MW1FLWM3TC1iTWNEN056Nl9XbGthZGZpSm05RmFhdXR6TlIwdlhLMUt4OVgyeG1jcnBGYllxZWxQb1dMOGxMcXY5azJnd0hjVUxEVjcxaG1VczljYlJkZEhuV2FQcFVEck5hRlhWcjN4enVGVk1pazBaNXNRaEx2ZWcwSFZ6VE1vdWkyVkUtSUxsZGdiek00LW9rSEMw?oc=5",
     "published_at": "2026-05-30T08:39:07Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": true
   },
   {
     "id": "0f80d81b852a4ddd",
@@ -105,14 +129,15 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": false
   },
   {
     "id": "f4a6befb28ced1a1",
     "leader_name": "什么老挝",
     "leader_title": "主席",
     "country": "Laos",
-    "origin": "",
+    "origin": "Vientiane",
     "visit_date": "2026-05-30",
     "event_type": "other",
     "destination": "",
@@ -123,14 +148,15 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": true
   },
   {
     "id": "4409f3f820d29691",
     "leader_name": "Aung Hlaing Begins Official",
     "leader_title": "President",
     "country": "Myanmar",
-    "origin": "",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-30",
     "event_type": "official_visit",
     "destination": "",
@@ -141,32 +167,34 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": true
   },
   {
     "id": "14b6c0ffb417c97a",
     "leader_name": "习近平",
     "leader_title": "",
     "country": "China",
-    "origin": "",
+    "origin": "Beijing",
     "visit_date": "2026-05-30",
     "event_type": "departure",
     "destination": "",
-    "summary": "习近平确定出访？这国突大动作准备“迎宾” 万维读者网",
+    "summary": "习近平出访朝鲜？平壤金日成广场突大动作“迎宾规格曝光” - 国际 - 即时国际 Sin Chew Daily",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zNV9ZM01STHg1STdPNE1HcnE4LVdzM0xLUU9FeEVFaHpqWGhudE5LVFBOTElTdXhjaS16ekFkMElObklrMG0za0lCenNGcXJkaFNFX0JmTWFIb1V6UUN6ODJLeEhWZw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbThCSkpfU05OYUNKcHp4Y2dRSE1nUkNyX3RrSjMyclZHdHhEeDgzOGpjVFozb0Q3a2VHOTB5SjN6dlo3YWg5aWdBdXFrT251X2VOWGR6VTRUcUd2QXpmLUpaT0lMYXR2Yk9qY0tONA?oc=5",
     "published_at": "2026-05-30T04:25:23Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": true
   },
   {
     "id": "c4ff14cf7eccb452",
     "leader_name": "Ferdinand Marcos Jr.",
     "leader_title": "President",
     "country": "Philippines",
-    "origin": "",
+    "origin": "Manila",
     "visit_date": "2026-05-29",
     "event_type": "state_visit",
     "destination": "Japan",
@@ -177,7 +205,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": true
   },
   {
     "id": "adc28d97d7db155b",
@@ -195,14 +224,15 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "f1f8c9e541870dfb",
     "leader_name": "To Lam",
     "leader_title": "President",
     "country": "Vietnam",
-    "origin": "",
+    "origin": "Hanoi",
     "visit_date": "2026-05-29",
     "event_type": "official_visit",
     "destination": "",
@@ -213,7 +243,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": true
   },
   {
     "id": "ebf3b47b7f681503",
@@ -231,7 +262,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "6fab01662b904b10",
@@ -249,14 +281,15 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "5972f8fb45f95d83",
     "leader_name": "习近平",
     "leader_title": "",
     "country": "China",
-    "origin": "",
+    "origin": "Beijing",
     "visit_date": "2026-05-29",
     "event_type": "other",
     "destination": "North Korea",
@@ -267,7 +300,8 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": true
   },
   {
     "id": "6fc76b9d30ae30e7",
@@ -285,14 +319,15 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "53ffde4711258747",
     "leader_name": "Min Aung Hlaing",
     "leader_title": "President",
     "country": "Myanmar",
-    "origin": "",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-29",
     "event_type": "official_visit",
     "destination": "",
@@ -303,7 +338,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": true
   },
   {
     "id": "b01380ddc1690df5",
@@ -321,7 +357,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "e7124f92a47f984d",
@@ -339,7 +376,8 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": false
   },
   {
     "id": "4b5dde1c4dce58c4",
@@ -357,7 +395,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "99fb90f0a1f15c57",
@@ -375,7 +414,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "5a12ac3d07e8e9e7",
@@ -393,7 +433,8 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": false
   },
   {
     "id": "3a772cee77b71503",
@@ -411,7 +452,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:54Z"
+    "updated_at": "2026-05-30T14:17:03Z",
+    "origin_inferred": false
   },
   {
     "id": "4ea04fa248d8b405",
@@ -429,7 +471,8 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T13:43:52Z"
+    "updated_at": "2026-05-30T14:17:00Z",
+    "origin_inferred": false
   },
   {
     "id": "ab89b58e9db4aec8",

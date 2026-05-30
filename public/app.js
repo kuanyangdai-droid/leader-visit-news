@@ -107,7 +107,7 @@ function render() {
         <div>
           <small>FROM</small>
           <strong>${escapeHtml(item.origin || "启程地未确认")}</strong>
-          ${!item.origin && item.country ? `<span>${escapeHtml(item.country)} 领导人</span>` : ""}
+          ${item.origin_inferred ? '<span>推测：所属国首都出发</span>' : item.origin ? '<span>新闻中明确提及</span>' : ""}
         </div>
         <div class="route-arrow" aria-hidden="true">→</div>
         <div>

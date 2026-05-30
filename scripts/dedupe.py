@@ -67,6 +67,7 @@ def completeness_score(record: Record) -> int:
         "leader_title",
         "country",
         "origin",
+        "origin_inferred",
         "visit_date",
         "event_type",
         "destination",

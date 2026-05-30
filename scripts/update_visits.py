@@ -90,6 +90,26 @@ COUNTRY_PATTERNS = {
     "Vietnam": ("vietnam", "hanoi", "越南", "河内"),
 }
 
+COUNTRY_CAPITALS = {
+    "Canada": "Ottawa",
+    "China": "Beijing",
+    "Czech Republic": "Prague",
+    "France": "Paris",
+    "India": "New Delhi",
+    "Japan": "Tokyo",
+    "Laos": "Vientiane",
+    "Myanmar": "Naypyidaw",
+    "North Korea": "Pyongyang",
+    "Philippines": "Manila",
+    "Saudi Arabia": "Riyadh",
+    "South Africa": "Pretoria",
+    "Thailand": "Bangkok",
+    "United Kingdom": "London",
+    "United States": "Washington, D.C.",
+    "Uzbekistan": "Tashkent",
+    "Vietnam": "Hanoi",
+}
+
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -257,7 +277,8 @@ def build_record(source: Dict[str, Any], title: str, summary: str, url: str, pub
     leader_name, leader_title = infer_leader(text)
     visit_date = infer_visit_date(text, published)
     leader_country = infer_leader_country(leader_name, text, source.get("country_hint", ""))
-    origin = infer_origin(text)
+    explicit_origin = infer_origin(text)
+    origin = explicit_origin or COUNTRY_CAPITALS.get(leader_country, "")
     now = utc_now()
 
     return {
@@ -266,6 +287,7 @@ def build_record(source: Dict[str, Any], title: str, summary: str, url: str, pub
         "leader_title": leader_title,
         "country": leader_country,
         "origin": origin,
+        "origin_inferred": bool(origin and not explicit_origin),
         "visit_date": visit_date,
         "event_type": infer_event_type(text),
         "destination": infer_destination(text),
