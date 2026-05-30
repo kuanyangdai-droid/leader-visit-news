@@ -59,6 +59,7 @@ function filteredRecords() {
       item.leader_name,
       item.leader_title,
       item.country,
+      item.origin,
       item.destination,
       item.summary,
       item.source_name,
@@ -93,15 +94,26 @@ function render() {
     <article class="visit-card">
       <div class="card-head">
         <div>
+          <p class="country-label">${escapeHtml(item.country || "所属国家未识别")}</p>
           <h2 class="leader">${escapeHtml(item.leader_name || "未识别领导人")} <span class="pill">${escapeHtml(item.leader_title || "职务未知")}</span></h2>
           <div class="meta">
-            <span>${escapeHtml(item.country || "国家未知")}</span>
             <span>${escapeHtml(formatDate(item.visit_date))}</span>
-            <span>${escapeHtml(item.destination || "目的地未知")}</span>
             <span>${escapeHtml(formatDateTime(item.published_at))}</span>
           </div>
         </div>
         <span class="pill">${escapeHtml(eventLabel(item.event_type))}</span>
+      </div>
+      <div class="route" aria-label="公开信息中的访问路线">
+        <div>
+          <small>FROM</small>
+          <strong>${escapeHtml(item.origin || "启程地未确认")}</strong>
+          ${!item.origin && item.country ? `<span>${escapeHtml(item.country)} 领导人</span>` : ""}
+        </div>
+        <div class="route-arrow" aria-hidden="true">→</div>
+        <div>
+          <small>TO</small>
+          <strong>${escapeHtml(item.destination || "目的地未确认")}</strong>
+        </div>
       </div>
       <p class="summary-text">${escapeHtml(item.summary || "")}</p>
       <div class="meta">

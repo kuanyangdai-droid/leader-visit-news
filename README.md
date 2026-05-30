@@ -42,6 +42,7 @@ leader-visit-news/
   "leader_name": "领导人姓名",
   "leader_title": "职务",
   "country": "国家或地区",
+  "origin": "新闻中明确出现的启程地，无法确认时为空",
   "visit_date": "YYYY-MM-DD",
   "event_type": "state_visit / official_visit / working_visit / conference_attendance / arrival / departure / meeting / other",
   "destination": "访问目的地",
@@ -57,6 +58,8 @@ leader-visit-news/
 ```
 
 `possibly_special_aircraft` 只在公开文本出现专机、government aircraft、special flight、aircraft、抵达机场等明显线索时标记为 `true`。不会追踪实时飞行轨迹、航班号、机号或未公开行程。
+
+页面会重点展示“领导人所属国家”和公开新闻里能够确认的 `FROM → TO` 路线。新闻没有明确写出启程地或目的地时保留为空，页面显示“未确认”，不会推测未公开路线。
 
 ## 本地运行
 

@@ -57,6 +57,39 @@ TITLE_PATTERNS = [
     re.compile(r"(?P<name>[\u4e00-\u9fff]{2,4})(?P<title>总统|总理|首相|外长|外交部长|主席|国家主席)"),
 ]
 
+LEADER_ALIASES = {
+    "donald trump": ("Donald Trump", "United States"),
+    "emmanuel macron": ("Emmanuel Macron", "France"),
+    "ferdinand marcos": ("Ferdinand Marcos Jr.", "Philippines"),
+    "ferdinand bongbong marcos": ("Ferdinand Marcos Jr.", "Philippines"),
+    "min aung hlaing": ("Min Aung Hlaing", "Myanmar"),
+    "narendra modi": ("Narendra Modi", "India"),
+    "to lam": ("To Lam", "Vietnam"),
+    "tô lâm": ("Tô Lâm", "Vietnam"),
+    "xi jinping": ("Xi Jinping", "China"),
+    "习近平": ("习近平", "China"),
+}
+
+COUNTRY_PATTERNS = {
+    "Canada": ("canada", "ottawa", "加拿大", "渥太华"),
+    "China": ("china", "beijing", "中国", "北京"),
+    "Czech Republic": ("czech republic", "prague", "捷克", "布拉格"),
+    "France": ("france", "paris", "法国", "巴黎"),
+    "India": ("india", "new delhi", "印度", "新德里"),
+    "Japan": ("japan", "tokyo", "日本", "东京"),
+    "Laos": ("laos", "vientiane", "老挝", "万象"),
+    "Myanmar": ("myanmar", "naypyidaw", "缅甸", "内比都"),
+    "North Korea": ("north korea", "pyongyang", "朝鲜", "平壤"),
+    "Philippines": ("philippines", "manila", "菲律宾", "马尼拉"),
+    "Saudi Arabia": ("saudi arabia", "riyadh", "沙特阿拉伯", "利雅得"),
+    "South Africa": ("south africa", "pretoria", "南非", "比勒陀利亚"),
+    "Thailand": ("thailand", "bangkok", "泰国", "曼谷"),
+    "United Kingdom": ("united kingdom", "london", "英国", "伦敦"),
+    "United States": ("united states", "washington", "美国", "华盛顿"),
+    "Uzbekistan": ("uzbekistan", "tashkent", "乌兹别克斯坦", "塔什干"),
+    "Vietnam": ("vietnam", "hanoi", "越南", "河内"),
+}
+
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -120,6 +153,12 @@ def infer_event_type(text: str) -> str:
 
 
 def infer_leader(text: str) -> tuple[str, str]:
+    lower_text = text.lower()
+    for alias, (display_name, _) in LEADER_ALIASES.items():
+        if alias in lower_text:
+            title_match = re.search(r"\b(President|Prime Minister|Premier|Foreign Minister|Secretary of State|Chancellor|King|Queen)\b|总统|总理|首相|外长|外交部长|主席|国家主席", text, re.I)
+            return display_name, normalize_space(title_match.group(0)) if title_match else ""
+
     for pattern in TITLE_PATTERNS:
         match = pattern.search(text)
         if match:
@@ -129,18 +168,60 @@ def infer_leader(text: str) -> tuple[str, str]:
     return "", ""
 
 
+def canonical_location(value: str) -> str:
+    cleaned = normalize_space(value).strip(" .,-")
+    lower = cleaned.lower()
+    for country, terms in COUNTRY_PATTERNS.items():
+        if any(term in lower for term in terms if term.isascii()):
+            return country
+        if any(term in cleaned for term in terms if not term.isascii()):
+            return country
+    return ""
+
+
 def infer_destination(text: str) -> str:
     patterns = [
-        r"\b(?:to|in|arrives in|visits)\s+([A-Z][A-Za-z .'-]{2,40})",
-        r"访问([\u4e00-\u9fffA-Za-z .'-]{2,20})",
-        r"抵达([\u4e00-\u9fffA-Za-z .'-]{2,20})",
+        r"\b(?:arrives? in|visits?|visit to|travel(?:s|led)? to|depart(?:s|ed)? for)\s+([A-Z][A-Za-z .'-]{2,24})",
+        r"(?:访问|抵达|前往)([\u4e00-\u9fffA-Za-z .'-]{2,10})",
     ]
     for pattern in patterns:
         match = re.search(pattern, text, re.I)
         if match:
             value = normalize_space(match.group(1))
-            return re.split(r"\b(?:for|to|on|and|,)\b|[，。；;:]", value)[0].strip()
+            value = re.split(r"\b(?:for|to|on|and|during|as|from|,)\b|[，。；;:]", value)[0]
+            return canonical_location(value)
     return ""
+
+
+def infer_origin(text: str) -> str:
+    patterns = [
+        r"\b(?:from|depart(?:s|ed)? from|leaves?)\s+([A-Z][A-Za-z .'-]{2,32})",
+        r"(?:从|离开)([\u4e00-\u9fffA-Za-z .'-]{2,16})(?:出发|启程|前往|抵达|访问)",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text, re.I)
+        if match:
+            value = normalize_space(match.group(1))
+            value = re.split(r"\b(?:for|to|on|and|during|as|,)\b|[，。；;:]", value)[0]
+            return canonical_location(value)
+    return ""
+
+
+def infer_leader_country(leader_name: str, text: str, source_hint: str) -> str:
+    lower_name = normalize_space(leader_name).lower()
+    lower_text = text.lower()
+    for alias, (_, country) in LEADER_ALIASES.items():
+        if alias in lower_name or alias in lower_text:
+            return country
+
+    for country, terms in COUNTRY_PATTERNS.items():
+        names = [term for term in terms if term.isascii()]
+        if any(re.search(rf"\b{re.escape(term)}\b\s+(?:president|prime minister|premier|foreign minister|leader)", lower_text, re.I) for term in names):
+            return country
+        if any(re.search(rf"{re.escape(term)}(?:总统|总理|首相|外长|领导人|主席)", text) for term in terms if not term.isascii()):
+            return country
+
+    return "" if source_hint == "Global" else source_hint
 
 
 def possibly_special_aircraft(text: str) -> bool:
@@ -175,13 +256,16 @@ def build_record(source: Dict[str, Any], title: str, summary: str, url: str, pub
 
     leader_name, leader_title = infer_leader(text)
     visit_date = infer_visit_date(text, published)
+    leader_country = infer_leader_country(leader_name, text, source.get("country_hint", ""))
+    origin = infer_origin(text)
     now = utc_now()
 
     return {
         "id": make_id(url, leader_name, visit_date, clean_title),
         "leader_name": leader_name,
         "leader_title": leader_title,
-        "country": source.get("country_hint", ""),
+        "country": leader_country,
+        "origin": origin,
         "visit_date": visit_date,
         "event_type": infer_event_type(text),
         "destination": infer_destination(text),

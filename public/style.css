@@ -130,6 +130,50 @@ input {
   line-height: 1.35;
 }
 
+.country-label {
+  margin: 0 0 5px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.route {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 30px minmax(0, 1fr);
+  gap: 8px;
+  align-items: center;
+  margin: 14px 0 12px;
+  padding: 13px;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+}
+
+.route div:not(.route-arrow) {
+  display: grid;
+  gap: 3px;
+}
+
+.route small,
+.route span {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.route strong {
+  overflow-wrap: anywhere;
+  font-size: 16px;
+}
+
+.route-arrow {
+  color: var(--accent);
+  font-size: 22px;
+  font-weight: 800;
+  text-align: center;
+}
+
 .meta {
   display: flex;
   flex-wrap: wrap;
