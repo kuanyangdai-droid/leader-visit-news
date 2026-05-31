@@ -1,5 +1,176 @@
 [
   {
+    "id": "66f9ed64c059dc8f",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-05-31",
+    "event_type": "state_visit",
+    "destination": "Philippines",
+    "summary": "WATCH: Vietnamese President To Lam arrives at Villamor Airbase on Sunday, May 31, for his two-day State Visit in the Philippines. (🎥: MPC Pool) | via Kenneth Paciente facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkdRcllmNEkzeFNTM2tiQXJYTFIzX3RUeDNPN29DU3hKNm1DdTV1eTRxVEg1bTdVZEJwTEl6R0JPa1RSY3lydmxIeUg0dzJSeHZ2WUN6aHJpS3NtY3F4NXBQZ1BtV01ZY0VUaXRCWThLbTA4Sm9Qcjg0elViLXdhY0ZQdER3aGRiVVFrWW9fWHhCREhuUXBaVm1LU3RTM1BOUTJ5amxXUjNtcGFwTnhWMkludzF3dW1qV0FaVWxXalAwbjBZNEV3cjVVbGlrRkpq?oc=5",
+    "published_at": "2026-05-31T05:48:19Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
+    "id": "83cb3e7fcf1d8918",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-05-31",
+    "event_type": "state_visit",
+    "destination": "Philippines",
+    "summary": "Vietnam President in Manila for 2-day state visit politiko.com.ph",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeElCYmY0aFRaX2JkUmEyRHFPQXVwQjdlRXEzd1VkTlFWbDItTi13N1VPbnY0ZWo2Y3IzMjR6RHY1c01MRFlzR2Zac195dklqamtTMVFjeWFxTGJ2a2Z1cGtrR1FkbjgtbWtTYW9VcHYyM1huVmxuekFXaXBjWEphVnZjTmVGdTdiYlVYRmNwQ2JxOGdrQmFXODVvNThXblFzenc?oc=5",
+    "published_at": "2026-05-31T04:51:25Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:19Z"
+  },
+  {
+    "id": "a3b1744bf3fe0476",
+    "leader_name": "缅甸",
+    "leader_title": "总统",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-05-31",
+    "event_type": "arrival",
+    "destination": "India",
+    "summary": "缅甸总统抵达印度访问 加强双边关系 e南洋",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaTmZBU2VrdGRSNXJSeEhJa3ZYN25YTXRDZjZPUWxMMWtmTDlBN25YZjMxS0tVM29sZFY2aHlENTl6SVh5S2I0djN1T2RSZjZTYVpVakdTVlBhRjVhWmppNjVMcE5kVFlfSjJj?oc=5",
+    "published_at": "2026-05-31T04:01:24Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:19Z",
+    "updated_at": "2026-05-31T09:59:19Z"
+  },
+  {
+    "id": "63945de082e657c5",
+    "leader_name": "国家",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-05-31",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林对菲律宾进行国事访问 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvS01nd1UtTHI5Y0ZZZGRvUlpXQzVKSHFYUnBYMnVNRTFUQTVXYXNxSnZKZUhVa0Y4UGxVY1FScGJvb20xaS00M1RHOHlEckxNalZFRDRENE92WERE?oc=5",
+    "published_at": "2026-05-31T01:27:03Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:19Z",
+    "updated_at": "2026-05-31T09:59:19Z"
+  },
+  {
+    "id": "25944ee9f10616e4",
+    "leader_name": "Keir Starmer",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-05-30",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "UK Prime Minister Keir Starmer to Visit India for First Official Visit from Oct 8 News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLV9POWVDOGhEREFXYlJpYmxENGxNUEk4QkZEZG01N2lrbmpDcXhtWjlCOWYxdlRXbHdlVXE0QjBIUGFrUzRfdzRqbkN0c3dMOHhDbWRKQTktVl9uMENNN2Fwemc5bzB5YlBLdGFCY2VsZXlaWk5sbTY3ZHNnajNfNFpQaS1yX2ZuWGhqU0dRc3lCRTBOVGpHREMydU5CLWJVTXZZaUttSV9YSXM?oc=5",
+    "published_at": "2026-05-30T23:53:45Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
+    "id": "3b51a71a2db62424",
+    "leader_name": "Prabowo",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-05-30",
+    "event_type": "official_visit",
+    "destination": "France",
+    "summary": "President Prabowo Arrives in Paris, Presidential Chief of Staff Teddy: Official Visit to Strengthen Strategic Cooperation between Indonesia and France VOI.ID",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxQlZwMWpYQWkzQS1XSXhXZmtjTmpza2RiRlBwcXlGQkhETEZ2Qk9ZNEFUZWlwVTVhSktKRXFJMWRnSFXSAUJBVV95cUxQSFZVdnQ2b21JTUprWGxKdEZyMzZNSTh1Qll6blg4Qm4wM3FWRGdPYXBwUWF0RGtFNUdPWWQ3bjVzcmc?oc=5",
+    "published_at": "2026-05-30T23:06:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
+    "id": "ea9def25e0a498d9",
+    "leader_name": "Lula",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-05-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "India to host Brazil President Lula for state visit DD News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcFoyTlhOMXhfVS1nZlBXMExaZ1dZMWUzVE5mM3YxSTN5bVF2UlNSNGxNbnlnS21wdDY4TE5TVk9CbHY4bmJnLVZPSWlfeE5uU0dCS1g1emM3ZWVwT01Qd1lmS3htd2hobS1iUjV1WncxbXBwVDdHZ2Q0R0pNUGZLNF9Vdw?oc=5",
+    "published_at": "2026-05-30T21:32:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
+    "id": "5ebc299925ab4b02",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-05-30",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Myanmar President Min Aung Hlaing lands in New Delhi for his official visit MSN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGlNS3M5aVZhck1KYVFmQ1JaSWF3UkxaY3ZBWk5NbV9iUTM0YmhJTGRNNUVsN241T2RsQnpMRHU2aFJrRnZMLWE3X2QyalFkN2lXWXBWeTZENVZBeF84Um1JY1RBZkJmcENoOWN0R1lTZGNkZnhFMXQ2Ukt2YmJqVGs5ZnNrU0ppRnZpTWc1MzBkS0VFdDVBbDVMcGJPVXNKWW1MVXJKSUI1Q0FBWEhzQ2NaTElVbG41REpWc3BUaTZMZw?oc=5",
+    "published_at": "2026-05-30T18:58:11Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
+    "id": "49dbb52c2fb63f70",
+    "leader_name": "Marcos concludes",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-05-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Marcos concludes ‘highly productive, constructive’ State Visit to Japan Philippine Information Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2FqZnhjUU16dEtUVXluQmdtSENWOXpHbk1LQVFzdUZkbU1YR1NzVll2d2tCQ1h1Tm5WYjBpVUtGN0g0dm9GMnlzcTdkSURmcGg5UHhVeGVDTGpHRVlZVWxGb1l0WWNPU1FRSTVnUGtiZ2IwSUQ1SENTai10OWxFZkhoQ0ZXem94SVIxYmlOSEVsM0ZGMzAwU2xBdnRnWTdJcW9ScU5B?oc=5",
+    "published_at": "2026-05-30T11:38:04Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-05-31T09:59:18Z",
+    "updated_at": "2026-05-31T09:59:18Z"
+  },
+  {
     "id": "17f5f04c7fbe29ce",
     "leader_name": "Begins Official Visit",
     "leader_title": "President",
@@ -34,7 +205,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": true
   },
   {
@@ -54,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T14:17:03Z",
-    "updated_at": "2026-05-30T14:17:03Z"
+    "updated_at": "2026-05-31T09:59:19Z"
   },
   {
     "id": "853960ffabb3948d",
@@ -72,7 +243,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -110,27 +281,27 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": true
   },
   {
     "id": "0f80d81b852a4ddd",
     "leader_name": "敏昂莱任",
     "leader_title": "总统",
-    "country": "",
-    "origin": "",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
     "visit_date": "2026-05-30",
     "event_type": "departure",
     "destination": "India",
-    "summary": "敏昂莱任总统首次出访 访问印度加强双边关系 orientaldaily.com.my",
+    "summary": "敏昂莱任缅甸总统首次出访 访问印度加强双边关系 orientaldaily.com.my",
     "source_name": "Google News - Chinese Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wNmhEOUtxeG9KVXNnMm1KTEdXQi02Z21aNDR5by1SU1RwaHB3SGxYd0ZIZTRZQ3M5cC1GWlNRb1VNQVNmbll2aXptYVMtOHYxVElZOEhGUWEzSERuaWNJcmlMdnRwREx4a0liMEx1aEtFSXROaEdKUw?oc=5",
     "published_at": "2026-05-30T08:31:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T14:17:03Z",
-    "origin_inferred": false
+    "updated_at": "2026-05-31T09:59:19Z",
+    "origin_inferred": true
   },
   {
     "id": "f4a6befb28ced1a1",
@@ -148,7 +319,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": true
   },
   {
@@ -173,20 +344,20 @@
   {
     "id": "14b6c0ffb417c97a",
     "leader_name": "习近平",
-    "leader_title": "",
+    "leader_title": "主席",
     "country": "China",
     "origin": "Beijing",
     "visit_date": "2026-05-30",
-    "event_type": "departure",
+    "event_type": "state_visit",
     "destination": "",
-    "summary": "习近平出访朝鲜？平壤金日成广场突大动作“迎宾规格曝光” - 国际 - 即时国际 Sin Chew Daily",
+    "summary": "习近平主席将在对葡萄牙进行国事访问期间签署19项协议——葡萄牙居民 Portugal Resident",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbThCSkpfU05OYUNKcHp4Y2dRSE1nUkNyX3RrSjMyclZHdHhEeDgzOGpjVFozb0Q3a2VHOTB5SjN6dlo3YWg5aWdBdXFrT251X2VOWGR6VTRUcUd2QXpmLUpaT0lMYXR2Yk9qY0tONA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0t4bTA4WUtDS3UwYzJXRnp6NmYwc2FXLVBCRkgwRHl3QzlNX2hxbWV1OHR1WF9DT0hVUmg3NV80NDZFd19femE4WkhJaXoxLVBfcE53SG5hNl9KSlZ5cFZ5MEdXVC1SUHFQRVowLUpZTTVjbUhOVVFRczV1ZU91bjhCMU9lYnd1MU8zLU9lU25YdnI5SXYwYndBYXpTT3ZJdWcwdk0xODg?oc=5",
     "published_at": "2026-05-30T04:25:23Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": true
   },
   {
@@ -205,7 +376,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": true
   },
   {
@@ -224,7 +395,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -243,7 +414,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": true
   },
   {
@@ -262,7 +433,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -281,7 +452,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -300,7 +471,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:54Z",
-    "updated_at": "2026-05-30T14:17:03Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": true
   },
   {
@@ -319,7 +490,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -338,7 +509,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": true
   },
   {
@@ -357,7 +528,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:18Z",
     "origin_inferred": false
   },
   {
@@ -406,7 +577,7 @@
     "origin": "",
     "visit_date": "2026-05-29",
     "event_type": "working_visit",
-    "destination": "",
+    "destination": "France",
     "summary": "Deputy President on working visit to India to drive investment South African Government News Agency",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHdMRGczLURtcnA2WVZyUEp2YVJlQ2RvUGkwRENEY0F0M0tLMjFLY0xsbEV2bDR2NFNPcTFUbHhULTJFaEZjQTYwT0FWRFo3eHRjazJRTnRfaktYNkE3ZEdRMjhROXNTUTFXYlVxck8yWldKUktzQnRVelNmcVg0X1I0UnQyM2VoaUJtT2RabmItVUE4Q3RR?oc=5",
@@ -414,7 +585,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-05-30T13:43:52Z",
-    "updated_at": "2026-05-30T14:17:00Z",
+    "updated_at": "2026-05-31T09:59:19Z",
     "origin_inferred": false
   },
   {
