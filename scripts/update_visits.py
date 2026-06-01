@@ -58,30 +58,55 @@ TITLE_PATTERNS = [
 ]
 
 LEADER_ALIASES = {
+    "alexandar vučić": ("Aleksandar Vučić", "Serbia"),
+    "aleksandar vucic": ("Aleksandar Vučić", "Serbia"),
+    "cyril ramaphosa": ("Cyril Ramaphosa", "South Africa"),
+    "christodoulides": ("Nikos Christodoulides", "Cyprus"),
     "donald trump": ("Donald Trump", "United States"),
     "emmanuel macron": ("Emmanuel Macron", "France"),
     "ferdinand marcos": ("Ferdinand Marcos Jr.", "Philippines"),
     "ferdinand bongbong marcos": ("Ferdinand Marcos Jr.", "Philippines"),
+    "ferdinand marcos jr": ("Ferdinand Marcos Jr.", "Philippines"),
+    "marcos": ("Ferdinand Marcos Jr.", "Philippines"),
     "min aung hlaing": ("Min Aung Hlaing", "Myanmar"),
+    "mashatile": ("Paul Mashatile", "South Africa"),
     "narendra modi": ("Narendra Modi", "India"),
+    "modi": ("Narendra Modi", "India"),
+    "paul mashatile": ("Paul Mashatile", "South Africa"),
+    "petr pavel": ("Petr Pavel", "Czech Republic"),
+    "ramaphosa": ("Cyril Ramaphosa", "South Africa"),
+    "ruto": ("William Ruto", "Kenya"),
     "to lam": ("To Lam", "Vietnam"),
     "tô lâm": ("Tô Lâm", "Vietnam"),
+    "vucic": ("Aleksandar Vučić", "Serbia"),
+    "vučić": ("Aleksandar Vučić", "Serbia"),
+    "william ruto": ("William Ruto", "Kenya"),
     "xi jinping": ("Xi Jinping", "China"),
+    "尚达曼": ("Tharman Shanmugaratnam", "Singapore"),
+    "敏昂莱": ("Min Aung Hlaing", "Myanmar"),
+    "苏林": ("Tô Lâm", "Vietnam"),
+    "武契奇": ("Aleksandar Vučić", "Serbia"),
+    "维文": ("Vivian Balakrishnan", "Singapore"),
+    "王毅": ("王毅", "China"),
     "习近平": ("习近平", "China"),
 }
 
 COUNTRY_PATTERNS = {
     "Canada": ("canada", "ottawa", "加拿大", "渥太华"),
     "China": ("china", "beijing", "中国", "北京"),
+    "Cyprus": ("cyprus", "nicosia", "塞浦路斯", "尼科西亚"),
     "Czech Republic": ("czech republic", "prague", "捷克", "布拉格"),
     "France": ("france", "paris", "法国", "巴黎"),
     "India": ("india", "new delhi", "印度", "新德里"),
     "Japan": ("japan", "tokyo", "日本", "东京"),
+    "Kenya": ("kenya", "nairobi", "肯尼亚", "内罗毕"),
     "Laos": ("laos", "vientiane", "老挝", "万象"),
     "Myanmar": ("myanmar", "naypyidaw", "缅甸", "内比都"),
     "North Korea": ("north korea", "pyongyang", "朝鲜", "平壤"),
     "Philippines": ("philippines", "manila", "菲律宾", "马尼拉"),
     "Saudi Arabia": ("saudi arabia", "riyadh", "沙特阿拉伯", "利雅得"),
+    "Serbia": ("serbia", "belgrade", "塞尔维亚", "贝尔格莱德"),
+    "Singapore": ("singapore", "新加坡"),
     "South Africa": ("south africa", "pretoria", "南非", "比勒陀利亚"),
     "Thailand": ("thailand", "bangkok", "泰国", "曼谷"),
     "United Kingdom": ("united kingdom", "london", "英国", "伦敦"),
@@ -93,15 +118,19 @@ COUNTRY_PATTERNS = {
 COUNTRY_CAPITALS = {
     "Canada": "Ottawa",
     "China": "Beijing",
+    "Cyprus": "Nicosia",
     "Czech Republic": "Prague",
     "France": "Paris",
     "India": "New Delhi",
     "Japan": "Tokyo",
+    "Kenya": "Nairobi",
     "Laos": "Vientiane",
     "Myanmar": "Naypyidaw",
     "North Korea": "Pyongyang",
     "Philippines": "Manila",
     "Saudi Arabia": "Riyadh",
+    "Serbia": "Belgrade",
+    "Singapore": "Singapore",
     "South Africa": "Pretoria",
     "Thailand": "Bangkok",
     "United Kingdom": "London",
@@ -186,6 +215,36 @@ def infer_leader(text: str) -> tuple[str, str]:
             name = re.split(r"\b(?:and|with|meets|arrives|visits|to|will|during|on|for|in)\b", name, maxsplit=1, flags=re.I)[0].strip(" ,.-")
             return name, normalize_space(match.group("title"))
     return "", ""
+
+
+def is_plausible_leader_name(value: str) -> bool:
+    name = normalize_space(value)
+    if not name:
+        return False
+    lower = name.lower()
+    invalid_exact = {"photos", "the", "china", "myanmar", "中国", "缅甸", "国家"}
+    invalid_fragments = (
+        "official visit", "working visit", "state visit", "begins", "concludes", "set",
+        "of the", "of uzbekistan", "presidency", "will visit", "arrives", "embarking",
+        "hosts official", "welcome ceremony",
+    )
+    if lower in invalid_exact or any(fragment in lower for fragment in invalid_fragments):
+        return False
+    if len(name.split()) > 4:
+        return False
+    if re.search(r"(什么|国家|总统|总理|首相|主席|外长|中国|缅甸|塞尔维亚|越南|老挝)", name):
+        return False
+    return True
+
+
+def refine_leader(text: str, leader_name: str, leader_title: str) -> tuple[str, str]:
+    lower_text = text.lower()
+    for alias, (display_name, _) in LEADER_ALIASES.items():
+        if alias in lower_text:
+            return display_name, leader_title
+    if is_plausible_leader_name(leader_name):
+        return leader_name, leader_title
+    return "", leader_title
 
 
 def canonical_location(value: str) -> str:
@@ -274,7 +333,7 @@ def build_record(source: Dict[str, Any], title: str, summary: str, url: str, pub
     if not includes_keyword(text):
         return None
 
-    leader_name, leader_title = infer_leader(text)
+    leader_name, leader_title = refine_leader(text, *infer_leader(text))
     visit_date = infer_visit_date(text, published)
     leader_country = infer_leader_country(leader_name, text, source.get("country_hint", ""))
     explicit_origin = infer_origin(text)
