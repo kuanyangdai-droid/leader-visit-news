@@ -1,5 +1,176 @@
 [
   {
+    "id": "f556805e6756203b",
+    "leader_name": "",
+    "leader_title": "prime minister",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "韩媒：外交安排密集中国领导人月初访朝可能性不大｜即时新闻｜中港台｜on.cc东网 on.cc東網",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTd6MnJHQmlFTWtubFoxVUE0RzdOcVhBaWNyR2RrSFNIWWZWczNjbnlIWmloRGNsYjNUTTdsMWZjcTdVY3RwMXY4X0VPOEltVXpEQjdibG5kY3ZvVmhlR2pXSlpTV0RGNmVtU3R3TThfRmtBSC1CMURlX0xFNERyZTAxRmhsZE80VWlRbG1Jbw?oc=5",
+    "published_at": "2026-06-02T12:06:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:28Z"
+  },
+  {
+    "id": "b20b2a174ab74cb1",
+    "leader_name": "Romuald Wadagni pays official",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-02",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Benin’s President Romuald Wadagni pays official visit to Nigeria The Nation Newspaper",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUpfbHVhVEFoU21MYTU3NkpnWlMtOWw4QXRRZ2ItS1lBQWFUaEYwajBuU3VjUEN0QXdnMG5rOVlHRTlGVHFUREhQZUQyeS0xWmN1TEIwcWlsSnQ1Q2YtYzltVnhPT3VxYUxYX01EbGhHNmFDd1dYcFo2cVI4Xy1JTXhHc2hsMExkT3d3R3FsMkhlNWlCR09HSUJB0gGfAUFVX3lxTE1LTFBxTVA4Y0htMlAwempmbDc0VG9HLXNPZXdHaFRidnUwOXdIV2k0aWV1aUF4NksxcUZtanZlXzF6NXVXMzBuVk9GMjFzOVhvemFhMUpvZ2RzMGVYbGpBZWxlOWJRaFdDWTN2N2VtQXdvZlhyVEdXRldOa28zU1l4OHpranNlZHFXeUZZUTBzX2NfNVBaLWJOSHVOXzFNQQ?oc=5",
+    "published_at": "2026-06-02T11:45:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "a19bd72f1be3d22a",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林出访东盟三国：彰显主动、发展型外交的布局 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xLXduMWk1LXo3Mng0LUlIZGp6RFhEVjNXMC1WWmpRS21DMFNhOW1ZM0VxV1Rha3ZsWEJmRTktaVRKbzRWdDRXcnpFU2hGaEpIbEE?oc=5",
+    "published_at": "2026-06-02T10:22:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:28Z",
+    "updated_at": "2026-06-02T12:59:28Z"
+  },
+  {
+    "id": "3963464c101e5fa0",
+    "leader_name": "William Ruto",
+    "leader_title": "",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Ruto state visit to Finland to cement expanding ties on global reform, mediation the-star.co.ke",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlF0U0FKeWNfSnJPTDFsNTJMdnJZTEhBNVhGX3hUY3ZSQjVJR3gzbFFwbHFfS1otWnp0aWRYOVhJMUpKc2FrRzdMTzZLby0yUmtVcm1KV1BHMV85SW9KbU95Q0p6dHJVcUpSSGdrbHRHUVlVUmpEUk1WU1hTZXQtRW9TUVdCc2hjX1pZcC1DZ2V4YVpyRjd1UWdIYw?oc=5",
+    "published_at": "2026-06-02T10:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "26f8ae0d8597c285",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "PM Narendra Modi to embark on 3 day official visit to Russia & Austria News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUpFQ2ZYcVdrUmdtMXNjdHFZelpvMGw3R0pXZnJLd0F5dlU5eWJHWXlBRUUtdzhaZ3RlbW1rVzVVakpZY1hybzNmalBaUjI1QnB6YW92UTNhZGpOdlEzUXA5OWFnbzlOaGlnT25pRUdjMEJReGk1ZVc4RWVTaTMybkNRRzVsRHU2TnFfYWlCQ09MMDVVTjVJNlR3?oc=5",
+    "published_at": "2026-06-02T09:59:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "09fa07ba9ec05e48",
+    "leader_name": "Kenyan",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-02",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Kenyan presidential couple to pay a state visit to Finland presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmt1MGU4ajZlOHkyemwxNHhWWnJnYjE1Mi05dDgxTDI0SVBJQUY5MWVlYjduR0hHWUFQMlpUei1ibkNsUFFzTDlIcFV2bUxRQTRYbWZiLXdjX193ZGpPcV9qQUZtOWZjWWk4a2prYTNiWm9KS0h1d0lFbTZvbjFEdnB4UmdJaFBOdXV1SGtLbGhZS3M?oc=5",
+    "published_at": "2026-06-02T09:22:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "19ff8d4155f698a7",
+    "leader_name": "Wadagni makes first official",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-02",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Benin’s President Wadagni makes first official visit to Nigeria, prioritizes strategic partnership Vanguard News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMzJ4cEh6cVB1M0kzMlM5aXpwUVE5VWhwZl9CQ0xZMTQ4ZkJyVnVpalFzNW9VM1dfSllWOC1QMUd2YXhCY0E2RFZBbzREN3MwRXlWbDNOTW94WGtoZi1VTVJCeHN2VjNNMlFQbGI5c2lTRVE5YUhDZl9XZlhDMS1iWkxxYUpScWxBczJkZV9KbnJ4SDZVRDM4Ykk2a0NYWXhoSzhzdkVsSGloVTZmZE9sMlFCb0NkZEZHSXQwbE9MMWVadkx3R0NwdVAyeUJRd9IB0wFBVV95cUxQRlNnbUd6VmgzT0ZpU0JBelZfWlVtY2hsV2JvaGdnRl9IcDRFc2ZQbFpIdW1PU2hTelY2RFBtQUJHNEhVWm8wNE1tZnZ0UmRCejQ4TnYyMjlTejFKUG9RQS04RGc4dC1qeWRUdGdyQzkxcXFVV09lYlFERW13Y05YNWJVV1hsc0FEUWJrdHFiTUZsY1BBeFVHY3Z0NGdRMzdOVlB4dmFJX0FSaS1abkw4SzBzRUV3ZTVfTHVSZXNvby1QWjFJMVQ5Q3pmaVN0TjFsYmZv?oc=5",
+    "published_at": "2026-06-02T07:31:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "1f4d2981d5ff8c3d",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "High-level Myanmar Delegation Led by President of the Republic of the Union of Myanmar U Min Aung Hlaing Arrives in India to pay Official Visit – Ministry of Foreign Affairs နိုင်ငံခြားရေးဝန်ကြီးဌာန",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN1NwZUJ4ejViajRQYWRyX0hhWlNBdXQwNzF4SzRlSEt1cUNxaFZ5dmhpSVlVZ2F0TnZlcmF3NWJjTWFpU3AzRjk5bmZJNXN2dnpqOXk1LTVzN1FleTJIRlZoYjVWenk4a2Y0WWllT2hFNlE0aDB0dXdHYTdNWFNJZEVHY1BYeDJxeVVfMzktb0lybkYyZElxN3Fua1JTY2pPM1FYNGNsVjlMWHY0TkpBUnNQN3VaN2J2eEF4T0s0YkVuUTNid1VmYlN2OHc2cUk1TnhjS1pNTmVYMElUMmoxSkdraTR6MGVlQXkycC1fT0VjclZ6dnpUdVgtOU1NTEl1?oc=5",
+    "published_at": "2026-06-02T05:09:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
+    "id": "63a7b35b3bd54e08",
+    "leader_name": "Nikos Christodoulides",
+    "leader_title": "President",
+    "country": "Cyprus",
+    "origin": "Nicosia",
+    "origin_inferred": true,
+    "visit_date": "2026-06-02",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Christodoulides paying official visit to Kazakhstan cbn.com.cy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHJSMW1mcXJDUWljYzVwMkQ3ZFMwQ3o3NXN3LVpHRnNlRUx5enlqSEJRbXFIWmh0V25rMGdNbjVPOFR0REl0RFJEUURmN1BQTEVMMEZiaTVQeXl2VkVzV3p3WnFnUXkxeGwyMVk0cFhyNVlZUllkWElhdFN2eTNXUm05UVdXSzdtdmd3MmhFUGFlSjRBT09pS3g0VzBaNkEy?oc=5",
+    "published_at": "2026-06-02T04:46:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
     "id": "6f00ec724d3462d5",
     "leader_name": "of Myanmar",
     "leader_title": "President",
@@ -16,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "6efaa3a20b85de44",
@@ -35,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "4c9653b67a787534",
@@ -57,6 +228,25 @@
     "updated_at": "2026-06-02T00:16:31Z"
   },
   {
+    "id": "9d8b5faaa30fc9e0",
+    "leader_name": "of Slovenia pays working",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-01",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President of Slovenia pays working visit to Finland presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXpvY3FsUm5kbnRwdzVJRHJBMGQ2SERlOUdJdUljc0QycGNISGM1R0c4dlJGdW9kalVzLUZHSDZ0V0tDMzI0LUNXTkMwR0VheTNGUDU3bHMwb25aSE1DbWg0UFh6TmtKeXM3QWZTdjBEcWZpRU9NRld0a1c3a0dJREU2aTZUSUhLQmc?oc=5",
+    "published_at": "2026-06-01T14:21:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-02T12:59:27Z",
+    "updated_at": "2026-06-02T12:59:27Z"
+  },
+  {
     "id": "086828845e72ef0b",
     "leader_name": "Ferdinand Marcos Jr.",
     "leader_title": "President",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "20ff49f8c1a3273f",
@@ -92,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:31Z"
+    "updated_at": "2026-06-02T12:59:28Z"
   },
   {
     "id": "1f79c6d4b761e746",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "72c0d7c5c6353f19",
@@ -130,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:58Z",
-    "updated_at": "2026-06-02T00:16:31Z"
+    "updated_at": "2026-06-02T12:59:28Z"
   },
   {
     "id": "3eb082563e4a8839",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "93456a9db6cedd81",
@@ -168,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:58Z",
-    "updated_at": "2026-06-02T00:16:31Z"
+    "updated_at": "2026-06-02T12:59:28Z"
   },
   {
     "id": "8a4f9f8ee57886fe",
@@ -187,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:58Z",
-    "updated_at": "2026-06-02T00:16:31Z"
+    "updated_at": "2026-06-02T12:59:28Z"
   },
   {
     "id": "010dd1bb66685d09",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-02T00:16:29Z"
+    "updated_at": "2026-06-02T12:59:27Z"
   },
   {
     "id": "757e0cd3256ca49e",
