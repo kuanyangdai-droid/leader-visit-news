@@ -1,5 +1,100 @@
 [
   {
+    "id": "49787651d6b8b30b",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-06-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President William Ruto with First Lady Mama Rachel Ruto received by President Cyril Ramaphosa and First Lady Dr Tshepo Motsepeara for a State Visit at Union Buildings, Pretoria, South Africa. facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUFSY211SXZLYmRiYUdBX21zQldtMEgzNDNXY1o5QXhhUmxKd2RFbUlCc2todTRYVXIxT2V1cjdyT0xKb2JMREN5YVZIT2NWRHItdmZzMEZlSHVWSHNPSlVpcllqcmVGaWI2LWhxaEZoZE51aWxtbHZZLW83UjRLNjB1SW1SdHQ3YlM5Tl8zc1RQZTVyTkI4dXp2dlRqMWtBXzNEcUJCVmdwN2xFR3Z3UUx4N0ZvV3RMbTh3UnpjamlEM2dxQVRyd2t5QUJTeExWeWxvS3d0RjdyemphRmc?oc=5",
+    "published_at": "2026-06-04T10:18:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:43Z",
+    "updated_at": "2026-06-04T11:36:43Z"
+  },
+  {
+    "id": "9c8ad6ce40b756cc",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-06-04",
+    "event_type": "conference_attendance",
+    "destination": "China",
+    "summary": "This page explains the purpose of the Global Partnerships Conference and how to follow updates and outputs from the event.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/guidance/global-partnerships-conference-2026",
+    "published_at": "2026-06-04T08:07:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:43Z",
+    "updated_at": "2026-06-04T11:36:46Z"
+  },
+  {
+    "id": "3b3fde6fc2016035",
+    "leader_name": "William Ruto",
+    "leader_title": "",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Ruto begins South Africa State Visit to boost trade ties KBC Digital",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94ZzAzTGZmQVdqSUtKVk9LNkpEY2syRENwSUJ6RnlBa1JWSFRGSjFRM3FlbjRfZjE5TlAzY1k5UWwwemhTM25QVnFwUlRhVm5oQzljR2lOMWhmWEVncFFWMjVUS05DQzhfZTEw?oc=5",
+    "published_at": "2026-06-04T04:39:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:43Z",
+    "updated_at": "2026-06-04T11:36:43Z"
+  },
+  {
+    "id": "8d58aa1a8a8bcf75",
+    "leader_name": "新西兰",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "新西兰总理本周访澳 将与澳总理举行年度领导人会晤 SKYKIWI",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhWTZYMnkwX2h5cGhPNDE2clNzRjl3a1dWTGR1c2w4MkdSMVdyWmY3U21MbTFsS2dlR1VROUJLRWVadDR2MVZpOWFPcE0wanNLa21ndVh1Zk5zVXZIZFJZVDZyOHg?oc=5",
+    "published_at": "2026-06-04T04:14:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:45Z",
+    "updated_at": "2026-06-04T11:36:45Z"
+  },
+  {
+    "id": "99018e66a6b51fa4",
+    "leader_name": "Samia Suluhu Hassan is",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-03",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Tanzanian President Samia Suluhu Hassan is currently on a three-day state visit to Russia. Invited by President Vladimir Putin, she arrived in Moscow to hold high-level bilateral talks at the Kremlin. facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY3cxSjRWeS1KWVJ4eG9WY0pranRtWE1sRFVCb1BjUzlLTWJTXzNpREJxTHhaYlRCUUh0MHBTYnlLc0FLdlF5SWdxSGk4Z09MLWdyb2lZYWRUeTJibXVpTGFFRE10ZkxBWF9TZVVtV0owbzBQUnAyV2RsdVBsVW9iSDR3em9ycjJBdHNnWGhhdl9EblFUWmdBZ0FnLTU1RjRaSTRPdk5LelJoQ09ZRzFlNUdHekJsdjhCdHNIYmJvaUVacm1oLWplRlNqMlM2akxwWmg4eVBOZDltNmR1VDktZTdNSQ?oc=5",
+    "published_at": "2026-06-03T19:23:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:43Z",
+    "updated_at": "2026-06-04T11:36:43Z"
+  },
+  {
     "id": "71d1d9704ea7d4c1",
     "leader_name": "William Ruto",
     "leader_title": "President",
@@ -16,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "9e5b42d920a7b91e",
@@ -35,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "2a7c4b297ee0a00b",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "69f069f3adda449f",
@@ -73,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:07Z"
+    "updated_at": "2026-06-04T11:36:45Z"
   },
   {
     "id": "b99b71b7b6ba8b9f",
@@ -92,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "2bd7cd6b3637d4f7",
@@ -111,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "ef80344a2cccb161",
@@ -149,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:04Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "8895bd815f0e0fe6",
@@ -206,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-03T18:09:06Z",
-    "updated_at": "2026-06-03T18:09:06Z"
+    "updated_at": "2026-06-04T11:36:45Z"
   },
   {
     "id": "e2f8f68f24e12139",
@@ -247,6 +342,25 @@
     "updated_at": "2026-06-03T18:09:06Z"
   },
   {
+    "id": "a82a721e5a1f6637",
+    "leader_name": "Thongloun Sisoulith",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-02",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "China-Laos Ties: Lao President Thongloun Sisoulith arrives in China for state visit from June 2-6 news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sc3c3TUJidVRmQVdsTWFXSFFjUEo5SU9IekVxeEVCOHNiN0ptS2VYRnpTWmp1NnZLUTVULW1TU0xWYjZxdlNlaUY0TUR2UUpBZUthV3lGLVhVT0VqLVItRXNKbFpSalpDWHAyUWFKQmdkTDZETlJSSA?oc=5",
+    "published_at": "2026-06-02T14:00:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-04T11:36:43Z",
+    "updated_at": "2026-06-04T11:36:43Z"
+  },
+  {
     "id": "f556805e6756203b",
     "leader_name": "",
     "leader_title": "prime minister",
@@ -263,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T12:59:27Z",
-    "updated_at": "2026-06-03T18:09:06Z"
+    "updated_at": "2026-06-04T11:36:45Z"
   },
   {
     "id": "b20b2a174ab74cb1",
@@ -282,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T12:59:27Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "a19bd72f1be3d22a",
@@ -415,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T12:59:27Z",
-    "updated_at": "2026-06-03T18:09:04Z"
+    "updated_at": "2026-06-04T11:36:43Z"
   },
   {
     "id": "6f00ec724d3462d5",
