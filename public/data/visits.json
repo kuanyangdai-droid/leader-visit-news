@@ -1,5 +1,157 @@
 [
   {
+    "id": "b44e130418e60659",
+    "leader_name": "Mahama",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-06",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Mahama on a state visit to Belarus Ghana Business News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWR6bjJKOF9kc09oZ3BDRmFvMnVJRHFKby1oNGVWSGNkSUJXWkUtRVNZUXFPNDRGQmpEWDZpT0lHR3hKQTZ0SDA5ZzZpd2xaZ21OcDZjYklJZ3JfZ0Yybk5OQTFVbENMY0lfYVREQmkxZGpHcUlSSTBQMXBVRzJzTXIwbXl5MlR4bnJSZUVteGR2N3pt?oc=5",
+    "published_at": "2026-06-06T09:08:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
+    "id": "0503283f41372a9a",
+    "leader_name": "William Ruto",
+    "leader_title": "",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-06",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "South Africa lifts duties on Kenyan tea, coffee after Ruto state visit the-star.co.ke",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHN1NWZmTDBILVdqVlhaYmF5aGRhREd1UzlvV1ZKZE9BWklQck9uSzFxMld3dVp6Ti02QXZLSEJfNnVyQm5TT1lWYlVkOVUwRU9rOG9LT1JTa2hyd01SMzFzUUZybU5KODgtZERhX2JkUEtqYUVhVE9CRkg0WWktdEJRekJUMmZZVTdqQTFXUGxvOEZ1RmdINGppTkJLUHliNnNlTk1oa1psZlVLRjdxMlFn?oc=5",
+    "published_at": "2026-06-06T04:15:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
+    "id": "e9c789e88a0f5744",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-06",
+    "event_type": "other",
+    "destination": "",
+    "summary": "习近平今年首次出国访问，目的地是平壤 华尔街日报中文网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnk3dG9LOFAyRDVzX3NwOWZzM2NzQ1dIQkJscFY2Tm9OWDVKQkpnZzFmWGNqcFZZeFQ4Z0tnTkFvQUxyazVOYkpMX1hSRndRcFFpaU8xRUxhbWtobzktQlFHX0I4UFkwR2FucW5LNjU0dFpqa2dzdkFyUzBIMS1NSFR0aWJMWVdWYzBJNU5FWWxOWkNwakFZc3VHWDJBYmJYY01F?oc=5",
+    "published_at": "2026-06-06T01:36:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:54Z",
+    "updated_at": "2026-06-06T09:13:54Z"
+  },
+  {
+    "id": "42147c26e7b2b7f7",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-06",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Greek State Visit to France The Royal Watcher",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mQlE4V2NJRUFoMnJPdGM1VXg0RU9xZzNtclQ3cjFlRlE2WWJLdXo3eTViX01yNDVSQW5nVi1aZVJUcW5qakxXNGtpVGdoWVVVdWNkOEw0dEFmRVB6ZFBiQmcyTXNaanhwd29TUGRySDJRdjNpSHFWZnNIOA?oc=5",
+    "published_at": "2026-06-06T00:01:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:54Z"
+  },
+  {
+    "id": "7333b1220ef0c3cf",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-05",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Working visit to Russia concludes president.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Zb1lwYmtwVkRTYkpDOFlpcHVGR21NZExBSFBXX0EtWkJZX1ByYl9xaFBkTHFhVmNpVmh5dUZxX1prRUtmeGd0OVl0LWJYNFZR?oc=5",
+    "published_at": "2026-06-05T20:50:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
+    "id": "51fed1dcf50148b3",
+    "leader_name": "John Dramani Mahama has",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President John Dramani Mahama has arrived in Minsk to begin a state visit to the Republic of Belarus Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94b0tFQnJoWFJheUR1TzMwVk5leWhuS19rT2FQSVZFTmhWVlZrN3JJWHRPdk9XQ0JmcmRjVjdoTW9zN2tCMGo5ZDNuemNYT1g1ZFFPMHdlcUV6X1Bi0gFcQVVfeXFMT3hvS0VCcmhYUmF5RHVPMzBWTmV5aG5LX2tPYVBJVkVOaFZWVms3cklYdE92T1dDQmZyZGNWN2hNb3M3a0IwajlkM256Y1hPWDVkUU8wd2VxRXpfUGI?oc=5",
+    "published_at": "2026-06-05T20:44:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
+    "id": "d41aa4844a010e8c",
+    "leader_name": "John Mahama",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President John Mahama Arrives in Belarus for Official State Visit Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wSlpkVVZGTjQ2Zk9MdzZYaktQX1dtY1FzUGotcTFYblBSdEFpaVEyOElBWUFWWFY4TmpqWUwzLW5QNzU2NkN3bUVKQnhZa19hYlBKd0ZiRUFYVklu0gFcQVVfeXFMTzBKWmRVVkZONDZmT0x3NlhqS1BfV21jUXNQai1xMVhuUFJ0QWlpUTI4SUFZQVZYVjhOampZTDMtblA3NTY2Q3dtRUpCeFlrX2FiUEp3RmJFQVhWSW4?oc=5",
+    "published_at": "2026-06-05T20:44:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
+    "id": "60e0e6f8609e1da8",
+    "leader_name": "William Ruto",
+    "leader_title": "President",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Geopolitical Differences Take a Backseat during President Ruto’s State Visit to South Africa Vellum Kenya",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXd0VXRRZDl2WUNwU1VnVFRwLWctbzdGNmtlbVhob1d4OWF1MUMxSTd3dkNZNzlRY3F4cFZHY281WUlIN0locXlhQzIxYkJ3ZWVwYWhKdGVRQ1JtYXdFc244ejZDS2dnZVdQU3IzZldpekZGbVJmVlpWZVNWbmRJZ1BLcG44SjBCNHFuV09vbHVtc09OaGRMSWdFQ25zVnlvbnRCbWNpZXRaczlGNE9JR3R6Zw?oc=5",
+    "published_at": "2026-06-05T18:16:16Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
     "id": "6e8cb429bb1b3340",
     "leader_name": "",
     "leader_title": "Prime Minister",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-05T11:51:22Z"
+    "updated_at": "2026-06-06T09:13:54Z"
   },
   {
     "id": "7abdb65a6a0a270f",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-05T11:51:21Z"
+    "updated_at": "2026-06-06T09:13:52Z"
   },
   {
     "id": "e90057f0f5dd69e4",
@@ -57,23 +209,42 @@
     "updated_at": "2026-06-05T11:51:21Z"
   },
   {
+    "id": "bff7f1cc9dfb10ef",
+    "leader_name": "of Ukraine. All galleries",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "All galleries — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkpqd25sSS1MOHM1YVFDc2RNMzdzQ3hicVR6OU5xOVV5LTVSZXJoNUdqSXVGMlBhWGpnZUZ4bjFqTUg4c1h2QkVpUm5Xdlk4WkxXM1hXQ1hlQ1dzbVF4M1psYkljb2t6VExoUWxIWTBldTFQMVZkMFNRcS1iV282SWR3QnZzVlFjRVk2QTgtR1p2YVE?oc=5",
+    "published_at": "2026-06-05T03:30:20Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-06T09:13:52Z",
+    "updated_at": "2026-06-06T09:13:52Z"
+  },
+  {
     "id": "85b734c418e3114e",
     "leader_name": "习近平",
-    "leader_title": "",
+    "leader_title": "国家主席",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-06-05",
     "event_type": "other",
     "destination": "North Korea",
-    "summary": "中国领导人习近平下周访问朝鲜的行程已确定 OR新媒体",
+    "summary": "中国国家主席习近平时隔近七年访问朝鲜，将与金正恩会面 OR新媒体",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91MGtUa2RhS1lJLUlJb1ZSUjFPYk94bVBaQ3N6bUY4cWNZMVlYaHJmM25YR1JMbWVibEFXV2dHd0VveU5N?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1yeG5tRFJjSGFrem5RVWs2N1lWN0NQUFV4NGE2TVVnaFZBWGlxZlBqejd3Um1zME5oMC1rOVAwRWRrVXlS?oc=5",
     "published_at": "2026-06-05T03:29:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:22Z",
-    "updated_at": "2026-06-05T11:51:22Z"
+    "updated_at": "2026-06-06T09:13:54Z"
   },
   {
     "id": "d8346ca32ef7bd74",
@@ -130,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:22Z",
-    "updated_at": "2026-06-05T11:51:22Z"
+    "updated_at": "2026-06-06T09:13:54Z"
   },
   {
     "id": "26dccb039a0aace9",
@@ -149,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-05T11:51:21Z"
+    "updated_at": "2026-06-06T09:13:52Z"
   },
   {
     "id": "b1c1150edf997242",
@@ -168,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-05T11:51:21Z"
+    "updated_at": "2026-06-06T09:13:52Z"
   },
   {
     "id": "49787651d6b8b30b",
@@ -187,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-04T11:36:43Z",
-    "updated_at": "2026-06-05T11:51:21Z"
+    "updated_at": "2026-06-06T09:13:52Z"
   },
   {
     "id": "9c8ad6ce40b756cc",
@@ -206,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-04T11:36:43Z",
-    "updated_at": "2026-06-05T11:51:24Z"
+    "updated_at": "2026-06-06T09:13:55Z"
   },
   {
     "id": "3b3fde6fc2016035",
@@ -225,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-04T11:36:43Z",
-    "updated_at": "2026-06-05T11:51:21Z"
+    "updated_at": "2026-06-06T09:13:52Z"
   },
   {
     "id": "8d58aa1a8a8bcf75",
