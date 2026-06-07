@@ -1,5 +1,100 @@
 [
   {
+    "id": "4cd4c70ba072627b",
+    "leader_name": "Kashim Shettima",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-07",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Vice President Kashim Shettima On Working Visit To Ekiti Ekiti State Government",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxclRzZnlnckQ5aUVZNDM0Y1NSa1VwUi1YUW5VY1BCTUw3eDVLbGRPaXNab3c4dGFSOEpQRUxvZUk3NXNwSEFMVFNBMVNyV2xqUVh6Qm1iTQ?oc=5",
+    "published_at": "2026-06-07T08:43:46Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
+    "id": "0849bc981478465b",
+    "leader_name": "Murmu embarks",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Murmu embarks on state visit to Portugal & Slovakia from 7th April | Akashvani News News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29Nd25xZ1piNEl3TEtVOVdnSk5ZdnBZTnBYdjZ0b29lSVVzbVZWenAwT3BfZlNxUW1fU3l1RnRMbDZlVWZ2S3QwMUFfeW03MzFZUld0RWhFRTNNdklxYWZJdVdhNnNkY0wxT1Q3RmdNU3J2a0diOE81bFIzb3o3dDh1RU1yTm5qOHU4YmFKU0ZOaXJzRGdSQWxJWXhqZ1hnUUE?oc=5",
+    "published_at": "2026-06-07T07:19:19Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
+    "id": "ebea6286476f9a8d",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-07",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "MoFA Union Minister pays official visit to China Ministries of the President's Office",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBweF9kd2tNdERVTzBrS3RxemtEVGxSR3lzZGd1YnMxQ01FcDQydzNwcG8xNTFSeDk2QmFUWUVZeDduWjJ1c25CTTdaWlBlU0IwVlgweDZfbw?oc=5",
+    "published_at": "2026-06-07T04:01:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:39Z"
+  },
+  {
+    "id": "fbb611e99079e969",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-07",
+    "event_type": "other",
+    "destination": "North Korea",
+    "summary": "习近平访问朝鲜前夕 金正恩妹妹：核计划“绝对不容谈判” orientaldaily.com.my",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DSDJvLXJEWktqcENMRmZ0SXA5QUk0MGlDMzlqVm5Oakd4akdQdnhXX3FZUlRFQUpnR0ZhNWhoYldIaUpCeXBrR2pnM3hHanVKWGVYNmN1M1NWTllTbE1GVzlPLXhnTFlWa3BqTnBIc0hINXpiN3N4bQ?oc=5",
+    "published_at": "2026-06-07T01:28:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:39Z",
+    "updated_at": "2026-06-07T10:14:39Z"
+  },
+  {
+    "id": "35a0afc112a09f34",
+    "leader_name": "Seguro welcomed at the",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-06",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Portugal’s President Seguro welcomed at the Grand Ducal Palace Luxembourg Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0ZlVE8tekZMa1l6M3lWb3c5VjRQcjFrdk9rbWUyeGx2LUFXMkM3bGxoY1RkRjhUMGcwbzlxa014dnVZMVZ3RE1JSEVBa0U5ZURwUDdUeV9PalJES0NTUVBva3otMC1zTlFibG13N3ZkbE1iN3R6TjZtZXpjc2NvS2pjSkYzUHNXRmEzbHZSNFZvaWwxSTkybkZYblhrT040Y0ZWR3ZsdlJjTkhpWGhkUg?oc=5",
+    "published_at": "2026-06-06T21:09:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
     "id": "b44e130418e60659",
     "leader_name": "Mahama",
     "leader_title": "President",
@@ -16,7 +111,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:52Z",
-    "updated_at": "2026-06-06T09:13:52Z"
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
+    "id": "c55aa170dd7c7b36",
+    "leader_name": "Han Zheng",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-06",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Chinese Vice President Han Zheng arrives in Belarus on working visit BelTA News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDBrbWNUYS0zd0VGeW5xeGRsRldiZ2liWEthYjVtTDhhMTNISjcxallSalJyUzE4UFNQNk5nQWRRTUQ1anp1c1ptOWZJVi0zRzROQmo0eG45UGNzY084U3BCTEVSd2sxVFQ2eW1oYlJwenk5bVNLOTE2QUdmOWRfOFVEUXg3LTlpeXd0azVpS1pCeHFwek5ZdWVjNXhWVXhQYnVaZGxpdVAzelJWakwwU1NsX2N4d2s?oc=5",
+    "published_at": "2026-06-06T08:46:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
+    "id": "872c1e360c074a95",
+    "leader_name": "is",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-06",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "China’s vice president is in Belarus on working visit BelTA News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk80TGxFS2NLaXMyMnltaGNXSlBfZjU5MnQtMGxIYTBfN1ZQellINGNWM2tOOHIwWjZ6aUlEczZnMm9wMGd6RldXV05qWDV6RV9ta3A0VnY4U09FVHZvYnFGamxYMDZUOXNCX2g2emt2MWR5UjRLVkwtUjAtbWdydUl0RnNFdjVJU2VwYm5yMjFVMjJmY0Q5al9XUQ?oc=5",
+    "published_at": "2026-06-06T08:42:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "0503283f41372a9a",
@@ -46,34 +179,53 @@
     "origin_inferred": true,
     "visit_date": "2026-06-06",
     "event_type": "other",
-    "destination": "",
-    "summary": "习近平今年首次出国访问，目的地是平壤 华尔街日报中文网",
+    "destination": "North Korea",
+    "summary": "习近平将时隔七年访问朝鲜，他为何拉拢金正恩？ 文学城",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnk3dG9LOFAyRDVzX3NwOWZzM2NzQ1dIQkJscFY2Tm9OWDVKQkpnZzFmWGNqcFZZeFQ4Z0tnTkFvQUxyazVOYkpMX1hSRndRcFFpaU8xRUxhbWtobzktQlFHX0I4UFkwR2FucW5LNjU0dFpqa2dzdkFyUzBIMS1NSFR0aWJMWVdWYzBJNU5FWWxOWkNwakFZc3VHWDJBYmJYY01F?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yZEdkUkk2X1hsUm5QRzRDSXRIYVBwVjlNT21TZ0pldFptRE8zazFqLWpjRXJjY1RBdDRYNHMtdXI5VkU0Q0Jjd0N4dXNtWjUwQjB3WlhHcGtodXZvWDY4MkRIMmFXUzl0?oc=5",
     "published_at": "2026-06-06T01:36:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:54Z",
-    "updated_at": "2026-06-06T09:13:54Z"
+    "updated_at": "2026-06-07T10:14:39Z"
   },
   {
-    "id": "42147c26e7b2b7f7",
-    "leader_name": "",
-    "leader_title": "",
+    "id": "5184035cba90622d",
+    "leader_name": "John Mahama",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-06-06",
     "event_type": "state_visit",
     "destination": "",
-    "summary": "Greek State Visit to France The Royal Watcher",
+    "summary": "President John Mahama Arrives in Belarus for Official State Visit Modern Ghana",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mQlE4V2NJRUFoMnJPdGM1VXg0RU9xZzNtclQ3cjFlRlE2WWJLdXo3eTViX01yNDVSQW5nVi1aZVJUcW5qakxXNGtpVGdoWVVVdWNkOEw0dEFmRVB6ZFBiQmcyTXNaanhwd29TUGRySDJRdjNpSHFWZnNIOA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ec2FuV2c0VGpmamJYWHpzSDRzWUhKNzVpUXpJb0sxSVQwRVVzMk5IN1FGWlNGZ3pqQUJrYlE3ZWo0cjJySkJFemVCSnQwcFZ0dEtwSzBYcE4xMXBkSElDQlZGb9IBXEFVX3lxTE8wSlpkVVZGTjQ2Zk9MdzZYaktQX1dtY1FzUGotcTFYblBSdEFpaVEyOElBWUFWWFY4TmpqWUwzLW5QNzU2NkN3bUVKQnhZa19hYlBKd0ZiRUFYVklu?oc=5",
+    "published_at": "2026-06-06T00:28:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-07T10:14:38Z",
+    "updated_at": "2026-06-07T10:14:38Z"
+  },
+  {
+    "id": "42147c26e7b2b7f7",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-06-06",
+    "event_type": "other",
+    "destination": "",
+    "summary": "The Foreign Secretary Yvette Cooper has concluded her visit to two key world powers, China and India.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/foreign-secretary-completes-landmark-trip-to-china-and-india-to-bolster-uk-security",
     "published_at": "2026-06-06T00:01:00Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:52Z",
-    "updated_at": "2026-06-06T09:13:54Z"
+    "updated_at": "2026-06-07T10:14:41Z"
   },
   {
     "id": "7333b1220ef0c3cf",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:52Z",
-    "updated_at": "2026-06-06T09:13:52Z"
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "d41aa4844a010e8c",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:52Z",
-    "updated_at": "2026-06-06T09:13:52Z"
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "60e0e6f8609e1da8",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-06T09:13:52Z",
-    "updated_at": "2026-06-06T09:13:52Z"
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "6e8cb429bb1b3340",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-06T09:13:54Z"
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "7abdb65a6a0a270f",
@@ -187,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:21Z",
-    "updated_at": "2026-06-06T09:13:52Z"
+    "updated_at": "2026-06-07T10:14:38Z"
   },
   {
     "id": "e90057f0f5dd69e4",
@@ -244,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-05T11:51:22Z",
-    "updated_at": "2026-06-06T09:13:54Z"
+    "updated_at": "2026-06-07T10:14:39Z"
   },
   {
     "id": "d8346ca32ef7bd74",
@@ -377,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-04T11:36:43Z",
-    "updated_at": "2026-06-06T09:13:55Z"
+    "updated_at": "2026-06-07T10:14:41Z"
   },
   {
     "id": "3b3fde6fc2016035",
