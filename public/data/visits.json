@@ -1,5 +1,157 @@
 [
   {
+    "id": "38c58c309d60d69b",
+    "leader_name": "Samia hosts Singapore President",
+    "leader_title": "President",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-06-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Samia hosts Singapore President in first-ever state visit ippmedia.co.tz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRjNKdU9maGhGOUdyYklvNUZ6NnZ1eExCYk52aUhTTWdHMlo0WThHSXFzYnlvZ1p5dFlIeEY1YkRaS3hudnN2ejN0UHB1M0w1TlA5UXFScDY0MEZlNTJ6WXA5OFJXcDE3UnBqV1B2Wml6a1pVWnYtUFU2emdlYmJ0S0NIT3EwRkhyUGhnRHMwTUd2VEZmRGY5b2padHAxeWR6d2VCOUtOUDhoeXJsU0Vsa0l4LTY4OVh1aXJwbG90NHhQQ195MTJ1VDhNbzI0RzRPNWVGdzRKYzFQdw?oc=5",
+    "published_at": "2026-06-09T11:06:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "9363b0ce7388a2ef",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Significance of Chinese President Xi Jinping's state visit to DPRK Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mNGVfMFd1TW1sQTh4dHJ6TmsxNC01NkpLdTVjZm9mUUxlLXdZay1uNFdZV3oxMThWVmxCSmdhb0laMS1ma0s5WEt6NzBzZWRaZEVpcmhmNXNaOGdUYjhSbzZR0gFcQVVfeXFMTXF2eWQ2a2RZT2NOT19Ic2ZLdklyN3ctdDBGVFlwV0MybUxOQ1lnV0ZqdHZaWm1xb3d2azZNNTA5blctNUJ6ZjB5WUMtRWZoLTQyN1VsSmE5NUJ3RHM?oc=5",
+    "published_at": "2026-06-09T09:32:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "c68c2a0a708dbc2a",
+    "leader_name": "tipped",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "King tipped for Ukraine State Visit as President Zelensky prepares invitation AOL.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCb0tKNGJoQVczM3drYTRuLUZPODhHQXZTdzVzUFY1WDk0QVUwaVp5WER2bm5POFZjOEFFZy0wMGhXdGg2ZWZpc2pTdDRiMjJQcVQ2UmdZMFRZWGJ5aHVlQlA2TFVKV2JDa3ltN0YtNmEtLUt1dVNvTU4zVQ?oc=5",
+    "published_at": "2026-06-09T02:05:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "f7a45758b1b1a0c2",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "就中朝关系发展达重要共识中国领导人结束访问返京｜即时新闻｜中港台｜on.cc东网 on.cc東網",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0Jjc0ZGVW5TWXM3dU5oLW02ZVFsYU5DdkJzU2VKRXoxTEZZVHdSYXZ4OUNpTDZJS0h1V2paaUhRRmo1YjIxeVJ6eld5YVVhck4zR2FPLUNBLTVpYWU1bnctM3BJU2pFMFA0MklHN0cxQ3FHREpGMVg0eUJiQWtLUF9zUmdabmd6ekY5cDRkR0FUU3hKUHhsVlBLM2M?oc=5",
+    "published_at": "2026-06-09T00:07:41Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:15Z"
+  },
+  {
+    "id": "a2624fff688b7765",
+    "leader_name": "of Angola",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-08",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Angola arrives on official visit to Serbia Влада Републике Србије",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2thNUdIUlhLSVhRQUx1TUVrdm45N0EwemdKeXBiX095VXFGZGhXcjVNdWtVUENLNFAyOU5XRGVGSFk5eDhVc3pXdTEtQkhzdlVua2o0U19fZVczOWV2dk1OX0llQ3RkWklVLUQyeVU5NnZlbHFxMVp0MGc5VExwaTBydFYwQmRfNjlfYmg2NjRNa2JHTHhQMzUzRkFvemlxcmc?oc=5",
+    "published_at": "2026-06-08T20:25:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "675c293b702d5e23",
+    "leader_name": "of Ukraine. Photos",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-08",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Photos: Foreign visits — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0dNZmo2eF8zUUtEZHpLdWlJYllMMEIyQVRjUEFmS2lBVG5rSFFJanhnLXo4SGNyQ05kQ3A4TF85eV9VY2dwX1dZRkV3RTlGWWVLdy0wU2xvWkJQYmhELU9YeGxObHZHbHRPZVE3OG1lWUxVc3pNZmxQVTdIRE1TV1UzWVhNaXpBcmtOOTFHNnJkcGVZZTRwZmNfS0ZzVHhOUUE?oc=5",
+    "published_at": "2026-06-08T18:31:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "b043d11fe1c4d10c",
+    "leader_name": "of Ukraine. All galleries",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-08",
+    "event_type": "other",
+    "destination": "",
+    "summary": "All galleries — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3Q2cjA4VEwxaVBxTkM4N0d3WmlBQldNNzJXM0ZobVFXa0ZvTlN1Sk5iUUhZMW4yb3M0bU1Yd2JwaGQ4T1JmR3QtSW9IMUxKWVExbFNyWE1wdlZPT2huSmtHY1ZpNFpXdVR4c2NhaFNqRnlzYUxscWVtNlpqNTN6QWtKX2hVVG9Jc2V3bm8zYkZkZ1U?oc=5",
+    "published_at": "2026-06-08T17:34:28Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
+    "id": "5ae639c44922ce66",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-08",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Vietnamese delegation embarks on working visit to Azerbaijan Azərtac",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnIxR0s3Um5Za2tzZmRiQURQbDVwcy1qYWVxY09VYWNkcEZXeDktZVVHZGRHcjFaTldqcHN4OTJJeFdhYnhiWVdQNFJmU0NkWFNKMHd3M1dRejZvaEl4NWZZMXVHdlNIdy1iampzMkhjU3FDN1RkalNQVTVWSDZqQnAzOXdEeGVtSTl0NWdfd2VKUUY5ZVBJQzlKZUQ?oc=5",
+    "published_at": "2026-06-08T15:29:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
     "id": "32d046fe55f83e0d",
     "leader_name": "习近平",
     "leader_title": "",
@@ -16,7 +168,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:14Z",
-    "updated_at": "2026-06-08T14:41:14Z"
+    "updated_at": "2026-06-09T11:44:15Z"
   },
   {
     "id": "c9a83d361ccd708a",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:13Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "c0d08ef9a062e516",
@@ -57,6 +209,25 @@
     "updated_at": "2026-06-08T14:41:14Z"
   },
   {
+    "id": "fb6616e3fd06ac6b",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-08",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Jakarta prepares for Modi’s July state visit to Indonesia at New Delhi talks The Jakarta Post",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanF2Ri1qVW1qbjNWMURWS2JaVjEzS1k3cHNRZ3NhclFyTUxKc2dNQ2RESW9laEc3TmdQZzNCRl9pb2M0VEpWMy10M2lkN2JXVVk5UHE2WFdQWExacmVGVW84eGZDakRBT3JpS0lpN1ZyRmZMdWZmVVBkYjJlTDlTNzNTRXZ1VGZHeDZsZ3VoQWZkSjB1djNSdXk3RTBIWDhuRFlMZGRKNXg1NG10emllajJtS3VsdV8tc1ZyT19MdHY?oc=5",
+    "published_at": "2026-06-08T10:17:05Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-09T11:44:14Z",
+    "updated_at": "2026-06-09T11:44:14Z"
+  },
+  {
     "id": "c45231411a682a5d",
     "leader_name": "Xi Jinping",
     "leader_title": "President",
@@ -73,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:13Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "3813d17a4e4b62bd",
@@ -130,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:13Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "7746a7ea83e613f1",
@@ -149,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:14Z"
+    "updated_at": "2026-06-09T11:44:15Z"
   },
   {
     "id": "7d80ba031af675e9",
@@ -168,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:13Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "7e61e990dc9c1153",
@@ -187,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-08T14:41:13Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "2719a2ce82c2c380",
@@ -206,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:14Z",
-    "updated_at": "2026-06-08T14:41:14Z"
+    "updated_at": "2026-06-09T11:44:15Z"
   },
   {
     "id": "054997c163705b51",
@@ -282,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-07T10:14:38Z",
-    "updated_at": "2026-06-08T14:41:14Z"
+    "updated_at": "2026-06-09T11:44:14Z"
   },
   {
     "id": "fbb611e99079e969",
