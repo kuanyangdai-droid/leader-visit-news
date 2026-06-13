@@ -1,5 +1,138 @@
 [
   {
+    "id": "4b55f63bdc37a4d1",
+    "leader_name": "Narendra Modi",
+    "leader_title": "Prime Minister",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-13",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Indian Prime Minister Modi begins official visit to France, Slovakia Anadolu Ajansı",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOU8yUmw0QlE3azhTN2FxZ25lMmlxWXI5Yl9lcUVYWWVBdWk3a2JpVExOSmdyVURPUk8zU193SWd4TWxLMjFYbThISEwzV2Z3LTVDSHV0c1ZXLS13WDZMejMxR01TNXlVMEpKSlFvNURUdmd4ci1ocWFtUXFiaTZSZzBJWkx3ZmZfalZ3TVZsZXdTalcxR20zZndfT1Nhd0t3YVpzQ3Q2YVVHck5fb2szM0Q1bw?oc=5",
+    "published_at": "2026-06-13T07:48:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "0ee94c8ea6ce4dbf",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-13",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "(Lead) Belarusian president begins official visit to N Korea: report MSN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTzd3al96dU4wM0NVWVIzSDhRVWJ3QmxaQ1F3M3hDMXpQbDFSR1dNdXhIUDhyYlR0ZzQ3ZVJSVmNiZmtsYWFkRmdkclJDSTB2MGRQTmZjbEdHeUVGVmhKcHlabHY2V2hscjNPNUhIcldHUnoxMllxNDBuU2FOaVBRMG5YWktscGYzMmdFeG0tSkJyVzFxM1hKT1JGLUVGWElwTHlXLVFsekpfWUVqRzI2WWUwakZxVk5pcExzMUtzRlMxeEJEM2syWnl0WUdKdm43aV85LXc0cjN3OUN1TjZFLUdTa1ZBRVk?oc=5",
+    "published_at": "2026-06-13T02:10:32Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "fc53eb042b4628f8",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-13",
+    "event_type": "state_visit",
+    "destination": "North Korea",
+    "summary": "朝鲜媒体高度评价习近平总书记国事访问重大意义 hzsc.com.cn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01NFZEeVhaT2ZfMTRISWx2dzVvd3g5WU82T3dWRGxqbC1QSS1YbFdmckRrQTNIVUJ6UHRCR0pmU2VKU3pmSUJtbDNZYnFjLWhzczE0WmtUbVMtSXk5TFNyN0NB?oc=5",
+    "published_at": "2026-06-13T01:09:13Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:36Z",
+    "updated_at": "2026-06-13T10:13:36Z"
+  },
+  {
+    "id": "4a08d2cfeabb64da",
+    "leader_name": "Lee Jae Myung",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Lee Jae Myung, who is on a state visit to Italy, said on the 12th (local time), \"Korea and.. 매일경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQkZ1YXZQRnZFWmM1b1RVdTlKMk5zdl90S0E5dmtLTGg0ZnN3TzRqVE5aVzFhS1JpZ3VQUjAyMGoxRmRRQnktekNrX1N0TkstbHpF?oc=5",
+    "published_at": "2026-06-12T19:16:28Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "00a483edfde0f7b5",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-12",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Lee, Italian PM Elevate Ties to Special Strategic Partnership 조선일보",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2tEN3U3RUxOOUphVXdKWlVldTlNbllNT0VUcXMwT20yUUhkTzMxRkJGNjBVQ2E3cVd6M0lJeTdleXl4WHkzNjRsUVhkUHNjTVVCQTFVTjByZk9FajJ1cTVtYktiSXJ1anc4Rm91dWRTanJ4YTdGYnZEMkFsMGpwallMZk51cnJa?oc=5",
+    "published_at": "2026-06-12T16:19:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "42975c93334c37f9",
+    "leader_name": "Tebboune",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-12",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Assigned by President Tebboune, Rector of Great Mosque of Algiers to pay official visit to UK aps.dz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY1d3Rk0tNWJkUjVCUl95RloyMGtSVjVycGd1aVFWaFNIS09PTzE4VGpkcmdESWpia0xseWpkd3g1Z1NvMXNUZTZJVlZvbmp4NzJlUDZidEl4QXc4c3E2WUQtcFhaVDN0WnlYaDk5bm5qT2NSY0lhMm9Fbm1SbzBaTDhucFp5WVpjM1FjNW1SelFabUJjUmdnRkhwUkwxcGt3Yzh5VlozWl9DblJwSDhyaFlqZnhLZHhwRkxwRkQ3YnVpcW5MQkEyb25JY1BPWmlKSnNYRTVVYkplWTFNNVE?oc=5",
+    "published_at": "2026-06-12T15:11:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "05d5a2d2b2142227",
+    "leader_name": "Beijing says Myanmar",
+    "leader_title": "president",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-06-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "China-Myanmar Ties: Beijing says Myanmar president's state visit to boost traditional ties news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2cXNzZXVSX1NsYnJfbS1UaGZVSkpZSHFZSVFMY0VJa3RSQkxvYVhfR19zcFI2TnpzNnlEcHFmQnlwd3pTQlVOa1lyUjV1eXlPVUdIOWJQQkstM3pteVlGUnJoMkRfZUUxeDh5MXBfNkxIcVRYdThURg?oc=5",
+    "published_at": "2026-06-12T13:43:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:35Z",
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
     "id": "30ba9b4304a661ab",
     "leader_name": "says Georgian premier",
     "leader_title": "president",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
   },
   {
     "id": "cc2f00cb5df8bea6",
@@ -54,7 +187,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:36Z"
+  },
+  {
+    "id": "63d08ef2b1b8ffdc",
+    "leader_name": "日本",
+    "leader_title": "首相",
+    "country": "Japan",
+    "origin": "Tokyo",
+    "origin_inferred": true,
+    "visit_date": "2026-06-12",
+    "event_type": "other",
+    "destination": "",
+    "summary": "日本首相访问欧洲各国 参加G7峰会 - 法国国际广播电台 茉莉花新闻网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTU1aT1k0Rm1pX2dZc25Zc3N4amxGLTBGcy0wZGJkdDJrUHhTQnlrQVVvcnhIb3FUOGJBQ3c5U3EzZlRybEdSVFdJRVNWMXhOOTRqaVA0S3hiTkRhQnQxT3FJTGdqNTBsZzd2OGRlRFNpMVhVMi1qWVlPdU8yc0FrUzNxa19VMjRzVnhqRFRDb0VmeGg5TVAyb1p2THJLTkNlV09NRTh3ZF9oSDRtUVZTQ2x6WmVYMVZyUndrRzJpNVBXeEZ5Z3ctWXpabU8wQkoxa0t4Y2dWdXhTS0xFWmpJVjJvcVdCX2lXQnUxX2dKUHlVQzhsdjRXNDUyMXhGcnlzYXRtWGVsZzBfTXZyLXJMclNWaTFOTUZNSWJvQm9WN0lJSmJTbl9PblIzNVhOZw?oc=5",
+    "published_at": "2026-06-12T07:45:39Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:36Z",
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "48327a9bf4699674",
@@ -65,15 +217,15 @@
     "origin_inferred": true,
     "visit_date": "2026-06-12",
     "event_type": "state_visit",
-    "destination": "",
-    "summary": "Myanmar’s President Min Aung Hlaing to Pay a State Visit to China Global Times",
-    "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zZ0dxSHQtZXNBY0c5b1Zpako5YXFLVEF6V3ZWa3JQbFB0ME00Q1dmMmZEME9TZjRCYVV3bXBTbUxMVzVLWmRjOUJmcXdRa0FaWGI2NllhZHRQN19YU2IyVkpB?oc=5",
+    "destination": "Myanmar",
+    "summary": "缅甸总统敏昂莱将对中国进行国事访问 Shangbao Indonesia",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1YwSmZjTEI5NkZSWUJXOVp6SXM4X0JBZ3Z5MC1renc2Wnl5WVhMWWlVRnFZd01vam1OMGI2RW1QdW9pNFpQWTNJQ2MtcXExWFZsMzQ2U1dNSjZzMkhYMVdlbjZJdnNxUlBRR0xhUHItZEZjZWZQeEFsOFRXY1NBTXNSRlo4UQ?oc=5",
     "published_at": "2026-06-12T07:06:00Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "dc8a6f43c9dc587e",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
   },
   {
     "id": "428859035d6c6310",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:04Z",
-    "updated_at": "2026-06-12T12:39:04Z"
+    "updated_at": "2026-06-13T10:13:38Z"
   },
   {
     "id": "f37c43ab29b1c24f",
@@ -130,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:02Z",
-    "updated_at": "2026-06-12T12:39:02Z"
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "aa74d0bac7d0fc5e",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
   },
   {
     "id": "cd3d3f543665d590",
@@ -225,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:04Z",
-    "updated_at": "2026-06-12T12:39:04Z"
+    "updated_at": "2026-06-13T10:13:38Z"
   },
   {
     "id": "dbc4b1981bfc7bee",
@@ -244,26 +396,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
+  },
+  {
+    "id": "71c9fd373038cf91",
+    "leader_name": "李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-11",
+    "event_type": "other",
+    "destination": "",
+    "summary": "李在明总统：韩伊关系升级为特别战略伙伴关系，扩大AI、军工和太空合作 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LdElxYUZ4c2xRd2tkZ2lSelp4U3NuS1hpb3c3MTN3QTJVWUZUZnhJVkF3MzQza3dqTkZMVk05cnIwX3dGNVFGZWJSY3lrdm5rNFhWeUVHZXhubm8?oc=5",
+    "published_at": "2026-06-11T12:21:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-13T10:13:36Z",
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "203247b459d9695e",
     "leader_name": "王毅",
-    "leader_title": "",
+    "leader_title": "外长",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-06-11",
     "event_type": "other",
     "destination": "",
-    "summary": "王毅将访问蒙古国 Shangbao Indonesia",
+    "summary": "王毅外长将访问蒙古国，外交部进一步介绍此访安排 新浪财经",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVpEem9zazc4YjVYY3RkMTdoMGdibjcxWVNlWXluZ0dpcFp6Y1ZKT2FwRTN3YkVYc01HSkFDWkVKaFVmS2ZHdjA5Q1gwbnpnWVczWDNHOGVRc2ZTUXhFUWU4bE1jTmVER0ZUbzFxNUw0Y25fUHozWHJYTUdkVjRKQjNRbnRNdw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tRERfUmMxMWRTeE1rNy13YnMwejJ3YnQ2eWg3Vi0wdk5mTV9HQWFwQ1VBcHBmVDFZeHR4ZGtLbjFGbTRFdzY3LVBWa3pEZU9YSFBEa2hHMWZsOWxPdWxxcVlBYjNJWkpBdjVHZzdGTnNMM09GMnV0NQ?oc=5",
     "published_at": "2026-06-11T11:38:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:02Z",
-    "updated_at": "2026-06-12T12:39:02Z"
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "a6ca11b7322aa5ad",
@@ -282,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-11T13:04:54Z",
-    "updated_at": "2026-06-12T12:39:04Z"
+    "updated_at": "2026-06-13T10:13:38Z"
   },
   {
     "id": "3849eb5751bfd35e",
@@ -301,7 +472,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:01Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
   },
   {
     "id": "feab52c46356f8b1",
@@ -320,7 +491,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-11T13:04:50Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "c5fcde4acf7bbc9b",
@@ -358,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-11T13:04:50Z",
-    "updated_at": "2026-06-12T12:39:01Z"
+    "updated_at": "2026-06-13T10:13:35Z"
   },
   {
     "id": "1b147975fbcea571",
@@ -377,7 +548,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-11T13:04:52Z",
-    "updated_at": "2026-06-12T12:39:02Z"
+    "updated_at": "2026-06-13T10:13:36Z"
   },
   {
     "id": "1bc16737f134c0de",
