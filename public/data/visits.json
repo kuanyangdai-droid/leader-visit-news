@@ -1,5 +1,195 @@
 [
   {
+    "id": "19a5db3805025bdf",
+    "leader_name": "at the Annual Security",
+    "leader_title": "king",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-06-17",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "Speaking at the Annual Security Review Conference (ASRC), Director of Defence and International Security, Ben Fender, reconfirms support for Ukraine, condemnation for Russia’s war and looks ahead to the UK simultaneously chairing two key OSCE security forums later this year.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/speeches/osce-remains-vital-to-tell-truths-and-hold-each-other-to-account-uk-statement-to-the-osce",
+    "published_at": "2026-06-17T12:12:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:04Z",
+    "updated_at": "2026-06-17T13:02:04Z"
+  },
+  {
+    "id": "e07fca2f82ee2c1c",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-17",
+    "event_type": "official_visit",
+    "destination": "France",
+    "summary": "PM Modi to arrive in Paris this evening during official visit to France Newsonair",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3pMTFQ3WU12VTFDSk15TDNvOGFWaVBwb0hSTTJVd3E0Wjd1SDE5dVBmOTJzUDJmdmxFanB0aG1VRFF1Q24zRDNpX01yTTlUV2owTDNyOE5GdkM2RWNJQ1lQenhma2dNbENLbk56R0l2M1hSNjRQaHZsVWJLb1BTeFRPbHpQbjIzX0dmbTRBaFJUOHRnU2g1SldLbm5WZw?oc=5",
+    "published_at": "2026-06-17T07:47:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:01Z"
+  },
+  {
+    "id": "6047b885b9d5ea07",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-17",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Adylbek Kasymaliev will make a working visit to the Russian Federation open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUNtbTRfeGl4WFNaOUc4cEdnRG9iM19ldm9wOHg2bHN5NldEZmdxam83QmhzaVJUT3BaQ2JiZF9YcmpqODNveXJvemdpR1AwVFRPVXJBclVjdHdMMTE1V1l3STZJVE41Mk1uMHpvcWVncGZiRmVKOTR2VmNQN3BPZ1ZnRUMzWUdPa1l0TnZSRjJkTDdxMV9ZaWp4bC1ZYnhUQjN6Umh4QmQtSzFPbWNjdTVjSmc?oc=5",
+    "published_at": "2026-06-17T05:27:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:01Z"
+  },
+  {
+    "id": "612a4cd1679ab2d0",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-17",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister arrives in Kazan, beginning official visit to Russia VOV World",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRERoV0tHdVhNdzE4UGpZNzdOMHljQ082VnIwMkNNb1FtR1p0LUxQRU15ZWo2X0JyLVdrSmpVdXJnSVR0eTY0RF9WRFg3aloySUJRMHhTcDFpcUdFWjVoTjgwd1ZzSkpLd0pqTUY5ZVFVck9PWmwwdm9yU2hRVlY0Yk5TTHdTQ1J0Qkp1TUxsRmkwMVhvWUFCemVJN1o5QjhtNnBPTGoyUQ?oc=5",
+    "published_at": "2026-06-17T02:27:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:03Z"
+  },
+  {
+    "id": "f5d5c4ebc1324c87",
+    "leader_name": "of Turkmenistan arrived",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-17",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Turkmenistan arrived in Mongolia on state visit Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOOGo1TUlyeHJJZE95ZTg1WnNILU5Jd1lFbHNRaWZvWUVuN3E5SWNDOG0zZ016OE5QQ0ZLS3ZmODdsNGF2Yjh5WDNyQWxGemEwYnVlUXBid3NSSzRtci1DbGVlZDVrOUFyUm5WQVpNbElJUnBsMW9Dak5RcVpLWk1ZRVppMGIwM3NQWEh2NlRscmJFbl9UUE5heDNNa0VEdzM0MjBoYmt3dVNQTXd6MzB3VHY0aGt6YVlBVGlWYUZLa0VMR3p6eFFDeHlqU2RqZ25sa2NibDJ4ejdLWEFWWDVBb3VGUDYtY2tLSnY3X2QxcnVKX3FRYUdONkRZMU1Lc2Zlc29YYlAyT2ZXaUVrUEp2RXZCLVByMjQyRWlNUDZPOU1MZUNJaHN0SXJVR1ducm9RNm5KSg?oc=5",
+    "published_at": "2026-06-17T00:56:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:01Z"
+  },
+  {
+    "id": "d2ff016548de13ba",
+    "leader_name": "政府",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-17",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "政府总理黎明兴会见鞑靼斯坦共和国领导人明尼哈诺夫 越南人民报网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CX1FpOE81YzA4cEtld2hHSHUtYk9mWUp4Z1pwN19Fd2FsLU1FV01PR2lNOFh3by02X0Z5UUdyYVRWQ0VLRWxuLTNtUUxhVGpGbWtQd21MWUw?oc=5",
+    "published_at": "2026-06-17T00:55:05Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:03Z",
+    "updated_at": "2026-06-17T13:02:03Z"
+  },
+  {
+    "id": "4472b8a125c77671",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-17",
+    "event_type": "other",
+    "destination": "North Korea",
+    "summary": "“习近平访问朝鲜是外交胜利”，首脑会晤后下令采取后续措施 DailyNK",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSnQtNVZ0VG04czRsSUxqR1VxM0U5eExhUzZIWkdsUlRsOTM3TXdSQjRIY3RhRF95X3dFZExZdVJ5WFJHVkctQ0JpcVctNmRyTk5DRTdqNWNzZzBhbzVyVHJFc0Q5dHNmUy14NXNLa09RN2hSdG00dHZfeUFHT2w1V25pVFNHdEdzSEs4RUZaR2diZGdSV2NqTll4cEduUHJhWGx2R1Q2ZV94OGoteFFlZzlRZkhmQ3lOV3BUdUZCVVpVeUduWnBvOUR6Ri1VZUdfTVVidjd4WTVQd2lHZDhLT01GQVVJNXFwNUlFVWt0cVlBS204VjQyd2xaVjNLeWRYYWF0a3BrNmFZaHR5ZWpaTmlOUUJJenB2QnQxX25tcWhETzV3THRwLUxXdV9LS1RWTHlmRnk4WV8?oc=5",
+    "published_at": "2026-06-17T00:06:44Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:03Z",
+    "updated_at": "2026-06-17T13:02:03Z"
+  },
+  {
+    "id": "d21f1a96edad173a",
+    "leader_name": "Narendra Modi",
+    "leader_title": "总理",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-16",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "G7会见Modi总理的李在明总统：“韩印迈向新关系” 아시아경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FTWJHUXhwYklCNU5sUUcwcEFsLWhub3BxSWxyXzg4b0NfQkFVeGhCTGFyZ1NlYlBHTU5CSUhCWUt6a2ItajBraEdFVFBsdkQxbmJieEFWZ21LV3p1QjIzU2gtNlc?oc=5",
+    "published_at": "2026-06-16T21:28:51Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:03Z",
+    "updated_at": "2026-06-17T13:02:03Z"
+  },
+  {
+    "id": "a01bc62cbfa82ab4",
+    "leader_name": "of Albania",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-16",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Albania to pay official visit to Kyrgyzstan AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1g4ME10REh0TFBGanVlSGZrdkxDVTVWV2RsdzJobGNfVzZtaHR1bUVlSGh6WE9leERVVW9CdnlHSDBzVWhER0Q4SDNaZng1R29TMGV4OTRkT0hLcjRNZXdYdEFrbW5fUkw2bUJCV1NKMGlnbnJTcmlNeTI2TDd3VXVWSUs5Ui1sNTBVWk03TU1rZnA4?oc=5",
+    "published_at": "2026-06-16T18:21:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:01Z"
+  },
+  {
+    "id": "81886e1b82b72d2c",
+    "leader_name": "of Ukraine. Photos",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-16",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Photos: Foreign visits — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWQ1U2ppVnZha3FvNFhoczdmcElNRDJweG5xenhOeFllQ1JIUTdCQ1pKbVhmczdPSDFkbnM4ZHhOeU9FLVdMRzRNVzZFbGxsZDJ6cklDNGJxYzQyRXA4cmt1SHEtbFpWUGQxVWI4TlZ4VWowRktSaUJ4ODFTM0xwOTY1Ul9kb0s0LVhPR0ZINDcxSUlocTF1MHBzNEVWb2ozYlE?oc=5",
+    "published_at": "2026-06-16T14:32:24Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-17T13:02:01Z",
+    "updated_at": "2026-06-17T13:02:01Z"
+  },
+  {
     "id": "350d3537bcd6e519",
     "leader_name": "of Ukraine",
     "leader_title": "President",
@@ -16,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "0676093ba9d120ab",
@@ -35,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "49ff829a9050de13",
@@ -54,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:35Z"
+    "updated_at": "2026-06-17T13:02:04Z"
   },
   {
     "id": "035c2388dd699f3b",
@@ -92,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "4293521f2d2bbe4d",
@@ -130,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-16T18:19:34Z"
+    "updated_at": "2026-06-17T13:02:03Z"
   },
   {
     "id": "420df1f7191d2fc9",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "8f14213eb36bb014",
@@ -168,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "dd3b6f561e5725ab",
@@ -187,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "edb7a48a70404f17",
@@ -206,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-16T18:19:34Z"
+    "updated_at": "2026-06-17T13:02:03Z"
   },
   {
     "id": "7d1562caba04b69e",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "ae1c79295037bc43",
@@ -263,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-15T18:09:24Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "1a3d303e3a3a53d1",
@@ -282,7 +472,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "16a7471b360dd2ae",
@@ -301,7 +491,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:25Z",
-    "updated_at": "2026-06-16T18:19:34Z"
+    "updated_at": "2026-06-17T13:02:03Z"
   },
   {
     "id": "bdc46632ace02b12",
@@ -358,7 +548,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-15T18:09:24Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "27eb7c517e843c79",
@@ -377,7 +567,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-16T18:19:34Z"
+    "updated_at": "2026-06-17T13:02:01Z"
   },
   {
     "id": "eb650a5ba717ca64",
@@ -396,7 +586,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-15T18:09:24Z",
-    "updated_at": "2026-06-16T18:19:34Z"
+    "updated_at": "2026-06-17T13:02:03Z"
   },
   {
     "id": "4b1f949944ff0958",
@@ -2638,7 +2828,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-04T11:36:43Z",
-    "updated_at": "2026-06-07T10:14:41Z"
+    "updated_at": "2026-06-17T13:02:04Z"
   },
   {
     "id": "3b3fde6fc2016035",
