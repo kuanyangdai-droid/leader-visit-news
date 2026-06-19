@@ -1,5 +1,195 @@
 [
   {
+    "id": "4e489b0a63f18227",
+    "leader_name": "Paul Mashatile",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-06-19",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Deputy President Mashatile to undertake a Working Visit to the People’s Republic of China The Presidency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDlhb1BZSU1oUzdfQ2dlZTY3LWsyb3pxN3ZWcmxqTFlLUkRvSWhkWE1VOEJRaGNVTUFIQ2dOVFVNU1JaYkp5U3daOXZROU9vZlg2RXM1dzloYldwXzJjUVNzMzhLQUgyS1NUYmNJb3NvUmhCUWIwZ1VoTWJkVERjVlpDaFVPekczYkd2VXdDTUE5TXJmMTlTV3RYY3ZsV05xSENsT3JjcElRUQ?oc=5",
+    "published_at": "2026-06-19T10:35:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "b11d35e0a9bc6f51",
+    "leader_name": "travels",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "working_visit",
+    "destination": "China",
+    "summary": "Deputy President travels to China on a Working Visit South African Government News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmxnTDNCTlhlOVhIVmFCUHl1RzJhQjNnQUdJdUY0d0lZVEFFZWxKY0x3QlNCMXd2VEVjUnlaRE8zYl9ndENtRnVUY3F2ZzhrWkV3TTRKQWNnODBUQWxkNmxZNHlHWTBIQ1JKS3kzMU43WV94VTduMlVlVGp3RHJ6MTU0VFQyNllwTXFR?oc=5",
+    "published_at": "2026-06-19T07:51:12Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "ffd1dddfd0ade0ae",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "United Kingdom",
+    "origin": "France",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "other",
+    "destination": "France",
+    "summary": "Development Minister Jenny Chapman visits Lebanon with counterparts from France and Qatar as the UK announces new humanitarian support and calls for stability and protection of civilians.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/uk-pledges-further-support-to-address-humanitarian-crisis-in-lebanon-as-development-minister-visits-with-france-and-qatar",
+    "published_at": "2026-06-19T06:12:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:30Z"
+  },
+  {
+    "id": "183005cb766ecc85",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-06-19",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "WATCH: President Ferdinand R. Marcos Jr. provides updates on the successful state visit to Russian Federation and responds to several questions from the press during the Kapihan with the Media in Kazan, Russia on Thursday, June 18. facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTk1GeDJxd1Y1Sl8yUzVIT0l3b0I0anFoZ2RjaElfZGZwZDV2VzQ5Z25zRDBrX0stTHRucVpvdVpsS25zZlQwVlJKTU5RTUxLM1daVTdOV29BS1J2M293amxSQl8wSzg5dVhaampQS0p2enhwM0NZTkJUVzhNMEF2UldVU05CekdhRHlmSkY5Wlg4S1A1SEhHZFp1ak5NMFhkaXJWcFkxczhrWHZjakxpOHJ2alJMdXpxWTRJelR3aFhRVUxrTzc1WnE3UUVzWDFp?oc=5",
+    "published_at": "2026-06-19T04:26:00Z",
+    "language": "en",
+    "possibly_special_aircraft": true,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "ade9a3ba9502b044",
+    "leader_name": "of Albania",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Albania arrives in Kyrgyzstan on official visit AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzdiczBDZ2F0QndtbnRaUjdieG0tRkRGX2ZYRDFxTmVlbGtyV3J2ejBEdDU5d0Vkei1pMEh6Y0NNcklCenc2c1lORXhQd2ttM3A4QlNLdVNkaDRad0pRMUx4RjlYZmFnVmJYdXNHMEZsQy1YSVFfZUdjbXVaRk9aV2dDc21Eanl0MXlsSUpINTRUcUEyR2JMX3pXSQ?oc=5",
+    "published_at": "2026-06-19T01:59:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "138d64ef80440a2e",
+    "leader_name": "班斯副",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "other",
+    "destination": "",
+    "summary": "JD·班斯副总统紧急推迟瑞士访问，伊朗与美国的谈判前景不明 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UajhfMmRaTXpzOUZUS2luUGRxMUozSENrSU1fUThkNjU1WjVoSTk4aHFrMk9YYnVHV25XNkYxQWl5T040QXlHNGxRX1dCNjd1bUhYNHZUQnR5VE0?oc=5",
+    "published_at": "2026-06-19T01:52:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:28Z",
+    "updated_at": "2026-06-19T13:00:28Z"
+  },
+  {
+    "id": "c876e83d6d73141d",
+    "leader_name": "of Kyrgyzstan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-18",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President of Kyrgyzstan arrives on a working visit to Turkmenistan Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZmpPNmU2akw0dUpfeVk3X2JQbE9yaEFSN1k2aVE3TV9sRkVGN0kyeXVSZnZzaXRUM1dhNF8yVVVBakxoX2FUY25kbEVDc0xwTW9lT1ZiN1MwZDRtUmZDR0IzQlRCYl9rWFFod2c5S1B1Z1JaX1pqMFM0aGRCWUVtZ0VMSEh5YUdrMUhoOGpRc0liM0pPTjZpVWdfQ3J1LU9KdWdyblZlNExuMHFWU1FLOUtNNGIxT2xCaE5SaGZtUGNGYU1TaWpEM0JuVU15RWFNWXgxRExxMlpEcjFCQ3NvMFl0bTE5OEl6ckE?oc=5",
+    "published_at": "2026-06-18T21:39:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "e5b05fb8f52d096a",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-18",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Vice President's working visit in Ende ANTARA Foto",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmV5ckxNYTIzZVBNR1pfRmNOamprdHpGdktfdFI4OUVzZzhxLXcyd3lnZTZwbmw1TDJ0MUNiWlNvVXlqdEZuVkg2NnBqODJHcUlndE83TGdscF80Z1M1VXV1eW1IYTBzcGpaQVhNdWYyX2ZBRXhhOERyOEhBcVdSX0F5b9IBiAFBVV95cUxOTm9uR2RDWFMwcFVySFRiVlZoMVBvcEVSMzBiOWhST0JWblZmNW91SFJOVWc0Wm9qWUNlZ1YzWnpVLVRiS1F2V212WGdyMzl6bHdkVm9qWmxKd3h3U3ViZzZTdF9PcDUxR0hHeUF1Y2JqN2RMOHdhQWhCLWpkRC1qY0hNMU94SGNB?oc=5",
+    "published_at": "2026-06-18T11:54:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "8dc9109e04e4c53b",
+    "leader_name": "of Montenegro",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-18",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Montenegro will pay an official visit to Kazakhstan КазТАГ",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazdKRlR1R1k3bnBqU051ZnVOS3l5T0Y0THg1WWdMQ0dMN0xaTU5nNG1kUUhPVEN6ZXRkeTlEUEJvUzgxN3E2Sk84d1FFZER0dC1ZMnNOTnZVUkJhY042U2ctdXBsLXJvOGNmZ3pLS1NodWdsb0MxQlY4STdLYktMNXRKblFCZ2x0VkctbzN0WHJOMDd5?oc=5",
+    "published_at": "2026-06-18T11:47:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "5296aaa12f4c5104",
+    "leader_name": "of Turkmenistan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-18",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President of Turkmenistan arrives in Moscow on working visit Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSUQxMEdlQ1RfR0Njbm9ISXRpWGlVUmZ1WlJJRzVJX05BTTQ4MWx5ZE8zNy1pZEhxdDNiakMxMTFnRGRKZ1ZNdFg5Z2NsOTNrNE9fNUJGbkFQQ1MzS0N4LUFsdjNwWEJPUHptVUlXekR3dFVkbEVGQVdqYkp3MVJ1dnFETWZUQjVyUGs0WVJpcEZnQkdMZU1qcUU0ZUd0YWp3ZTRIWi1ZZllhbXdGSEZ4U0F3cXFYN2R0QXFGQjhoSUJ1a0FGOVllbFZVeDRFLXZhTGQ3TUFCbmtYVDQyVmtBYUF1MzQ4amJsTmtoc1RFcWlHb2E0eUFXUDNobDFDV3NCaDE4WDlNOUt1OGtFa19vQUhyWFF4QUkzamc?oc=5",
+    "published_at": "2026-06-18T07:31:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
     "id": "20e837ceb2634a17",
     "leader_name": "Droupadi Murmu",
     "leader_title": "President",
@@ -16,7 +206,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-18T12:32:43Z"
+    "updated_at": "2026-06-19T13:00:26Z"
+  },
+  {
+    "id": "7c41a7b86f5fc05b",
+    "leader_name": "of Malaysia",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-18",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "The official visit of the Prime Minister of Malaysia to Turkmenistan has begun turkmenistan.gov.tm",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUV9wRXBZUWU0dUtzNnBYdl85ZnFzdDd2ZTZqSkV5aTRtN3FDTGljM1pQVUNHTFN4WjktUGVGR1FoWWJzVjB6Tk1OS05pX0tiWERrMkRBZV9adng4QzNKd2k1M1JxZ2xGT3hpeFI4QmVGN1dYQ1p3Y3NhbTRKUjR1ZHJwWFhxZ0hLemR1S3JfVk5MazM2QnRaNXZieW5paWFCcWd6eXphNFcyRUs4?oc=5",
+    "published_at": "2026-06-18T07:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-19T13:00:26Z",
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "70688b9c0826fcc7",
@@ -35,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-18T12:32:44Z"
+    "updated_at": "2026-06-19T13:00:28Z"
   },
   {
     "id": "442becb54ef30073",
@@ -111,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:44Z",
-    "updated_at": "2026-06-18T12:32:44Z"
+    "updated_at": "2026-06-19T13:00:28Z"
   },
   {
     "id": "6f0100f53b95b1f4",
@@ -130,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-18T12:32:43Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "52816f7af91f139b",
@@ -168,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-18T12:32:43Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "c15c5bb09bd68581",
@@ -225,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-18T12:32:43Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "19a5db3805025bdf",
@@ -320,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-17T13:02:01Z",
-    "updated_at": "2026-06-18T12:32:45Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "f7d9e17e19ab252f",
@@ -586,7 +795,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:33Z",
-    "updated_at": "2026-06-16T18:19:33Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "144ad9a08df1ddc8",
@@ -681,7 +890,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-18T12:32:44Z"
+    "updated_at": "2026-06-19T13:00:28Z"
   },
   {
     "id": "7d1562caba04b69e",
@@ -3721,7 +3930,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-14T10:53:45Z"
+    "updated_at": "2026-06-19T13:00:26Z"
   },
   {
     "id": "20ff49f8c1a3273f",
