@@ -1,5 +1,100 @@
 [
   {
+    "id": "479ecc0ca00b1449",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-21",
+    "event_type": "working_visit",
+    "destination": "China",
+    "summary": "Deputy President arrives in China for working visit South African Government News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObThZQktHSlJZRUp1TDN3NWJVT3BvRUlhSzhEbEJBUXpOYWk2QVNMOVh2S1ZyUDdpMjBxWklta1c5TllhYm9pMUdiLWhGa242cmVIZXpNdXU5akhHY2FBbkZQNVVFN1lLUlItWExzcFp4M3E0alVNT1M3dTR6R0FmMzZxaGdfQl9pWWVv?oc=5",
+    "published_at": "2026-06-21T10:04:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:54Z",
+    "updated_at": "2026-06-21T11:32:56Z"
+  },
+  {
+    "id": "50677cbfc79baf6b",
+    "leader_name": "bdnews",
+    "leader_title": "prime minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Tarique en route to Malaysia for first state visit as prime minister bdnews24.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kVE90SVpvbEJsM19pdG5nZ3hKSGhPU1k0ZmtzVTZUbkdKdENzc25LV0pwOHplVjNOdnI4aTdIc054RExBcjZNM3hFQlZ1ZGx4SzZwZHlHSQ?oc=5",
+    "published_at": "2026-06-21T09:04:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:54Z",
+    "updated_at": "2026-06-21T11:32:54Z"
+  },
+  {
+    "id": "1539eb2eb9ece2df",
+    "leader_name": "Xi Jinping",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Tarique Rahman Xi Jinping Talks | PM’s official visit: Dhaka, Beijing likely to sign 15-17 bilateral instruments The Daily Star",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUR1UTlFeC1PQU56LUNQWThROUItNjhuTnNLc29TVDFoUGxoVmZFOVRtd2dDVEcxb05Cb2c1cl90YXRMYlVoTnRmOTd0TGVob0RlS3ZvdHZMMFB4bTB1VVRfVzhNbDkzYTFHZjByWldwOUx2V3pyU1FqcHhzWXdrVWhGeFZZYVUzcXY1YUVRUGtWeEY2UzVLeEVQNXVIS0pFQjAwUzVOa0ZmNm5mQTZySVZENjNpaGtHdTZieXZvS2lQbFhsd1NEQjNiV0tNai14TWJiTkpzbw?oc=5",
+    "published_at": "2026-06-21T08:15:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:54Z",
+    "updated_at": "2026-06-21T11:32:54Z"
+  },
+  {
+    "id": "8172004b4636db28",
+    "leader_name": "孟加拉国",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-20",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "外媒：孟加拉国总理拉赫曼将于下周访华，系就任后首次出访 QQ News",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTHBKbFd2NVlnbFdrelNFQkdaVnQ0aTRLSm1oODFJXzFYRmwtRkRvRWczU3RxVVZmbU5WQmtXUUFUbDZTUkV5YXF4amZ1eFFsTlVwQjhwNzk5eW5ubzZMajcyTlRDUVVwOUkxazhR?oc=5",
+    "published_at": "2026-06-20T14:20:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:56Z",
+    "updated_at": "2026-06-21T11:32:56Z"
+  },
+  {
+    "id": "2319e5454417d8f5",
+    "leader_name": "孟加拉",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-20",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "就任后首次出访 孟加拉总理将访马中 联合早报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSl96NkhIOVlWdG04VTVNRGxWZEVZc1l4YmZvai1aVWZsbTRtLU1wNEdGb1VrT0hxdW85Zm1zcEFVXy1RWXBHQ2ZMVVhyeGNaaXNkUmR6S3p6WlpER296Qnh2alBOdjJKSmc?oc=5",
+    "published_at": "2026-06-20T11:14:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:56Z",
+    "updated_at": "2026-06-21T11:32:56Z"
+  },
+  {
     "id": "bdfe469518afa6fb",
     "leader_name": "congratulates Nikol Pashinyan",
     "leader_title": "Prime Minister",
@@ -16,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "13ad20121c645983",
@@ -35,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "6ed533d486dd28c0",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "40fd44ed205313d4",
@@ -84,7 +179,7 @@
     "origin_inferred": true,
     "visit_date": "2026-06-20",
     "event_type": "other",
-    "destination": "",
+    "destination": "China",
     "summary": "Myanmar president visits tech firms in Hangzhou, China Global Times",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTFF0WWdvcGZIMS1rVU56N2U4Sm00b1ZoazREeHUyT0VPVUl2MEpoU2Rxdm9YQUktdVBOQVlIbWZubWY1azNiWWh2OUsyRG43el83Z1BHcVJBMnJ4ZUxhUXJR?oc=5",
@@ -92,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:37Z"
+    "updated_at": "2026-06-21T11:32:56Z"
   },
   {
     "id": "86c1d9b9b599a6fb",
@@ -111,7 +206,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:37Z",
-    "updated_at": "2026-06-20T10:19:37Z"
+    "updated_at": "2026-06-21T11:32:56Z"
   },
   {
     "id": "9b83b5960fe0517e",
@@ -130,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
+  },
+  {
+    "id": "8cb377d2faaf6045",
+    "leader_name": "Asfura",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "Honduran president Asfura arrives in Kyiv The New Voice of Ukraine",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWlINlhUZ1N4TEo1WU9GZEpCY2tDOFZEbWNsZlhXaDNZTjA2MkRwVWlCeXA3UnM2ZmZIQl9NM1JsWHhzWGhPZDl0cjk3RHBBSl9qVTJNbkt1bG13YjVUeWtpRDN5TzBqNnBmdkpZaFZheW5OZFF2V2Y5M25HX1duVlMzMDkwWXc1YmpUedIBiAFBVV95cUxNY0xkV0taTGRiRy1rZVFBeDZtRkoyOTFKWjk4ZGcwclVvbTVLQ3oxUmZDVGRTYlBjX3ctblhJY1lxVlZqU0dGb21Bek1BSUpIYmxqd081eVlrMmRISjRTM0V3eUs4QUw0VTc5VkpPU3FHMVlZWUxmcVlFV2xKQWFGNFgtY0dZa2tT?oc=5",
+    "published_at": "2026-06-19T19:56:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:54Z",
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "34fbeebfc6f231b8",
@@ -149,7 +263,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
+  },
+  {
+    "id": "8b8787bc32a90553",
+    "leader_name": "welcomes Anwar at presidential",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-19",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Turkmenistan president welcomes Anwar at presidential palace NST Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYm9RT1NBUmdHTThWaUJic3R0QXMzSTQ0TXJDSWpEc1ZWdVRzWFJCM0JfV2lPMGY4MktyTVRsVGY5T0xRSXFjR3RGY1N2aGpoakRRNU1BRmRxUnJWcmY5RVUzT1FEU0JqNHpmS1hKOWtPLWRmaFNKMHNWUmtNNU9sWEhNS1RkMU02Y3RjUEx1QmhmaFhBR0d5b0U2c2ZYdElxSTVoVnNYQWN2Zlh4QkJTVGx30gGyAUFVX3lxTE1ib1FPU0FSZ0dNOFZpQmJzdHRBczNJNDRNckNJakRzVlZ1VHNYUkIzQl9XaU8wZjgyS3JNVGxUZjlPTFFJcWNHdEZjU3ZoamhqRFE1TUFGZHFSclZyZjlFVTNPUURTQmo0emZLWEo5a08tZGZoU0owc1ZSa001T2xYSE1LVGQxTTZjdGNQTHVCaGZoWEFHR3lvRTZzZlh0SXFJNWhWc1hBY3ZmWHhCQlNUbHc?oc=5",
+    "published_at": "2026-06-19T14:14:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-21T11:32:54Z",
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "53589db28a42cd48",
@@ -206,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:36Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "0aa1996e00f3c141",
@@ -320,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-19T13:00:26Z",
-    "updated_at": "2026-06-20T10:19:39Z"
+    "updated_at": "2026-06-21T11:32:57Z"
   },
   {
     "id": "183005cb766ecc85",
@@ -795,7 +928,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-17T13:02:01Z",
-    "updated_at": "2026-06-18T12:32:43Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "f6be2d8630af27ab",
@@ -4253,7 +4386,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-02T00:06:55Z",
-    "updated_at": "2026-06-20T10:19:36Z"
+    "updated_at": "2026-06-21T11:32:54Z"
   },
   {
     "id": "20ff49f8c1a3273f",
