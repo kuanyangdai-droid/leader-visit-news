@@ -1,5 +1,195 @@
 [
   {
+    "id": "0d32d90e156a9e6b",
+    "leader_name": "of Turkmenistan Serdar Berdimuhamedov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Turkmenistan Serdar Berdimuhamedov concludes state visit to Azerbaijan AzerNews",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15cWVfVzFleFJQbWFKdVZ1UnVTaWRwVFNrZ1NtcTBJX3F5OTVWblFtVHNOdUJONWVmX1l2NXB3dG0wS3llQVBIcENzRDh1VjJMUzFFYw?oc=5",
+    "published_at": "2026-06-23T11:37:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:51Z",
+    "updated_at": "2026-06-23T11:42:51Z"
+  },
+  {
+    "id": "e983aec53d6a0160",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "韩国和中国的总理23日在中国大连会面，就改善两国关系达成了共识。当天下午，访问中国的国务总理金珉奭在大连芳楸岛酒店与国务院总理李强举行会谈时表示:\"韩中两国在政治领域、经济领域、文化领域、青年交流方面.. 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JRUdWV2NVN0RlNWdpNzlLZmY2dE1OY1A3bGFieS0xeThfVUNTVE1kSlREcXJvRUtBZEhkdEl3d1lDUUotSVdYWk5zejF3VUlPTHJB?oc=5",
+    "published_at": "2026-06-23T10:32:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:51Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "22117482237b03e3",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-23",
+    "event_type": "other",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林特使、中央政治局委员、外交部长黎怀忠访问古巴 cn.baochinhphu.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNZktCb2Z4ME1qSURCRXpKLTNXSWhnd0xZLTdZa1JTTTlTc1lYc2pxeWlPNVp6ZnRwSUsyaTlaeUo0QVVkdy1aajF5MWZUZjlpdnp6dnBtQ0YxNUo1Z3R4TjVNRHhWMU1EUFVPV2x3T2JpX21MMUNnNGVJUlVxRE9Oem9JcTlPM0MyUG1UMnZiWXBxeGtKLUNkU1g4cVhKM2dGTlRSb183dUd4Xy1DaHNkYUE2bkc3SlBwUE5UdXdIUWtXZGFfa1JFYzJDa3NCUGFXYzhkMzMtcHpiTGhYRUNBUGhCT0xwOFlDZkIxazhuLXUyVVdnekQ1WjhRRGtQNFN2a2R4cExwQ3Fmb2xrR25zV25kQzl3bU54SGtRMzJTMDBvRmk5ZFNnVTlYeFNnS1dSdm0tSnRXWUR0V2VDSzVteUxhaWNOa1dxVUpPLXNXSENhLUdPY3UtQU1oWEZWaHNLMXZiT0ctVGhuVWk2MHdHckJYRWFGcndpeWFieS1KaEhkRXhDRkhId3FsN2xuYnExZnMxekhnaHJwV3JGUlJzYUZFTjdSWThoYWlXTGc4bk9YTENVT0FIRkdicVlJV3ZjdUR3a2x4c3RwZldBb2JkZTdlRGc0QzhUMmlVU3p4M0NYN3RZWFlPbVJB?oc=5",
+    "published_at": "2026-06-23T09:48:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:53Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "f1ed53b1b918766b",
+    "leader_name": "东的美国",
+    "leader_title": "总统",
+    "country": "United States",
+    "origin": "Washington, D.C.",
+    "origin_inferred": true,
+    "visit_date": "2026-06-23",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "特朗普料今年11月深圳出席APEC 将成首位任内访问广东的美国总统 香港01",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQcVZmRF9ybkZta21jNnlWVVZMXzVwZDMwQkk4cklrVEdPSlZGaFluNlluaVdvXy15T29OWEtiaFNhVlQ2WXFKYWpRQUtUakhUMzJoV1VHNHF4eFNQVG05Si1Kd01WT2liWGxQM0lQaXVQZFI1VFgxUFlTQUxrNHZhUWF0VzBtZGZpcFpKOXM1bktBRjdHZWQxd1NmSU9ic244RkFqSlpERUZ4UWRyUlkyYldQUUswZW9kT1hBdk5NTFA3aHBoWlVrdk9KOXFuOFBZVFh0enNSd0E4Mng1dXNIU3g0RXBfb0Q0eXVBR3Y3NVY2S3lBZVBnRGlSbHlPdVdBazQzNmxHTFFFTTloQ2tPMndyX01WUTRPS3Vka0hvMTFVeDh2NkpYakp1UzNWUzJfd25LM1ZHU2RHaHNHdWlnY2hKZ3RjYU1YakJzNk9NSGV0OWkxX1lndTA2UjJOcXM4MHhIajFqcTg4OEIwUHFzVmFoTEdiOTBndU9VaXpoU3NxMnhiZnhKa0FRajNwMTMxdEcybFVjR0NRVDBhaGQ2eTJRN2lETVVTZXZKYW53dC02R2pKNDJPV0F4NA?oc=5",
+    "published_at": "2026-06-23T08:03:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:53Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "1d7145858973aa4e",
+    "leader_name": "库曼斯坦",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "other",
+    "destination": "",
+    "summary": "土库曼斯坦总统访问阿塞拜疆进行会谈 TRT中文",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SNlVVMXRjYlJHN1NDenNBWVZBMjMxRmdESlFGTGU5SVY1cjVDdUdzQkpLNGxYMWl0RkFESHdlRm1JVE56VmxPbHZMZF9vWlBxVXJQaWljLTRHMnl4?oc=5",
+    "published_at": "2026-06-23T07:19:14Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:53Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "2c41329ea8243ec1",
+    "leader_name": "Pezeshkian",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Iranian President Pezeshkian to arrive in Pakistan today on official visit The Express Tribune",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGI4NU1wNzQ1VS1wb1h5c3RnZDA1aGtiZmdSdW1hbG9Lem1RSXJoQnZhZ1B4ck9zaGY3UHlyUVMzaXZJb0JaZjgwRVAzdUFXNTJkc1hXb0tiN1NxX2VjR1hUNEpBZVpTR3V2MUQwODdrOWVtUkZkc2lRTDlNNmx4M1MwU2xNcUluaW1HZ1l3UkszTHF5R0J2c0Zfb3ZhajR6MTV2WGdvNHpyRU0tYmFGSw?oc=5",
+    "published_at": "2026-06-23T07:18:45Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:51Z",
+    "updated_at": "2026-06-23T11:42:51Z"
+  },
+  {
+    "id": "5fd7033b5a9c81fc",
+    "leader_name": "别克斯坦",
+    "leader_title": "总统",
+    "country": "Uzbekistan",
+    "origin": "Tashkent",
+    "origin_inferred": true,
+    "visit_date": "2026-06-23",
+    "event_type": "other",
+    "destination": "",
+    "summary": "图尔钦预告乌兹别克斯坦总统将于7月8-9日访问白俄罗斯 白俄罗斯新闻",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MLUhIRDc3dXZ6Y1B0THhOV0k4WlM0ZkNoR0kzRkJTbkJuSjFIbWc0QkNWRVpXQlhmS2hPeG5qUFJwTE1wd2sxdnREMnd2M1lRQUVNVFNsNENEQkFvbGl2Tw?oc=5",
+    "published_at": "2026-06-23T05:10:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:53Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "ddd84d7db5b4aad9",
+    "leader_name": "of Poland travels",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Poland travels to Türkiye for official visit Report.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFBocEdUa0ZnNjZGUTFkMTc0MW95NEZCY3gtcW1RUU9LUEZmNnZnYnRwVUNYN2RYMEVjMEdNbGRtd2hIcmwxQ0tyblhBTEJXdHA4V3RUMHpLUWlwQXJwUFVnOTF5c0JYUGI5Z0lNblpVNGNUQ1U0NWtmNUE5RGFDendNT1VHd2taZ3fSAY8BQVVfeXFMT2FFcm5mUU01bzRDQ3lsNmJKQXBSNHVuWVp0cFVzSDBGWDNwaWVxNTA5emhGbWVURl9naDJnSU0xbVJuNGw4OE9DcGloWjdndGctekE3akdyV2tEWWtxOE5TSF82NHpTUkdnMUwxYWZKM1pFQjhlcUFic1BFV3dfSGVjRjdycWFrcmdLdUxlZFE?oc=5",
+    "published_at": "2026-06-23T04:50:44Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:51Z",
+    "updated_at": "2026-06-23T11:42:51Z"
+  },
+  {
+    "id": "2f83a3d89034b681",
+    "leader_name": "洲理事会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-23",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "托卡耶夫在布鲁塞尔同欧洲理事会主席科斯塔举行非正式会见 哈通社",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sa2hHWXMzLTFnajc3NFRfR3JVUVhDVkZZdVlJVHI1S1Z0Qnp5WHg0bzJnS04wNXZpalUzVmFtOWg4ekdRWFJyTlg2WktfcVJlemh5d0JtODhSSGMtaWZFRjJ6NEJCWmo5aUV1V3RESmNTNUFv0gFzQVVfeXFMTUt2OW1BVVZVekJjMk5yUnZBUmZESG5fT2tRS0dUSl9JM25IczRlRjB2YWhXNE5MQWNzVHh1NnNXdGE3UmFOTnZWdFBrOVFsSHBXMFZXODQwRTRSekhLVjc2eUtVQUYtOGRyTzdabzhyY3BVWQ?oc=5",
+    "published_at": "2026-06-23T01:36:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:53Z",
+    "updated_at": "2026-06-23T11:42:53Z"
+  },
+  {
+    "id": "9bcc4c0cc6f406a7",
+    "leader_name": "Karol Nawrocki",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-22",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Polish President Karol Nawrocki to pay official visit to Türkiye İlke Haber Ajansı",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3RKc2FkMWVXbHJQUTkxWDV3SkZoVEo5eVNmc29MS1NacW5kXzZCc3ZBSXJ5ZENuTElXQWZHRmwyOHo1T1BtM2Rudy0zYTNVb1ZiRHJCT3R5YjVNYmNyUS1SRmkta1loZW1IQ2FEb3dKMzVfTThMazgzcFdFQzBhT3NIcF9hQTU2T29qRG51cXdHdjVQVkJEaTZJVVc1aUV0ekpKSTVaRQ?oc=5",
+    "published_at": "2026-06-22T20:22:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-23T11:42:51Z",
+    "updated_at": "2026-06-23T11:42:51Z"
+  },
+  {
     "id": "1eea7af30f9f07d2",
     "leader_name": "卸任英国",
     "leader_title": "首相",
@@ -16,7 +206,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-22T17:56:09Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:53Z"
   },
   {
     "id": "1c03d2f5a1a2d88d",
@@ -35,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-22T17:56:08Z",
-    "updated_at": "2026-06-22T17:56:08Z"
+    "updated_at": "2026-06-23T11:42:51Z"
   },
   {
     "id": "6653cb064b0c53f6",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-22T17:56:08Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:53Z"
   },
   {
     "id": "ff51e4484f31cad4",
@@ -187,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-22T17:56:09Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:53Z"
   },
   {
     "id": "fe068002c7f925da",
@@ -206,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-22T17:56:08Z",
-    "updated_at": "2026-06-22T17:56:08Z"
+    "updated_at": "2026-06-23T11:42:51Z"
   },
   {
     "id": "479ecc0ca00b1449",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-21T11:32:54Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:51Z"
   },
   {
     "id": "50677cbfc79baf6b",
@@ -263,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-21T11:32:54Z",
-    "updated_at": "2026-06-22T17:56:08Z"
+    "updated_at": "2026-06-23T11:42:51Z"
   },
   {
     "id": "ef256497250ff6c1",
@@ -890,7 +1080,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-22T17:56:08Z"
+    "updated_at": "2026-06-23T11:42:51Z"
   },
   {
     "id": "7c41a7b86f5fc05b",
@@ -1574,7 +1764,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:53Z"
   },
   {
     "id": "7d1562caba04b69e",
@@ -2315,7 +2505,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-12T12:39:02Z",
-    "updated_at": "2026-06-22T17:56:09Z"
+    "updated_at": "2026-06-23T11:42:53Z"
   },
   {
     "id": "aa74d0bac7d0fc5e",
