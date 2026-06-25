@@ -1,5 +1,233 @@
 [
   {
+    "id": "88035cc299ba3dec",
+    "leader_name": "李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "李在明总统：海外领导人请求韩国在半导体和防务领域合作，感谢参战英雄 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQjlMS3c5X25BeGs4MXllaVVsWXdBYlJ1TUVuSGFuRWpMVDJUNGNOTGtENndrYWdkNWxKWlVhSnBqcjRDZWprS05qeU96d3g4YVVtRTNQSXlqSFU?oc=5",
+    "published_at": "2026-06-25T07:40:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:01Z",
+    "updated_at": "2026-06-25T10:29:01Z"
+  },
+  {
+    "id": "4e38a8bb6e1dcb99",
+    "leader_name": "成英国新",
+    "leader_title": "首相",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "“这个人”或成英国新首相，特朗普表态 文学城",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lbWxEaFN4cXRqSXNGWWE5Z01HdEp3SU9jY2xPelVQRGxDYlJNUldkaXktc2ZsSGJSNnBsRUtOUzVKVnF4aXFnM1dhV3hHbHlPT1N6a29NNE5zZzI2WXpLOXFCaUNTc09r?oc=5",
+    "published_at": "2026-06-25T02:50:37Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:01Z",
+    "updated_at": "2026-06-25T10:29:01Z"
+  },
+  {
+    "id": "e0a66bffa9a80d63",
+    "leader_name": "",
+    "leader_title": "外交部长",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "越南外交部长黎怀忠对委内瑞拉进行正式访问 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpRjM4NVN6OG1kSDZHdXU2OWt2Qy1nWVlReloxZ0FXRVhycUZDdEp6bkN1NTBVRl9JVkd5YlNaYnJNS3NLcVVFdTdEazZuWkJiOXV4RV9YRFB4QWlT?oc=5",
+    "published_at": "2026-06-25T02:40:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:01Z",
+    "updated_at": "2026-06-25T10:29:01Z"
+  },
+  {
+    "id": "1811be1ff5741e5c",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-25",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "洪森率团启程访华，将在北京会晤习近平等多位中国领导人 柬华日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83Rk82azhHZlJQcG55c2lSX1M5UVRMWTgxSWR1STVwdlJTMU5lVERUTUFDazVKVDJxWUYxUlhKeFh1S3ZhREJYdE9iZWtZUDJxMVVjRnBOOA?oc=5",
+    "published_at": "2026-06-25T01:44:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:01Z",
+    "updated_at": "2026-06-25T10:29:01Z"
+  },
+  {
+    "id": "c26c1a3418947c9d",
+    "leader_name": "孟加拉国",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "孟加拉国总理访华，中孟友谊源远流长 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnFjd2VVVWsyUmNoc2xtMHlYVDRSY3pFSUYyNGZ6TTdmaDVoRkl1TFl4UkxPRXZtUVVPWmFTcGZqX0NXcFZybnh1RGpiT2kxeFNqMUdaWW54U2o5Y3FzS0RLVjdtSkx2ZlV2R25fU3ZhNkZvQnpkVl8zMVJrcWUtNVZoZFB1NkU5?oc=5",
+    "published_at": "2026-06-24T12:55:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:01Z",
+    "updated_at": "2026-06-25T10:29:01Z"
+  },
+  {
+    "id": "82dcbbb9fea7f4a3",
+    "leader_name": "Hamza",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prime Minister Hamza Arrives in Dhuusamareeb for Working Visit Focused on State-Building SONNA | Somali National News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1pEVURac1dpQU5sWWR0U0lYZWVkbkkxdkZVZGhuaUhOaXlGQ1hmZWtYSFAwTEd2QnRSWU5ZZUVyb3AxLUZpSmNvNlgwc0xpMWJELTBraGE0b3hQQTNVZnBXNWRod2tNc1BSS1A4ZkcyblU1eWhLNEVCY2FxbWhJX09fZmhTbG5SOXRmSHBrTUpZdlFzemJweEdKMkhIODh4aEpkOENmT1VMUTBsYkRpeHRPdjk1Snc?oc=5",
+    "published_at": "2026-06-24T12:08:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "3de47a5cd9ae23ac",
+    "leader_name": "Tarique Rahman",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "official_visit",
+    "destination": "China",
+    "summary": "Prime Minister Tarique Rahman arrives in Beijing on official visit businessinbangladesh.com.bd",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTERDMGdFNGotc2JMZFk5RGRTYXNzMWxMcHpFc1Q4Si1oalVHdWFqeXA5Rk5wTXpMeEdHdzRjN1VnRGp4NUpDbmdfYW5mblpRcU9VcVNLTElxVV81bDdTQkQtUkFkUWd5Nm1IU0F4ZGtnYWRDd1NWZ1NFRUhMNVEzU1RDOElCOFR0OHpmbkhnVnVfWncyUHQ0SFNCV1lSZVh2MjV3YUxB?oc=5",
+    "published_at": "2026-06-24T11:29:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "219e5b53bafc81a2",
+    "leader_name": "of Turkmenistan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The state visit of the President of Turkmenistan to the Republic of Azerbaijan has concluded turkmenistan.gov.tm",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONHlIYVVWam5WWVFFQTBBYVJNaFktWmJ4cUs5V055dUI0OWZ6ZzdsaUZrcGhWemtZcFhtdFdtN0QwNVBtazBXbDlhMW1iVjlXVzlhSHgyd2pDTzY5Y0dEQi1HODlPYVNyRi1UMXgxNzU0VWduZ3BFSnVxaTVVN3VER1Z0Rjh2VFdLeW1yVTFvd3o0MXFlR2VtclU0RG44S3lXajRWamVlQVFBVFY4LXpqOVdseG5TZw?oc=5",
+    "published_at": "2026-06-24T09:37:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "64b78ff301b851b1",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-06-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President U Min Aung Hlaing Breaks Silence on Key National Issues Global New Light Of Myanmar",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFOMWdlMHdpUnFsQndTWHBiSUtxcmFMTWlKd0x3RlhTRVRNemRNQjVjNFFZQWRlNDB0NEVjVllvYVBFdmUzRHdUalc3Mlk4UlNFeDlzOHRjMkFIMXVxUldEMGZrOGJBQlV6Qlc4aEs0dzRCdlBKMF9hNGxKWlg1ckRtR3VMWWd1eXFFR05CWTM1cmFu?oc=5",
+    "published_at": "2026-06-24T09:07:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "5e8099a524ec930c",
+    "leader_name": "Pezeshkian heads",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Pezeshkian heads to Pakistan on state visit ریاست جمهوری",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBibWpkeUtreUxfQmV2MWMxUG9HRDVDVHBReUdnTWZMU082Y05kWmZ2OVZTanJtUTdaT1hBRGhMYkxpODFz?oc=5",
+    "published_at": "2026-06-24T08:59:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "b27d004af0ef974a",
+    "leader_name": "Narendra Modi",
+    "leader_title": "Prime Minister",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Prime Minister Modi to pay State visit to Israel on Netanyahu’s invitation DD News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1UzY3BKalBjLTUtbHNxNXU2S29fRGtJajJ1VnJrMDBWdHFVWDRVa1BMMTlmNFZfQ3lsbXNxeWlzNTAwT2Q0cWpJalVTTDhVRi00Y1UzMFN5Ql9QWXBqYnJ5Nkc1WDBOODB2SmV3c2JFcnY0UllGNnJSQ2RsY0pyYzY0WF9adUtRLXBjdXBLcEItblBlOXdmZldEWHVEa3Ay?oc=5",
+    "published_at": "2026-06-24T07:43:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
+    "id": "884b53bdb7d36e19",
+    "leader_name": "Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Ilham Aliyev’s social media accounts feature video dedicated to Serdar Berdimuhamedov’s visit to Azerbaijan Xalqqazeti.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNG42YXRKSGRqTmd3MTFnUGh1YkVTelpraC1ZTUg1eXY5UTdZOThsNjk1aFoxeG5CemhlT1J1SDNnTHgxZXRwbEJrY0xWN0lmSFJ1U0VJX1V2YnRjalE0Mlp3ZzR3Z192WVNKUkVnbDdxRUx2UFBNMXJJTVk3Q21YWlJQQmxjaDhvNXc?oc=5",
+    "published_at": "2026-06-24T06:22:45Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-25T10:29:00Z",
+    "updated_at": "2026-06-25T10:29:00Z"
+  },
+  {
     "id": "a575c753e3ec7e4b",
     "leader_name": "of Turkmenistan completed his",
     "leader_title": "President",
@@ -16,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "49011cc88e098fa2",
@@ -35,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "9434fdf6dc412a07",
@@ -54,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:58Z",
-    "updated_at": "2026-06-24T10:35:58Z"
+    "updated_at": "2026-06-25T10:29:01Z"
   },
   {
     "id": "de8231760b342d70",
@@ -73,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:58Z",
-    "updated_at": "2026-06-24T10:35:58Z"
+    "updated_at": "2026-06-25T10:29:01Z"
   },
   {
     "id": "53cd4f633ff004ac",
@@ -84,7 +312,7 @@
     "origin_inferred": false,
     "visit_date": "2026-06-24",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "China",
     "summary": "Deputy Prime Minister and Minister of Foreign Affairs to pay an official visit to the Republic of Kazakhstan กระทรวงการต่างประเทศ",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRk5SS0pfbzh6VWprREZDQWhFMGh4ZDNMeUdzZzAwNk9ESk1ITzZ2bmdHUkxUbGFqNjh2UkxEQUJIcTFUZUlSUFRvQVM0YUVkeTNENk5XeTBfM3RSSURTb1RoMndid2NPdVJ2YlVibEVvX1Bad1dBVTlLd2lPOHNRVEROU0VSTm1YMGtBRGNIakxZVjBNbXNIZjRMUlg5R0M3LW9Td3hvdG9jQVRQV09hamZNSDVvQTlPX3dMVkIyNXBpNGlYTW5FTmNhdml6Unc?oc=5",
@@ -92,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:58Z"
+    "updated_at": "2026-06-25T10:29:01Z"
   },
   {
     "id": "f2a11dcb84dbab62",
@@ -130,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "13f0ce3be87f54a9",
@@ -149,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "f95c4229c74b8e77",
@@ -168,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "387e6be8a6b7f893",
@@ -187,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "241ab938c44edbe9",
@@ -206,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "0d32d90e156a9e6b",
@@ -225,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-23T11:42:51Z",
-    "updated_at": "2026-06-23T11:42:51Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "e983aec53d6a0160",
@@ -244,7 +472,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-23T11:42:51Z",
-    "updated_at": "2026-06-24T10:35:58Z"
+    "updated_at": "2026-06-25T10:29:01Z"
   },
   {
     "id": "22117482237b03e3",
@@ -320,7 +548,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-23T11:42:51Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "3d9875ea27bd06b9",
@@ -681,7 +909,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-21T11:32:54Z",
-    "updated_at": "2026-06-24T10:35:57Z"
+    "updated_at": "2026-06-25T10:29:00Z"
   },
   {
     "id": "ef256497250ff6c1",
@@ -1992,7 +2220,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-24T10:35:58Z"
+    "updated_at": "2026-06-25T10:29:01Z"
   },
   {
     "id": "7d1562caba04b69e",
