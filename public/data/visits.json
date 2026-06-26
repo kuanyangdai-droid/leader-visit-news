@@ -1,5 +1,81 @@
 [
   {
+    "id": "0f3686a3dacb407d",
+    "leader_name": "寨人民党",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "赵乐际会见柬埔寨人民党主席、参议院主席洪森 驻菲律宾使馆",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dzJIYTBPT29TaGEwX2pIbzZhOHZzbk1mR2pPQW4tQTNmb2tlSkpEWWdZSlJzQml4SU5XSWFQTFp4aHdyTHZQdWRmMmUtMHI3b1FaT0t6MllfV1JHUG9WZm5KOGZzU2dMeXh4d0U3UUVmb0hE?oc=5",
+    "published_at": "2026-06-25T13:51:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:39Z",
+    "updated_at": "2026-06-26T02:54:39Z"
+  },
+  {
+    "id": "6da95953f8b2be09",
+    "leader_name": "Launched the Construction of",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "The President Launched the Construction of the Kazarman Hydroelectric Power Plant Cascade open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWVOUDlseVlnb1R5dVVsOC1CbUlfQ1Q4Q0hxTnI1ekFpXzB3bW95Y19EWGg1SWg2dGNsbXBHY3JMOE5IVGlTemNSSjVrMktZN0dCWUM0aWxmNjFack0ycTlTQW9LQ044Mi1vN0pVaEZwM1k5dEFnSEJmbFAyRHNSNnpFTlM0WnVNWVIyXzJfSWtLQmM4b1pVR1JhUHdZNDNvZGFsX0tmRQ?oc=5",
+    "published_at": "2026-06-25T13:34:54Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:38Z",
+    "updated_at": "2026-06-26T02:54:38Z"
+  },
+  {
+    "id": "8de16baa00b90d22",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "PM Modi to Visit Seychelles for Golden Jubilee National Day Celebrations as Guest of Honour Open Magazine",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2w0TTNVb2VYN0JVU1ZackU4cjhybktHSk81WjhLMzBJMDlscGktZ0cwX3BjT21pTmtVWncyUUlVY1NSR3BqNUtTRmluM3RZeWJaajNYblYtWjNlYjAxcVVQTFY3WnBhQmpoMG9sNW9lMl9HQUhKVUpvTGJibF9BQzVETUlybjhSc1hYXzF1aVVHaTU4eDBucDZld3RrVXRuMkhUcGUyYUREUnhyaU8zTWlMSDA5Z09wMUlvVS1USi1EdDQ?oc=5",
+    "published_at": "2026-06-25T13:07:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:38Z",
+    "updated_at": "2026-06-26T02:54:38Z"
+  },
+  {
+    "id": "ad71e668d5a94cff",
+    "leader_name": "spoke about the comprehensive",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "The President spoke about the comprehensive modernization of healthcare in the Ak-Talinsky District open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3JZcDRUXzNSNWY2VnVDWDBabV9EUFYxV0dvbVRqSGtmbzJFZkItX2hGazlLZDF1SzRBWHpnSFlLUndDMk9tN2RKLUdWVkt3MFp4dFpzY3ItRUZPaDhZMW8tVzFCbXp1cUE2WHFvYzJtU0pQcG1TRmp2blItV1pJbFhhNFVIdXhMZzRFR2plamZpTjdFbl9DR21QRW9DeXhIRVpzVGNpNmJ4YXM4YWV1ZHFhR05wTEFqZVpLWmQ3YUY?oc=5",
+    "published_at": "2026-06-25T08:16:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:38Z",
+    "updated_at": "2026-06-26T02:54:38Z"
+  },
+  {
     "id": "88035cc299ba3dec",
     "leader_name": "李在明",
     "leader_title": "总统",
@@ -16,7 +92,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:01Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
+  },
+  {
+    "id": "e5f5148f36f38cd9",
+    "leader_name": "open.kg",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "By the end of the year, over 21 km of asphalt will be laid in the Ak-Talinsky district — President open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnJXVk1uMzJCYVh2SmNKUWNOY1NKWXFkZzNZdHZxVExWMUVmMkNTY0hEM2ZKeWxaLVYzUWVCdUczWF80TjU4dG1IYnJCdlZnWk53SnpreXk4RnVtQnNZZmlrOU9JOUgzdERoR2lwRE16NHlIaGNVc1gxRHhaa3MyMUpjeGpUcU0tU2EtUnZrbGhrYTZpMFRxVzNKSldkWjRCM0FZempIUzRYU3laaXlZa182d0FLOTgxRERn?oc=5",
+    "published_at": "2026-06-25T06:54:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:38Z",
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "4e38a8bb6e1dcb99",
@@ -35,26 +130,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:01Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "e0a66bffa9a80d63",
     "leader_name": "",
     "leader_title": "外交部长",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
     "visit_date": "2026-06-25",
-    "event_type": "official_visit",
+    "event_type": "conference_attendance",
     "destination": "Vietnam",
-    "summary": "越南外交部长黎怀忠对委内瑞拉进行正式访问 Vietnam+ (VietnamPlus)",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpRjM4NVN6OG1kSDZHdXU2OWt2Qy1nWVlReloxZ0FXRVhycUZDdEp6bkN1NTBVRl9JVkd5YlNaYnJNS3NLcVVFdTdEazZuWkJiOXV4RV9YRFB4QWlT?oc=5",
+    "summary": "Foreign Secretary Yvette Cooper announces a new support package at the Ukraine Recovery Conference in Gdańsk.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/foreign-secretary-announces-nearly-290-million-to-strengthen-ukraines-recovery-and-energy-security",
     "published_at": "2026-06-25T02:40:34Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:01Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:41Z"
   },
   {
     "id": "1811be1ff5741e5c",
@@ -73,7 +168,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:01Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
+  },
+  {
+    "id": "37fb61209ad79dc9",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-24",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "习近平启程访利马将出席APEC峰会 澳門廣播電視股份有限公司",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlhNcVNJYWRKTzN4ZXkweUkzYnREaDlzOWNtbEtkdDZXLThJY2JjWTlyVHBXZ3RacmtEa2MxU2llMUxtcGxtRXZFSmk2bmdvclFLMUMxWGdkcENIZ0U5aWhORXdGdDBYbmVlTHBmMmc2STdVcktwUGJ4SUpPY2gweERJY2gyODJodkswdXV5MmRmX1ZqMkMyMmxUT1E?oc=5",
+    "published_at": "2026-06-24T23:23:45Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:39Z",
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "c26c1a3418947c9d",
@@ -130,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "219e5b53bafc81a2",
@@ -149,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "64b78ff301b851b1",
@@ -168,7 +282,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
+  },
+  {
+    "id": "92b24befff52d680",
+    "leader_name": "加拿大",
+    "leader_title": "总理",
+    "country": "Canada",
+    "origin": "Ottawa",
+    "origin_inferred": true,
+    "visit_date": "2026-06-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "加拿大总理卡尼访华言论引发对加美关系与国家安全的广泛关注 mnewstv.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BMjBHbWVwdkQwR3VLQmUwT2JCQ084Y1lZTmZvRjFDRHVyTHNPRVlIdlhETmpSNGh6MjU3aHpMcmppT0RIVlVYdkdvbHc4WHM?oc=5",
+    "published_at": "2026-06-24T09:00:05Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:39Z",
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "5e8099a524ec930c",
@@ -187,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "b27d004af0ef974a",
@@ -206,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "884b53bdb7d36e19",
@@ -225,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-25T10:29:00Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "a575c753e3ec7e4b",
@@ -244,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "49011cc88e098fa2",
@@ -263,7 +396,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
+  },
+  {
+    "id": "4375ac76a0955a8b",
+    "leader_name": "会见英国",
+    "leader_title": "首相",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-06-24",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "凯尔·斯塔默会见英国首相候选人安迪·伯纳姆 VOI.id",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83UXNDZDJvLURNa0Q5RnlESmtKSDRzdlFKc2dUcW9uTzlHSk5LeFRtQ0NDRURxLTNfTnRKSEQ4V2dhVTDSAUJBVV95cUxQNENMQ1lZVHk3Z3RBZHBlcHI1X1ZfcmNNTzEtYjlGR2FMQk5YLU15U1VQblVDOUt4cVJ6WFpsejlOLVE?oc=5",
+    "published_at": "2026-06-24T05:00:15Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:39Z",
+    "updated_at": "2026-06-26T02:54:39Z"
+  },
+  {
+    "id": "8f78d1142430ffaf",
+    "leader_name": "Subrahmanyam Jaishankar has concluded",
+    "leader_title": "Foreign Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-24",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "The official visit of India's Foreign Minister Subrahmanyam Jaishankar has concluded open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzZ3VlMtZ0NseElSX29sVTJ1T1JyYWhVcnFDZkd5b1l5WFhWVGZ3Wi1pck5SOUhMWTh6T3ZEME04SUR3eVpMVnRHWWxxaTA1Wm1laFExTVFQQUN6bG9tZGI1Zjc5cFc2WEdNM2JmcjZTaEU0eVB4cjVseDJJbzF2dnIzUzZVaWpSZ2JhaXFwdU1rbVVFT3h6VHU4ZlV6ZXc4VGNKNjdfbVZ2RmZlUm9FaDZReUMxT0ZoY0xleFpydURscV9fdmwxOEx1SmRocExsOHc?oc=5",
+    "published_at": "2026-06-24T03:45:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-26T02:54:38Z",
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "9434fdf6dc412a07",
@@ -301,7 +472,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:58Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "53cd4f633ff004ac",
@@ -320,7 +491,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-24T10:35:57Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "f2a11dcb84dbab62",
@@ -909,7 +1080,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-21T11:32:54Z",
-    "updated_at": "2026-06-25T10:29:00Z"
+    "updated_at": "2026-06-26T02:54:38Z"
   },
   {
     "id": "ef256497250ff6c1",
@@ -2220,7 +2391,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-25T10:29:01Z"
+    "updated_at": "2026-06-26T02:54:39Z"
   },
   {
     "id": "7d1562caba04b69e",
