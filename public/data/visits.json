@@ -1,5 +1,157 @@
 [
   {
+    "id": "352d03ac5f43dc5d",
+    "leader_name": "Dissanayake",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-28",
+    "event_type": "official_visit",
+    "destination": "France",
+    "summary": "President Dissanayake To Undertake Official Visit To France Newsfirst",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQm5LSWpOcVpvQ3gwd2ZSS0FfU2VWY2dVRmdfbE9Ua1lXS2dxZFQxSnkxaG1xSkRFOXRZNnU5b0pfZU5UVzhjcGFkZEVBZ25ZS0tIVDgtQTZlc0JZMy1xc0owV01pRTU2XzVTNlh2R1RLNnFvcmFFeFhVVy16dmR1NV9ndFozdXhOVnY5ZUlpN0ZfM1lfTzRyZUotVQ?oc=5",
+    "published_at": "2026-06-28T02:51:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:44Z",
+    "updated_at": "2026-06-28T03:23:44Z"
+  },
+  {
+    "id": "dba36c654fce3347",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-28",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩日防长共同访问韩空军部队 韩联社",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OU9SZjc4c3FhaXllcGU2eDAtYjFKcXRMak05Y0d5WUFsc0pIRnJ0UllqX2d6bXVhVERiSGY5VmF5R2NyUGRHb1lCM3BKa3BWNVk0c3dtRGcwbjhlQXVKcWhJN1hHd0NLV2lXa0h0TWdUTXVpU2c?oc=5",
+    "published_at": "2026-06-28T00:18:13Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:45Z",
+    "updated_at": "2026-06-28T03:23:45Z"
+  },
+  {
+    "id": "d45454a6cc36be4c",
+    "leader_name": "Visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-27",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Natalya Eismont: Lukashenko's Working Visit to Russia Continues News.by",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOU1ieWQxSHFQc2U1ZWJyd25kNzVKSmZpZmp5MGJIRGRvdTN3X2pVLWh5cG13TC13eWlPcDhIQmFleWtMb212ZjZMS3NNa2pBb2F0QWxDNUNtTFRvZmxzcFJHYWdpODkyem1PZUx1OWlvc25Tcjg0R2RuVlNhUXJzc0ZZTDJ1QTA0NTBuYWYxSVhEM1RYZlJvTEN6Q1c?oc=5",
+    "published_at": "2026-06-27T19:12:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:44Z",
+    "updated_at": "2026-06-28T03:23:44Z"
+  },
+  {
+    "id": "2595e7f1d758ced9",
+    "leader_name": "Paul Mashatile",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-06-27",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Deputy President Mashatile concludes Working Visit to the People’s Republic of China The Presidency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQVZEOUNtbzJTZmJHdXhBU1k0S0xhYi1mS0FkWjJPYUNGMnN0M09DWXlKTHdabURYdjR6QUFvWDBoMUVYajVieExoZXBoOW9YX0YtSkVJamhZWDF5aUZ3elFUQU9oaWdKRk5VVkNNZlZwOVpJajBjSU00UndidndVT2hrdXU1Q2hUbmNxckVuTS1LNFRaUWtSM1RVRUlBYjBLTmRyWTlxTUVTQQ?oc=5",
+    "published_at": "2026-06-27T18:15:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:44Z",
+    "updated_at": "2026-06-28T03:23:44Z"
+  },
+  {
+    "id": "59beb57c9ec5b5ea",
+    "leader_name": "is",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-27",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Indian Prime Minister is on a State Visit in Seychelles and will be the Guest of Honour at the Golden Jubilee of Independence celebrations Seychelles News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOb2RMVWswckMxQkNrRld4eTJsdEVKTUpNTk96X3NIM0VjQklacC1mcFllcGdfRXM4SzRmRWJyejducVlpLVFlbGNEYnpSRnV4WUtCTVI0bmJ1VHhXSUtHSnp0ZzdDRWlhZkZOdnc3S1EwcjhaREFsaTQ2ZzBrbENTdDZ5N0lLcEoxdmF2TDdvcEFyV19GVmRHYzVyYUZDenpWNVh6U19pSkNFQ3NENmpqaXJlbVF1TGs0anRXZUhnX3Ywb09iS1pvQXZiSzEwWWpRWlhzb0dwWFNNSTZ2X0IzMWNmZlZkMktKMlI4cnBIMGU2bklKNDRGc1czZWMyMEdvR1pZT20xc1liYWd5QThQWnlYZk9oWWVjSUNmVkVyRnRuRXBuMHRjVXZWRE1HRUF1?oc=5",
+    "published_at": "2026-06-27T17:22:40Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:44Z",
+    "updated_at": "2026-06-28T03:23:44Z"
+  },
+  {
+    "id": "48a9d0ff31cc4630",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-27",
+    "event_type": "other",
+    "destination": "India",
+    "summary": "Rubio：特朗普正推动明年初访问印度- 阿视亚经济 아시아경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xdXJGY2h3SUNFcmFobkpIUVlyWklaZm0zTmJJbDBtZ0NDVkdvSDFWblZ3dU5kWkNXMmM3QUVKelhRQVBVYmxyLXp3cVlFVXRKMnFENzlVVlVhTjBBelpJUEd3S0M?oc=5",
+    "published_at": "2026-06-27T12:51:13Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:45Z",
+    "updated_at": "2026-06-28T03:23:45Z"
+  },
+  {
+    "id": "143be4fcd9000c09",
+    "leader_name": "韩国",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-27",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩国总理金民锡结束了三天的访问行程，提出一个几乎所有韩国领导人都会提到的话题 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGNuUFhsRktneWFBSFZaQ01xb0p4YURyck5Tckt5UUtMZ0NoeDhjTnJ6WEF3akVFT1IxVklYZ3JaZWtDU1hueTlxT1N3aVA4bkVPcWJSYXlGdFJ0c0JBR2Jwd1BzbFNkcWU1NWx6ZHFNbWk2dDByRHQ0VGp2RHZ0blZ6OFU0aGdBS25sYg?oc=5",
+    "published_at": "2026-06-27T03:10:10Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:45Z",
+    "updated_at": "2026-06-28T03:23:45Z"
+  },
+  {
+    "id": "8577bb05765c3d73",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "president",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-06-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Ferdinand Marcos Jr. is the first Philippine president in over a decade to make an official visit to Canada facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejRseWo3OU1aS0loWmo5eEVhQ2d6cWlkLWQtdTJWX2Qzdmt6OHBpMHNQaE5IeGs1U1FiWTg3ejluWDZ6MGs4ZnRnMzU3eE9PU2ZnYWVwbkdXckoweDk1Mnp2cXFqNl9GZnk2bFh3TGFVN2ZzWjVWTzdzRmNVRlQxMThFWEZFNXBDVzYySWl0cDBRRmlTdHV3dlZxUF9pRzRZQlBLLVQ1eFk3bF9sM0tLZ3gtM1dSMXhXWm44Rl9RNW5jUjNaMEgwbTNHek9rT09kQkctRnhfRWVrbUk?oc=5",
+    "published_at": "2026-06-27T02:37:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-28T03:23:44Z",
+    "updated_at": "2026-06-28T03:23:44Z"
+  },
+  {
     "id": "9e6d0eac3b36c7ba",
     "leader_name": "Narendra Modi",
     "leader_title": "",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "40bc15f88dbfbcc8",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "b28873fe8c3ac33d",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "44473d047fee5da9",
@@ -73,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "493ace42fc0129e2",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "4f118611cd5725e9",
@@ -111,7 +263,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:41Z",
-    "updated_at": "2026-06-27T02:44:41Z"
+    "updated_at": "2026-06-28T03:23:45Z"
   },
   {
     "id": "04af06c053fc8c44",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "d185b9b852ab6603",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:40Z"
+    "updated_at": "2026-06-28T03:23:44Z"
   },
   {
     "id": "80f13b2afdc640b6",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-27T02:44:41Z"
+    "updated_at": "2026-06-28T03:23:45Z"
   },
   {
     "id": "840e881ca55967b5",
@@ -2600,7 +2752,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-27T02:44:41Z"
+    "updated_at": "2026-06-28T03:23:45Z"
   },
   {
     "id": "7d1562caba04b69e",
