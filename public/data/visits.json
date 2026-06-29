@@ -1,5 +1,100 @@
 [
   {
+    "id": "31bd160b2f1025b1",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-06-28",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Marcos off to Canada for state visit Inquirer.net",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkVQZ0M2NmN3YmhZbFAyZ1N5YU5pdmN1ek5aWnRnYkhSVHNoMl9qX3RqUVlhUXItcVVCVnR5ajlSXzkzSVhQRC15NFlWbXc4UUdWYXNtbzE2bjQtbVNYVkhjUDVGTmgxNllFeDJRSTZVSDZTUUg0eVpHb0RzblJxcmhONNIBiAFBVV95cUxPOUVsbE91MXpieWlmcVBYcXdacE13RnJqd3BoVV91Mm9PT29vSjF6NUFoVkQ3bndWTzRwenlEZ0NPSXpkSHVrZjZjZFBrMjZNYWVLSHQ2dFF3bUhoUjQwQ3JfbWEtcjNSNml5ZEd3NTkyb1p6SWFReTA0MS1ZSk9RTTRxWDJua0xS?oc=5",
+    "published_at": "2026-06-28T21:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
+    "id": "4bcd3893e0aa5602",
+    "leader_name": "Hassan Sheikh",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-28",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Hassan Sheikh Arrives in Ethiopia for Official Working Visit SONNA | Somali National News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajF0eXotb0xvSmNxbndqc3B3VmN1Y1BfZjFzYTcyZGhIZ0ZXRGhYRFVIaW8yY1hiT21GM0QwRmUxaWQ3R0dsRW1aX2dLV3FrcEx0bGVVQ2wwamVra0lTcFY2eWpLZmRKam1ZWDZOY240WTYza0JucGxibTR3SUVLa2ZsVDZobXV3ZktlYjROTjkwMjItMFhiWnQxOHNTUXM?oc=5",
+    "published_at": "2026-06-28T17:59:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
+    "id": "c388f3eccbcb6d95",
+    "leader_name": "of OGMV",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-28",
+    "event_type": "other",
+    "destination": "",
+    "summary": "The Mayor of Bishkek has been appointed Vice President of OGMV - Eurasia open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnd1NjdyTUhub25nai1BSjlaMDdRNlR3emJlNThLcjQxRzRhQU84ZlhnUVZzZWxOWDVxdGtna1lVSF9peXhVclVXLWhhVS1VSFR1TE1hTTgwd0RBQ2E2VS1yYkNHQ2ZNb3dDUEdOeV9zcWJIWHJuT3NCb0NRcEVlckVSWkdTd1l0ZFlCU2t3RW85aGdhemxELXpoMi16UnBhUi1RdTNn?oc=5",
+    "published_at": "2026-06-28T12:16:11Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
+    "id": "ab9040b00298329f",
+    "leader_name": "Narendra Modi",
+    "leader_title": "President",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-28",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "PM Modi holds delegation-level talks with Seychelles President Herminie as part of his state visit The Economic Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQalpyeGp4c2lQWWxJSGJqemtPcWVNc3NFem5BU1R1UEllN0ZXOTRvMjFibHFNTlFzODM2SEpadklmZXZUQlc1T05SeW1fMlU2bThoQVF5eEd0RzRLUXhCTE50OTBjTnhZN00wTzRzZzZLczFCalBLQUF3SGtxUXRsX1BLRXRhMHpKcW1UX2pIY3VRdnRWZnQwWGZ6OG1mWGN5VlVjN29QZ3RjTzY4SU1ucW5VX2xaQlp5LURiRU5UbUFleEo4MlctZ18zdmlzN0hmaXBzb3pIbTA2S0JXOVVvUGtHOVVSQTJ5Qmh6bkRoTWtlQUpURlHSAfsBQVVfeXFMTzhQdFpMcmc2Y2dvcnU2Sms1M25faTFJb0ZDNHoxd0J0TlVBVTFoTnV0N0xvTVNpYk9SRlpWenJvS3lzMXBudXdwS3VseTNwMmJkc2M0UDFMSmJ4eXVtbkt1OG82QTJLdHF4WU1EUDVFMmdOUGJ1MnZTY0h0Nk5EU3B1cmdYM3JpMWZ0YWRMcFNmazRyLTJTbHY0Vy1WT3FHLUlyLVE2bC15clNtSWotSnFBRXg1dGt5UkVvb2dtODg3MTB6dHllcVV1azZWY2Y0a3RpWGhMV1VhMjFUTUZ5aUtKZVVub081MnBlbHJFcnhzS09fNzE4WnF2S1U?oc=5",
+    "published_at": "2026-06-28T08:00:44Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
+    "id": "449e3780e2c81f2d",
+    "leader_name": "Paul Mashatile",
+    "leader_title": "",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-06-28",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Mashatile wraps up working visit to China South African Government News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uR21tVDVzWHlRcWkzX0pHNnB5VUQ5bFQ4UUctMWRJVXhDU2JtZTJaRjY2Yzd5bWExaE40ZnYwQ2ZpdGlZTDlHb1RVdk91QlRTZlE0aXdqNEdjT09raWlSRktXalNmM0pqV0J4cTQ2WXR1bnEzUjNHcm04TXZwZDA?oc=5",
+    "published_at": "2026-06-28T07:35:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
     "id": "352d03ac5f43dc5d",
     "leader_name": "Dissanayake",
     "leader_title": "President",
@@ -16,26 +111,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:44Z",
-    "updated_at": "2026-06-28T03:23:44Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "dba36c654fce3347",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "Prime Minister",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-06-28",
-    "event_type": "other",
+    "event_type": "state_visit",
     "destination": "",
-    "summary": "韩日防长共同访问韩空军部队 韩联社",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OU9SZjc4c3FhaXllcGU2eDAtYjFKcXRMak05Y0d5WUFsc0pIRnJ0UllqX2d6bXVhVERiSGY5VmF5R2NyUGRHb1lCM3BKa3BWNVk0c3dtRGcwbjhlQXVKcWhJN1hHd0NLV2lXa0h0TWdUTXVpU2c?oc=5",
+    "summary": "List of Outcomes: State Visit of Prime Minister to Seychelles PM India",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaVhsVzZvOVVMMnBlV3pOR3lFRDJPaWpRNmhremdRTEhnYnpBbzZEbnQ5SE9KazBRMjhobTFFeVAwcG5nWkhhSGcyNWp3YUlkNmdFaXl0Mkd4T3NsbHN6R3JSbVdDUFk5Z2c1Zm41QllWQkJnYWxYeDlTYU1WQXEzV2VaandHSDM2eUNUYWpXTW05S0VaQTVIUFd3MERjM3N0SThlUGQ1bFNwMFNaZlhua2YwLUE1OFVnZTFiSQ?oc=5",
     "published_at": "2026-06-28T00:18:13Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:45Z",
-    "updated_at": "2026-06-28T03:23:45Z"
+    "updated_at": "2026-06-29T03:28:21Z"
   },
   {
     "id": "d45454a6cc36be4c",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:44Z",
-    "updated_at": "2026-06-28T03:23:44Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "2595e7f1d758ced9",
@@ -73,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:44Z",
-    "updated_at": "2026-06-28T03:23:44Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "59beb57c9ec5b5ea",
@@ -92,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:44Z",
-    "updated_at": "2026-06-28T03:23:44Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "48a9d0ff31cc4630",
@@ -111,7 +206,45 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-28T03:23:45Z",
-    "updated_at": "2026-06-28T03:23:45Z"
+    "updated_at": "2026-06-29T03:28:21Z"
+  },
+  {
+    "id": "ad574a9013461907",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-06-27",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "South Africa: President Ramaphosa to undertake Working Visit to France Social News XYZ",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1RuNmFFNjh5RUh4aXRmMFBnVEQtYkxhaFFodGk4SnBLRHh2ZWU0SWUzbm9aSEdPWHpiSUhjZHNZdElzSWhVczcxdk1rUnI2S3EzYjdFNkllZl9BcFRJSlFYZDg1dGtFd0dsMFMxb0pRR3ItLWxMMHlJV3V2SmRxQ1Zra2RWaWhNTHZVQmpLX1N1SmcwWnNUMVJuc180c2o5U0ZHcnk5X2hZQ1pB0gGsAUFVX3lxTE5zVG42YUU2OHlFSHhpdGYwUGdURC1iTGFoUWh0aThKcEtEeHZlZTRJZTNub1pIR09YemJJSGNkc1l0SXNJaFVzNzF2TWtScjZLcTNiN0U2SWVmX0FwVElKUVhkODV0a0V3R2wwUzFvSlFHci0tbEwweUlXdXZKZHFDVmtrZFZpaE1MdlVCaktfU3VKZzBac1QxUm5zXzRzajlTRkdyeTlfaFlDWkE?oc=5",
+    "published_at": "2026-06-27T10:49:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
+  },
+  {
+    "id": "b4f47abe37668e3e",
+    "leader_name": "of Turkmenistan completed his",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-27",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "The President of Turkmenistan completed his working visit to Kazakhstan and returned to Ashgabat Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelpEVmNSdGdlWDdlN05JY1NsQ1BpSE5PcWpRR2VPLS0xcEltdGVvTEVGYVI3aFBOYlpVdEd0aTZEQTJRdmxIeVpsMnF2TjhhV1RyYVUwVnptSHMxWjNXY29YalB4WE55ZWVHdWhvdkIwNER6SlQ5ZGlZX0NvbDlhTkJmbWd4dGFsSUU3a0dWdE9iYkdpM0x2LTdxblVLbW94b2lqbXBDV1Y4RUxqQ25SS29rNnBXeFpCMXBUUUtmWGE0UVNaRm96aVNidklkd2Q2OWc?oc=5",
+    "published_at": "2026-06-27T08:43:16Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-06-29T03:28:20Z",
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "143be4fcd9000c09",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-27T02:44:40Z",
-    "updated_at": "2026-06-28T03:23:44Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "40bc15f88dbfbcc8",
@@ -2068,7 +2201,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-18T12:32:43Z",
-    "updated_at": "2026-06-23T11:42:51Z"
+    "updated_at": "2026-06-29T03:28:20Z"
   },
   {
     "id": "7c41a7b86f5fc05b",
@@ -2752,7 +2885,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-28T03:23:45Z"
+    "updated_at": "2026-06-29T03:28:21Z"
   },
   {
     "id": "7d1562caba04b69e",
