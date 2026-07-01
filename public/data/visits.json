@@ -1,22 +1,155 @@
 [
   {
-    "id": "84d4b1e39cc9bb3b",
+    "id": "40d1a6b4a8a28f9f",
     "leader_name": "",
     "leader_title": "",
     "country": "",
     "origin": "",
     "origin_inferred": false,
-    "visit_date": "2026-06-30",
-    "event_type": "meeting",
+    "visit_date": "2026-07-01",
+    "event_type": "official_visit",
     "destination": "",
-    "summary": "越南国防部长潘文江会见阿联酋国防部副部长：推动越阿防务合作迈上新台阶 Thông tấn xã Việt Nam (TTXVN)",
+    "summary": "Lukashenko arrives in Indonesia on official visit BelTA – News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmUwdFV5WGlUb3F2U0lIaEtTVUpCZW85U2ZFaFV0TFJXTXU4RmR2VzFNOXNiNnFKcmhMNWdJaTNYOEhURFYzUDJRaTNjM0x1Q2NvRnNrU1RqakhMOThtWUV4dV8tNzBOYXl1eXFRV29WSUh0LXZpbng2eE00ajlIN0pNSUd4SUpRb3BqTzFtLU4yUUpqaGxob2dNQUIyNVk?oc=5",
+    "published_at": "2026-07-01T00:32:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "41e325df3535f8c9",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-06-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of the Republic of the Union of Myanmar HE U Min Aung Hlaing and Spouse Daw Kyu Kyu Hla to make State Visit to Lao People’s Democratic Republic Global New Light Of Myanmar",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNV2F5ME01akR1VTM1cEZNQUtUSDhFdDlocFkxbzEweVJDenFueFN6ejZndzQ1ODRQNUV1VmRJVGI1TUF1a1Npcl95TWRaNVN5MUdUc05PNG5yb19MZ3lQRHNMRVdVcnkwS0JTYXdsQi1qQlF5Q3RYbTBNVXgwLWhEYWRXbFUtNmJJSlZKQjA2Q1hCRFlhenh5VXdnQXNDVk1UYXpQbDd0VXNzUXBJalhwdlpYbXFicXY5LUhsSFNOSUJ6QklEQm03OHhqWnZ1Ynp1S3BROUNJdkdFaFNQbWR3YzBkSGZkZDJfUnpESGFRbEtsR1pDU1NYaldtYXUwR3lOZDFlT0wxd1I?oc=5",
+    "published_at": "2026-06-30T20:54:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "6716cc58f5006695",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-06-30",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "JUST IN: Presidential Communications Secretary Dave Gomez says President Bongbong Marcos' official visit to Canada will push through from July 1 to 4, 2026. | via Alexis Romero, Helen Flores facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcUZNNm9EbU9PSG1kd2Y3SF9KSGlVYjktZUY4Z1FkMVBxbnQ2Wnk2QWlKUVZBZGRmQ29oeF82MW96MmlRZDRqX3l3WmtOc25QVUNnS2VYeXM3UldhRlMwbmJGZFJRWmRuaTAxTkw3V1loc1I2c3JKbkNWbWVHTGk0NzIzNi1NMmxOR3d0SEg1XzIwdzY2c2x0c2FMMzhSSUpxSWdlT3l0U3FfLXZsc1hnSXJmVzVvRXYzTDk3NzVXUjhLYmRLMUxPQVJINVk4U3pDS2RtVU9LRnYtOWJY?oc=5",
+    "published_at": "2026-06-30T19:21:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "8dd37d0d76e33f08",
+    "leader_name": "Rink",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Latvia's President Rinkēvičs heading north for Estonian state visit / Article LSM",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREpXOEVGWEF1cWFZTV84c0hzTUdCRVU0dXBfTTh5UklSX3pEY1YyOXh5QnJlQnlDd21MeGJYN2hsMmpTNzBwZ3I5M2FUcmRkOC13enh5eS1aRExFd0Vpdk5DLVVaQS1fRkhOVTNWYXlTbzgyN2hzcHdvMjBHR1YyMy1HNlRRQjJKbElfOEJTSURVbEdHOEI0NjU3bHJyVVZCOGxJT0M3YlJwMlJPMWZfcGwtcXpvSWlReXdTSlRMRFNIOThiX0xQd2pQRzc?oc=5",
+    "published_at": "2026-06-30T07:34:06Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "4b851b1b273a896a",
+    "leader_name": "王毅",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-06-30",
+    "event_type": "other",
+    "destination": "",
+    "summary": "中方对王毅访问丹麦、瑞典、芬兰、挪威四国有何期待，外交部回应 thepaper.cn",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPczNnX3kwVzc0S0lwZmpydnk4SFoxQ2QzMi0zUEQyVE5ZNVItMHh6cUwzOFFxYXJkMlJ6MGVPTmdBcmdNQ1VyYkg2bjUyVFRnNVk5elJnSWhNR2hNZUp1MGU1S0hfdUlPa05tTUItSXQxRjczODgtRmJHV1F2c3U4NDlfN1VOaG1RMklCRW9OMHN2bzFucEw3SGh4Zmt1bkd0YXdyVEhnWnJFQl9Kd0xIUms3eUpSdUdWbmpHWnN5dHFwOEdiaDA0N0VGRFZtbVhOQzZEWWR6bGIyVEh5N29FSEdIZ0ZYUTVoWnNxZlRsTzBZdGI2OXF0cmJSdkpiR01rdEZ2SnZCdXhHb1hzN1VEVlFEemZVTkZMU2pwYTgtUTJCQlRBVUVHNWEtb2NmSnU1VUpTRzM3SzliOWNqTDlUT3lENkxxV1VibklmQUM2dTV1MktpdEFITHkzZEdramszMmluNWgybFFyclpGQWRUZi15MFdBNmVkWkJKT1lzaUlxVkdGd0t4TGZ3aTJjUkRjRFdvZXBBTFM4UDloT1BJWmpUVUFzUXpaZ0lRTWhpZWlxOGJiRHFqczNIRjdjbXJObEl4SlBObC1tY2RjeWdHSGIyUWVuM0lkdkVnNTFBTFZxMERxWjd0NWlFY2V5OXNvMV82dFZfN3ZQcE9v?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CRDBOQ1oyUFpWcU8zdlM4bVh2cHBCNHprV0p3TlZEbmdKWXM1Z3FINE5wcUFZNkUwRjRRX0ZXRGNaUTBBVDJhTmppbmVNaE1veXNydzhXYkVNS2dGM2c?oc=5",
+    "published_at": "2026-06-30T07:33:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:58Z",
+    "updated_at": "2026-07-01T03:23:58Z"
+  },
+  {
+    "id": "fbe67336cbe237bd",
+    "leader_name": "Narendra Modi",
+    "leader_title": "Prime Minister",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-06-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Seychelles and India sign 19 agreements from healthcare to space during Prime Minister Modi’s state visit Seychelles News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVTFSdHJBVU1XamRyc1B0X2luRlkxSzh2Q2JVdFR4YkEzUTVJMmhNUXdZNWJlM0JLc1VZSGtvUExvc1JEdnVCaHNDYWZTSGFaaGRJaFlUQ1pIQVRQMUhKZUlSeVp0enZVWEozRHU2bUFabzVMT3dMbkZrR083YlQ1TVMyY1ZlMC1Rb2o1LWpzMGpBX2JJMUlQYjBRZU45NGg2aW8xQWxnd0FHMWpyam5wQVltbUtaOVlrVlNnQU9wT3V0eWRGMG5QZHBYYlJJOGZlOUFkMjJEckd4XzdObVN1ekw5NklTQzZQb3VRTA?oc=5",
+    "published_at": "2026-06-30T07:20:57Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "cc2015e63d099686",
+    "leader_name": "University",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-06-30",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Lukashenko visiting Peking University during working visit to China СБ. Беларусь сегодня",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjZYY19nNmRDaTJxWjZuVVdfZW5JTGI2NnRqUXdiQ0k5bjk1aUVuTlp2Z3h1TWtwOU95Z1BaMkZnRllMczFaenFmcXJ0SGJBbmFNM2VUVnR0d05pVmxOQ0FDVVJpblViWlRNN05GVFhhcmdIbnZ5UU9SZWZtZVd0cFBzaTRTU3Z1QUZHWUR5MGtwOFA1Z3hEVQ?oc=5",
+    "published_at": "2026-06-30T06:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-01T03:23:57Z",
+    "updated_at": "2026-07-01T03:23:57Z"
+  },
+  {
+    "id": "84d4b1e39cc9bb3b",
+    "leader_name": "",
+    "leader_title": "foreign minister",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-06-30",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "Myanmar President to Pay State Visit to Laos ຂ່າວສານປະເທດລາວ",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQ05TYURLNzdMU0RqOGJUR2ZsU2cxdzYyV2RiU1ZqTGtxcnllVDF6RHhsSXVvNmlqMmVoQTRlRGVvYm9IUzROOHloU1pnQnh6ei0xT3V3?oc=5",
     "published_at": "2026-06-30T00:51:54Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:55Z",
-    "updated_at": "2026-06-30T02:53:55Z"
+    "updated_at": "2026-07-01T03:24:00Z"
   },
   {
     "id": "3d94a5dfea08a753",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:55Z"
+    "updated_at": "2026-07-01T03:23:58Z"
   },
   {
     "id": "91b7df81444fb138",
@@ -54,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:53Z"
+    "updated_at": "2026-07-01T03:23:57Z"
   },
   {
     "id": "fbb14d9aa346be72",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:53Z"
+    "updated_at": "2026-07-01T03:23:57Z"
   },
   {
     "id": "6b24c4c571d1d064",
@@ -92,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:53Z"
+    "updated_at": "2026-07-01T03:23:57Z"
   },
   {
     "id": "ae6a5557f36649d1",
@@ -149,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:53Z"
+    "updated_at": "2026-07-01T03:23:57Z"
   },
   {
     "id": "e51d9b03e6b67429",
@@ -187,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-30T02:53:53Z",
-    "updated_at": "2026-06-30T02:53:53Z"
+    "updated_at": "2026-07-01T03:23:57Z"
   },
   {
     "id": "31bd160b2f1025b1",
@@ -3094,7 +3227,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-06-30T02:53:55Z"
+    "updated_at": "2026-07-01T03:23:58Z"
   },
   {
     "id": "7d1562caba04b69e",
