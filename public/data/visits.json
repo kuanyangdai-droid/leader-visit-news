@@ -1,22 +1,155 @@
 [
   {
-    "id": "d4177b6b70bc0d67",
-    "leader_name": "",
+    "id": "f35e9b741b88a44f",
+    "leader_name": "William Ruto",
+    "leader_title": "President",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Ruto welcomes Ethiopian PM Abiy Ahmed for pivotal state visit The Eastleigh Voice",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjZUU0s4bTFKbUJjampaTkNwYWEtT1lNMlJjd3FlS0RhM3pRRXJ0ZFI3dzJ4SDB0ZlZxZW1NakMtUTllVGJDdmJpU1ZoZEJCUi1zcHNNYjJsSE10RE1aU3owRGZNeFJQNkxhQVA4ZlNlTG9RX3lJOUs1aDRjMUI0aHgwV3VEWmtFWFhaM2MzVWIwU1VPRUF6UERUVW9QOUJTUXZwVGk0TzNHZm1najJTSjdsYVdZajJ6UUs2Rndn0gHGAUFVX3lxTE9URTBRakpCazMzZ0dNZ1p1MWotVlY2dzdzemZKbEFnMDQ0QUw5OW1ZdkZMcFFZRVJkX0szWmJlTTdna0FyczlTNDdhRWhLTWY5c0pvQXl1c0NBaTlfVy05SzhiZjM1aU9GVVRBa3h4ZmR3eWJSU1pOOFBUUmlXTzIzTml0eDY5VWRuV1VFcVA2aWVVZXh3WmRNb09DYWhfSEloeFNpdzc5UkZWODFSN3ZOeVgtelhvdVNKaXJpZ0ljVklCNmZudw?oc=5",
+    "published_at": "2026-07-04T18:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
+  },
+  {
+    "id": "1689f5a225670975",
+    "leader_name": "Narendra Modi",
     "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "PM Modi to Undertake State Visit to Indonesia from July 6 to 8 News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWRRc19lck9PLUtFal9oYnV4RWtRcWtVOUNFQWl2dlB0Q3VGUDMyQmR2UWlDUDNuM3BsY2sxc3BNMUp5dHN4bUI2ZDRGR3YyTDBsSE5WbmN1V050OXFadDhYSDBDM1hfeHNjLWpXNHBDSV9TQmNac2EwUGp2NzJlZnFKWmZIcmJXX1ZadkNMOXFaQQ?oc=5",
+    "published_at": "2026-07-04T14:53:16Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
+  },
+  {
+    "id": "0884a30fc7cbdd50",
+    "leader_name": "gears up",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Odisha Administration gears up for Vice President’s official visit ODISHA RAY",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9pM0U2a0RzNFlvc3dqbXo4QVNwRzVxb0FGaW5XY2VuNTRLX0xIektOS3VYelJIMm9NRFhtalpIdHo4X00?oc=5",
+    "published_at": "2026-07-04T14:49:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
+  },
+  {
+    "id": "5a04c8acdd1d2506",
+    "leader_name": "departs",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President departs for week-long state visit to China The Namibian -",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGFuYmNiaHNfV3VCZ2F4cGhWWDJ5TTNxakpRRDRWNmdoaUkwbEZmM3RUamJ0Uk42bUNBcTYwbzZrNWZxTDAyX0x3WjlXUXFCY0RlTXUxcno3eW42QkZiR0pPbkJyVkJ0NHJwWnRzX185VzYxdUJCSmhhZ1VPNkNmS3UzYmoxQ0Nz?oc=5",
+    "published_at": "2026-07-04T07:30:01Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
+  },
+  {
+    "id": "1856aff340cdfda7",
+    "leader_name": "白俄罗斯",
+    "leader_title": "总统",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-07-04",
     "event_type": "other",
     "destination": "",
-    "summary": "40年来首次，莫迪将访问新西兰 中华网",
+    "summary": "白俄罗斯总统在国家宫殿逗留， 普拉博沃总统表示敬意 VOI.id",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DcTUzYVlYZTFJaVhnWWdYdGxqTHBfaHVlNldnQzF0MDJLM1BNVWxYb2dRNWsxRkxpandGc1AzWWVtbTB3azUtUk85ZkdiWDBnaEZkdDhNQWNZOFpKMzVSN3pnSjFrWkR3NUZIZzVHV3o0dw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zQVNZWVczc2xkbzZqMUp4UEZ2Z01xNUFWbUtrb1lWZ3ZfbElJcWpvUEtOajJMYVdXcUg0cDRUVUg1dE0?oc=5",
+    "published_at": "2026-07-04T07:03:57Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:14Z",
+    "updated_at": "2026-07-05T02:40:14Z"
+  },
+  {
+    "id": "cfbf1bd9c1d58824",
+    "leader_name": "of Ukraine. All galleries",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "All galleries — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVS1Sb203TGpLRzQ0SmRNc0VndVZzYXlIY1ZyYXVpZVZKZjhpYWVVa2tTaW8wV0ZjQVdCVlhEWF9DeG03eFRTY1gyc0Jnbk1POHVUMERSN2tVa2JMNU1pZUE1TW1lbUpJVXAzRE9lMDRKa3RoQms0YVYwTEpyVXpLYmtMTlptNGxhWVNtekZRXy16cmM?oc=5",
+    "published_at": "2026-07-04T00:52:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
+  },
+  {
+    "id": "d4177b6b70bc0d67",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-07-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Myanmar President Begins State Visit to Laos to Strengthen Bilateral Ties moi.gov.mm",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80RGdPVUltS2VnN2VRcFlQM0w1N2dvREh5V2lkZHJ2S0xXMWRial9lNTNmQ0NwSUJxaFYzUXJMbkdULWVSdmJ2d0dDZlVpeFdIZ1VVZmZ3?oc=5",
     "published_at": "2026-07-04T00:27:14Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:35Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
+  },
+  {
+    "id": "d366d732a2a7d5e1",
+    "leader_name": "seeks Congress approval",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-03",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "Peru: Executive Branch seeks Congress approval for President's trip to meet Pope Leo XIV Agencia Andina",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjgtV1d2M1gxekw2VnBsZWlZYnhleE9ESkRpYVJlM0ZjT1dGTGVLYnNPTWV6WDNfUTZ3QkcteXdVM1h6Rnozd05QUWdyLXpvU2N2SG9NWEw2US1UaG9WRjZZT0huOXdnZm51Smd0MVBVZktEUUx0Rll3YzhCUWpJOGFQTnptUFBEOE96U2VkZUJxRmtKSVNGTTVZamRBUnA0dGhTeDJKMXhKYjktYlIzdWxuMjR6eE83Ui1Qd05iN0VuemlYWTNaM2NrVEQ?oc=5",
+    "published_at": "2026-07-03T23:55:44Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-05T02:40:13Z",
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "b72545774df058e9",
@@ -52,9 +185,9 @@
     "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEhIS3h2a2twS0RQR3VaNzdncXR4dkR1a3hlUXVNZnN3M3Z3dWdpa3dfS0p1dF9leHo5eHRaSEtyWVlKUXVuQnBwMXNJTzkxOUl2WFdFb1hsdC1RVnA0OFVDeC1Ncm1vLU00Qm05UVhody1QWFM3UmhXbzNfMVVueWw1bFBtdnBzNFRfT2ZLRzJ6WjJTUWR5T0Z1WUo1Y0Q1MFZJLTFn?oc=5",
     "published_at": "2026-07-03T15:31:48Z",
     "language": "en",
-    "possibly_special_aircraft": false,
+    "possibly_special_aircraft": true,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "0ed3368089174f4c",
@@ -92,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:35Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "aeefe672ec122f7b",
@@ -111,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "0b12e1f9120a3ca8",
@@ -149,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:35Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "9b39e3c755800e77",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "688c09b5e64ed489",
@@ -187,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "cde9db16050519cd",
@@ -206,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:35Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "19c9ec9195247c0e",
@@ -225,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "a612a7a7d2638800",
@@ -244,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "b0cd0713bdad1c51",
@@ -263,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "dbb21136446c9ec1",
@@ -282,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-04T02:30:33Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "972854f41bb69d8a",
@@ -358,7 +491,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-03T02:33:04Z",
-    "updated_at": "2026-07-04T02:30:33Z"
+    "updated_at": "2026-07-05T02:40:13Z"
   },
   {
     "id": "b54f0d96d3e0c4e8",
@@ -377,7 +510,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-03T02:33:05Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "ff151a95ef2384c8",
@@ -3987,7 +4120,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-07-04T02:30:35Z"
+    "updated_at": "2026-07-05T02:40:14Z"
   },
   {
     "id": "7d1562caba04b69e",
