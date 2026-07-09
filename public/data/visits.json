@@ -1,5 +1,214 @@
 [
   {
+    "id": "9216b26a425a82f8",
+    "leader_name": "Lee Jae Myung bega",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "On the occasion of his state visit to Mongolia on the 9th (local time), President Lee Jae Myung bega.. 매일경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92bW9pTkF4RTl4UEJIWTdnSzNiZ1J0Z0NSdjgtcHdaejU5d1NxSEpWa0lKbVpENkxNN3oxVUctNnQ4cFlQNUEySEN0ZHo4c3VGTXZV?oc=5",
+    "published_at": "2026-07-09T02:09:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "9258ec4b382003d3",
+    "leader_name": "韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "韩国总统李在明将以9日（当地时间）对蒙古进行国事访问为契机，出席\"韩国·蒙古商务论坛\"。 在论坛上,两国政府和企业将就核心矿物、基础设施合作进行探讨。当天，李总统在蒙古乌兰巴托开始了为期3天的国事访问.. 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xa2lCUW1GNkNpVXNKcUtGODBuRFlMT3V6NXFzbWdWNnE5Y2JobkNmaU9LZF9fcnM3S1o5d2h1VEw0cldzYnFuaTZ1bVJoVTByYlU0?oc=5",
+    "published_at": "2026-07-09T01:27:41Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:48Z",
+    "updated_at": "2026-07-09T02:32:48Z"
+  },
+  {
+    "id": "4458f56c2af192e9",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-09",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "Namibian president arrives in Beijing to continue state visit to China 巴士的報",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnQ0cG9LVUhZOWxxQjR3VXBfbHBhRzhBS3dMaDhKeklLWWdpZWhPUnM4RTRoUnVNNGNiLUFNS1BwbzI4dWQyOUFlMlVMVkxta2Fwbzd5Z3htQ0M3cG8wYkcxblhNS1FpekdQbTVGbXo0ckRKNFR1aE0wMU9yblBncEZjU2hrbU9vRXNNcmxpMHM2OXFORDVtbVRaUHlVNFRremtJTlVSSlhCbGVFbVhuZktDQnJQYTFhVzdkZHdYVQ?oc=5",
+    "published_at": "2026-07-09T01:17:07Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:48Z"
+  },
+  {
+    "id": "e2ef0766c9f2cb7e",
+    "leader_name": "Lee Jae Myung arrived",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-08",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "President Lee Jae Myung arrived in Ulaanbaatar, Mongolia, on the morning of the 9th (local time) to 매일경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Mdi1GWXpFSmpibkxhUFpzQV9GQ0l0UHJQaTg2MEk0SEJHTi1ZVmk0UjZibEJCdkd2TWNKc2tEdlFkc2VtVDdjd0V2VGYxMkFaNzhF?oc=5",
+    "published_at": "2026-07-08T23:06:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "baf57d86ae1a880b",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-08",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "Namibian president arrives in Beijing to continue state visit to China news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHBWUkxKYXh0UVpFR05vTzZBbmFsdnh3Z25iXzhtSTZFRVhQbWZGMDgxUC1vZDFpYmdJdDM1RGg2YlkxY0JSeDEwWDNndEo1N3JtWjVSTTczV3lZY3NoNTZ5S3BPdVpWRkFGeUNwaEUzOUd3ZGJxN0RkM3RoMm9XOE1uX0x1ZzJ0d2pnVk8yeXdzUUhjZllNRkZIX3JsZndRQktZTHJvZURQci1sWXF5bDNKRU5WZEFDUU83ZXZYUFdQaG9YQmc?oc=5",
+    "published_at": "2026-07-08T22:37:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:48Z"
+  },
+  {
+    "id": "922a2fe5cc21aafa",
+    "leader_name": "Shavkat Mirziyoyev has arrived",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-08",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Shavkat Mirziyoyev has arrived in Belarus on an official visit. Zamon",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVS1aNWZiV2E4WmUzWVd0MWUyenN6bndVdGl2cUdHeXlrdFQzel9UZk8yLV9aTHkxai1FajY5emNiZndUejV1SDJaeW5NQUotS2tqckU5MzRJejVTdmVKWjJnb0ZTYWQxUkpOT2xjWlZVSzMyT0FycW9kVDh2NXg0N0d3bmdnOV8xM1B0Z1g2MlBCOXlOU1RxUUlXT29xM3dRU1MyRHlR?oc=5",
+    "published_at": "2026-07-08T14:45:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "ceabcfc12ff77796",
+    "leader_name": "Shavkat Mirziyoyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-08",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Shavkat Mirziyoyev Arrives in Minsk for Official Visit UzDaily.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3ZzLWZxNFluQ2MteEdnd1NRX1RaWDdLZ001Q05ScnFEN3R2VHo2dXZXa2lsQU5BaTRJUWpIVjZCM2lXbF9EWEZkaXoxVHNqbEV1SzFZRXVKNjFlOVZxMC1uSFhla3Q5ZG5aMEZtRFdzc3B5MFQ5RVBha0hyWG8yeGtWUHRBNC1IRWNRbDQzLUp0V05aaXc?oc=5",
+    "published_at": "2026-07-08T14:37:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "48385f842820d96b",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-08",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Prabowo bids farewell to PM Modi as state visit concludes ANTARA News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWhsSndjVEN5cEtBdnBTNGE4cHN0RjJFblZpRGNCSl9BLUM3VVZxYmstZjE2OWwxR21TcTJNSHFUS3Y1MEJsdUhPUmdtb0RlT09XbXBKeDJIQy1GVnRWUFhjM3laaUlBQzJpQlBNNHF5d051MHBJbU54S2hTRS1VRkw2amZrWXlESTk5N1JHX0ZZTmhDVVRTS01WODV0VG9s0gGgAUFVX3lxTE5ZaGxKd2NUQ3lwS0F2cFM0YThwc3RGMkVuVmlEY0JKX0EtQzdVVnFiay1mMTY5bDFHbVNxMk1IcVRLdjUwQmx1SE9SZ21vRGVPT1dtcEp4MkhDLUZWdFZQWGMzeVppSUFDMmlCUE00cXl3TnUwcEltTnhLaFNFLVVGTDZqZmtZeURJOTk3UkdfRllOaENVVFNLTVY4NXRUb2w?oc=5",
+    "published_at": "2026-07-08T13:43:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "aa7a4f0d511d107a",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-07-08",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The effects of the Refusal of the Alleged Request for the State Visit by President Ramaphosa of South Africa and the way forward for Ghana Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQURrS2FBd09MaEd6cnRKNUR4eVkzcXpkUzN4TmE2T2piZGg3dFBQdzBoeGZWd25SX3FCYko3Nkdxbk5kMks2eDhSb3VzeVA5cGIyMjdGNzdwSkRRRklaYTVfUXNvcEdkeXZGS00wbWJkellpc3ZmODA2d2l3U0hCMG9KQngtYVJobEI2bHkzQnM1dDlKWGVGaTVBUdIBmgFBVV95cUxQRGNzMGJrRjVZZWVGb2w3SEhSU2hndGwtbFJGd2pmOTQ3dHZpbk13ZWNqU3RfV3FsclR2LUxuYzI2UHJtakVHWjFDMlF3cTNrYlIwXzJOVUk1M0JzU1U1UTc3Zk90VEx4OENnMllUWWJscm9zM1NrM1VfVXc0UHZpNlJBYVF6VVVEU1QwYk9sMHFNOGdGYy11T3NR?oc=5",
+    "published_at": "2026-07-08T10:55:25Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "f63a0288f75ceb82",
+    "leader_name": "Nandi-Ndaitwah continues China state",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-08",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "China-Namibia Ties: Namibian President Nandi-Ndaitwah continues China state visit in Sichuan Province news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zeXRiU3J0S0JYR0dWazlFcGwyLUpKT3R3RUVVcko4bl93bEw0czAyajZnMjVyZFZNSXA2eXh3VG1NR0dIUjY3dW9KM2M2ZWc1WlZMdWxOTGtKMWxha3JUdHRGQUlTbzI2dFFvUVJGZ05YaWUxV2NySQ?oc=5",
+    "published_at": "2026-07-08T10:07:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:46Z",
+    "updated_at": "2026-07-09T02:32:46Z"
+  },
+  {
+    "id": "b1ca6d38811d8d5c",
+    "leader_name": "印度",
+    "leader_title": "总理",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-08",
+    "event_type": "other",
+    "destination": "India",
+    "summary": "印度总理莫迪定于7月8日访问普兰巴南寺 VOI.id",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1TcWhIcGdfV1RRMUlzYmtvUHVYcXBGWl8yZV80MGJscWpmLXFvZ3hURnl4cFBUaV94VGxWMXVIZVEwVTjSAUJBVV95cUxNMFF1bTBELVE2MVBOLXg5UGdOYmZNbXJzeGdOdFpGLWNDSlRoZWZLcDF2OXVxYVJQMEMtR2RDLWx3SkE?oc=5",
+    "published_at": "2026-07-08T05:41:30Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:48Z",
+    "updated_at": "2026-07-09T02:32:48Z"
+  },
+  {
     "id": "2f851c34bed1e27c",
     "leader_name": "Narendra Modi",
     "leader_title": "",
@@ -35,7 +244,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:26Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "4ccc06e672587d58",
@@ -54,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:24Z",
-    "updated_at": "2026-07-08T02:14:24Z"
+    "updated_at": "2026-07-09T02:32:46Z"
   },
   {
     "id": "15bff751a56f46f6",
@@ -73,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:24Z",
-    "updated_at": "2026-07-08T02:14:24Z"
+    "updated_at": "2026-07-09T02:32:46Z"
   },
   {
     "id": "f4793c8f6d9ac517",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:24Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "b4606b16d0d4bf58",
@@ -111,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:24Z",
-    "updated_at": "2026-07-08T02:14:24Z"
+    "updated_at": "2026-07-09T02:32:46Z"
   },
   {
     "id": "253b8c8e23330a74",
@@ -149,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:26Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "7791c1a3b97dc39c",
@@ -187,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:26Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "0e595b0af6ad7569",
@@ -206,7 +415,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-08T02:14:26Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
+  },
+  {
+    "id": "5cb8c603684a8155",
+    "leader_name": "印度",
+    "leader_title": "总理",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-07",
+    "event_type": "other",
+    "destination": "India",
+    "summary": "印度总理访新前夕移民争议升温：Luxon批政客煽动情绪，Peters缺席莫迪访问 新西兰中文先驱网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3Y1SXFWT2owYUpZWFdkTnFnRHRjT1owSFF2MmJtRmpMSk1JZFRiYkJhQ1JUVERETDRmVHlmUDhwdndTeFU2RFpuS01YV3BpYk42azdScWV4ZmNiRGZsMUFobWhYRFQteTZCbUN6dE1uNGNjWTRPT1c5eGZnU3hibUlFaw?oc=5",
+    "published_at": "2026-07-07T02:40:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-09T02:32:48Z",
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "10990aba55f50cb0",
@@ -396,7 +624,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-06T02:45:08Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "8ba0b26af0a10505",
@@ -4766,7 +4994,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-07-08T02:14:26Z"
+    "updated_at": "2026-07-09T02:32:48Z"
   },
   {
     "id": "7d1562caba04b69e",
