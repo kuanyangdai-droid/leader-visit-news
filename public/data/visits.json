@@ -1,5 +1,195 @@
 [
   {
+    "id": "962ff4311b64a585",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-11",
+    "event_type": "other",
+    "destination": "",
+    "summary": "朝中领导人就条约65周年互致贺电……“加强战略合作” 아시아경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4Y2tFNlZKTDFTOXRuWDRwekt4TFFfY2JKbW1aeE82ZHU1Uzk4R2RSZ2xNMGVkSHRnWnhNX1pEM1RFTGFHbkYwWUtjejRjazU4dGxiSmlCWUxSbXFkTWVTUFFLemY?oc=5",
+    "published_at": "2026-07-11T01:37:04Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "748ca81ce3062cce",
+    "leader_name": "印度",
+    "leader_title": "总理",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-10",
+    "event_type": "other",
+    "destination": "",
+    "summary": "爆点！印度总理莫迪闪电访问奥克兰，上万人将挤爆Spark Arena！ 新西兰中文先驱网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94UDdoU2RTSkswZkx0SzZUYjJLVFc1QWRQZWdWN2lQeC1oYXpiQXdkbXNXQ0xSSVREWVU3Y3BCemlEUUVKaWY4RVg2aHJIRDJkMlBQYTBBSC1FWmVTekstZWdqNTJQZ3dGQ19VZi0xZ3F0MmdweDNMSDNYbw?oc=5",
+    "published_at": "2026-07-10T22:18:38Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "16b73096c6128adf",
+    "leader_name": "",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-10",
+    "event_type": "working_visit",
+    "destination": "China",
+    "summary": "Working visit of the Vice President's Wife in Makassar ANTARA Foto",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlBFMmk1bHNaN2t2eV9GbDFUSy12T0JqNktROEktSUE2MXBqNWpPMWRRaFlWSGJCakpkZ0w1Y3czRjVhdTV5anpiQjk0c2FVUnB2UWRTTzFsMjB6aEs0cGZhdFpiUkVaOTJram55LUZCQktEOVlua21jbHdpY0kwNzZVMVlwU3FZdVVjNnB3UUN1bS11LUgxNtIBngFBVV95cUxQZ2hleHFETkMwRjB6a29UcEthbF9ZTERPNmZJc1J5bGtoLWJ3Znp2TTk5MHFXb21jVFd2dXFFcnAtZWJodjJicjFmZWJpd1RpVjJ4c21qb2F5OXUxME1kTjJZZnlUWElaMWZoTW5ZOXhBQnN1aGwxTndxRGpRLXFYdEx2VDZVdFFkZEhiYlYwdEVhaTNBNkhILU5JdEZIdw?oc=5",
+    "published_at": "2026-07-10T14:47:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:06Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "adcfb77820da33c9",
+    "leader_name": "Lee Jae Myung met",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "On the 10th, the second day of his state visit to Mongolia, President Lee Jae Myung met with the Mon.. 매일경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1paUVjYmk0S2VFOXk0VUFYSUNvRlZvWFU5ZV9JMFNDekYxZXRmV0RsTktFZV8wTXZYUXlNWkcyYjNHVTQzSXpWMWh1ZjFsMy00cWMw?oc=5",
+    "published_at": "2026-07-10T14:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:06Z",
+    "updated_at": "2026-07-11T02:11:06Z"
+  },
+  {
+    "id": "68426307f0293c62",
+    "leader_name": "of Latvia",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Latvia to pay a state visit to Lithuania Delfi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ25CUEFOVnFwcksxRzQ3Zk1rcE91ckZJZlV3VV80Yml6TWVJVVhxNklLVlU5UWJXYm45SUg2YXZNZzlmWEVXSDhXYzdvbnk5UXZSLVdINjhOQzEyZzU2dGdROUdVdlBncGdjZG5rQzMxLU5QZ2ZGSldtak9RcDJQaGVhbnMwY1dpOEJRUktJRkphWjdITW03eFAtcEo?oc=5",
+    "published_at": "2026-07-10T14:17:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:06Z",
+    "updated_at": "2026-07-11T02:11:06Z"
+  },
+  {
+    "id": "ea20b33ab217c654",
+    "leader_name": "朝鲜",
+    "leader_title": "总理",
+    "country": "North Korea",
+    "origin": "Pyongyang",
+    "origin_inferred": true,
+    "visit_date": "2026-07-10",
+    "event_type": "other",
+    "destination": "",
+    "summary": "朝鲜总理朴泰成访华 抛朝中发展“最强有力战略关系”诉求 早晨报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTRHY4d09tMzdCbTlNUm9uWDB3eDBOaVpHcmFEc0lJUXhwWHhGanpOYW1rVDl2QkpKcExiUEg1QlFoVHNHdFJVb1ZVcmNrVFE3NHlTSnRncVpnLVBlMWwtcHZ3Ui1pek1T?oc=5",
+    "published_at": "2026-07-10T13:55:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "d36ee6dfa7ecaa9f",
+    "leader_name": "习近平",
+    "leader_title": "总理",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-07-10",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "习近平会见朝鲜内阁总理朴泰成 青岛日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwcGVCbHJ6WGVtY0dLWFlGa25hOHhON2JfU3l0N1Y4U2FxTHBNS0RSWWRTRFVyaEVrWTc5RndyX3QtcXJCZVNONWF3SllpaXNyazZlMndHWDU?oc=5",
+    "published_at": "2026-07-10T08:30:11Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "5c9fe3296e8b09bd",
+    "leader_name": "加拿大",
+    "leader_title": "总理",
+    "country": "Canada",
+    "origin": "Ottawa",
+    "origin_inferred": true,
+    "visit_date": "2026-07-10",
+    "event_type": "other",
+    "destination": "",
+    "summary": "摆脱对美依赖 加拿大总理访沙特签大单 央视网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04SDhPTUhQc0xMd0FiWkhFaXhyLTlzODh4dEZYTHNTLXl2VXo1TUgzSUFSY0JJUWwyVHBpM2V6NVo4bXU4RGN3S2RMUk15Zkg4ajNTWG1BWllnNmE1VGtScF92cW9PVXFZY1V0QUh6djhrQmE0WGtYdQ?oc=5",
+    "published_at": "2026-07-10T08:14:03Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "2a6001dd649cfdbe",
+    "leader_name": "北朝鲜",
+    "leader_title": "总理",
+    "country": "North Korea",
+    "origin": "Pyongyang",
+    "origin_inferred": true,
+    "visit_date": "2026-07-10",
+    "event_type": "arrival",
+    "destination": "China",
+    "summary": "北朝鲜总理朴泰成抵达北京，出席中朝友好条约65周年纪念活动 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jYmsyX1RrNGtFSExVeXlYVVFvZmZid1BjUTA4WWJoWktwQlplc0tsVVZJUDVxWG93VUJKYjNNdkF5V0NQY255TS1Zdl85d3Zncm9VTlZGbVpDelU?oc=5",
+    "published_at": "2026-07-10T07:36:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:08Z",
+    "updated_at": "2026-07-11T02:11:08Z"
+  },
+  {
+    "id": "45849aadc1277212",
+    "leader_name": "KakaoBank CEO joins",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "KakaoBank CEO joins president's state visit to Mongolia The Korea Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkd0QUZ0eFhOazhMd0dkM016NlFQOF94Y0gzaVlJVy1DVnBXdEZPQWVKNnN1U0FrRzZBTFNwU1BhSWk2MDVZU0NMQ0g0Z3FaWTB3azNSUTdNampsZHNHVU1zdTVDanZBd2VVX2tYRUNqSjdlSjFsb2tVTXpZUDZxYTJjS08zelgtdGRpUVQ0VUlOeVIzempLaE5CZTlpZ2xNN3pyQnptQTNzZ3RRSG4zODg0NWhuTjlnTUVjYVhn0gG-AUFVX3lxTFBaR3RBRnR4WE5rOEx3R2QzTXo2UVA4X3hjSDNpWUlXLUNWcFd0Rk9BZUo2c3VTQWtHNkFMU3BTUGFJaTYwNVlTQ0xDSDRncVpZMHdrM1JRN01qamxkc0dVTXN1NUNqdkF3ZVVfa1hFQ2pKN2VKMWxva1VNellQNnFhMmNLTzN6WC10ZGlRVDRVSU55UjN6aktoTkJlOWlnbE03enJCem1BM3NndFFIbjM4ODQ1aG5OOWdNRWNhWGc?oc=5",
+    "published_at": "2026-07-10T05:37:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-11T02:11:06Z",
+    "updated_at": "2026-07-11T02:11:06Z"
+  },
+  {
     "id": "1090d3495548ca97",
     "leader_name": "Cyril Ramaphosa",
     "leader_title": "President",
@@ -16,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "46e6a322b2796165",
@@ -35,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "61e44b77ee435c60",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "90b3350f75f72e32",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "220595d95ebd5fff",
@@ -130,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "987e29e707eacd4b",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "19c994e19724935b",
@@ -168,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "2723ddccc9094a7b",
@@ -187,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:19Z",
-    "updated_at": "2026-07-10T02:35:19Z"
+    "updated_at": "2026-07-11T02:11:08Z"
   },
   {
     "id": "c7261865bd90f452",
@@ -206,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "f2816c05729e3cd4",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-10T02:35:17Z",
-    "updated_at": "2026-07-10T02:35:17Z"
+    "updated_at": "2026-07-11T02:11:06Z"
   },
   {
     "id": "9216b26a425a82f8",
@@ -280,9 +470,9 @@
     "source_url": "https://www.gov.uk/government/speeches/president-of-the-committee-of-ministers-of-the-council-of-europe-uk-statement-to-the-osce-july-2026",
     "published_at": "2026-07-09T01:17:07Z",
     "language": "en",
-    "possibly_special_aircraft": false,
+    "possibly_special_aircraft": true,
     "created_at": "2026-07-09T02:32:46Z",
-    "updated_at": "2026-07-10T02:35:20Z"
+    "updated_at": "2026-07-11T02:11:08Z"
   },
   {
     "id": "61ba64730945ee4e",
@@ -928,7 +1118,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-06T02:45:08Z",
-    "updated_at": "2026-07-10T02:35:19Z"
+    "updated_at": "2026-07-11T02:11:08Z"
   },
   {
     "id": "8ba0b26af0a10505",
@@ -5298,7 +5488,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-07-09T02:32:48Z"
+    "updated_at": "2026-07-11T02:11:08Z"
   },
   {
     "id": "7d1562caba04b69e",
