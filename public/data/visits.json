@@ -1,5 +1,214 @@
 [
   {
+    "id": "3e8ecff21c2d05d1",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-13",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "一万多人沸腾！莫迪24小时震动新西兰：从毛利战舞到万人欢呼，这场国事访问为何意义非凡？_全球_新闻 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5STHM0MlR5dy1RZUtRVVE5MHdtdmstSnZReV9Id3dMN1dLWW1OZU44ZnF3aDNGYmtfOEYwN2hvVXZUM19GS2JfTG1lUl8yVFBiOXlfb1RHSDBzRFFpMHJ4bFgtcw?oc=5",
+    "published_at": "2026-07-13T01:12:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "960134159cbdf03a",
+    "leader_name": "习近平",
+    "leader_title": "总理",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-07-13",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "习近平会见朝鲜内阁总理朴泰成 党建网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtUE9GVzNnOUZ0QlZ6QU13MjNHcUhQQUdDUkNwVUtHa3dOYlBTVC0tUmtxS0RqWjZCS3g2NU9xUUpHWGVFQWVpVmRTQUZZOEVpZ0daZUlsN0JZcTBFTlhMOEZ6THNmcjRXMVRGaU9nVW5oWks2?oc=5",
+    "published_at": "2026-07-13T00:27:48Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "e3cc27c04dfa88c0",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "PM Modi concludes state visit to Australia News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vVlJLbjJGNGJPV2lOVWk1N1lCY1lJNkY3d0JTdUR1bFJsbjBGdmthRXptdjRhUFl5MVdJS1U1a3Y3VnNLZTVtTXRIVEZacEI3WlhqWVhCU0RWa1pBT2xQMnpNMlZSQ0pZRVNuSHg3Q1FHWWl2QUVB?oc=5",
+    "published_at": "2026-07-12T21:45:06Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "769f6290192478e1",
+    "leader_name": "韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-12",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩国总统面前，蒙古国总统把2235年的账本摊开了 手机网易网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DS284dVZiRlpIWjVVMzJJZkU4NGhudlFpOXJPQURNX1ZhV0p3N0poUjh3VkdzT0RrekJDTkJzWm1TSWlLTlR5QlZvYWtkT2U2cXdxbXJrM0hxMWdtWElwMHdn?oc=5",
+    "published_at": "2026-07-12T18:41:30Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "61b0d243a61d873f",
+    "leader_name": "习近平",
+    "leader_title": "总理",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-07-12",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "为纪念《朝中友好合作及相互援助条约》签署65周年而访问中国的北韩内阁总理朴泰成同中国国家主席习近平、国务院总理李强、全国人民代表大会常务委员长赵乐际等中国领导人进行了连锁会谈，受到了最高水平的款待。 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YOVhLeDlOb2tfVGF5NTBRYUoyVTJ4QXA4UF93MTh4cE11eFNkSFZvejQ0ZkdnUF9nTkJUMGx3QXpiakNValdkZlFfbm1rMjV1emZ3?oc=5",
+    "published_at": "2026-07-12T08:59:13Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "28fea0889e905594",
+    "leader_name": "国三任前",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-12",
+    "event_type": "other",
+    "destination": "",
+    "summary": "真只是家事？泰国三任前总理见印尼总统，称只是老朋友相聚 手机网易网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rZm9UT01taGZlN3hqOC1zQk9mdHI2NngtRVVxS0J1aExJNHVQdl9UMEthWXpUQ0I4OW5wU0xXaFJ6M0hCdExDM2ZPcDgyNHVTY1Y4d1pjQWxYZHFJb25wVUhB?oc=5",
+    "published_at": "2026-07-12T08:06:21Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "d10e230a8cfc3073",
+    "leader_name": "travels",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Israeli president travels to Niagara, Ottawa, Toronto on state visit CTV News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGNiV1FyRFkzOWliOW03YUlLbXVSLWNnbC01bHBJSlNnRmRJRXR0b3Y1bTFuZlZMVVhJQ0xYYzJPRzVCM2stNmZQLXYyVExpUkJ3cDZZQU5jcW5sREtsS2gtRDBOTnpGcEszMTMtRzl0dzZwb09RUkNmRWVkMTE2emxCRElSVkF3dU1nQjBvMl95QjQzeHJnZHptaElRU0RXVHZGcW5IQTZ0eFE?oc=5",
+    "published_at": "2026-07-12T06:41:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "71d5aefaa28f089b",
+    "leader_name": "Tharman",
+    "leader_title": "President",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-07-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Singapore President Tharman’s maiden Malaysia state visit begins July 13 with ceremony, talks, trade Malay Mail",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWU1fa0VWcTFnTlZwN0pYTnVFMzlWNlp2UUlDWl9pUkdLVkdfelJKdGRWWlB1YWZLS254cHFna3VkcENrUGtvUGtiLUxvZ2ZEbDdEa2dJdVMzX0FCT3lvSi1FQWsyZWY4eU01V1BDbGhGNS14TWNadG13UEV2ZU9hdnhibnhPeFRlSnBSZlhkVGxyUzBwZHc3Q2ZDWmlXMDNuWVE3MUVMQ2VCV29EOEJQTVVIaGp6WkZNdTQ4Z1FnREZqbjBBZ2xPakd3WWhIZjhPeFg4cWw5UGE2d3NVYS1OV2NMOEltVk1DS0tv0gHwAUFVX3lxTE1fQzA2QnNXRzdCc1ZjMGw4ZVdPTmw1T0l4NHpMOUNrdVQydHVpVzdnWXFLbHp6ZnN5V2Rrc1owNzFoNzlBOHJPUUtzc2VWY0hDdlJNSjdNSlFXY2lrc1FvbEo0V1NMWGpSbjFMQlNGc1RnVkI2NWpHRThjRUE5SXQ3alp2cERDTTdnbTJSN2dvOGtVT2I5eXo2QmtQWlRfMmI1a200UmpEUFZzYVd5M0VuaE5TTU1DRVN1ODlnOFVNV2tTSTNPcFZCSmxBWEZjS09pSXNtX3FqSE5aUmR1SDFycW1kRmVPa0JTNm4ydUZteQ?oc=5",
+    "published_at": "2026-07-12T04:43:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "e834c157269f137f",
+    "leader_name": "Tharman opens up",
+    "leader_title": "President",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-07-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "From laksa to the Causeway: Singapore President Tharman opens up on ties with Malaysia, trust and the road ahead in first state visit Malay Mail",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWS1aZlpwbzdmRmRRWXJZNHFqWmR1TDF1OGE3V0VwbERrcy11NmVTQXdjOERlV0tDcG1PZEdzRVc2eGhMRVR0emZNMnEzeEJac3BmeUFDZFZHUWhNY2dfRzJfWTFBcE0zQmhkZDFOdmRfMTFVVUU5Z2hQRW5zMGhwMFRhLWVkYXZFN0Fya1I3Qm05M2lwUENKR0hRcHQ1R0E1U0RSVmxnWWgxX3EtOU1POFpST2lJRGZBdTNCWm5HNTNPd0hPQlZZU2hKQ1hUR0dhWXA0Rk1LZ2FfSk9HY0NlczUzMW9nWUdDUU1tbkF3VzVlangyTkxSQkFPVEVMRHh5ZktIejFlMzktYjBjWWlnaGJ4bTVZLXVkbVHSAZ8CQVVfeXFMTUw4NmhMR05tRXhZNWZmVUdzZjRiTm9RM21JdjdSY1JFd0NkaFQ4aldoSF8wa2lyRm93U0VwWXZXRFVOSTE1SFRRYVJ5N0ZvRHVycmkzUW4xUFpsTHR1ZUU0Q3YyUndpcTUwMHBrU1hERFFGQzlIVjdUOGxxTHg2anRMRmxnNFZSSjFzcXByT1hmem1QOWVTb2QxbkxMWURyYVJUbW40cW10YWlzdklxNUtJdC04WWRqbFIyNjF0Q0hrRUlDYmpTdktJZ1NtcHVkTU96NENxdm1zMkVXSlhzXzRhc2s1a0pVRzdkU3ZiNHBYQVVCYTF2MmR1OHZYMUhkaWlwMUptblZ0RnRyeTdtaUhxY0N5cXRZYkhyM0VWbEU?oc=5",
+    "published_at": "2026-07-12T04:41:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "ce86da8c17d041ac",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-07-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "France and South Africa strengthen ties during Ramaphosa state visit novanews.co.za",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaERSNnFUS2g0RWJNTkdHMzlZZ0RQYXlrZFVVakRhazNtYm1lV0liUC1aOWdZNzhzNzRMeVhTendWbS1Ha2E1djgzVm5MZ284eGQzNFlCalZnSGNtVkpKR3JuTDhYSDhhbjV2MG5fWnI4ajZNSjJuMThBUlFMdFdocWpyYnFGejFCcDJrWEEwZWo4cURIYmlZ?oc=5",
+    "published_at": "2026-07-12T04:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "7b9e876a53e07f5b",
+    "leader_name": "of Turkmenistan completed his",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-12",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "The President of Turkmenistan completed his working visit to the United States Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVVkRHZTMkRIbkU2Q1lOZGMzcjk1MEJWVFJoRVpKVWgxbHRibklVSUdyT1RwSnoxTWNMY3JEWEdUeTNxc3VBWEN2bm5xeWxVaGF5OHBDYVI2SDBVSFE1NS1CTnptRWozS1pMMWhSd2dLcV9GNFVyN2pHSk5UQkNlVG5VcmFRTUNiWWZ4UVI3WXItVE4yOXR6VGFKdEdvbl85b2NvaXVvWU9GVWtlRWpNVUIzVkFVMG9YSGpFNnBNZVdSR0s5TWYtaGFSNEI?oc=5",
+    "published_at": "2026-07-12T02:01:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
     "id": "66f8ff94b1e51301",
     "leader_name": "Tharman Shanmugaratnam",
     "leader_title": "President",
@@ -16,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "1ea51af55241b9db",
@@ -35,26 +244,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "d49fe7edb2160d5b",
     "leader_name": "",
-    "leader_title": "",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "leader_title": "president",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
     "visit_date": "2026-07-12",
-    "event_type": "other",
+    "event_type": "state_visit",
     "destination": "",
-    "summary": "李在明结束北约峰会及蒙古国访问之行回国 韩联社",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocnp1X1B0X3FsajlibTk1YTNwWXF6cVNZMlQtcHZWbHRISlBwTEZvVEM3WGJ5X2dpMWk4UDZzQ2hHNGRscGxqQ0VBS0N4cFdVOF9DRWZfVUU4SmFI?oc=5",
+    "summary": "Singapore president arrives in Malaysia for three-day state visit The Star",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWNUeDlQRHFCSXVTTkZyQXlIWVNWUzhIZGlWRWwtVnU5ZktNY0RCLXF4dWtURWxzRXV3UHZRTkpOeGRjODFyVkNrdVVYcVpzSlpOYjRyLUhFa3hUbVFoa08yck5jaVl0dWJ2X25fT1N5QXpmTWZrdlRRelc0aV9zRTZaSGZYb01vdTZQNFNlcFJfRDh2aWlNWUtVSGNaN0ZxUFdiRDl1ZkE5SllOckprZXl1M1JlZw?oc=5",
     "published_at": "2026-07-12T00:33:42Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:29Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
+  },
+  {
+    "id": "f52ff4375ab7d010",
+    "leader_name": "Ali al-Zaidi",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-11",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Iraqi Prime Minister Ali al-Zaidi will make his first official visit abroad next week, meeting with President Trump in Washington. Informat.ro",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVndUZE43cHBSTWhiTm9Yb2hrQzR6OUFZSlcyY0tJbDlNR2ptM1JJMHAyZ2RTVW9oRHdNdWRaZEdmR2RNcTU1SEpDcXNzUDM5ZWNPajYtN19RNnFNelkwTWNLWmlUNGZyMDFIZWdPMTNWSTNJMk41Y0E5V3lSTEc0RlZxYXFIeWJYTWNlUUpmOVQ1UWhWRG5OQV84T2tkSVU5UXY2VDJuWkxfNmpzT2dHZDEzSlBxVFl1c0NKRzEtTQ?oc=5",
+    "published_at": "2026-07-11T23:44:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:19Z",
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "67efa32dd6c8b824",
@@ -73,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "9318cd6750224506",
@@ -92,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "a3a46de06de42fce",
@@ -111,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:29Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "44fba48fd71eeb15",
@@ -130,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "ba57f95b4dc165a1",
@@ -149,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "a9ae51333f6fd4d3",
@@ -187,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:29Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "ad52413b42c8b322",
@@ -244,7 +472,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
+  },
+  {
+    "id": "3945efda7706ee8e",
+    "leader_name": "问的韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-11",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "正在对蒙古进行国事访问的韩国总统李在明11日（当地时间）出席了蒙古最大的活动\"那达慕庆典\"开幕式。 韩国总统作为那达慕庆典的主宾受到邀请，李总统是第一个。当天，李总统出席了蒙古乌兰巴托国立体育竞技场举.. 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wc0hJM3Bfa3FKXzVmV1llbml3REptRXBKSC1KTVg3S3NXNUhfT0ZKeEdib0hjS1lqTEZwS2RTLU8wWHFDcElxQ2xBRWlhdEM3R3N3?oc=5",
+    "published_at": "2026-07-11T07:32:39Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-13T02:23:20Z",
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "5fa366a7070a4d75",
@@ -263,7 +510,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:29Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "88fec3416df4f6eb",
@@ -282,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "73ccc153fcd95a0d",
@@ -301,7 +548,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-12T02:21:28Z",
-    "updated_at": "2026-07-12T02:21:28Z"
+    "updated_at": "2026-07-13T02:23:19Z"
   },
   {
     "id": "a6317c43f0ff36d0",
@@ -339,7 +586,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-11T02:11:08Z",
-    "updated_at": "2026-07-12T02:21:29Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "748ca81ce3062cce",
@@ -1479,7 +1726,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-06T02:45:08Z",
-    "updated_at": "2026-07-11T02:11:08Z"
+    "updated_at": "2026-07-13T02:23:20Z"
   },
   {
     "id": "8ba0b26af0a10505",
