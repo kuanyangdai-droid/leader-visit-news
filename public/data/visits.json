@@ -1,5 +1,214 @@
 [
   {
+    "id": "2528b2f99fcb5045",
+    "leader_name": "SJB questions cancellation of",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "SJB questions cancellation of President’s official visit to France The island.lk",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEVwc1AyQnl5Z1lmNEkxUENGS0hJRG1rcVpQM0VDeHJjeEc4ZFRTUXFpWVJmbHVMazU2bWU0VFNlUlNaREhvM0R5WHgxWnhCOWtLSmpMeFhVNm43WFJXdGZWYmVidFVQX19YbFk0WWdaUnp0THpoY3ZhMllpZDVGY19QcEFMWXR3Z3ZN?oc=5",
+    "published_at": "2026-07-15T00:10:07Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "357f4a2e2e2707d4",
+    "leader_name": "朝鲜",
+    "leader_title": "总理",
+    "country": "North Korea",
+    "origin": "Pyongyang",
+    "origin_inferred": true,
+    "visit_date": "2026-07-14",
+    "event_type": "other",
+    "destination": "",
+    "summary": "朝鲜总理访华收获巨大，几年前幸灾乐祸的韩媒，发现自己大错特错 手机网易网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlQVlwLVFFdHgzTjBmUlhmSTVST3hFbEI0OWxnLXFJWWk3dE5KSWpYWXRFdHRNanlHUTc1dE5SVUdKNVRINDMxOTJ0OFloZ2ZwRTR2dlpJMm45QXVMZVoweXF3?oc=5",
+    "published_at": "2026-07-14T22:38:41Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:52Z",
+    "updated_at": "2026-07-15T01:59:52Z"
+  },
+  {
+    "id": "fa08fed016945dd9",
+    "leader_name": "departs",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-14",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Armenian president departs for working visit to Qatar Armenpress",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56MmU4VkxVN0luY2NQZGdKcTFaTFk2X2VlSXg4OG5leFl2QjJRVVQxdnBraXozNEZURzhnVjBHejNGb1JjY28xNmprcGp0eUVfZlHSAVdBVV95cUxNQS1Wb1NNS25pUDlLTTRSZHJBdVFScVFMRVNXYVFEYWRYZHRVa2gwSXkyQlI4eDNTV0dtOVRSQmU3NWFQTGEteWl3UnhyS0RQdmNjT21haXM?oc=5",
+    "published_at": "2026-07-14T14:52:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "b759e65341137fd5",
+    "leader_name": "leaves",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-14",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Armenia president leaves for Qatar on working visit NEWS.am",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0NGdtS2xTWDJQSDU5dEVJWmlwQzRoT0xKN3lzbk5JeEFGRGFVLW1MUkdGemV3TFZMRnlGMGVoWXpxOTBqa0E?oc=5",
+    "published_at": "2026-07-14T13:51:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "c6ea04d09363e5dc",
+    "leader_name": "von der Leyen",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "EU Commission President von der Leyen arrives in Kyiv for official visit Межа. Новини України.",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sUVdvdXhHQW9PV3FiTnM0S3RrWlotemJvTjJ1Rjg4TENoZndRS195VDByc0dWMzhKTFJVTmlLbXpYNENrRDd2QWhJQmFrQ2M1Y01BX2xjbFUtVUZRbVdhTUtnRVhEbDBYZXV6R0x3?oc=5",
+    "published_at": "2026-07-14T13:11:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "3311878a0d3a3c26",
+    "leader_name": "carries out four-day official",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Mozambican President carries out four-day official visit to Portugal CLUB OF MOZAMBIQUE",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFVZdmFUWXNVMFd0UlVwSVE3cjZoX09KWUNMZENDcXA5WnRSZmdtQWM5VmZyQWlJbzY1YjBvcWUxYldWaEJrQTctSDd6bi1keGl3NFhuS1k2a0VkcmZqUEtkQWQ4cm9QQklPWlM4dEgzZERoaWdZNUlCZ1BoSDZkMV80Tnh5dWlkdHlKeFVvS3RUdFlycHZhQWVZaU50NG5Jcl9ubEp3?oc=5",
+    "published_at": "2026-07-14T12:20:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "0eddbe152d998f6d",
+    "leader_name": "talk urban floods",
+    "leader_title": "president",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-07-14",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Selangor Sultan, Singapore president talk urban floods, sustainability and future cities in state visit Malay Mail",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRy03dGl2QmJJNmtteHBNNm5hZ1ZjQnRVd2dvLTFmZktqdHF1R285eE1laUtHSEhGejdaNFhhdjU2RnlEQkwyeVh6dHZwX1NxUF9PTC1La3c4RnUyQTlDSWNFRENOSGg2TWVvTS1ObFNMUTRXQWRfMjVhVVhQS2xIOEFYMHQ5ZjZwejFSMktzalN2RklTcmNsVURaUzNIYm4xMEN4M2owZzFlQnVkT1p6QmxVUmhHeUd2SEFycmloNi1hQVd4MWI3SWQ1ckNUSnRvTjM2YU1EM0VUMVlPNTNWenI2dV9fcW1YSUp0N2xVT0vSAfYBQVVfeXFMTk9zd3FVSC1QUF9xZDljVGxBZ1NzSVdvQ0NQMC1DM2thT1hWM3Eya3pmdk9ORVBHR3dTZGxCZGVSTk0zMGdVaGRWd3FnSXRnRzJxcXN5amRQQXdOZ2ZSUHJXZkFJX2lFRDFMZmFlVnBlYTBvQ1ZNTU5Rc1p3dEVRYTlMNU5XUUFUbmpqN0lZbWdCUzIzWURWWXRrMlFKcjlDUzRQcVQ1NzFLQ1VqS1lZU1RRb19zRjVIbGY4MTJDWDNqN2NXM1F5RGZlOHdpTnVJYmszQW1VMnZDb0hRQXVuajVmZGphY2N5ZHJ0d3hGWXhSd25jcENB?oc=5",
+    "published_at": "2026-07-14T11:42:58Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "12f5ff22979a73e9",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-07-14",
+    "event_type": "official_visit",
+    "destination": "Singapore",
+    "summary": "Marcos departs for Singapore on official visit GMA Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzYyVDF5X3lkTnhPa2pMcXAzWlh2NlVHTmY3cFFXLWdWcUgtcGRkQkdONFkzdzgzWWZOYVZQeEozaUFoZEJWWHJFZ3NIYVZZZDNESGk0Q09QZ0M0bkxVMHVsYWlUeHRJLXU5QVF4WFVVZkd5YU0xWGtNOTJhQlctc1ZzcTFhRjZ2RzBsVVhPUGZKNkJiOXFSZjB2X0lBd2x5ZkhiYk02ZDdLVnFZQlRZ0gG0AUFVX3lxTE0yV2pLS1ZVR0JHV0dYRnBlMUxTY1hMc2VaOVd6eVJMTVVpZ3lYRjN0NngyMmhKT2prTm9UY3BMaEkxRzFDZlJEcXpuMWhfRWhCWjdSYlJVd2JIWTZFTDVTWDd5by00bW9SM3JZY2tCdnc5c2xBRmJlQm9WNXJnWFVXcl9QdlBhTERBUnNTWm80TC1oZ2dHZ3hsUlVmNnEyMkw2ZUdfOXRZbFEwTDJMX3gyUEltQw?oc=5",
+    "published_at": "2026-07-14T10:42:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "9ca3bb78387405c7",
+    "leader_name": "Tharman Shanmugaratnam",
+    "leader_title": "总统",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-07-14",
+    "event_type": "other",
+    "destination": "",
+    "summary": "新加坡总统尚达曼将访问马来西亚：新马不被敏感问题牵绊，直面分歧建立互信_新加坡_新闻 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qRWs0NHlUSU5COEZhaVZDVVM2VnFvZEhGZjdBcEpQOTZsdk93cjdqbl9MT3o4R19yazhLVXJHTW1ENlQyWXA2dGRwYjNhaFp3cVdPbXhQVGxseWZYQ1E?oc=5",
+    "published_at": "2026-07-14T10:20:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:52Z",
+    "updated_at": "2026-07-15T01:59:52Z"
+  },
+  {
+    "id": "b391f50cf2c4aab8",
+    "leader_name": "Yadav",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Vice President Yadav to leave for Qatar today on official visit Nepalnews.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS25iSVRETF9lOXg5U0lzWXZvRmlBT3ZRaFNGMWUwRzJJMkpneERNQm5xMXYwNDRMUy11eUlldUM5Umx5N2xlTVlvdmtMZTdVNTFzdERPYktndzNyMW5aU2FKakMxRjhBLUpmdk5JVUlpdUt0UmNLTkVEQ3BsM1ZWSjUxN3BPSjYwZ1l6ekRELTVyZHQzZ2gzeWZISTItaS14OTgxajRpVkZxdw?oc=5",
+    "published_at": "2026-07-14T07:05:24Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:51Z",
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "04332a51db71073a",
+    "leader_name": "习近平",
+    "leader_title": "总理",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-07-14",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "习近平会见朝鲜内阁总理朴泰成 gwytb.gov.cn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPUlRyYU1RZGNlWnZvTDNhcm1sNFBPa3BiUkJoaWtPWW1nQzViNlRLaHdhdUtBcUd4RnJwdG1ULUg3WW5KSE1qNkdSallyaEtwYUdWWF9KTzBuSGxYX0JOb09WZ1NCYm1ieXIwVzJTeUxuY3M?oc=5",
+    "published_at": "2026-07-14T01:46:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:52Z",
+    "updated_at": "2026-07-15T01:59:52Z"
+  },
+  {
     "id": "e112ff915cd4fc54",
     "leader_name": "Vivian Balakrishnan",
     "leader_title": "",
@@ -16,26 +225,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:43Z",
-    "updated_at": "2026-07-14T02:02:43Z"
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "3302484b310fef06",
     "leader_name": "",
-    "leader_title": "",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "leader_title": "President",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
     "visit_date": "2026-07-14",
     "event_type": "other",
-    "destination": "",
-    "summary": "非洲国家青年领导人在中国参访感悟：“现代化建设必须以人民为中心”--头条 globalpeople.com.cn",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1blNWY0dxcWhlMkNkS0N3RzF5UTBRZ0I4ZFBKWllHNmdJZy0yS1VMS0l3bGlLM210b1Z2MzFxYXhNc25rOEJ2NFNzSTJIdUhmY1psUUZQWmV2Q2szUzBPU1hxaXNtRXZOclBSWlVFdEhCODA?oc=5",
+    "destination": "Vietnam",
+    "summary": "A statement by G7 Foreign Ministers on El Obeid calling for the immediate protection of civilians, unhindered humanitarian access, and a cessation of hostilities in Sudan.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/joint-statement-of-g7-foreign-ministers-on-el-obeid-sudan",
     "published_at": "2026-07-14T01:31:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:43Z",
-    "updated_at": "2026-07-14T02:02:43Z"
+    "updated_at": "2026-07-15T01:59:53Z"
   },
   {
     "id": "d12b3f114550e949",
@@ -73,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:43Z",
-    "updated_at": "2026-07-14T02:02:43Z"
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "26fa0621ff563b2b",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "3fb2ad03e8e01a47",
@@ -111,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "03f74539a7fc5048",
@@ -130,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "19c351e9528b8a06",
@@ -187,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "12468f670d4b2a57",
@@ -207,6 +416,25 @@
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
     "updated_at": "2026-07-14T02:02:42Z"
+  },
+  {
+    "id": "d758dd6b0fc31d63",
+    "leader_name": "强硬派前",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "以色列的伊朗政权更迭计划内幕：“策反”强硬派前总统 纽约时报中文网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UNnZLVkt0Q3VqNWNtSGxZel95ZzhsR1llZXRTU3hLZ1lBUjdXaWZBNHlzb3pZMVBrZERvMktpNWoxZDFiSmpYdzdlSXBoRkxONElNNzFESEZBNUQ4SlYtQm5QeXFDTlF6NTFKS1h3NFhpUU5SSjRNeGhn?oc=5",
+    "published_at": "2026-07-13T17:04:58Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:52Z",
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "e4a896c1a89e2192",
@@ -244,7 +472,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "b1a5ddfbe9e9f129",
@@ -263,7 +491,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
+  },
+  {
+    "id": "2689380327fec804",
+    "leader_name": "年韩",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "时隔15年韩总统访蒙签21份协议，绕不开中国领空与运输通道 手机网易网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tT3M3TC00R3E4U0t2YXZFZHJWVmZ1a3V6RjNEaW1pcXZmd2p4Nm5NcldYVHUzVUJNS3JzZ202NWMzeEp5V25vbHpQNzh1T09nU3k5aUVKU0FKZ1Y1SGJoQXZB?oc=5",
+    "published_at": "2026-07-13T11:14:42Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-15T01:59:52Z",
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "7d313b07a8cb5539",
@@ -301,7 +548,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "e0c085ffd32788b9",
@@ -339,7 +586,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:43Z",
-    "updated_at": "2026-07-14T02:02:43Z"
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "b32ba476bb3955ad",
@@ -358,7 +605,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-14T02:02:42Z",
-    "updated_at": "2026-07-14T02:02:42Z"
+    "updated_at": "2026-07-15T01:59:51Z"
   },
   {
     "id": "4a2c3ac963769d18",
@@ -415,7 +662,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-13T02:23:20Z",
-    "updated_at": "2026-07-14T02:02:44Z"
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "960134159cbdf03a",
@@ -6495,7 +6742,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-07-14T02:02:43Z"
+    "updated_at": "2026-07-15T01:59:52Z"
   },
   {
     "id": "7d1562caba04b69e",
