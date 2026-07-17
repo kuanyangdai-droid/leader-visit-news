@@ -1,5 +1,138 @@
 [
   {
+    "id": "e00ed12b39e6738e",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-07-16",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Marcos returned home on Thursday night from what Malacañang hailed as a successful “productive” three-day working visit to Singapore, where he sought to boost bilateral ties and lure investors. https://tinyurl.com/3a647m54 | via ONE News facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcS0zQkhOSkZwTTVROWRPM2xYdzNaMWd2cDB6QS1MVXotWElDaUdsbUVzOVVtT21rTzFFaVo3blNQdHhtMHpJLUxnVEx4MW1ldllGTldvRkxWaVdtWmRwUGViQUV6dDZWWHpFc0k4NXpmLXc4a3hEN1l1Y09ld0ZtNGZVQy1NeVhGeURYcGw0RVc4YXJ0cUpVUWxTMGM1TVNyMm5zSklkUGdxVnlHQ1ZJaDYtY3BBWHBPWEV1Rk5veXZJQTFGcFBHM05KblRROFNMT3pJVmhOTjJwQnNMMkc5LWFkZw?oc=5",
+    "published_at": "2026-07-16T23:56:11Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
+    "id": "5144ab86176a48b5",
+    "leader_name": "Serdar Berdimuhamedow Makes First",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-16",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Turkmen President Serdar Berdimuhamedow Makes First State Visit to Georgia messenger.com.ge",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCRnhBaFZnZ3h3eU1KcXgwT3lzWlZkdmt2ajVnbVUzTjNZWmRsVEpXN0x4SGFUclMzVGwtUlg2cW51cjB4VjdHX0M1UUNaWURKbkQ5TmhEX2FYWUxGVGI2d2N4Q2hpZzZQMzhQRnc5bWdaMWdITXc?oc=5",
+    "published_at": "2026-07-16T23:29:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
+    "id": "752d7a3e92e33c89",
+    "leader_name": "Serdar Berdimuhamedov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-16",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Turkmen President Serdar Berdimuhamedov arrives in Tbilisi on state visit trend.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S0c5ZHRRUTRRbldsaTBkUmotYXNsb0lnNWl6SlhTOEhjQ2hudWgxU2tHU05rb2YxcXd4MUE2c2tyMzZXeE82VHpxU2pKenpvTXo4TlRydVBENDUyOTcyMXNR?oc=5",
+    "published_at": "2026-07-16T09:39:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
+    "id": "cffe4678506c6f7b",
+    "leader_name": "Berdimuhamedov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-16",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Turkmen President Berdimuhamedov arrives in Georgia on official visit Caliber.Az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2ZaT0hXT21BOHRMSHdOT2dPZDNKMnViTHJSNUEzTm5zb0o1TUFxclk4VlFVYjN5WmJPZl9mTFVMOEJFNkpmX2FQYjhSVVU5cXVLdC1BRnZLSURBRG9nLUZzbExLVFlLQWttWl9iWm14U19WVEJpaThKaEZZVkhBYnM1Y2JTOTFu?oc=5",
+    "published_at": "2026-07-16T09:31:16Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
+    "id": "5dcf27f2a3f4b541",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-16",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Turkmen President Begins Official Visit to Georgia With High-Level Talks Caspian Post",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkQ3VTdaNmNBNUZBdUJPOFFjaXRXb0lUQVk0VE03Z1V4UlM5Nk5aUV9JZlBfWkVLQUVvcm1NNWdrZVkyb21BMktnVThHTVFzQVc5TEx5SjZqYkgwaFd4Q0F4U0RMbmNRNk5wNHFrNzVZeng0UHprOGdGZ1NOdGhtZ3dSXzBmZ0dpMkNWLWtGUVo1ZW9RUnlUaWh0SlRJd195TVBIMnJHNA?oc=5",
+    "published_at": "2026-07-16T09:15:46Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:51Z"
+  },
+  {
+    "id": "37b8a0ed603e10ff",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-07-16",
+    "event_type": "other",
+    "destination": "Myanmar",
+    "summary": "缅甸领导人敏昂莱将访问泰国 8world",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObEd0WDhMUzFoUzlqMG1iWTBWaDREWU00dHBaRTZnYV9Tbl9BYnRVeWJKckg4RjctRTRxNXM5ZDVCcGVSX1d5ZEhjaFZOdlpwV29UVDR5dFliZlhRMmZLcXFzd2M4VGtUYV9Qak9BbHdLQnJlSlhfbVRaRG5kb2hXZWlacXV4MmxHc2tHZjQ4Zw?oc=5",
+    "published_at": "2026-07-16T03:03:31Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:51Z",
+    "updated_at": "2026-07-17T02:12:51Z"
+  },
+  {
+    "id": "95f1bcd20c58747c",
+    "leader_name": "Tharman Marks New Milestones",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-16",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Tharman Marks New Milestones in Malaysia State Visit Indiplomacy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2VMNzNtcXpzWkhzSWU1SlFjRnMxdjBYa1hhNWtVWVlwWDVSQXdwTnI5U291QTliYW82cGFtUk1LRGw0ZTk0b2xoLUJNcF9Yak10ZGpleE5XOU5XY1o1SXVQSUIxRUtjQVc5cVFEY0Z0VXY5N0FVZWtSWUQyNWFWQ18ydE9mTkdta0o2OWhRMWNUYjZMZG9DSExBN3ZiT2M?oc=5",
+    "published_at": "2026-07-16T02:44:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
     "id": "51ab1c98b61d46ce",
     "leader_name": "Macron",
     "leader_title": "President",
@@ -16,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "a62e1c48bc4098b3",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "6f5c8a544322c620",
@@ -57,6 +190,25 @@
     "updated_at": "2026-07-16T02:09:33Z"
   },
   {
+    "id": "9c19559cfff24391",
+    "leader_name": "of Belarus",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister of Belarus arrives in Kyrgyzstan on official visit AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXVEREJselo4X0k0QS1MVVdGbHV5M1hvNXQzMEJmdlE0alN3Yi1xZUpGcW5heXBsVU54ZlI0OTVGcXBVNkx5UmdwQjV2QUFKSGtFYjNxODBoWlltaFRzWl9EWXhCU0dSc1NuVUNqV0hYdVdGQTdoX1ZOSHZSQ2lLeFowWWU0bG1zVGdLcDI5SHRRTmJmR3dHelR6a3Q4N3JkYVE?oc=5",
+    "published_at": "2026-07-15T15:44:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:50Z",
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
     "id": "27dc2f5b68725d15",
     "leader_name": "of Turkmenistan",
     "leader_title": "President",
@@ -73,12 +225,12 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "5b1524bff473194e",
     "leader_name": "Min Aung Hlaing",
-    "leader_title": "",
+    "leader_title": "PRESIDENT",
     "country": "Myanmar",
     "origin": "Naypyidaw",
     "origin_inferred": true,
@@ -92,7 +244,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:34Z",
-    "updated_at": "2026-07-16T02:09:34Z"
+    "updated_at": "2026-07-17T02:12:51Z"
   },
   {
     "id": "d19c88e766dba1b5",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "b7e8fc8817c101f2",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:34Z"
+    "updated_at": "2026-07-17T02:12:51Z"
   },
   {
     "id": "0b2781b3fafe9b30",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "b5cacb175423cedc",
@@ -206,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
   },
   {
     "id": "193d1850ce5e64ff",
@@ -244,7 +396,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-16T02:09:33Z",
-    "updated_at": "2026-07-16T02:09:33Z"
+    "updated_at": "2026-07-17T02:12:50Z"
+  },
+  {
+    "id": "96d7bf53c4ae626f",
+    "leader_name": "Tharman Shanmugaratnam",
+    "leader_title": "总统",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-07-15",
+    "event_type": "other",
+    "destination": "",
+    "summary": "新加坡总统尚达曼将访问马来西亚：新马不被敏感问题牵绊，直面分歧建立互信 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXVfeXAzWnF1ak5xbWZ3TGh1b1FtT0xBazk2RVd2ZGM4YmlZcmpNVVZkYUpGczlXZFJvUlp5d3R2ZlphOUVSODlLZ0N6dm1jUDFfYkJ1QmdpRGVqbmszNmp4SzRrd3R4ZVVyZ25ObTRuaTlEeFlha05xM3dHMWRJSE1rT1FGZlE?oc=5",
+    "published_at": "2026-07-15T08:33:19Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-17T02:12:51Z",
+    "updated_at": "2026-07-17T02:12:51Z"
   },
   {
     "id": "aee575e467fd8f8c",
@@ -7008,7 +7179,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-16T18:19:34Z",
-    "updated_at": "2026-07-15T01:59:52Z"
+    "updated_at": "2026-07-17T02:12:51Z"
   },
   {
     "id": "7d1562caba04b69e",
