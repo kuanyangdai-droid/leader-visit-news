@@ -1,8 +1,122 @@
 [
   {
+    "id": "fc6f9af17d6ca34f",
+    "leader_name": "Ilham Aliyev's social media",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Ilham Aliyev's social media accounts shared video about his official visit to Germany VIDEO Azərtac",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVER0cWxybE1hU2RKRlkydm5KRnZJNjFOdFRrNmpYVFl5MDJrZmVCZzVLWEJMSkd1RVNSbWg4dldHbUR2c3NVUy1uY0pvTjJoMElubEVTLUxDMENfd3hMLUJEalR0aUNTVzBvdEtfUkxYdEpJZ0J1RGVvQ2J4XzRlU3VQRDExTElUb1dlTWVKaWNHd0xTaEoySUtmMWN5eUdMTmVMb3FiTzJpZkxMLW1qbnJRMllJOXg1YnBSU3N2OEl0R0hJVmk4QXp0bWtSaXpQSkNnMEJobw?oc=5",
+    "published_at": "2026-07-21T16:05:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "85ce18887cf99785",
+    "leader_name": "departs",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "working_visit",
+    "destination": "Singapore",
+    "summary": "Prime Minister departs for Singapore on working visit 1TV.GE",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWURKa2lja3JGN0ZZWUpVbTNBUVhqYkJKRHBuZk9JbTRMbHFQblhKVVBXZ2NYVEhEMjRuSkxUTE9TLUN0cjc0LU1LcDUyMjF2c0FLX2k1ZmpWdzc2WjVpb3N1QndOTGhCWm9fU3UtY09ZUTFVM0hncDB5Z3VDVlk0MlE3RU5ld0RxNXc?oc=5",
+    "published_at": "2026-07-21T06:52:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "2aca968c2e78d17f",
+    "leader_name": "visit. Irakli Kobakhidze leaves",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Irakli Kobakhidze leaves for Singapore on a working visit IPN.ge",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTAxck5RWlRjbV9KVFlYWmVfNS1Uc0R1MXk4c1JoSFNYREZxb0psa0daS0hjNFMzamZGNnpTZi0wbVJQMkVHVFJrVHhDSE5vZXJjMUNBUlo2Y3JGTDg4a1U4eWM1YUVQWnRQa2JHM2tEMHIxOG1venV4LXRfalNhM09XQVJ3STFOM204SkVIdEhBOEpNbzRmcUZCVWZiR2d5UEtvY2tlNTJwUQ?oc=5",
+    "published_at": "2026-07-21T06:50:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "ea6660c5a525f712",
+    "leader_name": "of Georgia has departed",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prime Minister of Georgia has departed for a working visit to Singapore Rustavi2",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2MkJSQ2VnOFNCRnhJMHBNX0VpdmZFVjVyRWY0V2ZkY2gyX1QwY0lLQ2YwRTRFMFhCd1RwTEh0OE94aVV0VzdzcTFR?oc=5",
+    "published_at": "2026-07-21T06:29:00Z",
+    "language": "en",
+    "possibly_special_aircraft": true,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "41f0932df8292e4e",
+    "leader_name": "of Tajikistan Arrived",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The President of Tajikistan Arrived on a State Visit to Ulaanbaatar open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjhhaTVjQlRUQmtTdmM0V1YybFN0MXN3NVN1SkNkdkpsUDFvVE81Y290VzdfRFBfQnpwd0Mzb3ZfT3BMTDJlNmY2UzU0WmJoYkw2T2VpdXFST1ZOZUJVY2tRN3ZvOUtuc3VubUNPelF6ZGhDU1BJTHVtc19lZmxwQ1RvUm9aZ09UVFI3dVZqR2cwWlBhb0l1LUt5akRkZEFjWTVEdmpEMDVxbEo5MmFJQVNDaUozUVNCS0Q0?oc=5",
+    "published_at": "2026-07-21T04:23:31Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "8f73a080b19f871a",
+    "leader_name": "Droupadi Murmu Lands",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Video | President Droupadi Murmu Lands In Skopje On Official Visit To North Macedonia NDTV",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOTl0aVVGWmhGZEM2MURDMEpST2pCWFY0SkoxNHhlVVlzckMxZmxuMjh1UDJGWWg1RXRlTWxWYkNUTDM1b0hTNVFpUUVDNS00d3FlWlE5OVlDaXptRW9hTkNJQWhVVjZqVTl2OXdsTXA5Nnh2U0NMQV9kaG1LTmwzTXdKcUp0SEdCandScWUxWVVYcndNM2NkWDR5NTQtZWxmZDBNSWhkd290eGtnZEsxZzJB?oc=5",
+    "published_at": "2026-07-21T02:54:27Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
     "id": "c1ffac46b32f68c0",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
@@ -16,7 +130,45 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:18Z",
-    "updated_at": "2026-07-21T02:12:18Z"
+    "updated_at": "2026-07-22T02:10:26Z"
+  },
+  {
+    "id": "2ac319492e0f938f",
+    "leader_name": "请乌克兰",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-21",
+    "event_type": "other",
+    "destination": "United Kingdom",
+    "summary": "伯纳姆邀请乌克兰总统泽连斯基访问英国 早晨报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90eDFtdFpNNWRTaGhoYVAyVk1tbmVVTDV4Z29DUS1NcHotYTd0bndTQTUzU0lmSkZRbDVSS0gxbUR1UWJsSHpRUGNxWXo5M3ZwV3FIU2JaRjlJNTlkQ1F5SzEtOVlPWS1TanFXaQ?oc=5",
+    "published_at": "2026-07-21T01:51:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:26Z",
+    "updated_at": "2026-07-22T02:10:26Z"
+  },
+  {
+    "id": "69730a5a13e4d79b",
+    "leader_name": "Germany",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Ilham Aliyev arrived in Germany for official visit President.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UeXN5N2R0RU43cVRqRTBUUnZ2azFIS0xHbHB3a21oX3Y1QkZMNXNHaDFTb2lzRExpb0h4WXQzS1haUWJXR1NFT3I2VGEyb0RrOU93cUtR?oc=5",
+    "published_at": "2026-07-20T17:49:31Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "c4bcb4c0df5d0316",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "13276f09efa1dd91",
@@ -73,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "af68f07fe83f809e",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "bf9ac776e93605f1",
@@ -130,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:18Z",
-    "updated_at": "2026-07-21T02:12:18Z"
+    "updated_at": "2026-07-22T02:10:26Z"
   },
   {
     "id": "007aa6e944fffc85",
@@ -149,7 +301,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
+  },
+  {
+    "id": "1f6e19c8685d6015",
+    "leader_name": "OF INDIA",
+    "leader_title": "PRESIDENT",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-20",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "PRESIDENT OF INDIA IN MOLDOVA; HOLDS BILATERAL MEETING WITH PRESIDENT OF MOLDOVA AND LEADS DELEGATION-LEVEL TALKS PIB",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWazBiemg0VWEzYUIxOXRrcmZMSk80aHFGOWlGbmt6VHUwSUxoaWdLYnlNbnhDSExyelBySWp2VlNweXpjemE1TjlzaDlOeV9sR09xWEY3WDhfT0FjZ1ltak1JVVlIQVZoMXdHTGlMcHdGTExBMWRjeG9MSQ?oc=5",
+    "published_at": "2026-07-20T10:58:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-22T02:10:24Z",
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "d55de9b694c3b4a9",
@@ -168,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "5f64fdb0feaaf83a",
@@ -225,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-21T02:12:16Z",
-    "updated_at": "2026-07-21T02:12:16Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "3f171213477cdaad",
@@ -244,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": true,
     "created_at": "2026-07-20T03:33:51Z",
-    "updated_at": "2026-07-21T02:12:18Z"
+    "updated_at": "2026-07-22T02:10:26Z"
   },
   {
     "id": "823457a160ae7828",
@@ -263,7 +434,7 @@
     "language": "zh",
     "possibly_special_aircraft": true,
     "created_at": "2026-07-20T03:33:51Z",
-    "updated_at": "2026-07-21T02:12:18Z"
+    "updated_at": "2026-07-22T02:10:26Z"
   },
   {
     "id": "3b22712da741d981",
@@ -738,7 +909,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-19T02:13:22Z",
-    "updated_at": "2026-07-20T03:33:49Z"
+    "updated_at": "2026-07-22T02:10:24Z"
   },
   {
     "id": "6aef04ca88b01cdb",
@@ -833,7 +1004,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-07-21T02:12:18Z"
+    "updated_at": "2026-07-22T02:10:26Z"
   },
   {
     "id": "d9535caf770f58b9",
