@@ -1,5 +1,176 @@
 [
   {
+    "id": "cc0e83c5dd40844e",
+    "leader_name": "",
+    "leader_title": "premier",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Iraqi premier meets Iranian president in Tehran on 1st official visit since taking office Anadolu Ajansı",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNajR5QUwyNDJhSC1ZTEJ5NlhKS05ubjRkNUR6WjlKSjZ3TTgtTjBWdHppS2E2cUxHenItR2NBNXhjZzgzYWhlOWFMN3RBWmpoT3NsRW9aNHJCLUNwcHRudzM3U0l6eEJUYVVCVXlSck5sTXBuOUpqQjFfTkoxdjRiMjEyR3E2UGtZS0NYRzRxdzM3U2lRaS12OFFGNDUwb3dCSmdGZ1BIWjNKN2pxMXNDTXdBQThsNWlIYV9IaVNzY0NMeXE3UVlPcjJmcTBkYnc?oc=5",
+    "published_at": "2026-07-23T20:53:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "9259f2e2a85ddb4a",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Shettima leads six governors on working visit to Benin Republic Punch Newspapers",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFQxYm5uQlR5NU9FWnhOeDJtTnRVckFWbWhXanN3ZUI2ZEpOeFhFS1pBVnlkblJZVW55R2luQXhHSXRoSTRGSDlvN1NpN1UtRjBpcmdYNklXUXFVVjdNbjZmZUw4dTNySFhMMVlqT2J5SjNQeTI5LTVVVy1zNU02akxoMThRcTk1NFdtaQ?oc=5",
+    "published_at": "2026-07-23T16:26:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "3664aa376ee6f2f4",
+    "leader_name": "Murmu",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Murmu arrives in Romania on state visit; focus on expanding trade, tourism ET Government",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUG14eElFUlRTUnRETmdWZE9WOHJTOC1CNmdNT0Jha3BqNUk2MnRLbUNfOHFZOWE3cXF1ODZJYTRsZHNmZEgyd1lVcDJYczhoSWRKMG9OYVVxWkFKYXJKSGpyd01hWWw2T1JCbHJuX01LRzN3Tk5oeV9fWUxZcXl1Z0piTHh2aDRla1ZjNF9SaWtEeVNKTTNqR2JQeWQ4dmgyY0tCdnU0Zi1RM1U4TEdtcGhuN25jb3VObEJKTmM1cFFyaW1wSUVsR1BnWFRLdXd5Rm1leGlfcUJJNnJQYjZrWUd5eWVWcDJ60gHuAUFVX3lxTFA5bUxtQ3N0U2J1cnIzV0l1VmVDN2RzYlBHYjBsYjBabDNYdUwzVGJaR3paWXM4VEZvM21nTTQ4NXJLZExHT3JNTFFaWjZzMlJRYi04cDR0MGxDZjJBX0hTU01fa1Rsdk9NeUR6VnE0SEdxdWxGT3Z6QVdoZG1XM1dPX2pqcWVqd0tZNHhmRFdNdktaTEZac21BRlVjVTBqYkpsSHdSZHVlZDlXWS1IY3RydFQ2UFEydG5GbHZBbE1aNW5td21WR2kxQk5TQnhocS1ZaVNGazZYMmtxZWpGOG16aVJDZTViT2t5WmFGY1E?oc=5",
+    "published_at": "2026-07-23T13:26:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "9a8a782b24cc0237",
+    "leader_name": "Droupadi Murmu",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Droupadi Murmu arrives in Romania on final leg of three-nation State Visit Telangana Today",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXFtRTZsRmNkZ3JocVNjVEdzQnVnOE0wblBoN0pDU3JnbnlZQnVSbkNQa2s3b2llalI4SDdFSlA4a1JBN1hSbV82ZTk2U1JGemRveFN3d0pnMGs1ekhqMUtRTzFEZTVtLWl1ZTlCcG4tNUVwZGdGV3NMUHNPQ1BoMkY2eDhBSk1VVnI5YU9sdUo2c1gyb3dQdWk4T3VLS2pqZlpwWWw0RjgzYzRsMnRyRQ?oc=5",
+    "published_at": "2026-07-23T12:46:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "ab70aaa132148176",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "外长",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-07-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "泰外长证实：缅甸总统敏昂莱将于8月对泰国进行正式访问 手机网易网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzNDk1ZmlNbDNoajBPbGtoemdiQ2tCZDRYalhGODlHT2lRLXpkZFdoOTRWTklITE9pb0UwTjdzRUlON194N0hNa0xMQ195Q1F6TzdBSmRVcHRxZEVheVJXUDdR?oc=5",
+    "published_at": "2026-07-23T11:43:50Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:16Z",
+    "updated_at": "2026-07-24T02:13:16Z"
+  },
+  {
+    "id": "970b9e40a8cc001c",
+    "leader_name": "of Action",
+    "leader_title": "foreign minister",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-07-23",
+    "event_type": "other",
+    "destination": "",
+    "summary": "UK Foreign Secretary Ed Miliband agreed the ASEAN-UK Plan of Action with ASEAN foreign ministers in Manila on 22nd July 2026.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/publications/asean-uk-dialogue-partnership-plan-of-action-2027-to-2031",
+    "published_at": "2026-07-23T10:45:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:17Z",
+    "updated_at": "2026-07-24T02:13:17Z"
+  },
+  {
+    "id": "03988bfddf4cc9cf",
+    "leader_name": "Iraqi",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Iraqi Prime Minister: 'Today, we head to Tehran on an official visit, during which we will meet with senior officials in the Islamic Republic of Iran to discuss files of common interest, bilateral cooperation, and consultation on regional issues and efforts aimed at co news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZjU3SzNWb00xTmxyZXh4OERkM0VjWERGZm5kaTRUM2tycmRucm5DRXMzNlRmekJEbEpWalJrT08teUdoVWI3RzM5N29xcnJKbnpIV0ZlYm9hTkxiRkNSb2JrMm1JSXBmSXFQd0pR?oc=5",
+    "published_at": "2026-07-23T07:46:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "bd37d10749e8d9c0",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-07-23",
+    "event_type": "other",
+    "destination": "Canada",
+    "summary": "习近平或将于9月访美时顺道访问加拿大，关注中加关系回暖中的高层交流 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOMjdxNGlEdVR0VW1ieGV5c25VcFlEcDZPVF9DVnQyc2haRFc4VlgyR2w1bHFlY3VXOTBDY1lGa0MzMXljQU44WUZCZS1idHFMWnZ6VFZQMUp2bEE?oc=5",
+    "published_at": "2026-07-23T02:22:23Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:16Z",
+    "updated_at": "2026-07-24T02:13:16Z"
+  },
+  {
+    "id": "2563d222715ebf11",
+    "leader_name": "Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Ilham Aliyev’s official visit to Berlin attracts attention of German and global medi Xalqqazeti.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2JlaFdTbFhfNVZXZXhxVUxURTBfbi1vLUp4RVJfMFpKX05PWGpwNDBYZGIwM3ZJUWQzLXpMT1BPdVZNSFhSWFNPVnhVcUVISWg3czcwZG5aMTZHMC1XVDNKdkpjYVctQUlvVXJRQkF0cU81MXNXN2xsNVdGdC1aN1Bkd3o?oc=5",
+    "published_at": "2026-07-23T00:28:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
     "id": "91c93279c20bce55",
     "leader_name": "王毅",
     "leader_title": "外长",
@@ -16,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:08Z",
-    "updated_at": "2026-07-23T02:22:08Z"
+    "updated_at": "2026-07-24T02:13:16Z"
   },
   {
     "id": "60144e97b2181557",
@@ -35,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:07Z"
+    "updated_at": "2026-07-24T02:13:15Z"
   },
   {
     "id": "a36034bd7b60e443",
@@ -54,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:07Z"
+    "updated_at": "2026-07-24T02:13:15Z"
   },
   {
     "id": "82334c08a03ecceb",
@@ -73,7 +244,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:09Z",
-    "updated_at": "2026-07-23T02:22:09Z"
+    "updated_at": "2026-07-24T02:13:17Z"
+  },
+  {
+    "id": "5bf2808d5ac95ee0",
+    "leader_name": "韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩国总统李在明将赴美会晤黄仁勋与奥特曼，三星、SK海力士掌门人同行，AI与HBM供应成议题 TradingKey",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFYUTB4a2d4Qm5raDh4NjNXRGxwT3VQQTlRQ1Y4NmoyaURDQnVKV0JCTGhTR09McnZ2d2JLb1E3eXB4YWwxbVNpVFY4THh5bkk3WEZmTVUwOHlxMTZkQ2d2Zkp0LUtpNUxiS19DVWlnNmR3Q29XalhPYzNNVl91ZXdwakxnTDlXQ3RfQXI0ME9ucGJGTER6Y2gyWjJCdkx1anUtZmk3OWhoclE3Z0NqenpMV2NMRmJtQV8w?oc=5",
+    "published_at": "2026-07-22T13:02:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:16Z",
+    "updated_at": "2026-07-24T02:13:16Z"
   },
   {
     "id": "67c054e796699a61",
@@ -92,7 +282,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:07Z"
+    "updated_at": "2026-07-24T02:13:15Z"
+  },
+  {
+    "id": "c81bff9dcfb39702",
+    "leader_name": "of Kyrgyzstan has banned",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "The President of Kyrgyzstan has banned government agencies from requiring paper documents from citizens. open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOajNGNXZhSEIxdUVVckQ4Vlo1R2ozTVpOZDRZYm1MckUxQ1FhRWptMnNDWTA0NExpVkpFNTJtYk9LU2lSVkU0SGJXRHN0LVk4T0hZdDYzcmNIZTBueXI4bENPUnE0RmlvVjJaRFEtaWRwZ2ZpNWhob3dpNDJjcFdacVBDczV5S0ttNGg3YXgxRUx2MUVuNDN5YmRqSWxjMms1V1VUb2RUUXRuOFpTenJ0UTFyUFV3TjFfOTFDaEhVVWxINW1oTVJF?oc=5",
+    "published_at": "2026-07-22T10:53:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-24T02:13:15Z",
+    "updated_at": "2026-07-24T02:13:15Z"
   },
   {
     "id": "ba9cfa43f1c6d13a",
@@ -111,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:08Z",
-    "updated_at": "2026-07-23T02:22:08Z"
+    "updated_at": "2026-07-24T02:13:16Z"
   },
   {
     "id": "398c19f2602d5057",
@@ -130,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:08Z",
-    "updated_at": "2026-07-23T02:22:08Z"
+    "updated_at": "2026-07-24T02:13:16Z"
   },
   {
     "id": "289b913f75530a0f",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:07Z"
+    "updated_at": "2026-07-24T02:13:15Z"
   },
   {
     "id": "194fd5db335a0e3c",
@@ -168,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:08Z"
+    "updated_at": "2026-07-24T02:13:16Z"
   },
   {
     "id": "e7d77072eabaaeee",
@@ -187,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:07Z",
-    "updated_at": "2026-07-23T02:22:07Z"
+    "updated_at": "2026-07-24T02:13:15Z"
   },
   {
     "id": "2f155656973d523f",
