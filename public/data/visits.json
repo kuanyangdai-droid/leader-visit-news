@@ -1,5 +1,157 @@
 [
   {
+    "id": "71f7a53f580468e1",
+    "leader_name": "",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "India",
+    "summary": "India, Romania looking to build comprehensive partnership: MEA on President Murmu’s state visit The Indian Express",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFk4TFVSU2tvaXlkZ1pxLVMyQjFNMWdvRnBOcVdLTlctLVptREE1QzVyTDhvcENsR3ZVYjk5LS1aMkNhcHpCeU5WR0JNaUx4YlRsY3Y5TU9aVXNORnRJMERlRW1MZHhKdjktSnFENkdGQTFpWG5nYWpqVW1raE01RWJCejNPZHg0TWlpTFp4VWlETUQ3YllvVFJ3VVJCOC1KU3ZNeU4zSE1GYVBvWTJZMXFJeW02WmF5RnNNSFNCUDNpSGxjb21SQU0wSEMySExubDQtQUFoUlRLUdIB4AFBVV95cUxNX0txaHBoQ21kOGxZN0t2WXhyc25WUDlBUFlKSjNESjB3Y1BrQzN6ekc0VUdXWXV0YkdkSzJQX0doX1Q5WU1zRXJfZkZxQmQ5OTRYZ05TQy1FQ2ZfOVVpNUE4aVQ0NEk2b3I2ajhQSWZSRk92b2NqNVNhQ20tak9iTDZnNmFKUGYtSXo5b2h6NUkwOXRjSjBTQ0ZXcG1FeUxPb1E3cURHREU1aGlqejFLTFVqSlZmSTZMSjVYenZBczN6YWFrVnVMY3l0S095el96RVYzWTFMUkNkdzR5ZVpzbw?oc=5",
+    "published_at": "2026-07-24T23:38:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:08Z"
+  },
+  {
+    "id": "af2719bc5212ae72",
+    "leader_name": "Peter Pellegrini",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Slovak President Peter Pellegrini to pay state visit to China from 27th to 29th July Dimsum Daily",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVk2NnhyZE0wNmhjNVpReDhXU2RQRlpTQTVBRFNGbkswc2dOYWg0OEkyclpIZmdYd29qbkVaZlJCVTdiZFhQWS1GVEpHRjRYazlIeXBLOTdEd29HUi04Y3ZRc3Z0RlN1WDZKcWk1SWsxNkp1a1hNNWJEZExxVmFlOWZOQWVwQWthMTdXdUFQRHdteTRrcWNSelMzcERJcHZMUG4tbmVVaXN3dEJSbGVhcUN3?oc=5",
+    "published_at": "2026-07-24T16:23:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "20679d2e1ed5041b",
+    "leader_name": "of India",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President of India, received by Romanian Head of State, Nicusor Dan, at Cotroceni Palace actmedia.eu",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDVxTGV4VzJFX09jWjNlNHhHMkhWZktBZm90S19ENXYzbkpvMzFvRC1KMkpzY3oxby1sU1ZjWjlua2RoMV9EM1JENEw2bExCZDgtMlZzdkdNVjZlSDVTV0NzSGlKN1phT3k5djNxOWMzd01wVVlhVjVJbmRaTjBTaDU0eWFXX0xkWWwxbVhHM0xmUG1Od2w3b05NWkpaRVBkQXVNTThsLVJwaGM1VXBzejBrYTFGOW9Pcnc?oc=5",
+    "published_at": "2026-07-24T11:19:12Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "1e1d7b8858f0830a",
+    "leader_name": "Mirziyoyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Mirziyoyev, PM Kobakhidze review implementation of Georgia visit agreements trend.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jZ2dlM2wyX1ZRV0ZvM3RPd0hZSGVZUm1sTVpnRUFmLXRva2JteW5Dd2M1WUFMbm13bVJ3a0QzOWFCNS1CeWhpYmsxOXBESUlSS3RuTA?oc=5",
+    "published_at": "2026-07-24T10:39:27Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "35ca5603bc8b71ab",
+    "leader_name": "of Slovakia",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Slovakia to pay state visit to China People's Daily Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzYy1XRnNtb212RUhLczFxUHNrRTcxalAyU1NlVVd0UGhmN0RGZVQ3N0hMa0FyQUtQdW92eUVCOXdacVp4ZkQ4d2djUXJkbzlXRmNtXzlGRWU0SEhOLXFDQTMwNWE?oc=5",
+    "published_at": "2026-07-24T08:15:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "d1dd847ac812f7a8",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "‘Two ancient nations open a new chapter’: Israel’s leading daily welcomes PM Modi’s two-day State visit DD News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVJqVlFYMHdFWFdNSTBIUlhyQWk2eWU0Y1QwZzJhUVRUVkZqV24xTGtYaFVIWXFuTnJGVGZ4SHNpTWZsY2dpLWRvX1BSYXZnSWt4SzZoMjFlZEt4c3pZR2RPQWJ5UDgtaW1nOXpfeUkxY2dTNWRxazlESG9tV0l5NVl6UmlkVGFsaUgxTjFQWVp0RjFhcG8xS1hUZ3NQQ3hxd1c0VVVVWTN1Z3JYVWZWdk5YZHYzUkFOU1ZhOGJodFRMdw?oc=5",
+    "published_at": "2026-07-24T08:10:29Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "7186f6139146bd21",
+    "leader_name": "斯洛伐克",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "斯洛伐克总统佩列格里尼将对中国进行国事访问 新京报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wRktfY3E2UDJqZDROVF9DVm54M3RQV0c5NDU3cmQ3NFJBRVlKeFp3eVBEVEc4a1d5ZlNnaUQ0bVBfYlZvUWczMG5NVE9fU3Z5RURuM3dXQ2ZLQXVJdnRvRzhIam8?oc=5",
+    "published_at": "2026-07-24T07:09:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:08Z",
+    "updated_at": "2026-07-25T02:12:08Z"
+  },
+  {
+    "id": "e41c0b7197643452",
+    "leader_name": "of Turkmenistan completed his",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The President of Turkmenistan completed his state visit to Georgia Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSC11bDkwOHZKamJEMG4xUWsyd3pOR210dy1Wc29wUDBpUTliZ1hIcmplVU56N1R6ZUVCMFZiNUVsZjI5NkcxZzFBLUJrOE9vRk5KWVBRandLQnVHR01tcEZlaDF5TVdvTWM0a3hwQVFLek5TdC1nUTFCM2JONzQ5UmU0NjBFLUJkOU5Vb3FnWjljQ3MtM3NnQ2RHc0JEWHlVRHk5V1k4YWc4RVgwLXVUVi1ZdHAxa0k1eUk4?oc=5",
+    "published_at": "2026-07-24T05:36:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
     "id": "cc0e83c5dd40844e",
     "leader_name": "",
     "leader_title": "premier",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:15Z",
-    "updated_at": "2026-07-24T02:13:15Z"
+    "updated_at": "2026-07-25T02:12:06Z"
   },
   {
     "id": "9259f2e2a85ddb4a",
@@ -35,7 +187,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:15Z",
-    "updated_at": "2026-07-24T02:13:15Z"
+    "updated_at": "2026-07-25T02:12:06Z"
+  },
+  {
+    "id": "e8e051ab50ad976a",
+    "leader_name": "Charles III US state",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-23",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "King Charles III US state visit proceeds after security review amid UK US political strain Goodreturns",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGdLcWY3TUhwMHFJejRQUVlCa0Nzc3haU2NEZ1B2cWt3U3FtTWJLQXJtR0V3b0J6SmMwQ2NVMXE5czV6RHVYMm5yeDFHTnJJV3YxaXhLOVFtQ1BZQVJKS2R1bWVGcEI2RlI2LTMyRlgxLUR6WHVNVGN3a3E0eTVUOEpacnVRNEVkdS1KanZBLVV3cnI4ZzItMGJhUGQ0WHJ2Q2EyUXU1a2tERW1FdGR2TDBmSVU?oc=5",
+    "published_at": "2026-07-23T13:39:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-25T02:12:06Z",
+    "updated_at": "2026-07-25T02:12:06Z"
   },
   {
     "id": "3664aa376ee6f2f4",
@@ -54,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:15Z",
-    "updated_at": "2026-07-24T02:13:15Z"
+    "updated_at": "2026-07-25T02:12:06Z"
   },
   {
     "id": "9a8a782b24cc0237",
@@ -73,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:15Z",
-    "updated_at": "2026-07-24T02:13:15Z"
+    "updated_at": "2026-07-25T02:12:06Z"
   },
   {
     "id": "ab70aaa132148176",
@@ -111,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:17Z",
-    "updated_at": "2026-07-24T02:13:17Z"
+    "updated_at": "2026-07-25T02:12:09Z"
   },
   {
     "id": "03988bfddf4cc9cf",
@@ -130,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:15Z",
-    "updated_at": "2026-07-24T02:13:15Z"
+    "updated_at": "2026-07-25T02:12:06Z"
   },
   {
     "id": "bd37d10749e8d9c0",
@@ -149,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:16Z",
-    "updated_at": "2026-07-24T02:13:16Z"
+    "updated_at": "2026-07-25T02:12:08Z"
   },
   {
     "id": "2563d222715ebf11",
@@ -320,7 +491,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:08Z",
-    "updated_at": "2026-07-24T02:13:16Z"
+    "updated_at": "2026-07-25T02:12:08Z"
   },
   {
     "id": "398c19f2602d5057",
@@ -1517,7 +1688,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-07-23T02:22:08Z"
+    "updated_at": "2026-07-25T02:12:08Z"
   },
   {
     "id": "d9535caf770f58b9",
