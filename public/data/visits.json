@@ -1,5 +1,176 @@
 [
   {
+    "id": "6233843a10f18d0d",
+    "leader_name": "以色列",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "以色列总理内塔尼亚胡访问美国，计划与特朗普会晤 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRDd3TS1iWDR6WTdYNEoxQlFXaEgxVXFmdXpTMlpfWHJOcjJaeTdrbDV2bEFoQ2pZbmJzRVZqNGEza1hKSTJlMFNhTnNXcjhLb1N1S2JpVS12ZW8?oc=5",
+    "published_at": "2026-07-25T20:04:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:38Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "75afe5e3baf647f6",
+    "leader_name": "Mahama",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Mahama to pay a state visit to Jamaica Ghana News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTW41aHRQYkFmXzM3U21EZkFodVBaMUtIX0RRNnU3ZHdLVHRYV2tEZ3dHSWFncHY3dzRFUkpRVi1IMXp6R0JYcm9xQV9FTHFFQjg0MDBpeGpDZzdpR2VIeXo4QzQtNFRFaHJTTjg5NzlrME85di1yLXZtWTBDandZWnlB?oc=5",
+    "published_at": "2026-07-25T18:50:58Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
+  },
+  {
+    "id": "273471e6ec75cc47",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "Gabonese President to pay three-day official visit to Ghana CitiNewsroom.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONWZ0d01OcWx3ci1iUlljUUhpQU5RNDZFdm83dHNUb05BQV90dU1hUW9zR0hPWHU1S0dpS0RPajFVd1VXVEplU0tkQk1RazZZREVxQ3labFBqLXRoNmE3QncyX0pjQ25iRVpwSW44YUNtLUpfeTc0YUlvZk9CMHEyMUJwRDk4RlpyQ3lxTjA2RW93emxhUThfa0l3Y1lHQQ?oc=5",
+    "published_at": "2026-07-25T18:20:27Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "4a25fafbb574353b",
+    "leader_name": "of Republic of India",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Exclusive Interview with H.E. Droupadi Murmu, President of Republic of India on the Occasion of her State Visit to Romania The Indian Panorama",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQlZVV092STY2QUg1Rll6Qkh6UnlyY1ZrZEdQeUFTdmd2STI0QTdOSFZ2WUtWNWVFZ1NSR3I3aXVxVjRNMFJ0a2VONG5nZ29uVEVhMUFZVkd1VVdhcFE0VVZIYkRSb2NoRzh1QzNPZjQ2YkdCTENWQW9xVWU1d2tpY2tqWWVISWNENE51aTVNM1RtOFBLdjY2ZW9NMWRTSkw1aVYwMF9wLXI2azZPelQwNUhiR3NzM0o5QnBBcmRZa2NfSmhkd19FSWhZTnJaQl9DLTFBZzJWMGRIR3NUTnROWjdydUxMb3RYUG1kYw?oc=5",
+    "published_at": "2026-07-25T13:42:04Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
+  },
+  {
+    "id": "548f0f3213fc8c97",
+    "leader_name": "韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩国总统李在明访美，帮存储双雄签下9500亿美元大单，和黄仁勋一起喝啤酒、吃炸鱼薯条和汉堡，三星电子会长李在镕 每日经济新闻",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VOHU1WFAwUGZMWXVpbFp1enhqcFJLeWJLcHc4T2w1TDJiNmF5WVBnYWh3UWR4dVhQLVNLdDZtdE5mRlVtazBFcTUwYkx0ZU13b1VLb0RRa2V3cnNiZVVWa2FydGJYdw?oc=5",
+    "published_at": "2026-07-25T12:23:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:38Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "cafe93f29fe3cd4a",
+    "leader_name": "Droupadi Murmu",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Key Outcomes of President Droupadi Murmu’s State Visit to Romania Vajiram & Ravi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbi1ULXl0NDFSWTAwdkgzN0dYa1JTTXM1ZzBJQjN4X2c4a2MwNHM4UXFLYzRUTVlZZVF0YXpQR29jZ3E2SXhYNFM5WU9KSVkydWdyM2REdjYxYkw5Sm9abWduSDhFY3ZLaU83RTB6WDNUbUl0Z0wwTHJOM0tJeHk3ZHBwM3VESm11TDByS1JsQUVKZWJLSkpZ?oc=5",
+    "published_at": "2026-07-25T12:15:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
+  },
+  {
+    "id": "ea42d09a3294d03f",
+    "leader_name": "革并会见",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "联合国秘书长古特雷斯抵达大马士革并会见总统艾哈迈德·沙拉阿| 乌克兰新闻 Межа. Новини України.",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5POTE0bkZSR01oZzRDOHlNWDVWenhkVHZzT1Z0VkpKaWZOUi1wN1M4dXVqVFY3UnA5NzdrQlZBSzM0RXZETjV3S3lXZ1JEcnVvM2F3eTJJUFFZYVA3NUNZREVQQm8zX1JOQi1ySGFn?oc=5",
+    "published_at": "2026-07-25T06:07:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:38Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "b217057a3332f5aa",
+    "leader_name": "李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "李在明总统访问美国及南美，与大科技公司CEO会晤 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQ0p2ZTRTTEVhVHRWMXZNWXJ2UF9LSFJHZ2tSaThEUGwzQmF1UnZxWG9wanY1cUtHeHV2YVIyLW8wMWFaX1FvMVd4UmF3YVdzWnVrUkdvdTRTeW8?oc=5",
+    "published_at": "2026-07-25T06:00:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:38Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "9ae8d0e9b0cc3862",
+    "leader_name": "的李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-25",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "正在访问美国旧金山的李在明总统24日(当地时间)与全球大型科技企业的首席执行官(CEO)等人在能看到海边的当地露天露台餐厅共进晚餐,巩固了友谊。李总统在晚宴上表示:\"在韩国，家人也被称为'一起吃饭'的.. 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iaG9XVV9uakVVOEkyQ016enV3NWw3ZUNUaDBMT3Zmd0ZFeXd4ODJ6OGNOOGJOYTJlOUFCeXk3c1dYM1JGTEh5azVwSVRBUlE3OXln?oc=5",
+    "published_at": "2026-07-25T05:17:28Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:38Z",
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
     "id": "71f7a53f580468e1",
     "leader_name": "",
     "leader_title": "king",
@@ -16,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:08Z"
+    "updated_at": "2026-07-26T02:23:38Z"
   },
   {
     "id": "af2719bc5212ae72",
@@ -38,6 +209,25 @@
     "updated_at": "2026-07-25T02:12:06Z"
   },
   {
+    "id": "5647f4e3886d1c62",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-07-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Ferdinand Marcos Jr. met with Indian Minister of External Affairs Dr. Subrahmanyam Jaishankar during a courtesy call at Malacañang, as the two leaders reaffirmed the elevated ties between the Philippines and India. | via ANC 24/7 Full story link in t facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbFlHSVZpRjluSE52UE8zdFA1WkxjZGQ1cXpseWJCUGt5b2dUUkFPNHkzS0NxM0hkdUg2WGVTZWVRcWlOZmhZYUkwS0J3VE9Wd2psd0VTa1ZGY3ZMeEF2ZE50RW14LTB1LUkxT01qaFpvSHZkdERSNjAtTEtBQVRjSXJTWHZmcW9MT0gydGdnck9FeDFjOUJVRFdJeHdHTWpPcWg5eEVkY3JRNmNCSndLQTNtaGdWY1FEUFUwSUQ2LUNCaGZYa20xZFh0TmJHZV95M1IyRktua2k?oc=5",
+    "published_at": "2026-07-24T14:10:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
+  },
+  {
     "id": "20679d2e1ed5041b",
     "leader_name": "of India",
     "leader_title": "President",
@@ -54,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:06Z"
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "1e1d7b8858f0830a",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:06Z"
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "35ca5603bc8b71ab",
@@ -92,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:06Z"
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "d1dd847ac812f7a8",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:06Z"
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "7186f6139146bd21",
@@ -130,7 +320,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:08Z",
-    "updated_at": "2026-07-25T02:12:08Z"
+    "updated_at": "2026-07-26T02:23:38Z"
+  },
+  {
+    "id": "1cc615b1dbcc6c91",
+    "leader_name": "Droupardi Murmu's visit",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Indian President Droupardi Murmu's visit to Romania continues on Friday Agerpres",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWt4X2VERkJEblhoM01USHlZdTNiUEc4TE5ESHpmR2VxdmpGQ0RVSHFONGEtN3FMdXNkZTd5WjluSVdOS3hKUFZFRXhUNE8zSW84N21UZnZaMGxENmVNclRRVlNSNE1PX3kzQkJQWGx3U21qT21HbVE1b1dSTUpiTGJXa2JxLUFKZFBvdG1KS2hQRmZJQ2xoUUJvSTFBZUtFazl0V2FxRTVpOTdtT1dPbk90dGdJV0pIVWZN?oc=5",
+    "published_at": "2026-07-24T06:34:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "e41c0b7197643452",
@@ -149,7 +358,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-07-25T02:12:06Z"
+    "updated_at": "2026-07-26T02:23:37Z"
+  },
+  {
+    "id": "427600e5e97c576d",
+    "leader_name": "Murmu holds talks",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Murmu holds talks with Romanian counterpart, pitches India-EU FTA to boost trade and jobs DD India",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWVNLRm5mYTMtVDVxSlA1LTRZOEhFZjhydXFfaGxsZ01MTWttNW5vVUFZQkZmRWNJNDM2eWZ1T0xYeDhDVm5FZ3RFTG56cTZ0aXBtamdVX3ZISUZYNWh6U0pmal9NU0xfczRrRU1qUl9oV2ZUbzNhOVlfdDBUWFB4OF9lZ29KREMzTWZva1J5YzlpOUY0UF9jRUpyMm5ta3BfeWxidnRQS0E3VjNRY1dXdlQ0Rkt1V1JCWjc0RC1RR0JQQUJlTlRvSw?oc=5",
+    "published_at": "2026-07-24T02:52:05Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-07-26T02:23:37Z",
+    "updated_at": "2026-07-26T02:23:37Z"
   },
   {
     "id": "cc0e83c5dd40844e",
@@ -282,7 +510,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-24T02:13:17Z",
-    "updated_at": "2026-07-25T02:12:09Z"
+    "updated_at": "2026-07-26T02:23:39Z"
   },
   {
     "id": "03988bfddf4cc9cf",
@@ -491,7 +719,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-23T02:22:08Z",
-    "updated_at": "2026-07-25T02:12:08Z"
+    "updated_at": "2026-07-26T02:23:38Z"
   },
   {
     "id": "398c19f2602d5057",
@@ -1688,7 +1916,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-07-25T02:12:08Z"
+    "updated_at": "2026-07-26T02:23:38Z"
   },
   {
     "id": "d9535caf770f58b9",
