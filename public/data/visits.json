@@ -1,5 +1,119 @@
 [
   {
+    "id": "96378125d531c2e2",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-02",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩阿领导人会谈 韩联社",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lalo4QWpBRWY3Z0wwZV8ydjlUdU1MS3NBdExJOXRFeXUzU3B1MFk5RklUdmJRdjkycjVDUE1aMjc1cnJLd2htYTZOSF9PWV8tYjltdTdXM1hnYW1QSnpjbkJKVWRWQUxFakFvM3hNV2cwbGFxMUE?oc=5",
+    "published_at": "2026-08-02T01:26:03Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:04Z",
+    "updated_at": "2026-08-02T02:22:04Z"
+  },
+  {
+    "id": "ff9bee2e1ef49e6b",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-01",
+    "event_type": "state_visit",
+    "destination": "United States",
+    "summary": "President Of Uzbekistan Pays State Visit To Kyrgyzstan, Joins Regional Consultative Meeting - OpEd eurasiareview.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHpEZVh5ZHotbzdwdHpLZjMtNzJldWtEaE1WSVlMSGVHMm1FR29qbkRMMENXbVJfY2dIU0pnTlIwT1JvZUdHQU1KMzhvNUYwdm5MZHpsbWozLTZnUkxpTnpfYWI5aWtMcFFTU3RtVk9rczJQLUFVdkdzSmJaQk9ReUF6Y1pORWZrNGhrSGR2NTlfdjN4dVZpenl5cGZEWGtMU05ic0tpLWxUZWI0cDBtU2tNUlpiS2VxbU1OU1ZGVEFrckc3NXpFVlRIb2xTblhQ?oc=5",
+    "published_at": "2026-08-01T22:26:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:02Z",
+    "updated_at": "2026-08-02T02:22:04Z"
+  },
+  {
+    "id": "d3e7b5e58f899ff1",
+    "leader_name": "departs Accra after concluding",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-01",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Gabonese President departs Accra after concluding three-day State visit Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODZWWlZ5VU9XZ3NQWHZBUVdtdU5hbi0tWFl1cEUtN1BDQmdqWE1DeV9ZenVFWW5pSGdSZmtIVmZIMVZLaFltZnYxWl9ONDZhYnFZM0tpb3UwX0NvLVFMSW9RVElxWklsUTA1cmxpeUxIb2VIWmNmTWtGSXJIQVdtdmtIQ0FoR2s0TzRrMklMY2RQQ2tXLWJmetIBlwFBVV95cUxPaHdNMmpKWFZ2eXVLYi1UTE5qbXRSU2FEYjlBVE0wbmxRcFZmaDlWSFNQQVZhenBEWTNWclIyWmExMktmekdjR1NkNHVpN0NZUlJhd3RHbHNFRkNnZkxtNm12UG5tMFczWkgwZjVwdXNuaFdiUHN1M0pKaW9oejZUekI5NEU1X3Y3bktjeW1MdENsdFdmbWxJ?oc=5",
+    "published_at": "2026-08-01T13:24:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:02Z",
+    "updated_at": "2026-08-02T02:22:02Z"
+  },
+  {
+    "id": "b8762d0746af728b",
+    "leader_name": "斯洛伐克",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-01",
+    "event_type": "other",
+    "destination": "",
+    "summary": "高端访谈丨专访斯洛伐克总统彼得·佩列格里尼 中青在线",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wVUh1U1k0Z3VLanpSZGtuUmxGVDVWR21MdHlnVTFLY21sWk9GekJfZWRzNXJXNWxuVFB0ZnhENWt6bXF0OWRZcTRTTFRTb1lHM3hMRUh6V3hSRHc5LU10NWNHd0N0bTVMYVBJZkc2MVhnbFpCdEszZw?oc=5",
+    "published_at": "2026-08-01T10:37:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:04Z",
+    "updated_at": "2026-08-02T02:22:04Z"
+  },
+  {
+    "id": "54a648b87439f83f",
+    "leader_name": "Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-01",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Kyrgyz Media Highlights President Ilham Aliyev’s State Visit Caspian Post",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTJQblJxS3lVUjZPUlpDSzRRUVk2LVdKXzZVWWZucFdHTmZ0dzZsVTRBQ1ZuNlFIWk81VDFMNWVaY3JVa1hyT1JwOWxseFAzVEhvMUFhZ1VsQTRzZ2hBNXAyd1NBclB0UmJLa3lXaVhqVHZaRTBVTk55M3NKTHhrMlUzUUhYN2U2T0tRNml2SDh4U3B4eHJOT3h4QQ?oc=5",
+    "published_at": "2026-08-01T06:50:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:02Z",
+    "updated_at": "2026-08-02T02:22:02Z"
+  },
+  {
+    "id": "890a125d5d97d94f",
+    "leader_name": "方长官在",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-01",
+    "event_type": "other",
+    "destination": "",
+    "summary": "普拉博沃要求地方长官在总统访问期间不部署居民 VOI.id",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiWTMyNkZ6NThma3FWckNQdTRacnlKTU9ad1dFWGhnS0dlM1B0cnlVd05pOE85Y3BqZ1g3MFFHQnQzSDg?oc=5",
+    "published_at": "2026-08-01T00:32:08Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:04Z",
+    "updated_at": "2026-08-02T02:22:04Z"
+  },
+  {
     "id": "2fb512ad6e5ea5a7",
     "leader_name": "has arrived",
     "leader_title": "president",
@@ -16,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "10c0f8d2782438c2",
@@ -54,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "95be8ee2ddd353b9",
@@ -73,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "11f5fe0b6dca13ab",
@@ -92,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "2a2e346a86da6516",
@@ -111,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
+  },
+  {
+    "id": "30b0664be7590359",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "总理",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-07-31",
+    "event_type": "other",
+    "destination": "Thailand",
+    "summary": "总理透露敏昂莱下周访问泰国 将讨论葛河污染物及诈骗问题 xw.qq.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43MWkxTjlIVm9IVGtJNWVSd2tnR081cmpsNGFrcXFhdWNrRTFpUTRpYm9jaThRS3NtdHF2UXhxTGFGNE03TGJCbWxib2lnQWJPZzZfTS1R?oc=5",
+    "published_at": "2026-07-31T13:24:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:04Z",
+    "updated_at": "2026-08-02T02:22:04Z"
   },
   {
     "id": "909683eb38b1977d",
@@ -130,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:49Z",
-    "updated_at": "2026-08-01T02:24:49Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "b612a1ef86197ee4",
@@ -149,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:49Z",
-    "updated_at": "2026-08-01T02:24:49Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "56ce84569687bc84",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "7a99660aef7b90c5",
@@ -187,7 +320,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-01T02:24:48Z",
-    "updated_at": "2026-08-01T02:24:48Z"
+    "updated_at": "2026-08-02T02:22:02Z"
+  },
+  {
+    "id": "0052768aeb4e27a8",
+    "leader_name": "of Azerbaijan Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-07-31",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Azerbaijan Ilham Aliyev arrives in Kyrgyzstan for state visit 24.KG",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVk5KLTNLUDBwUXh2MWlzNTRWLU1aaWFveEh6dVlkbENwZDRfNWltNWI5SVg3d3NpRlQyVUdrbi1qT0QxbVRqeHVEVUNiRFpLc09RYXh4dFN4OEFodjYtSXY5RFdFRjBFTXdQMUtLUU1RUFU5MzFoa2ZqNnIzY2V6S3R4RFg1RUt0ODdFeEM2UWNZV2VxMXgxNllXUWV1VmNGSlBWb0NlOV_SAa4BQVVfeXFMTWQ0U2NRUFZTNmFyb1Zyc3lnc0pBSUVpdW0yZFBIU0xPdDQtRFJaa3BDckwxMXBicmtQQXRBS01CaS1oNklFbGRhdnFRc0RqdDNCQVdXR2NBVHJsSkQtR0RNSjRJQkJGSkhzZUpNWWtpYUIyZXRHMlp2bmR3QWhvNTAtVFRQTkNRQmVHa0FhRXZHTXdyVDZvaEQyY2x2NWg3YU1fbWlSRFV3aFJYdlNB?oc=5",
+    "published_at": "2026-07-31T03:46:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-02T02:22:02Z",
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "280775567d40fb1c",
@@ -206,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-31T02:23:52Z",
-    "updated_at": "2026-08-01T02:24:49Z"
+    "updated_at": "2026-08-02T02:22:02Z"
   },
   {
     "id": "973d55796cd4cddc",
@@ -225,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-31T02:23:53Z",
-    "updated_at": "2026-08-01T02:24:50Z"
+    "updated_at": "2026-08-02T02:22:04Z"
   },
   {
     "id": "fbc2068279f5df15",
@@ -415,7 +567,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-31T02:23:51Z",
-    "updated_at": "2026-08-01T02:24:51Z"
+    "updated_at": "2026-08-02T02:22:06Z"
   },
   {
     "id": "7274d51efbea930f",
@@ -10010,7 +10162,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:37Z",
-    "updated_at": "2026-07-10T02:35:19Z"
+    "updated_at": "2026-08-02T02:22:04Z"
   },
   {
     "id": "9b83b5960fe0517e",
