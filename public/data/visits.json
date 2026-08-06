@@ -1,5 +1,176 @@
 [
   {
+    "id": "aaa14666f42f48ce",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "Thai N.A. President arrives in Hanoi for official visit en.qdnd.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1Z3MjB0VG83RDk2NmZqem44V0pObmxmeWFKczVSaXlKZERpV1FKNUp4anh5Q0RLMWx5ejhxY29xaEN6SXNLbEZaTkh2Y3NoTm9JY2hYajBKSjdzWkpUU2JzWkNXVkNGN0k3NHF5Umd2TF8ydFQxUjNZMlBxN1l4OExla3lUenZmckVzek1NcmZqTXRFMDRrVzAwYTdrdngxaWhfUFo0MHhuLVNaY1dtZ2NiYWY?oc=5",
+    "published_at": "2026-08-05T19:52:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "30f96bda350c0793",
+    "leader_name": "Visit. Museveni",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Museveni Arrives in Tanzania for Two-Day Working Visit ChimpReports",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHlIbDk1blZoLVYyRXJyT1dXaGxRYU92cV9LaUVhWjEtUGZxMFlJZ2otajhYNTA1aWxxeGV5RVM2d0JCb09QVDByU2lkdFlPTk04SHRqZVpraXJmUEhYWVlwWDdnakc1cTI3TzF4bVN4QlhHNUEzM21kZUt3amVtWmRMeUx0VDg?oc=5",
+    "published_at": "2026-08-05T16:19:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "651a86f59005144c",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-05",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林会见美国太平洋司令部司令帕帕罗 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XSXRWa0VXN1VGVFg5bnVCVFk4UHloODZhbTB5MVdZQTVsTFdkbko0TEdyT01ob3N1ajhkNUNyckVGd0pLUnp3RVRscnBqX0Zicm9wMFJYV2ppU2Ez?oc=5",
+    "published_at": "2026-08-05T13:45:40Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:49Z",
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "98e1c1200f70719e",
+    "leader_name": "Prabowo",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Prabowo: Indonesia, Thailand Partnership Must Deliver Tangible Benefits to the People Sekretariat Kabinet Republik Indonesia",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0FUeWdRaVk1UE9PQ1A2Q1c0NjZiT2U5OUQwUFNDRlZTUUQtVUphc3dpMFR5QzEycHJiX3YwQ01XVXI4NGJaRVk5ZVlJUTltWkRLNkQyelVBWURMV1hLSVQ5OWFJaWxyZklqZnhfSXA5S093cVpWX1Z5QnpNbEt0bTh2bmxZM1QyX3RYZzQyM2hGT1lXSGNUOTQ4bDdjVUVUenpoZDAxaUhqWERVZ2NTZmxWYjZFMXJLLWc?oc=5",
+    "published_at": "2026-08-05T08:25:12Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "82f7432e8e1e6506",
+    "leader_name": "亚美尼亚",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "亚美尼亚总理与哈萨克斯坦总统举行了电话会谈 Armenpress",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNlRPb2pHNFBqWEZmWlNIaUhMSGpWcjVGQUZCSE85dHBSc0hNekhwLXVnSkxMbzhHZVB1ZEU0N3pyRlpfRDJQTmpnaWdJQmliZ0wyc1BVWdIBV0FVX3lxTE1qNlRPb2pHNFBqWEZmWlNIaUhMSGpWcjVGQUZCSE85dHBSc0hNekhwLXVnSkxMbzhHZVB1ZEU0N3pyRlpfRDJQTmpnaWdJQmliZ0wyc1BVWQ?oc=5",
+    "published_at": "2026-08-05T05:54:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:49Z",
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "0e4bacc3e35fc36a",
+    "leader_name": "of Hungary",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister of Hungary arrives in Ashgabat on an official visit Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPY1Jic1JWVm1uRVVINW5pTzltZlhPTFBMMW9oSURhclYtTU1yb1pJRjFBelZWWWtGcWpoOHhidndWUy1oR1JwMzBRSHFwMTlCTFp2bl96dEtHVXBuYjlaa0NJbXRPVmVneWROMktCOEZkVVFxRFZHdFpvNTFBUHJlWkZCbnpvOUh1SC1DNWdUd29pelFOeEVkMFBfUExWTnpYUEludVQ5R0xfNENIWEY3WlNvc21lb1dhNWF3cEZMRjdFcXNYSXFwdmlMVFh5WktNYlBhSk9WQXFSbTFXSnlYV3R1QnY5NU5zXzRINUppSl94ektMTmZMTEFjNUp1bS0zc0RVWkxSTG5FdGlDQzJwQ0lnUmQyUUl6aGVPSVNIcHhwdWtFTjcxWWN4MVdYSHVQMFRQZg?oc=5",
+    "published_at": "2026-08-05T05:36:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "79014bf4d48fa801",
+    "leader_name": "送别泰国",
+    "leader_title": "总理",
+    "country": "Thailand",
+    "origin": "Bangkok",
+    "origin_inferred": true,
+    "visit_date": "2026-08-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "普拉博沃送别泰国总理阿努廷 MetroTVNews.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbmhDREUzVXBfNXB2SDMyZXJ4M2tkMmtRQ1VzdnY4SmhvcUplNlY4WjhiVmVNMTR3WURTZGRuM0JERWxvM2J5YzFWVjBOVUZWdlpaTEtJWWk2bnh3N2pobnJB?oc=5",
+    "published_at": "2026-08-05T05:02:14Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:49Z",
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "019ccce05c30df6f",
+    "leader_name": "Thai NA",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Thai NA President’s visit to deepen Vietnam–Thailand comprehensive strategic partnership Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJFVFo4cDJfa3hUMGpneUVoZ21JelBTUlNPc2VCb2NaWDVHdExtUXU5UjNBS3ZMWEsxUU90dHZnd1RvUlBzalI1OWdxZklZbE1kQmg2LWYwWS13bGlOckRMVDgwYlhQS1hMd1E1N3JSOTQxT3poMFZzRTBjVzkyam82c1hCQ0VSRERuQzJuVHpuaTdoLWNnLTIxYmhlSnMxMGlJMVVwd00zOUxHd1FKSVJyOC02YlpzTG1DRlFKQ25GSGVzQUE?oc=5",
+    "published_at": "2026-08-05T02:56:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "2f7bf00b773cc232",
+    "leader_name": "人喀麦隆",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "世界最高龄（93岁）国家领导人喀麦隆总统保罗·比利亚以海外滞留为由，近两个月没有公开露面，因此出现了健康出现异常的传闻。 这种担忧扩散后,比亚总统果断进行了军队领导层人事调整,表现出了健在。据英国广播.. mk.co.kr",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CWGdIbGVEOWxYZHdVaWhhb0J1TFlmN2JmejBaSVRiRXd0TVNRaTlMWFBseW95a01nX2wyU251Q0c0SHhrUEFSLXpQdWxNclE?oc=5",
+    "published_at": "2026-08-05T02:20:51Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:49Z",
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
     "id": "93801621fc269d58",
     "leader_name": "Min Aung Hlaing",
     "leader_title": "总统",
@@ -16,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:22Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "5a5c78ae1c8c51e3",
@@ -35,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:21Z",
-    "updated_at": "2026-08-05T02:03:21Z"
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "7339338b03223861",
@@ -54,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:21Z",
-    "updated_at": "2026-08-05T02:03:21Z"
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "714f7a7b094a7f4c",
+    "leader_name": "Anutin Charnvirakul receives ceremonial",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Thai Prime Minister Anutin Charnvirakul receives ceremonial welcome in Vietnam Báo VietNamNet",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjRVY0cxMl9oaHRoWnUtN0FRWlBFSDZVTC1YSDRDcklkZVQ1WUJVV1ZvcXo4YnBvSHUxWFU1c1Z4WTRPbXBFNzBLYUNLNFhSR0FBdy1OSXBETEs5LUtPWHliQnFYVnVuSzd1RjF5Z1paTnFMT1ZlMkdnRDI0N292Y2M4NHBaYjNTOGNLXzJCZ2FrdG5vcHdMaWI3UWNuQUlpUGVTVzBBM3RSUW5FS2dQWVF4c1MyODA?oc=5",
+    "published_at": "2026-08-04T15:02:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "68e542903d8e20f8",
@@ -73,7 +263,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:22Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "237b2e697b43aab7",
@@ -92,7 +282,64 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:21Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "759ae59c63a29b2c",
+    "leader_name": "Mahama holds high-level bilateral",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Mahama holds high-level bilateral meetings with Jamaican leaders Ghana News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1Zqa04yNkNjMXJ6UGgyQ1pXTjVsTjBMNDZ1dEo0T2xVd1JKY3I4cGY5aE4wNGxRcXlBTEFMX2hWWXJlekFURkdVZHlpMFpFYmY2TUE3YVpoejY5M1lQZGhZU3MxSkxKaDRLTUVzX1F6QlNFdHpOMkRRcmRuVFVlOWdCYTF0WXhSbWVBcEZLNjd1ZEdwWnMyVzh4ZTh0NzhvYTc2Yg?oc=5",
+    "published_at": "2026-08-04T07:27:54Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "9e9594fbc76d6837",
+    "leader_name": "Prabowo Subianto Welcomes Thai",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Prabowo Subianto Welcomes Thai PM, Strengthens Indonesia–Thailand Strategic Partnership Sekretariat Kabinet Republik Indonesia",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdExtY2hrVFBRRXR6Z0VQOEt3UGRJYk9kZGlxaF9iUjVneE5kelZRS0VUQTQ5TkZheTlxbUZ4VU14dDdOZElod2hiWGp4cU1BMkw4Unp2VEFKS1lLWDlnek1MeTNaR1V5UXVLQlVyQ0hZaXg4TmRLLXZEYlVmSmNsYWtCRzNMS25VSHo2bk41c0ZMc19kMTB3ZTdiWlBIOFFmSWZjZDBPVjh0bDFFS0gwdEZZWHFCNGtFLVozcWh3?oc=5",
+    "published_at": "2026-08-04T07:05:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
+  },
+  {
+    "id": "691d44b1a5dfa7c7",
+    "leader_name": "of Kyrgyzstan",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-04",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "The Prime Minister of Kyrgyzstan will pay a working visit to Turkmenistan on May 21-22 Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlAybnNhaWNoa3ZjQ2tXUnJKbmhMMlItMGFSMXp1aHluS0ZNRXNhMmFEeTc1ZUw5YmUwVy1najdGTXJRXzVxaGF4Q0hJc3F2T0N1TkpZNmxqdlNaWXYtVnJSTUtNbWNmRE9XYUJEcGJjdXd0T211a0JZbm1CWlBUX0gwa2lLLV9FTDF4SDBiNVpzeDhFYThqX3I5dF9KMnRsWGxpdDdkbjJ2WFk0cUI5eDEyckItQWdGY25GbklkZHdxOVYtQVJnVURCRHlra0hycnJlVQ?oc=5",
+    "published_at": "2026-08-04T07:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:47Z",
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "f49761fbf589e19a",
@@ -111,7 +358,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:22Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
+  },
+  {
+    "id": "9bdbd9245cb52c68",
+    "leader_name": "韩国",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "民调：韩国总统李在明施政好评率45.9% 创就任以来新低 差评率首超50% 中华网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DaUxYdTA4MzFQQVdMUnRWWHRzU3QtUmJGa2oycjdjYTUyRkdSV0xyMEFMa3haZ3lCd3UwQ2JBSC01UkpzQi13dTM5OW5iLWFGRVFvdHhXMF9KSTk0cTBFdklCSGs0R000cWhBTnpTSjljbU0?oc=5",
+    "published_at": "2026-08-04T05:37:05Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-06T02:07:49Z",
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "04193e258636ae3c",
@@ -130,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:21Z",
-    "updated_at": "2026-08-05T02:03:21Z"
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "1bf0b46a397b3349",
@@ -149,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:22Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "0cf4db5d251f2e49",
@@ -168,7 +434,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-05T02:03:22Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "aa4d92f8b8f15880",
@@ -3037,7 +3303,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-08-04T02:04:21Z"
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "7186f6139146bd21",
@@ -4652,7 +4918,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-08-05T02:03:22Z"
+    "updated_at": "2026-08-06T02:07:49Z"
   },
   {
     "id": "d9535caf770f58b9",
@@ -11739,7 +12005,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-17T13:02:01Z",
-    "updated_at": "2026-06-19T13:00:26Z"
+    "updated_at": "2026-08-06T02:07:50Z"
   },
   {
     "id": "f7d9e17e19ab252f",
@@ -13924,7 +14190,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-08T14:41:13Z",
-    "updated_at": "2026-06-09T11:44:14Z"
+    "updated_at": "2026-08-06T02:07:47Z"
   },
   {
     "id": "7e61e990dc9c1153",
