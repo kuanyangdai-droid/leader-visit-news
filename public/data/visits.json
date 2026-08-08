@@ -1,22 +1,174 @@
 [
   {
-    "id": "43f1a781fc645b3a",
-    "leader_name": "",
-    "leader_title": "",
+    "id": "c1b0908a2cfbb210",
+    "leader_name": "Volodymyr Zelenskyy",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-08-07",
-    "event_type": "departure",
+    "event_type": "official_visit",
     "destination": "",
-    "summary": "泽连斯基将出访塞尔维亚 - 法国国际广播电台 茉莉花新闻网",
+    "summary": "BELGRADE, Serbia — President Volodymyr Zelenskyy on Friday began his first official visit to Serbia to discuss security with a rare European country still closely allied with Moscow since Russia's invasion of Ukraine. LinkedIn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnJVdDctMW42eHdHczhTNEttU0QySGhSeVZCdEREalJ4RzhLVF9lMTlYd3ozMDJiYTBoOTk0SmdRYlBTVkJQZUM4MzdvODh2YzVELS05ZGdudWppLVh6TlViY2ZUMVZ4QWgxZlVtc1lDM2lYN3BYbkpxenNYbEFlZUlHUUh6aFFVb1Ezd2cyYW5JLW5HUTlEVi16LXhDcWRTd0hlVWRfY0JMNGJULWpuXzJYa0hCdHNJdVp2akNhRVRCdENTT0E?oc=5",
+    "published_at": "2026-08-07T22:08:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:48Z",
+    "updated_at": "2026-08-08T01:13:48Z"
+  },
+  {
+    "id": "54a34f11f0fb5011",
+    "leader_name": "Aleksandar Vučić",
+    "leader_title": "",
+    "country": "Serbia",
+    "origin": "Belgrade",
+    "origin_inferred": true,
+    "visit_date": "2026-08-07",
+    "event_type": "other",
+    "destination": "Serbia",
+    "summary": "泽连斯基访问贝尔格莱德， 武契奇说：是否制裁俄罗斯问题，塞尔维亚立场不会改变- 法国国际广播电台 molihua.org",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOOWZDTVZHUDJUX0JuUkZIRW9WMWxPM1RSREY1ZlllRkdrOER2ckdCLVFhbjZPaTA2dHM0c2dFa09xa3otSDRlN0RKcHlkY0VXX19JSXFZYTlXRlQ3X3dLQ0s2M2lIcmc5TG5JYXVfVy01cjBlTldCd2oyQnJMUTJhT1R5MjZwYk5nQzlTWURCRm1LNHRORmRMTkRiaHpVcHlwOTFtdFJ6UmlMbDhnMGh3aVUwWkYzVFpTNXdIUEZsa1hNR1Qzckd0bnJ3YnNhZU1MYTBRT1NGRGJXT0hIcTBhVmRaT2tsN2dPY1VfU2hmNFJsdGhPdEhLczF1Z01yMHBwd1Eybko4QjZUdUJUcXJBa3F5SmdaaEhyR3RieDN3?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbmNqbWdOckVJTFYzcHItT09YYk50ZkU3Snk2LVZYaHFsZi1uYUpjWnh0ZkxOYlVOa3BQQ3JadnVKOTVBaWtLQndKZnhNdEhwV2dnQzg0WE1Rb1ZIN2JUT1pjVXlpWXpIZTJMSnNFWS1WMEIwWk1WR1Rob2xwTHExUFZrUXZvellZZ0k3WE1JN2h0cjU1ZjZpczlIRzkyYnY1aE0yV3NaT2xrUXExeEJTdUdaZ1BmU2FEU1RPUEtBVTBjVXdWUGZtWHVOUEc3dE1EeGZoaGdzQ052TmFDa1hQSmlDdWJvaF9NUWRYa0xENUR2SjhPREd3YllOeXo4cDZDeHBPWmVCUDNJNzQzSDlIM25sY25HZXRYN2U0QTNNRDNtblZzbXhHeUV2a3N6dU1WdjdWVWpnV2RUblBHNnNSVVln?oc=5",
+    "published_at": "2026-08-07T18:45:15Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:50Z",
+    "updated_at": "2026-08-08T01:13:50Z"
+  },
+  {
+    "id": "ea7376ef68471613",
+    "leader_name": "泰国国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-07",
+    "event_type": "official_visit",
+    "destination": "Thailand",
+    "summary": "泰国国会主席兼下议院议长结束对越南正式访问 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ob0l6NGhjN3RHY1NKOG5mYlRUNzRicERoX0dTaEFSMVk2RU9zeHo1NW53WTZTbVhJUENORG5lcGNiTkRvU2U3OUZGdFJ3R093akFnZW55SG1iLWZF?oc=5",
+    "published_at": "2026-08-07T15:17:27Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:50Z",
+    "updated_at": "2026-08-08T01:13:50Z"
+  },
+  {
+    "id": "ee457515923f2f37",
+    "leader_name": "Erdo",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-07",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Erdoğan in Saudi Arabia İletişim Başkanlığı",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlJWYTFJdWRDU21TM2wyVzRWU3dlMGp5dUFvWWFFSk81Rm9rMkdUTlpnQWpRMVY2MEhvemUwRFQwNFNqZkdNLV93MnFGX081ZHlqYXo4d1BLb2llQk1tTW11a3l1NVJGaFk4WDRuOFZmZlY0VmlIdG9YS2lNNmdVUEdWZFlZd0tWaWdDbW1PTkVHeEdCOUlHQw?oc=5",
+    "published_at": "2026-08-07T11:41:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:48Z",
+    "updated_at": "2026-08-08T01:13:48Z"
+  },
+  {
+    "id": "d66dbf6f842c879c",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-07",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Australia to Welcome Vietnam’s President To Lam for Official Visit kendranewsaustralia.com.au",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaktNVGkweVFkLTlRZ2JMYWFLYlZrRVNLQkpTdHJmdkZ1SVoxVzVqXzBTeVYwRHZRMzJ1RE5USzY1a3Z1T1RqYm5ERFFRWktLMzZRZFlxTWFWbGN3U1E5OTdaV3dFTnBIOE9LUW5GVXpiSjFiUmpUYWVVdXJnVUVMWFJ0RHFvQ2pCNmhYbE1ueFF3QnZTVWRTdFZ4T3ppa3ctMDBLNUpON0lzSnktUnFXTnAwc0I1VUFm?oc=5",
+    "published_at": "2026-08-07T10:37:06Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:48Z",
+    "updated_at": "2026-08-08T01:13:48Z"
+  },
+  {
+    "id": "cea91a69fa3c079c",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "总统",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-07",
+    "event_type": "other",
+    "destination": "Thailand",
+    "summary": "缅甸总统敏昂莱访问泰国确认双方深化合作| NHK WORLD-JAPAN News nhk.or.jp",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5takY0UFMxSl8yNHl3V1lJOGZTNktNMm1vNG9ZQTltQVl2cHY1NVNGb0lWNmZoWTJWdDBRZTVrcG5sOC1SSVJNSks4V1d0bE1DNEgydThDSTlKSXpEV2JacE92b1l5QjhtZ2RR?oc=5",
+    "published_at": "2026-08-07T06:56:04Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:48Z",
+    "updated_at": "2026-08-08T01:13:50Z"
+  },
+  {
+    "id": "9919a708efbcaa9b",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "苏林总书记、国家主席对澳国事访问之行：开启越澳务实合作新阶段 越南人民报网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UWFE2TlNycV9GZXBLRWlTY1FCa3pZTnBnbkh5cHU2eUpqM3RrLVdfN005Qm1IR1FPbFN0TUsxY216R0dodTBTYk51QlJiWWRtZFVLVWI5c0E?oc=5",
+    "published_at": "2026-08-07T05:05:14Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:50Z",
+    "updated_at": "2026-08-08T01:13:50Z"
+  },
+  {
+    "id": "845fe4b25a9c438a",
+    "leader_name": "Zelenskyy",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-07",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Ukrainian President Zelenskyy to pay a visit to Serbia on 8 August European Western Balkans",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEtZWDFpNUt3X29sZFZGR2dkRU0wTnpEUFdjeF85NmtzVlN4RmM2bU13TjN0cEtaN2V0SUhWUk1jT2U0emZJUjkxZjEtQy01MXhHc3dzcmZKVHNFY3VUbWtNSWE0dXZLVkhBQ1N2VVB4SlNZSHNUX1ZjQ3BQVmowdHlPdFUwSi04TllFZkJ5NVNQZGt5ZlI4MFNWYldraVVHREo5LVh3V1dWYVUyM3dyMm4wSjFUY1NWMFY3c04xZmk?oc=5",
+    "published_at": "2026-08-07T05:04:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-08T01:13:48Z",
+    "updated_at": "2026-08-08T01:13:48Z"
+  },
+  {
+    "id": "43f1a781fc645b3a",
+    "leader_name": "",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-07",
+    "event_type": "official_visit",
+    "destination": "Myanmar",
+    "summary": "Ukraine’s Volodymyr Zelensky making first official visit to Russia-friendly Serbia New York Post",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0NfMlFWVmhVN25TU2RHV1FxWFdYRmVFLVNYSjVfbW5FdGRkT3lBSE9XcFhvOW5IX2hZdWo2R3NPQ0JTNDNyZ19TS0M2RW5QaWs5aHJoczhYaUtEN0x0Zzlod21FaTZXVWZ6bXlfamdKMDhjNXhzdlg0X1FwRFBoMjh5OWZnb1VjTmhRVDN5ODhHaXRkUEhLcm54NmlKYjhyeml0NHVmNjM2ZS1T?oc=5",
     "published_at": "2026-08-07T01:04:26Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:32Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-08T01:13:50Z"
   },
   {
     "id": "427474e0e73db5e4",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-08T01:13:50Z"
   },
   {
     "id": "4d3d2e004658a5c1",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:30Z"
+    "updated_at": "2026-08-08T01:13:48Z"
   },
   {
     "id": "7424dd31544f07bd",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:30Z"
+    "updated_at": "2026-08-08T01:13:48Z"
   },
   {
     "id": "4f1795fbbfe72e0b",
@@ -149,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:32Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-08T01:13:50Z"
   },
   {
     "id": "26926655363c4cfe",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:30Z"
+    "updated_at": "2026-08-08T01:13:48Z"
   },
   {
     "id": "5328f7411a0dc430",
@@ -206,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:30Z"
+    "updated_at": "2026-08-08T01:13:48Z"
   },
   {
     "id": "604b9f30a2756962",
@@ -225,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:30Z"
+    "updated_at": "2026-08-08T01:13:48Z"
   },
   {
     "id": "de12efcd5602d5f6",
@@ -244,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:30Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-08T01:13:50Z"
   },
   {
     "id": "4819f931b3e8ba30",
@@ -263,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-07T02:26:32Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-08T01:13:50Z"
   },
   {
     "id": "6bd9987842fb07b9",
