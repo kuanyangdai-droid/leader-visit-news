@@ -1,5 +1,138 @@
 [
   {
+    "id": "33918af1349aa252",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Party General Secretary, State President To Lam begins state visit to Australia Báo VietNamNet",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXFrQWh3SEhuMkctcTY4X0ZtaUVQSi1DdkVyZVJhNGxhbWt1bzB3bE8xMDdSWlN0VzZiY01PZkdCZmw5Ylk4ZE9SSG9hWk1nRFNQeGVMY2NMMEttcUVkZW83R292bXFDUVFwRWhnaFUyV3JqVGVENjN1QVQ4bWhYQkVmaUkxcm9BNjFvQXRXTTJnSjhCUzhnZ3pqOGFCUGJJeWwtSkdSOFJYUlhSYlhsdG9wNW9odmM?oc=5",
+    "published_at": "2026-08-10T01:10:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:32Z"
+  },
+  {
+    "id": "be7e873df035c0f4",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-10",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "SVG PM on first official visit to Taiwan St Vincent Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFphaVhYLUx4ZG40Z0dXNU11cEh0QkpvYjhMdlVSTzdYYW8wX3BtYW5LZmVrNUFjT2tFU0FHamNmc19nUzFBdFZCSld5SGtSV29mTHBreUgwRTNvbWhFSXQzRmZXay1NeE1IalQtQWhxeGRmME9NQ0VwWnhHVVJVNlJvZ2k0MzV3SlZ0NmNWS3IyU19FUWhzbg?oc=5",
+    "published_at": "2026-08-10T00:29:32Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:32Z"
+  },
+  {
+    "id": "bd1e49af15b223b6",
+    "leader_name": "",
+    "leader_title": "chancellor",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-09",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Austrian chancellor to pay an official visit to Turkey 1News.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElBbWZhSlFfNnRUYlJsdzVJVVRQWnFLWFlVNVhuTzdSZjNqYVpLS2VWY3pxTWtKZ3NmX3JzUkM2eXh0NWtsWHFMWWdMVjV3UXhTQ1dwXzhIcGxfM2UyYkYweXJ5Z1hNeUlkSy1OVHZhbUdMTFpxS0U5Unl0N1VyRFJpMVpobzI0VnZQOXQ2bTNtUFJFODJXSlRtVmQ2Zw?oc=5",
+    "published_at": "2026-08-09T16:10:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:33Z"
+  },
+  {
+    "id": "b9442d27e362ef0c",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Party General Secretary, State President To Lam begins state visit to Australia Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWMxb1phNTNRalBIaGhHa2dxdFhVWThTRTFBLTZEaEkyaGJBd2VaX3VGdHdkU1JjN3RDX0s4V285Ukt0dDY5eHVYSXNha1JIM0ctWGdGUjlqMEJ4c3RPM3V5ZUV0dlZRTjROR01obXpvRU1Xal83cFpxd1ZaZzF1eVJZX3dUcHVMRHZ0VWh1RU14WlMwbzk2MjZ6UXBsc3dsRWVoazhaVklPMkVSYlNkN2ItVzQwd0J6VTc0?oc=5",
+    "published_at": "2026-08-09T14:38:38Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:32Z"
+  },
+  {
+    "id": "b3ad7accff8dfcb9",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林抵达悉尼，开始对澳大利亚进行国事访问 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rUTRmUUg4cEgyUzJkdU9NZHFsclRMZExJbXhobXdOZjZvd1JUeVFVQ0ctUmFVMjZqUHV5VVQwTTM2bXVxNjFIQ21pZm9iRDFzS0E?oc=5",
+    "published_at": "2026-08-09T13:22:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:33Z",
+    "updated_at": "2026-08-10T01:20:33Z"
+  },
+  {
+    "id": "d7095ce67a8f308e",
+    "leader_name": "Xaysomphone Phomvihane makes significant",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "NA President Xaysomphone Phomvihane makes significant contributions to nurturing Vietnam–Laos friendship Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSk5OOHdfc2NMZndSWTA2MXRsWGdEdkJTOUZmOGZyM04ySnRneEVzOThaVWpDUEJ5dFRIb3AxRkhNdHJkVzBpYldyZXJWTC1uSTBUQmZiMzV4Y1h2cDBYb09UYS11cmZYWk1nZjlFa2o2VVVBOTNZZVg1Xy1BNVViblhjMXVyLWlyYzFPVUR1LXpRbTJVUmpIVzRadXY5SUsyTWxXOWxaY0NNaFdNb1JqQ214aGlTeHJlSGthY0tBMHVTU3Y3OHFhTk1zWUxKeHQ1cmJoVzdfWXlqTDk3?oc=5",
+    "published_at": "2026-08-09T02:36:20Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:32Z"
+  },
+  {
+    "id": "e812beda411f62cc",
+    "leader_name": "office. Iraqi PM makes",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-09",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Iraqi PM makes first official visit to Iran since taking office trtworld.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SdUNsNHlHR0FsQ29OdnlseElCMVFPOWZwT0ZkMFR0amxmdkNKa1pKel9ReWFZS2xyYTZCTEQzZndWWmNJOWRjd3hnTHZRejVGLWxyaXZoNU8?oc=5",
+    "published_at": "2026-08-09T00:25:28Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:32Z",
+    "updated_at": "2026-08-10T01:20:32Z"
+  },
+  {
     "id": "0980ae93ad987540",
     "leader_name": "Philippe of Belgium",
     "leader_title": "King",
@@ -16,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "c5f22c614c4ef4e4",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "597e7ed80ae527d2",
@@ -54,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "218a6ca0cd739f6a",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "d87e6b9317678a10",
@@ -92,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:54Z",
-    "updated_at": "2026-08-09T01:18:54Z"
+    "updated_at": "2026-08-10T01:20:33Z"
   },
   {
     "id": "d5e1ff2c05993a00",
@@ -111,12 +244,12 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:54Z",
-    "updated_at": "2026-08-09T01:18:54Z"
+    "updated_at": "2026-08-10T01:20:33Z"
   },
   {
     "id": "b074a3fca92409cc",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "King",
     "country": "",
     "origin": "",
     "origin_inferred": false,
@@ -130,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:54Z"
+    "updated_at": "2026-08-10T01:20:33Z"
   },
   {
     "id": "20e8d10729a3170a",
@@ -149,7 +282,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:54Z",
-    "updated_at": "2026-08-09T01:18:54Z"
+    "updated_at": "2026-08-10T01:20:33Z"
+  },
+  {
+    "id": "9b90353dc2e1b82d",
+    "leader_name": "乌克兰",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-08",
+    "event_type": "other",
+    "destination": "Serbia",
+    "summary": "踏入俄罗斯朋友圈 乌克兰总统访问塞尔维亚 news.seehua.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01dXFGRjZkOEMwZ3ZVRkRLMTRidlBJSEFzWVZFc2c1cHJ2cTNBVE44TUUwdmNIZ3RqXzFWR1JTOUxEbUNkNVlhTVd0c2Y?oc=5",
+    "published_at": "2026-08-08T03:38:57Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-10T01:20:33Z",
+    "updated_at": "2026-08-10T01:20:33Z"
   },
   {
     "id": "99423024d7218e95",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "b92c897a940f6fd8",
@@ -187,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-09T01:18:52Z",
-    "updated_at": "2026-08-09T01:18:52Z"
+    "updated_at": "2026-08-10T01:20:32Z"
   },
   {
     "id": "7cd4dcdc3d10c70f",
@@ -5640,7 +5792,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-08-09T01:18:54Z"
+    "updated_at": "2026-08-10T01:20:33Z"
   },
   {
     "id": "d9535caf770f58b9",
