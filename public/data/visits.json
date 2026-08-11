@@ -1,5 +1,62 @@
 [
   {
+    "id": "573387b396a796d0",
+    "leader_name": "Tô Lâm",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Viet Nam State President Tô Lâm paid a state visit to Australia Myanmar International TV",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmN2WVpzWVUwYjVXSEZqcmV0bEtURkxzbTRQUzg0SEtOMXNRNXIySzJta2N6QzZSQlhCVXlQOS1DN3U5bFNobVZrbEd5am5RSlpnV0ZjUHMyVzlIWnZyVFpscE8xczRBaFdkNnNQUlotTjdSSUlGVkNlaEZXazZZUmpvNkxZYXczSE5mc3BXQUFObkFHaXpaak5XVnZSRkcwQkE?oc=5",
+    "published_at": "2026-08-10T09:44:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-11T01:18:35Z",
+    "updated_at": "2026-08-11T01:18:36Z"
+  },
+  {
+    "id": "4926a640c4f3d0de",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-08-10",
+    "event_type": "other",
+    "destination": "",
+    "summary": "LOOK: President Ferdinand R. Marcos Jr. received French Ambassador H.E. Marie Fontane in a farewell call at Malacañan Palace this Monday, August 10. This event marked the conclusion of Ambassador Fontane’s tour of duty in the country, underscoring th facebook.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjBDbVIxb2V0OHRhOTFtUElBVkZXTm1lSVBOLWpFYjRvcUVDWlpNdDh3bjAtYVEzZFF4WXJ5cjE1V3M0RWRGQTlBdlBjUW4zenVUN0lnd2NlN01ndmVuWlVFNUQ3SnRhWFVwd203UWtKMWhKYURiX3ZFSFVwTVdEa2NraGlsSVVnS2lHTXl6TUMybVl1ZFRua0R0aXRaenQtejZVcy1sbVpsbTlQc3pfbnk1NG40UnhjS1V4UjJMbmlwNVI3TzJtN185WUdPbjkt?oc=5",
+    "published_at": "2026-08-10T07:49:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-11T01:18:35Z",
+    "updated_at": "2026-08-11T01:18:35Z"
+  },
+  {
+    "id": "5e5b97f05a159b3e",
+    "leader_name": "Narendra Modi",
+    "leader_title": "President",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-10",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "PM Modi to meet Indonesian President Prabowo Subianto today; talks to focus on defence, maritime cooperation ddnews.gov.in",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1lvLVRKalo5aTVEX1VwVFhkR1NPQm50bDRhT2tZLWstekljOFNXOHZ0cExOX1RuZV9zUkpZYlVPTU9oNXVjUW1ObV83NDJaSFZ6SVRBaFFnTVR1OUxHbkdES3RyUHRSZVVrczdrOGxTSkxsa0N6SWJLMmxWNW5Hcld4a09OeXdFMzVaVUZBeXZxVkJFa0xSS3RSQi1zWHlLdEdmbFhzc2lTdzVPaXRQT1VVMGVvOUpvTGFxdDBYZFE5X0tVS19ON2VLNGo?oc=5",
+    "published_at": "2026-08-10T02:51:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-11T01:18:35Z",
+    "updated_at": "2026-08-11T01:18:35Z"
+  },
+  {
     "id": "33918af1349aa252",
     "leader_name": "To Lam",
     "leader_title": "President",
@@ -16,26 +73,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-10T01:20:32Z",
-    "updated_at": "2026-08-10T01:20:32Z"
+    "updated_at": "2026-08-11T01:18:35Z"
   },
   {
     "id": "be7e873df035c0f4",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "Prime Minister",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-08-10",
     "event_type": "official_visit",
     "destination": "",
-    "summary": "SVG PM on first official visit to Taiwan St Vincent Times",
+    "summary": "Deputy Prime Minister and Minister of Foreign Affairs joins the Prime Minister in welcoming and meeting with the President of the Republic of the Union of Myanmar during his Official Visit to Thailand กระทรวงการต่างประเทศ",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFphaVhYLUx4ZG40Z0dXNU11cEh0QkpvYjhMdlVSTzdYYW8wX3BtYW5LZmVrNUFjT2tFU0FHamNmc19nUzFBdFZCSld5SGtSV29mTHBreUgwRTNvbWhFSXQzRmZXay1NeE1IalQtQWhxeGRmME9NQ0VwWnhHVVJVNlJvZ2k0MzV3SlZ0NmNWS3IyU19FUWhzbg?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTk9FS2JWbzItc3ZzMGtNdWVxeXd4dHVGQjZ5ZzJ3aXhmODl3VHNNV0dTY3pnNWROeTc0QVdBenVhUVZ2TWhDODN3RXJ5NVNVMWtuVlZLdlR2RFhldWtiQW9DV2FzREhrSWM4X0lvdXlfVHlOQnV3OThsczFLc1pERlk3N29PWEduRzFqcV9xZTAzVTRnalNQZXFRcHB3UTNsRk9YbW5fUzBxQVdVcFhtZUtKeVVYR0d2d2hUSnFkdmhXR25YLTJDYWFYZlp2VkVCTTR0WA?oc=5",
     "published_at": "2026-08-10T00:29:32Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-10T01:20:32Z",
-    "updated_at": "2026-08-10T01:20:32Z"
+    "updated_at": "2026-08-11T01:18:36Z"
   },
   {
     "id": "bd1e49af15b223b6",
@@ -46,7 +103,7 @@
     "origin_inferred": false,
     "visit_date": "2026-08-09",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "Saudi Arabia",
     "summary": "Austrian chancellor to pay an official visit to Turkey 1News.az",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElBbWZhSlFfNnRUYlJsdzVJVVRQWnFLWFlVNVhuTzdSZjNqYVpLS2VWY3pxTWtKZ3NmX3JzUkM2eXh0NWtsWHFMWWdMVjV3UXhTQ1dwXzhIcGxfM2UyYkYweXJ5Z1hNeUlkSy1OVHZhbUdMTFpxS0U5Unl0N1VyRFJpMVpobzI0VnZQOXQ2bTNtUFJFODJXSlRtVmQ2Zw?oc=5",
@@ -54,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-10T01:20:32Z",
-    "updated_at": "2026-08-10T01:20:33Z"
+    "updated_at": "2026-08-11T01:18:36Z"
   },
   {
     "id": "b9442d27e362ef0c",
@@ -73,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-10T01:20:32Z",
-    "updated_at": "2026-08-10T01:20:32Z"
+    "updated_at": "2026-08-11T01:18:35Z"
   },
   {
     "id": "b3ad7accff8dfcb9",
@@ -95,6 +152,44 @@
     "updated_at": "2026-08-10T01:20:33Z"
   },
   {
+    "id": "8a72a9c2a5a40bc7",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "PM Modi Arrives in Seychelles for Three-Day State Visit, Receives Warm Welcome ddnews.gov.in",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1E0YnhKVkczQThPcVJSaFNVT0t0bUhWRkZOeG5BZzVqYlZjVk11cGpwdWZNNVRZY09pX0ttSURmSThjVVNSQ2dyNVlkbnJCYXlNRjEycnZ4bVpValowSWlHcnMyaGRhd19ja0Q4VFQtSHItZkF4X0FBTFN3Zk40c3VIUVZjb0gwZmJSUE04S3lQSTFQQ21zWDhmZDNoTnFVU1VFaEJ3?oc=5",
+    "published_at": "2026-08-09T11:00:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-11T01:18:35Z",
+    "updated_at": "2026-08-11T01:18:35Z"
+  },
+  {
+    "id": "96f41c2a9e7919cf",
+    "leader_name": "Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-09",
+    "event_type": "official_visit",
+    "destination": "Serbia",
+    "summary": "President Ilham Aliyev Arrives In Serbia On Official Visit (PHOTO/VIDEO) menafn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzdqMjlJMFFuZ3ZmcGpiU2pyRWZ2UnR6TnJFVUFEVVBBX0wtUHQyS3lCMDRxM0R1Tnl1c3VnYmE2eGhWYkcyUDRNVWEtdWFuMTlBUGE3cTRYYld0R3lvT19HeDdBRkltc01VOE5lREhFYUM1eG5iYXM0b3hrT2ZfbVd1YXMzNHBiWlRqVFVNSk10TGhhbzhxYzR1NjQ2WnA2?oc=5",
+    "published_at": "2026-08-09T06:56:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-11T01:18:35Z",
+    "updated_at": "2026-08-11T01:18:35Z"
+  },
+  {
     "id": "d7095ce67a8f308e",
     "leader_name": "Xaysomphone Phomvihane makes significant",
     "leader_title": "President",
@@ -111,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-10T01:20:32Z",
-    "updated_at": "2026-08-10T01:20:32Z"
+    "updated_at": "2026-08-11T01:18:35Z"
   },
   {
     "id": "e812beda411f62cc",
@@ -12100,7 +12195,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:37Z",
-    "updated_at": "2026-08-07T02:26:32Z"
+    "updated_at": "2026-08-11T01:18:36Z"
   },
   {
     "id": "9b83b5960fe0517e",
