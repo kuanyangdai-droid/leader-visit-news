@@ -1,5 +1,62 @@
 [
   {
+    "id": "204ebf141c0ef43b",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-12",
+    "event_type": "state_visit",
+    "destination": "Singapore",
+    "summary": "Party General Secretary and President To Lam begins state visit to New Zealand en.qdnd.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHJOdFUxZ1V1U1pXMnBLMUhieF9qejMxLVVVTm5TaHNGdmNodGVHdG1xVXl2cEZhcnBzOWhkNUZTWW1uNzRia3l0dEVYUVhvSUFNb3VzQVBWMlNpX3dsd3VNSGp5NFlhWDVvNWtkYlZNdVB2YmJNNktyMGNPUVdlemQwRlF2T0xDR0RmamI1TDJYdXBCN3BEd0U2VHVVNjlBS1ZOX0o2OEhtaW5XYS1wX0ZlSUFGSzNud05tcURSODZKVGhpY0hmTkkxWUZYMVJQMU5VR0VDcw?oc=5",
+    "published_at": "2026-08-12T10:29:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:04Z"
+  },
+  {
+    "id": "f40c16134118ee84",
+    "leader_name": "Tô Lâm",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Party General Secretary, President Tô Lâm begins state visit to New Zealand vietnamnews.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmtPRFdFSTViZk43TVJnRHUwVG1fS1M0eHQ5b19ScWZBR09vVndpenV6STlvYzRBOVRET3BTakFhaC01MXY4RVVNODU3Q1lnSVo3dHNJQlVhRjVydURMWXhVSEYzamlMZmhZVHdvaXpLSktjYnNzTHpJR0JqV3lMRDRtcXhFZmZrYUU0RlpzeHZ3b0hudnotZ0JVcU1MMGlBQUg2bWFJTjRnNWlsS3RYZFA0OWh4RmZsSWozRW0tSkNPUQ?oc=5",
+    "published_at": "2026-08-12T07:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:05Z"
+  },
+  {
+    "id": "819e70193f05a3de",
+    "leader_name": "",
+    "leader_title": "prime minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-12",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "St. Vincent and the Grenadines prime minister arrives in Taiwan on state visit-News-Radio Taiwan International rti.org.tw",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zZmd6R09QX1I3UWlMTjdXdm9QNy1sU29Bb2EwUXJoOTVHY3BJZlJkWDhmc2NUVHVYdnFjQnQtMl9JNUtpTXRtWG9IRzVQNE1PM1BpSUVPbDBUYlU?oc=5",
+    "published_at": "2026-08-12T05:25:32Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:05Z"
+  },
+  {
     "id": "376fdfb4da98a9d7",
     "leader_name": "To Lam",
     "leader_title": "President",
@@ -16,7 +73,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:47Z",
-    "updated_at": "2026-08-12T01:26:47Z"
+    "updated_at": "2026-08-13T01:29:04Z"
   },
   {
     "id": "1477443bd3a881c6",
@@ -35,7 +92,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:47Z",
-    "updated_at": "2026-08-12T01:26:48Z"
+    "updated_at": "2026-08-13T01:29:05Z"
   },
   {
     "id": "e29584c0e6381e50",
@@ -57,6 +114,25 @@
     "updated_at": "2026-08-12T01:26:47Z"
   },
   {
+    "id": "0be29067e51ff51e",
+    "leader_name": "Abbas is coming",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-11",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Palestinian President Abbas is coming to Turkey Haberler.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXpBWUlmQTVxZE93dWhaTGVid1d0S0pJWnJVdXZCNFBfdU1ydk5MMW1DLWM0aXV2M0UxVzkyVFpXV0pjY1laOUc5ekREMklnWFpCcjVmWUFOWlFjU2VJZVJwTEc1Z3gzSGZGVWR5M3loQ3hVSmZXT3BIX18ydXdMV1EyeE5MOFE?oc=5",
+    "published_at": "2026-08-11T12:57:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:04Z"
+  },
+  {
     "id": "5afaae6473f22d58",
     "leader_name": "of Republic Heads",
     "leader_title": "President",
@@ -73,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:47Z",
-    "updated_at": "2026-08-12T01:26:47Z"
+    "updated_at": "2026-08-13T01:29:04Z"
   },
   {
     "id": "ab125c69098053a9",
@@ -92,7 +168,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:47Z",
-    "updated_at": "2026-08-12T01:26:47Z"
+    "updated_at": "2026-08-13T01:29:04Z"
+  },
+  {
+    "id": "ecc02fd210411cc8",
+    "leader_name": "Anthony Albanese. Fiji",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-11",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Fiji and Australia strengthen cultural ties at traditional welcome ceremony for Australian Prime Minister Anthony Albanese Fijivillage",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdUdIamZpM0RzRV9xcjVNRXRSN25FSUpkamUzWXFBcktWcEp0NGdMUVYwbDRsQWdrS1hobzQxZWRrUUlXamlFOG5WejVla3dNWkhrbTE5bkIxSUZ0WmRta1I5ZlZZSWtSNWhOWE5pem80dVZTT2tlX2pTODJjd3hPZDkwcXRBTFp5engwZHZLcTJTVWUzc3hNYkF1YmlWVmZTMWVIaUVhelBMSXIyN3NOUzkzb0pQTzNRS0VraEx2ZjNwZzJHNTVWU3ZNZEtQWDZnX3M5YTd2X1hZYzhqTDU0cUVTRWNiWUlMY2ZfRDRuV1k1NWU5NkEtMjdB?oc=5",
+    "published_at": "2026-08-11T10:06:31Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:04Z"
+  },
+  {
+    "id": "b71b91370dbf5aee",
+    "leader_name": "of Turkmenistan completed his",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-11",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The President of Turkmenistan completed his state visit to Georgia Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMUZwNEVZcjlVZ0RqSFZ6M1BHcjdkTjEzaE9xSnFzYjdnRVZwNGpnMzRjVUhuNUlTSnpnbFhDa2k5endGLXZCOWpsdEVJcG1odnFoQWlBWU1NTWV5bXBPUkFud2ZraDBwZjRVcG5mWDEwNi1pb1ZvWnk1WnZKdUh6M2JQSDM3aEYzOEdLQ3VOTlh1RXBwakNGWlFxVVVTTmxTOU11a1FaajJDc2tkT2lDX2d6bXQtMEdDVmFwaE5wLXhMYlhhV2c3b0RR?oc=5",
+    "published_at": "2026-08-11T08:04:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-13T01:29:04Z",
+    "updated_at": "2026-08-13T01:29:04Z"
   },
   {
     "id": "5b96f61143df972f",
@@ -111,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:47Z",
-    "updated_at": "2026-08-12T01:26:48Z"
+    "updated_at": "2026-08-13T01:29:05Z"
   },
   {
     "id": "2a35520f3ee41e56",
@@ -130,7 +244,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-12T01:26:48Z",
-    "updated_at": "2026-08-12T01:26:48Z"
+    "updated_at": "2026-08-13T01:29:05Z"
   },
   {
     "id": "745e68f0adbf6ddf",
