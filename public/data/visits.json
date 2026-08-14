@@ -1,5 +1,100 @@
 [
   {
+    "id": "77dfc6fbae9a5612",
+    "leader_name": "日本财界",
+    "leader_title": "首相",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "享年93岁！丰田前掌门人一生落幕：从卖车小弟到\"日本财界首相\" 新浪网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmeVBneGhNYmRXZUZBU3lWQVFiUFRmQzUxNUh3aTF3NTFFWVc0aXlxX2xtVWp0QjdybFdDVDltbC1qa1BObi1mZ084TVgzMVZrYVllRlAzS0RtRlVRMXo4VWMxOC1CQ0tQYkRFTExnUXJUdw?oc=5",
+    "published_at": "2026-08-13T23:08:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-14T01:27:49Z",
+    "updated_at": "2026-08-14T01:27:49Z"
+  },
+  {
+    "id": "884fb4d01208a51d",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-13",
+    "event_type": "state_visit",
+    "destination": "Vietnam",
+    "summary": "越南与新西兰就越共中央总书记、国家主席苏林对新西兰进行国事访问发表联合声明 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zak9xX0hXR0lzYkhaMUl4UVZhNFpLOFlZYlY0bEtRVzlVMW9vTkdpUU9RaG90aGxyQ2VKWVEzNGswUzY5eExLdWp5YjVKN0xrTWc?oc=5",
+    "published_at": "2026-08-13T23:00:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-14T01:27:49Z",
+    "updated_at": "2026-08-14T01:27:49Z"
+  },
+  {
+    "id": "f0122adba8738cc1",
+    "leader_name": "新上台的",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "总理着急访华，新上台的总统沉默，给中国的“特权”悬了却是好事！ 风闻",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DRXQxd3VYbFROZVZ4cHl1NlA1cV91ZVlkMjhBRXZFSzhNNU4wNl94ZHZIZnNIelZaMjNFTDByZXVRZUd6YnhSMjNzTER1TE1qRXc3QXZKempkWVk?oc=5",
+    "published_at": "2026-08-13T13:33:47Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-14T01:27:49Z",
+    "updated_at": "2026-08-14T01:27:49Z"
+  },
+  {
+    "id": "ca4ba5a41b6e8204",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-13",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Party General Secretary, President To Lam concludes state visit to New Zealand Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3lVN2lERWhRbnlxM285NVdtdUhXMXpEVFROUmFVeWxRUzdIWWhHeDJMdVI5bDZrTnNpSXdQeldzeXo0alBRdzhRSm1qMzdmemZsZzZRcFAyeF9JSXNubG9UZ0RjaUpTSFhsd2ZGWmIyS2R5NE9GMFlWRkFkcnl6R3FsUURuRXlSWEh2NjNNMWpzbl9XRUY1MVZUWElMUGRMMFdxN1owOVpDQkJOZUNPNnhCa0VGdVRYSEE?oc=5",
+    "published_at": "2026-08-13T12:16:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-14T01:27:47Z",
+    "updated_at": "2026-08-14T01:27:47Z"
+  },
+  {
+    "id": "926c9085595410ef",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-13",
+    "event_type": "other",
+    "destination": "Japan",
+    "summary": "普京访问千岛群岛 日本强烈抗议 早晨报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRjVVSWdVN1ZKVmRaa0d6RWFmOUFkUXZiQzZKdW9NSnpVMkNpNGg4UTlKWnBYRkJlckF4MFNBb2l0M1BUUngtazhNbmQ0MUNiaVZ1RnkzSzF6ZWlUYXJpcEgwajBham5tLVExMw?oc=5",
+    "published_at": "2026-08-13T02:35:42Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-14T01:27:49Z",
+    "updated_at": "2026-08-14T01:27:49Z"
+  },
+  {
     "id": "204ebf141c0ef43b",
     "leader_name": "To Lam",
     "leader_title": "President",
@@ -16,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-13T01:29:04Z",
-    "updated_at": "2026-08-13T01:29:04Z"
+    "updated_at": "2026-08-14T01:27:47Z"
   },
   {
     "id": "f40c16134118ee84",
@@ -35,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-13T01:29:04Z",
-    "updated_at": "2026-08-13T01:29:05Z"
+    "updated_at": "2026-08-14T01:27:49Z"
   },
   {
     "id": "819e70193f05a3de",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-13T01:29:04Z",
-    "updated_at": "2026-08-13T01:29:05Z"
+    "updated_at": "2026-08-14T01:27:49Z"
   },
   {
     "id": "376fdfb4da98a9d7",
