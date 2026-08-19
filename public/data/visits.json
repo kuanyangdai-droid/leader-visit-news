@@ -1,22 +1,117 @@
 [
   {
-    "id": "2ae99c8ee8a1ab1a",
-    "leader_name": "",
-    "leader_title": "",
+    "id": "29b7df8bfde7124b",
+    "leader_name": "of Russia",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-08-18",
     "event_type": "other",
     "destination": "",
-    "summary": "中央司令部指挥官在心理健康问题背景下访问“亚伯拉罕·林肯”号航母 风闻",
+    "summary": "Press statements by President of Russia and President of Myanmar Президент России",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JdmdXM1dGc3ZuRXBDRkg0TGhhUlJib0s4WjdQdHBFc0pPVWNadE5VZ2YxRGhTN1J5bENWSWlRYkZnTjdkRkNmN183Ukl5S005WVFmcFk3RUozNlBv?oc=5",
+    "published_at": "2026-08-18T21:31:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:04Z",
+    "updated_at": "2026-08-19T00:58:04Z"
+  },
+  {
+    "id": "f7ccca380e73ebd3",
+    "leader_name": "一位右翼",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-18",
+    "event_type": "other",
+    "destination": "",
+    "summary": "一位右翼总统来华访问8天，整个拉美剧变之下，实在是太特殊了 搜狐网",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhZVhUTWlVRzVwa1NwUXVxTzZhX0VZQ3JWbUEwSmgtZUlibjI3OFVnYnpndFZXOUxTbE05bG5rYjlfc2MxcFFnOXJ0WUJZNXoyU0lMSW55UU5GOGc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTVPby1ZbFZGWmQtaGU3T1lWdjVsRTFSaEkxYTFPTTdJTS1HNklSRXhkLUlRS0pINkd6QXMyOW9QT0dsX3lyOXpMaVpFZk9MYkRseTRFZFVXNFpBeHdTMUs3Zm1PRE01Rkt3aE8wRjFkcmhSdWhFc0xoQ1RtaU5nbDc3OGcxM3lmQ2xEQw?oc=5",
+    "published_at": "2026-08-18T17:06:26Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:05Z",
+    "updated_at": "2026-08-19T00:58:05Z"
+  },
+  {
+    "id": "9e4c23b2288faf53",
+    "leader_name": "UAE",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-18",
+    "event_type": "other",
+    "destination": "",
+    "summary": "UAE President, Trump discuss bilateral ties and ME developments Sharjah24",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ybERjRXVWdGZBWlNwVXY2dlVxWTRHSmxSWHZUY25DbVhGV20zS3VnTmVKQy1qZnpfNDgtZ1RHU1I0eEE0VnNxdkJEbXp4QWRhN0JkV19qODhtYmFnVnc?oc=5",
+    "published_at": "2026-08-18T14:34:58Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:04Z",
+    "updated_at": "2026-08-19T00:58:04Z"
+  },
+  {
+    "id": "fca330f554eff9ce",
+    "leader_name": "王毅",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-18",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "王毅将于19日至20日正式访问韩国，时隔五年再访 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQkdHbWs1YlhKdUpWZkczYnR1OEU3NXpETXJ0ZzJvS0cwN1J4ZnVVdTZTZDA0Qkt3R0diSUZFQWUxckd5R3A2SWN0dFI1WTYzdG5LdTAya2FMdjQ?oc=5",
+    "published_at": "2026-08-18T05:56:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:05Z",
+    "updated_at": "2026-08-19T00:58:05Z"
+  },
+  {
+    "id": "304430e3482b9bf3",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-18",
+    "event_type": "other",
+    "destination": "Myanmar",
+    "summary": "缅甸总统敏昂莱9月初将访问柬埔寨 柬华日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRjMtcE1OUDRxaHFjVE5IdVpMUDVCa0twQ2VReHBBektrbTRwQUNrYnB5aGFQejlqcWxSXzd0YmJqZGdfX0h5Vy0welY5UHp0aHkyTmJ0bw?oc=5",
+    "published_at": "2026-08-18T02:51:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:04Z",
+    "updated_at": "2026-08-19T00:58:05Z"
+  },
+  {
+    "id": "2ae99c8ee8a1ab1a",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-18",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Myanmar President Arrives in Moscow for Official Visit elevenmyanmar.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWRxOU5MSlZManAzb0t0WnpSeUxVV1JSWTlCWEpWR0l2NThDQjBaZXFseDZEQU5DM25kS2RQcENIWXY3S1EzdXFiVXZvaXBvU3RZWXhoX1htZjJMY3VCUjg2b0Q2SlAzV05kbGRkZVZiZFJtOGZwZFRhWDNkM2tlYlp0U3ItUC10UGJDaUFCUjlMT1duYjJVUm9feXNBUQ?oc=5",
     "published_at": "2026-08-18T00:30:43Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:14Z",
-    "updated_at": "2026-08-18T00:57:14Z"
+    "updated_at": "2026-08-19T00:58:05Z"
   },
   {
     "id": "c4b3d4afc952f9ee",
@@ -35,7 +130,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
+  },
+  {
+    "id": "610c83a1b12c3b28",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-17",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "“Thank you Israel, for the warmth and affection”: PM Modi after concluding his 2-day state visit ddnews.gov.in",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUNTbFllX1V4MGpDcldYTnVvbWx0aHlYN3R3LUZQS3lDd1hTR0tVb2tkbENTcThxUS04ZU5MNEhtdUhMajBHVV9PY1JRYjlvU2tBVm1TZnozSG5HRUh0N2dOM1ZFTHctczNHaXM0c3d4M1pRRGFGakZoSFhUajd6LXA0UUlCYUJuSnpmd09WQUg5WXRQUWxxTmZZSElOb1B0ZHpZdVY3ZUtWUEdhemtXa19OYUE1cDlUS2c?oc=5",
+    "published_at": "2026-08-17T18:56:20Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:04Z",
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "d833ba0d2cb07b61",
@@ -54,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "9b4e2170247d1065",
@@ -73,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "d1132c57b95091f8",
@@ -92,7 +206,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
+  },
+  {
+    "id": "f219ec17ef46105d",
+    "leader_name": "William Ruto",
+    "leader_title": "President",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-17",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Ruto to jet out of Kenya for State visit to Djibouti Citizen Digital",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGlpZ1ZvSWhXOXB0QnVnTURDa25OTTJQV2pkSnFmdGgyOF9kNTdkd1BXU2w4UG9tTFZDNXFyRDZUb2pnaXFkSW80N2MwWVdsam80OEJXeVpiQUxHXzdwLWVTMXJQV0ZuU2NjbTZIRGM4SkQ2ZjV5YlY3TlViRExaVV85YXBHbVFaejE2UU16a3VIV0lpaE84ZEdtcURRdE9yU2VrYQ?oc=5",
+    "published_at": "2026-08-17T10:16:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-19T00:58:04Z",
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "95d9caea3e822393",
@@ -111,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:15Z"
+    "updated_at": "2026-08-19T00:58:05Z"
   },
   {
     "id": "d591b68ca1f7c850",
@@ -130,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "579ef46f912c407c",
@@ -168,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:14Z",
-    "updated_at": "2026-08-18T00:57:14Z"
+    "updated_at": "2026-08-19T00:58:05Z"
   },
   {
     "id": "afd42c84faf06678",
@@ -187,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-18T00:57:10Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-19T00:58:04Z"
   },
   {
     "id": "7e43415d0b90e46b",
