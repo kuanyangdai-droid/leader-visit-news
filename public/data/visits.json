@@ -1,5 +1,157 @@
 [
   {
+    "id": "7c2dae5fb55fce82",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President U Min Aung Hlaing receives Prime Minister of Belarus in Minsk Global New Light Of Myanmar",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0pGVGxOdzltMHl2bmtiUXpUMEpOWlY0by02Zm93X1NOYWV6dnBmcVg1VjZTSlBPRVFUaHh3YnlqUTZvMmFLTFJoWTd2djljQjFMeTdQaG5tVlVlMUhYZGJ4M29vZ2lqZ2gwMVBHVmJ3VUU2WHdsUERVdWhieHZweVpJZmdaN3JHNWwxYmxNX255aUkxRm9jVzZXS3U?oc=5",
+    "published_at": "2026-08-21T00:39:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "fe1dc849533de7cb",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-20",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "Japan Defence Minister Shinjiro Koizumi meets PM Modi, discusses stronger security ties Firstpost",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTY2Sm43UU83UzZvWHdUdGlEM0p0VklmZHUzVFBPMEV3OHU2NFFOTXdtdEJ5NmhidjB3Y3IxR3R5M0NlSzdsbTZoSGY5U3AzTWctMXFmbWpoem9vNDVlbW1ISkE2eFFEZEtMcnM0RGMweGE4VGZtSXZTUm1qc204SE8yWGstOGZNVGpCVUxyU1AzUzBLZXJ0dEhUZXpYcnB4cXNqa1FDeTQ2aHViNHdvMU11aTJFXzJUNGFCVnVnQUlLMy12T0JVVFpfMXFRUWRyZ3fSAdIBQVVfeXFMTW02NkpuN1FPN1M2b1h3VHRpRDNKdFZJZmR1M1RQTzBFdzh1NjRRTk13bXRCeTZoYnYwd2NyMUd0eTNDZUs3bG02aEhmOVNwM01nLTFxZm1qaHpvbzQ1ZW1tSEpBNnhRRGRLTHJzNERjMHhhOFRmbUl2U1JtanNtOEhPMlhrLThmTVRqQlVMclNQM1MwS2VydHRIVGV6WHJweHFzamtRQ3k0Nmh1YjR3bzFNdWkyRV8yVDRhQlZ1Z0FJSzMtdk9CVVRaXzFxUVFkcmd3?oc=5",
+    "published_at": "2026-08-20T18:19:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "c114ab62bd206a7c",
+    "leader_name": "王毅",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-20",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "会见王毅的Lee总统吁就“朝鲜半岛问题”开展战略沟通（综合） 아시아경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HM25JM1lTd1hHYlFJV0t3b3dJSHh3THJrdmw3eThObG9mVk96c2ZJQ2F6VUVFYjQ4R3ctMHk1RkNHVmxSY3FPMFlFcGNGRVo0QmV2cm5XSVNEU05vLWR6MjhzWm4?oc=5",
+    "published_at": "2026-08-20T16:16:08Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:02Z",
+    "updated_at": "2026-08-21T01:01:02Z"
+  },
+  {
+    "id": "9f2acfb0b26b6dbd",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-20",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "President Lee to Hold Third Summit With Xi in Shenzhen 조선일보",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUENWWExNT2FjUVd2Wi16Q1Z1aVJfWkFnRHc4eENBeVE2X1dVZ3F4WEo1YUxIZk1VeTMtV2kxTlJMNnMxUUlfanNfdnROTkxzVG9qcW9EM0FacF9GSDZwdE8zRmNTU25hVmdTeUNCMjdwdURzUG9URWxkcDJFOXNselRnNGVIckUx?oc=5",
+    "published_at": "2026-08-20T15:51:32Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "847125f68a1dc5d8",
+    "leader_name": "Philippe",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-20",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The State Visit Of King Philippe To Kazakhstan: Historic First And Mirror Of Strategic Partnership Between Brussels And Astana - OpEd Eurasia Review",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOLTBHc3RpMWR5VU5nTF9hanR6ekZENUx2Umo1RFgta2pQdzQ4d0RYNVIwZGY1OFVfVXRPRlp3cjVHcG93RFFDYjBsRG1SWWN3V0Y0OFFZR0RST3h1SlhMdmp3bDZ3b2VISGdpNGRPdFZzRFIzNVJXVllrdXc3WXpjVC1RZlJTYkFNek1VYUNJMVBnZllqR2tFYnAyeElqRFdQcWZhMndaOTR4UXJpX1JMZF94TlUwcld3ZXFJVFFmbV9pWk1IWVYyQlhPZUhCaUt2TXVackE3QlFTSzNmaGNTNnNNaFhhQlNISFhHa095VjV2NUxNSXJzcGdhZTF4Y1E?oc=5",
+    "published_at": "2026-08-20T15:07:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "e15e1a0489b7fa6e",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-20",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Anwar to attend 27th Annual Leaders’ Consultation during two‑day working visit to Brunei beginning tomorrow Malay Mail",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY0tma2RMYUg0OFNzVzkxTW1rdTNvRHhLTHlqcEFaWVRBV1U0aDVKTkZXLXZlWjYtcjRpNnh3cllEbVVVRENCVmZVMDNieTBRdmVmOUdtdElyQ25mZmQ5cE9ILVNoT1RBVnpsWjI1TmptTzJRT1Ytb2xKbFE4NmtCYTlzMkRCc0hIakl0a0Uza2U1Y05DTXE5QlpyVExVZ2NzQUVVLUtZdlFZU2tKTXI2Rk92Z3BvQnRhYUdia1ZBRGlPcHR6QzdCZ3V5ek1iTUNUb0x0Uy0wNW5PTmVVd1hmdnM1QjZucE1VTEIwaGc2TmwyYTJXenQ5dWZQVdIB-wFBVV95cUxOY0tma2RMYUg0OFNzVzkxTW1rdTNvRHhLTHlqcEFaWVRBV1U0aDVKTkZXLXZlWjYtcjRpNnh3cllEbVVVRENCVmZVMDNieTBRdmVmOUdtdElyQ25mZmQ5cE9ILVNoT1RBVnpsWjI1TmptTzJRT1Ytb2xKbFE4NmtCYTlzMkRCc0hIakl0a0Uza2U1Y05DTXE5QlpyVExVZ2NzQUVVLUtZdlFZU2tKTXI2Rk92Z3BvQnRhYUdia1ZBRGlPcHR6QzdCZ3V5ek1iTUNUb0x0Uy0wNW5PTmVVd1hmdnM1QjZucE1VTEIwaGc2TmwyYTJXenQ5dWZQVQ?oc=5",
+    "published_at": "2026-08-20T12:22:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "fd1711fe5f9b0507",
+    "leader_name": "Charles",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-20",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "King Charles, Queen Camilla head to America: What to expect on their state visit ABC News - Breaking News, Latest News and Videos",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDFzQTV2cGFqRkE1aU05Vl92QjVHYlFMRjk1NjY1a0tCV2xCeUZLdjZaUS1hTzJLVk5QNDBQXzdFUGJEWnRpV0NWR2c5bTdLbTQ2a3dUZlFrYWlzOE5ENy1jM3F1dERSNVZQa1RXOE1jRmxjTUVMYm1pRHdxTTVzak9LYl93Qnc0SHhMNGtlUENzZFRubXZ2Y2w5b2dUd9IBowFBVV95cUxOYktXM3JrVzNhTERsbmpqRUlVWk1mXzVYMlJITE1ZeV9NZThFR1BGdVlMRHp3M0hpZDViZ081MW01SzU5R0RNQ1dlZzFqMVJCaGs0S1lGR0VQME82dXktSVY5dmJRaTZBUTc2ZkVMSjRvX0FIcWxSbFRDUU5sLXpneW1GMmtZdXdaUno4ektJdVVleks0U1BrRlR1aldyTkFGTTY0?oc=5",
+    "published_at": "2026-08-20T09:44:54Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
+    "id": "b4825024562a3e5a",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Myanmar’s President Min Aung Hlaing arrived in Belarus on official visit СБ. Беларусь сегодня",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeU5lZVJ2SExIYlgyNlYwMFZYd0JxU1YxUHY2NkdQY0N2RjNoV0cya3h0RWp5Y3NObmVvRVMyYzBXZzdOdGphSWRKMzF6UXhPUWZLZjZfWWpXVHNFWE83LVM0bTBoQUtENFZkejhIV0RhSjZNZ1FwYl85VnFLTmduemplcVdrVnpETlNud0RpdkI4VWgtbGVCZU5JZkNaams?oc=5",
+    "published_at": "2026-08-20T07:40:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-21T01:01:01Z",
+    "updated_at": "2026-08-21T01:01:01Z"
+  },
+  {
     "id": "c6b9642396719f68",
     "leader_name": "",
     "leader_title": "premier",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-20T00:57:34Z"
+    "updated_at": "2026-08-21T01:01:02Z"
   },
   {
     "id": "e867907d4221ad1c",
@@ -35,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:36Z",
-    "updated_at": "2026-08-20T00:57:36Z"
+    "updated_at": "2026-08-21T01:01:02Z"
   },
   {
     "id": "9b2eb4b71b2238ee",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-20T00:57:34Z"
+    "updated_at": "2026-08-21T01:01:01Z"
   },
   {
     "id": "3d9809db6f8422fd",
@@ -73,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-20T00:57:34Z"
+    "updated_at": "2026-08-21T01:01:01Z"
   },
   {
     "id": "c0a18d20e1925cc9",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-20T00:57:37Z"
+    "updated_at": "2026-08-21T01:01:04Z"
   },
   {
     "id": "79066238f6d5c6b0",
@@ -116,21 +268,21 @@
   {
     "id": "d685a9be2afd8bb5",
     "leader_name": "习近平",
-    "leader_title": "",
+    "leader_title": "总统",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-08-19",
     "event_type": "other",
     "destination": "",
-    "summary": "习近平向江泽民与朱镕基借力能否成功？ 访问 The Interview",
+    "summary": "习近平同厄瓜多尔总统诺沃亚会谈 新华丝路",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFUkk4cEM3b1dSVmJYano1b0ZPRXRHdkhKdW84NjZHTjY3UzNSNURkOFFWMl8zSHVIcHFqdy1kWnJZQnNXSEFQd0hiU3hZd1VmX2dtaGpWaGRGZDNrdmVLbmZKNlhRejFjalktQkJWMGw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkM0xBVDJGamJsN0NOTXdNVkZPQ0cxYU1qbXpiNnFxN19QTVJzWmlJZGFNRXhWQXhGUTEyWG42bDhndnNIbjMtX0VwTU8wMFBOQ0E?oc=5",
     "published_at": "2026-08-19T02:33:12Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:36Z",
-    "updated_at": "2026-08-20T00:57:36Z"
+    "updated_at": "2026-08-21T01:01:02Z"
   },
   {
     "id": "711cc9687446f690",
@@ -7331,7 +7483,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-08-10T01:20:33Z"
+    "updated_at": "2026-08-21T01:01:02Z"
   },
   {
     "id": "d9535caf770f58b9",
