@@ -1,5 +1,138 @@
 [
   {
+    "id": "63470e348084e8dc",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "France",
+    "summary": "缅甸总统：朋友之道，不以距离为界 白俄罗斯新闻",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MWlMMVgzb3NiNm5aNVNyNEVNTjUyQmF5NHZSVDlWSkFZc3hjZ21MZmNFdWl2Snl3RkZYSjZhZExDOGhUWExBTUJzTkhJY1doNENxeTV4dFdMekE?oc=5",
+    "published_at": "2026-08-21T17:55:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:34Z",
+    "updated_at": "2026-08-22T00:57:35Z"
+  },
+  {
+    "id": "63011d11629963e9",
+    "leader_name": "of Azerbaijan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Azerbaijan to pay state visit to Uzbekistan on 23−24 August Газета.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WaGhHM1U1LXZ1NXVtVzdNU2ppTVh2dTc4U202UTJtSGhGYno3TFNPYkVIaGFOU0x6X05WSWxsQmxJTkdHeTNFOEtmbDZERWRyTVBiSg?oc=5",
+    "published_at": "2026-08-21T16:10:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:34Z",
+    "updated_at": "2026-08-22T00:57:34Z"
+  },
+  {
+    "id": "b38a70480bbf63a3",
+    "leader_name": "胡志明",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "胡志明主席访问匈牙利珍贵影像资料正式移交越南主要媒体 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSS1uaDEwVlBtWkFBUGowYU8zc0piZk1LeGp5emJDb0I3bU1wSG5wUGpSQTVRZEt4TjlMM0tZV2x0cTJ2bEtCTHdoVFN0NXdhVmc?oc=5",
+    "published_at": "2026-08-21T15:50:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:35Z",
+    "updated_at": "2026-08-22T00:57:35Z"
+  },
+  {
+    "id": "35c4fefdc5493445",
+    "leader_name": "Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Aliyev: Azerbaijan’s participation in “C6” format demonstrates our country’s contribution to strengthening interregional cooperation Latest news from Azerbaijan",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0lNWUhIcU84Rkl6UTNJUlA1ZnVENWdLSzVtRjVodjQzVklvakJBTHBKNkx3X2VhdjdTOVhRbXJtZTNCUjU5cTIyWjRmUlpfRWo5ZjN2V1doMXpmTlJHanZhaGY1WnUzTkVTTks5VW5UbWt4Q2o2cm40NTFXX3pmU3B0SF9lYS15OFVjVjJlSHptWUtnLWdJb2taU3hqaHdNYnJaVmdLQ1lzSHBPSnZRemFyM0MzRUZzUHNwM1ZQbFpSbGotSU0tNXpPQnk1bVhuVk5oM2Rta2lHaFJtOWlQWllheTNVWGFKWjVkODM0Yw?oc=5",
+    "published_at": "2026-08-21T10:22:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:34Z",
+    "updated_at": "2026-08-22T00:57:34Z"
+  },
+  {
+    "id": "128c2dc0ac5675b2",
+    "leader_name": "Abdullah II continues state",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Jordan’s King Abdullah II continues state visit to China in Beijing news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTB4amJTaHhsaXMtR0lfQ1I0RFJkVUNrVTBmcUQtb251ZVJfQndGODFEUGxtb2ZKbUlnQ2lLSFI2bFF0aVFTb3lFWEdXNW5VLTJXWkh3LXFqU3hTNXRVMF82bjJ4WmFyYWZEQUowMDAtNXpoeWNmaVZYVU16ZS03YU91MDB2Y1NwSThRakFpX3BvbFNqSU5KcmEtaGNyRGwtT1BqZGsxRGpMdjN3MTEyUW84SC1JNDI5OFpBS2VWOGhMUQ?oc=5",
+    "published_at": "2026-08-21T05:48:01Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:34Z",
+    "updated_at": "2026-08-22T00:57:34Z"
+  },
+  {
+    "id": "3de042d0534b9ff1",
+    "leader_name": "阿利耶夫",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "Uzbekistan",
+    "summary": "伊利哈姆·阿利耶夫总统：“每次访问兄弟般的乌兹别克斯坦，我都很高兴看到该国在各个领域，特别是近年来取得的快速发展” UZA.uz",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwMnhQYUc2bmlqd2dsZF9VSE5PMG41NWhCQ2M5OVRlN1BxQTdPbFRGYi1sdEZYYTRvMlBtRkh2anl2a3dfYkE?oc=5",
+    "published_at": "2026-08-21T05:30:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:35Z",
+    "updated_at": "2026-08-22T00:57:35Z"
+  },
+  {
+    "id": "fd16ae85c57ffa6c",
+    "leader_name": "王毅",
+    "leader_title": "外长",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-21",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "李在明会见中国外长王毅 探讨韩中关系及韩半岛局势 Korea Net",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yUm9zQS1mZlpFVUtxT2Flbm1kT2lSM2ktTzFxSjZuSTdkc3h3VzFWQUowLW1zUzF1d055X3FsSl9vNnpYR1RkdEFFajMtVEkzTlpqM1VzbWM4cW5qZ3dvdFNleTdHLUxSS1Q0Nk0zQlF4V2ZF?oc=5",
+    "published_at": "2026-08-21T02:28:58Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-22T00:57:35Z",
+    "updated_at": "2026-08-22T00:57:35Z"
+  },
+  {
     "id": "7c2dae5fb55fce82",
     "leader_name": "Min Aung Hlaing",
     "leader_title": "President",
@@ -54,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:02Z",
-    "updated_at": "2026-08-21T01:01:02Z"
+    "updated_at": "2026-08-22T00:57:35Z"
   },
   {
     "id": "9f2acfb0b26b6dbd",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-08-21T01:01:01Z"
+    "updated_at": "2026-08-22T00:57:34Z"
   },
   {
     "id": "847125f68a1dc5d8",
@@ -92,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-08-21T01:01:01Z"
+    "updated_at": "2026-08-22T00:57:34Z"
   },
   {
     "id": "e15e1a0489b7fa6e",
@@ -130,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-08-21T01:01:01Z"
+    "updated_at": "2026-08-22T00:57:34Z"
   },
   {
     "id": "b4825024562a3e5a",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-21T01:01:02Z"
+    "updated_at": "2026-08-22T00:57:35Z"
   },
   {
     "id": "e867907d4221ad1c",
@@ -244,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-21T01:01:04Z"
+    "updated_at": "2026-08-22T00:57:36Z"
   },
   {
     "id": "79066238f6d5c6b0",
@@ -7483,7 +7616,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-18T02:02:02Z",
-    "updated_at": "2026-08-21T01:01:02Z"
+    "updated_at": "2026-08-22T00:57:35Z"
   },
   {
     "id": "d9535caf770f58b9",
