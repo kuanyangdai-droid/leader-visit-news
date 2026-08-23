@@ -1,5 +1,157 @@
 [
   {
+    "id": "2ba917b96a93798c",
+    "leader_name": "Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "meeting",
+    "destination": "Uzbekistan",
+    "summary": "President Aliyev To Visit Uzbekistan For Third Supreme Interstate Council Meeting – OpEd Eurasia Review",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzVQU0lfSmFsYWJmemFOTWtFRGVFdEVqaW5yd0ZTRE9qYXVNdnJLcVRGLTJ5TzNHdEtuMWpRRWlZLXd3WlBVSDZWUEVLUWdaamFIcnRvTmxnczlhM2w4cnJOU3h3ODVxOVdUa3FtXzZvWnc1WjIwWTBjMC04c2Q1NnJOTUpoX3hmU3dpYUxYMnRwaVVKX1Q0WEg1bTBmZEpsRUdIVFBfSlZtOVYtckkxbFRkNkkwcmIxWmVWSDIwSl9qT3cz?oc=5",
+    "published_at": "2026-08-22T18:15:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
+    "id": "1f70fc55d8ced24e",
+    "leader_name": "Aleksandar Vučić",
+    "leader_title": "",
+    "country": "Serbia",
+    "origin": "Belgrade",
+    "origin_inferred": true,
+    "visit_date": "2026-08-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "贝尔格莱德和地拉那之间的普雷舍沃和布亚诺瓦茨：塞尔维亚南部的武契奇，地拉那的阿尔巴尼亚领导人正在寻求设立领事馆，以及“更多的阿尔巴尼亚和科索沃”。 KoSSev",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56c3dxM1ZpLU5xS2ZlR1lnY1JnWHNpb0R1NFhTNnRQQ1N0elNYWnB4NEFlX0RLc0tMMV9TcUxqeDJ2N29NUURZUXZCalRCSW1rZXBoMlNzeTg1em9qc0l6SV9FbVFaTzgyUTFFQTBGb1E1V1ZEYk5CUUpYcw?oc=5",
+    "published_at": "2026-08-22T18:00:53Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:24Z",
+    "updated_at": "2026-08-23T01:02:24Z"
+  },
+  {
+    "id": "8f3f9ab82574e266",
+    "leader_name": "Ilham Aliyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Tashkent prepares for President Ilham Aliyev’s state visit (VIDEO) trend.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jczF2Xzg0RkFqTUZvTEtmaThFSXNjaXM3QlpwWnpZXzJuSWk5endVclo3U1Vycmdsc1Axams3MHpzOGpBMnkwTTllWm9WMkdTbHBYMXZYYVBoRXlVT1BCV0s1QQ?oc=5",
+    "published_at": "2026-08-22T16:20:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
+    "id": "03a75410cc7614c6",
+    "leader_name": "visit. PM Anwar thanks",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "PM Anwar thanks Brunei for warm welcome, hospitality during working visit The Malaysian Reserve",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVVEWDZVS2JQTXcwcDBpLUthM25DLWlPRmpoYmFLcXhFQ1BLc0ZnQ0lMbHh2aUtsUG4xZHkyY2pmYm95NDZTaUZoQUNNdEJxSi1kbjh2V0c1TThneU1tUExZbE1PRTcwa2xwZEZLOW9JakhVSTdvbU4zWlVDdGxvUVdhRzNld2RWMlpxa3JtS3VvNU1tRDZ1QmVxN1FQZkNkMmhxUERBc05KaWNkMzQ3THVMMk1KR2s?oc=5",
+    "published_at": "2026-08-22T11:40:54Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
+    "id": "229e931a2cd6fc46",
+    "leader_name": "马来西亚",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "马来西亚总理安瓦尔访问文莱出席第27届马来西亚-文莱年度领导人磋商会议 深化双边合作 东盟头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fTlctUkEtSDRkbzBPMVZZa0szQ2pya1pKQjZ2elFkZFZNNTNlR0ktN29LY0FYSU45dU5rb2ZFYUNYMXhkMkJ1Tk5Lcw?oc=5",
+    "published_at": "2026-08-22T10:49:25Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:24Z",
+    "updated_at": "2026-08-23T01:02:24Z"
+  },
+  {
+    "id": "b1a746b09a657829",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "state_visit",
+    "destination": "France",
+    "summary": "Saudi Crown Prince departs for France on high-stakes state visit middle-east-online.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblYwUUN5UktUWndtX1J2OVpESk1TX2d1Z2dDREFLdkswS3V3UGJaVEd0dDE1bTctZUVxYjFjTm15TUx5TzZRX21tQzAweElxVmN2cDktRlk3R21WXzR5RDREZTVoTDcxUzdoUHlWT1paNW5mLXhpNlBJdmlxbjAxa2c5SEU2cDNTd0VmanJJdkwySE9hQXc?oc=5",
+    "published_at": "2026-08-22T09:55:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:24Z"
+  },
+  {
+    "id": "774e93cd81fc26d3",
+    "leader_name": "of Azerbaijan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "official_visit",
+    "destination": "Uzbekistan",
+    "summary": "The President of Azerbaijan will visit Uzbekistan on an official visit from August 23 to 24. open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkxGZGJ5UW9PY0tkZ2phdHRmRXhjNU9kSnVad2lJQUlIT1pvMW84VTBkNlh4OWVDMlJ2U1NqOVRBb3dZanVEd011TnVfOVo4eUpKYjI2ejZYTjFfclB2NklHUWxIM0U5bmRLckNyUnRLQmJvLXctNEI3NHI2WWQyQ0RvWkNzRmlkUlhNaUxNTGczOG9ka2pZLXlwR3dfWFVlblBjRnNEVDFCVUE5M05QX0ZSSXV5R1QySm5VeG1vcWR5S3FBUnJIalNhTQ?oc=5",
+    "published_at": "2026-08-22T07:17:41Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
+    "id": "ad8d71c942e80e7f",
+    "leader_name": "胡志明",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "胡志明主席访问匈牙利珍贵影像资料正式移交越南主要媒体 Thông tấn xã Việt Nam",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMy1QcTVLektvdFBUTDc3RTliMmhCbmxLQlJPT1JqbEJhRnJCd1lwSmNUb2FzeDhvRkN1anRtQlpkZTZYdVZvMW1wQV94ZVEtMHhKVmhKWGNOWkdETXVtLTdtcXBMaXptRUpUek5JZnU4M1pmZ1JVV1hrM01UYUY0U0IwZXNsanBmOHB6bFBRMVVPQS04MGJhdGNwTmdaNmpHZWV6NjJKUEJqeFV4V294SXdZdTdWNnZLNEJYWFk5aVRMdTE0MkNhd0Mzd1pxSHZUVFRXWFpyVUVfVVNhSjRTb01wUVR0Q0ZrMlkzOEdtVHhMREx0azdFak1pcUxuMW9EZ0txelNXdjdTY2JfaEEwcTNKSjR3R3Mzc05vQ0wyaThDcUJka0dOV0h3bnZSTWMyc0lEZkpzTVBmUTN1dmlFNi1rcFdOZDIwcDR0Z0xUV3paQ21ZMWl1Y3hSTndvQVdXaUxIYW9DYkdmNDU4cTVybmwtbktHQ3QyNGp3TTJYdHBvVXJIRnNjQjBxMW1iMUJTa0tfMDUxRmRMNWVV?oc=5",
+    "published_at": "2026-08-22T00:43:23Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:24Z",
+    "updated_at": "2026-08-23T01:02:24Z"
+  },
+  {
     "id": "63470e348084e8dc",
     "leader_name": "",
     "leader_title": "president",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:34Z",
-    "updated_at": "2026-08-22T00:57:35Z"
+    "updated_at": "2026-08-23T01:02:24Z"
   },
   {
     "id": "63011d11629963e9",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:34Z",
-    "updated_at": "2026-08-22T00:57:34Z"
+    "updated_at": "2026-08-23T01:02:23Z"
   },
   {
     "id": "b38a70480bbf63a3",
@@ -57,6 +209,44 @@
     "updated_at": "2026-08-22T00:57:35Z"
   },
   {
+    "id": "b8f044ae99f58b93",
+    "leader_name": "News",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Video Trump and family reach UK for state visit ABC News - Breaking News, Latest News and Videos",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wTE9PUlFtNUliWWdBc1NVQkpPblpZbEZkMTJBeXQwckFNeXpmUDJ6UzVLM3duQ191YWZFWnhoQ2I2OGtWbUlWcGFBOA?oc=5",
+    "published_at": "2026-08-21T14:10:07Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
+    "id": "c51caf62b4b7a4f5",
+    "leader_name": "highlights significance of first",
+    "leader_title": "Foreign Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Deputy Foreign Minister highlights significance of first Viet Nam-Singapore strategic dialogue en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSTlfaV9abWtmTU95ZmRMTFlYQ3JQc3JCakpHc2s2RWhnMzFmaTB5MWlQbmhzaFR1T0VJclZuc3FaMHFCWlVpVzJ5eXRySXd6bFNwaHhZQk84RFlzUVBSMlJqUmZ6YVRHTEZXZUlCS2g1eTFRTVRpenVWcDJ4T1NRTGVjdVNDc0VQOUhrcVpZaEZ6VkM5Rk5ydzE4cjAwVGVIWnRGS3F3NnFHa1F3UE83WjNCVHh3RUZhNlhxNm80RFlwNEZsYUZxVmRrQWJ0STFtWExuV1pSdWpsdzA?oc=5",
+    "published_at": "2026-08-21T13:17:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-23T01:02:23Z",
+    "updated_at": "2026-08-23T01:02:23Z"
+  },
+  {
     "id": "35c4fefdc5493445",
     "leader_name": "Aliyev",
     "leader_title": "President",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:34Z",
-    "updated_at": "2026-08-22T00:57:34Z"
+    "updated_at": "2026-08-23T01:02:23Z"
   },
   {
     "id": "128c2dc0ac5675b2",
@@ -92,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:34Z",
-    "updated_at": "2026-08-22T00:57:34Z"
+    "updated_at": "2026-08-23T01:02:23Z"
   },
   {
     "id": "3de042d0534b9ff1",
@@ -111,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:35Z",
-    "updated_at": "2026-08-22T00:57:35Z"
+    "updated_at": "2026-08-23T01:02:24Z"
   },
   {
     "id": "fd16ae85c57ffa6c",
@@ -121,16 +311,16 @@
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-08-21",
-    "event_type": "meeting",
-    "destination": "",
-    "summary": "李在明会见中国外长王毅 探讨韩中关系及韩半岛局势 Korea Net",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "中国外长王毅明日访朝…美中峰会前访问引关注 朝鮮日報中文版",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yUm9zQS1mZlpFVUtxT2Flbm1kT2lSM2ktTzFxSjZuSTdkc3h3VzFWQUowLW1zUzF1d055X3FsSl9vNnpYR1RkdEFFajMtVEkzTlpqM1VzbWM4cW5qZ3dvdFNleTdHLUxSS1Q0Nk0zQlF4V2ZF?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenMyYjhlNGJuTjRNZFp4NHdDS29kcGVvYXB2b3RiSUNTOTVPei0yRFhtdG4wZmhYUWZCeDJCNGtlOTJ5VU9PbmkweldLSDhkNlAza0dyRkUxZFkzMTlQVGxVZHNlTEYxLUVBUE00Unp3Y0s3TFlhaHhRdTRGbUNRRDFtQzBodWt1c1htdzZB?oc=5",
     "published_at": "2026-08-21T02:28:58Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:35Z",
-    "updated_at": "2026-08-22T00:57:35Z"
+    "updated_at": "2026-08-23T01:02:24Z"
   },
   {
     "id": "7c2dae5fb55fce82",
@@ -263,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-08-22T00:57:34Z"
+    "updated_at": "2026-08-23T01:02:23Z"
   },
   {
     "id": "b4825024562a3e5a",
@@ -377,7 +567,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-20T00:57:34Z",
-    "updated_at": "2026-08-22T00:57:36Z"
+    "updated_at": "2026-08-23T01:02:26Z"
   },
   {
     "id": "79066238f6d5c6b0",
