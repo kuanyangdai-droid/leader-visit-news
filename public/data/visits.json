@@ -1,5 +1,157 @@
 [
   {
+    "id": "3bcb7858a30ad6f7",
+    "leader_name": "政府",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-26",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "越共中央政治局委员、中央书记处常务书记陈锦秀会见新加坡人民行动党秘书长、政府总理黄循财 Thông tấn xã Việt Nam (TTXVN)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQcEs1c0xpVnFwRW55V3I3bm5OUzBTSEVoQXZ1REFNVzdOSndmTUdES20zNnpWT20tSnBnbHBtdEo2VThCaU0yNDdzdzlDRUhHQWZ5cXR3aDFXNGV3NmEtcm03UXAySzJ3Zk5GYW5FY2xsWUlYWU5raTBWTnpQbkhRSkdndm5wdE01S2NxSXdHRnZndlRUYVZmdWZZUXFHaFdTRU5sZzI3ZzU4YUw4bmlSeXJud01ZSTlxTmdwbkdPdWhrVFVMUXctNC1Nb3BLS2RhRGZRUGZCbHdUVVB6ejFsSzBsZU5vWGtMV2R2b0thb0VEd2E0aWc3cGN0aUhmSUI3cGVxY1Qwd2FOWTdVdmh5S092bTUyZGVDWWwyN2Y1bF9JVXpmR2tVVS14dHZDNE1YenRMUUxhZjlZNEpPcDBNNHNLeUVPalFCV2FySG1US3RMSFpIN0NXa3hUVWszWVo0dVhwU18xNVJXUTBEc3ZGb0hRRy1aSXZLM2xPeU9yQmdxX2IyVUlGWHJmVXkwanRZWV9NNmphWUk2TG5BLXVlUF9LVk5jeXhoeS1GUjBLdGZNTHdFeHNLeVlxdXhvVUVvOEl0TVJXR3BXbGM5dl9uNWNWN1Itb05Cei1Yc2ZVUEhZWG1uZXd1V0NpNmVERjkyV0MxTEF1MDFFaHpPMU02UXVDdnY1X0FTb3RYSHRXZUhBVnpRcW15S3l5X0tXRUo2Yzl3VWFEcFdkLXBMaG9nQ1NYWENBM1Q0dHoxNTgzQm1CZUktcThMZjZjdUFFQ2FOdG1JeE1LZlNxemNiREhqd1Y5aUJyQ1lu?oc=5",
+    "published_at": "2026-08-26T00:54:10Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
+    "id": "105f17552f77d796",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-26",
+    "event_type": "other",
+    "destination": "India",
+    "summary": "习近平将于下月访问印度，力求恢复与莫迪的关系 亚洲日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10YXVYazBKSmg1VmhEWlRJOHF1dFQwbGhxYWtsUkdweVpndFY2RnN1bDkzOGNnZ3d1bHhCQUFDRUtTS3ZhbFRUa2dZSmNSNDN6eUxiakVqZzhUTjQ?oc=5",
+    "published_at": "2026-08-26T00:04:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
+    "id": "3413af1211bbe214",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-25",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "FIBA President concludes official visit to Kazakhstan FIBA",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUZIZzBEeU14aG9WOC1nQXJBRmRrVWZJU0tnWU03OC1PUWFnbnVDQVh2MDVlVHZuN3JqbXVMbXEyejFaaHRqazFyeWkxVE93TUFFV3BJcUl0ZHBZQWpXc0FVRjBSVjFSYTNCSk96T3NfMHdXbDRVZUJ2dDFKb3lCNmxsR196U05BOGJQU2FBZnBfNWh1dXc?oc=5",
+    "published_at": "2026-08-25T18:34:25Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:00Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
+    "id": "8b96eff5b507b4db",
+    "leader_name": "of Azerbaijan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Russian Media: State Visit of the President of Azerbaijan to Uzbekistan marks a historic milestone in deepening allied relations and practical integration Dunyo.info",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHEtS0JfbUxKS2c0U0NpTlpUajhOTVVmYnpDRU1xWXl5MU9BOVh0NXhZNHdsWGZXYnhSUDhXV1d5TUlqYm5OZkxTekd3Ry1yTW5fTXgyMXQwcVJyU29KR3JqMG5ZVVdONHFoZE5kNFNKbVpsRUFXWFZjcjY4V3dzZzY4YWpRNnRDbVF1RUdtYWhmaEc5Wl9MY0Q2WktxbXhZTGRkV1g0cnRpVTJpWXBNQg?oc=5",
+    "published_at": "2026-08-25T15:49:57Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:00Z",
+    "updated_at": "2026-08-26T01:01:00Z"
+  },
+  {
+    "id": "b74534286e530b3b",
+    "leader_name": "Philippe",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "State Visit of King Philippe to Kazakhstan: Historic First and Mirror of Strategic Partnership between Brussels and Astana The Astana Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVTlwR3hsdlVPLTEwYzFwVjE4YXdyVGFqTHlMdWpHbk02Nm9rQ0pybDI3dWo5Q3dDRlk2bzNwakhIdFlZaEhzVmtCYjl2Y2ZPLU11RU1uVDYzMU00alh0MlUtQXQzOHVkWTFZZFVhSVNxS3YxRmN3MlNXNHUwdy1zcEdjbkpjbFYwSjEyOENiT0tvZWF2RklFcEtLLUczdGRsOUVkX201anRDcmlwYXVTdE1xc2JiZVVhQ3F0ZGxEUG9ZenVHQ2FVbzltX29ZSmhaSDBnWWdCc01uVFAtcG1NVVpWZWVpNG0tSkE?oc=5",
+    "published_at": "2026-08-25T11:04:51Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:00Z",
+    "updated_at": "2026-08-26T01:01:00Z"
+  },
+  {
+    "id": "af595e3aabf16c36",
+    "leader_name": "俄乌",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "俄乌总统“隔空交火” 各自坚定立场 中华网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RX29TdjlEQUlnNU9vYXVmLTBhbURNWVpRdVo2anlvOVpSQlF0bF8yZDJIeXJLWEJIS2hTbTB0M0pteWtZbHFQa21xaTRMa3ZjZ2tXTUczWGRkMnh1aEZWaU1GazltRFpDMVhCdUhQZTY?oc=5",
+    "published_at": "2026-08-25T10:50:45Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
+    "id": "9b8553280f1985c4",
+    "leader_name": "王毅",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "王毅访问首尔后， 中国未谴责朝鲜导弹发射 UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3lWMWxUSW0zODJNLWt6RFJtdWo3bXVPOU9INDB2UUdLRHdWMFg0aC1VMUZvRGNwOXdYVHFfTlQyb0toVmZrd3loZS15aHJzMWhGa3lTYUNNWENMUEV5VzJWX1UzbXpNTDVoZi1DYVlld21UN3hKTUlPRFdyS05MRWxqR0hJVFFXYVhjdEJiSnh2YWs?oc=5",
+    "published_at": "2026-08-25T04:06:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
+    "id": "8918a98a0d1e3337",
+    "leader_name": "英国",
+    "leader_title": "首相",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-08-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "英国首相拟率欧洲领导人赴美争取爱国者导弹援乌| 乌克兰新闻 Межа. Новини України.",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GN3czRzlSb21KX2Jnb0ZhR0Q5WW84alBEWjM4Uk5oVDBpNDVodjIxZWxmSGxBXzNyYllEWXd6djh1c0U3S2Q0MGJRUjlseFFpQjBFeDJodXlxRTk3QVE2MGFjX0E?oc=5",
+    "published_at": "2026-08-25T00:41:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
+  },
+  {
     "id": "97062d533d540eb5",
     "leader_name": "Ilham Aliyev's social media",
     "leader_title": "President",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "2dd0abc5cf7a05b1",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "e7adbebb48f2ea03",
@@ -54,7 +206,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
+  },
+  {
+    "id": "f810f18492c349d1",
+    "leader_name": "Tô Lâm",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "苏林访华，越南驻华大使为何用“历史性意义”定义此次访问？ 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUExeUNCZWxBdVVDc2lQLXpHclg3YUgzSThHTzFyRXpxZFNRY3lQRmhwd0FQSjFKRDM0MUhuaWlWQUU5MnJqa2l4M1NEaWtMSFJFV1N4Mm5hNDN0Q2J1a3B3QTRqT0pHcGExLUNmeXJiTnNiRzQ5NTBWMjNZZDhfWG1zU2NQRjB4?oc=5",
+    "published_at": "2026-08-24T17:24:46Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "460d5739be4b6487",
@@ -73,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "c85298e1a3ed3bd5",
@@ -92,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "b8568b6fc8a6759b",
@@ -111,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "42171a282cf561d4",
@@ -130,7 +301,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
+  },
+  {
+    "id": "229210b740813a1d",
+    "leader_name": "Vivian Balakrishnan",
+    "leader_title": "外交部长",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-08-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "外交部长维文医生将到中东进行三天访问 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTTByWWlBNWNvX3ZKVEZZdGV6c1k0cF9lRG11Wkh3dmFKUU1XSXR5YkRIR2FDeTdqMGU4WjBJbjlkZ21tZzVjM184N3FuZFkxQkk5SmpnbEpraVNXTElDSWNGSk45V09tRGtTc0kwOTA4anBnTVJXbFZlZ2N4eHZYMXBpdW5VUQ?oc=5",
+    "published_at": "2026-08-24T11:34:20Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:01Z",
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "4bc1f1763e8d5174",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:35Z"
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "c33a9f51ac333e7b",
@@ -168,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:35Z",
-    "updated_at": "2026-08-25T00:59:35Z"
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "08934688fe415c80",
@@ -187,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "0eaec5f6026b57dd",
@@ -206,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "3378f7958aa791c9",
@@ -225,7 +415,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-25T00:59:34Z",
-    "updated_at": "2026-08-25T00:59:34Z"
+    "updated_at": "2026-08-26T01:01:00Z"
+  },
+  {
+    "id": "3471e03ab0334a84",
+    "leader_name": "Macron",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-24",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "French President Macron To Host Saudi Crown Prince During State Visit TVC News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTFweXZNRzBYRHU3RDEwTkhKTnU5WmIyZzJZdjkxakNXZFRQOFAzRjBJNEFhaTVmYTB3X0EtUFlTbENnRjJwMFo0d2hPVGR1WU5xREtDREFNZzhaMGNIUGRTeUI5OFc4eUtpd29EYVRWUDM4ckhvZ24yZ1BabzVma0tJY1VBOWFrWVF4WTEzaGM0VWV5bm1QMQ?oc=5",
+    "published_at": "2026-08-24T03:22:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-26T01:01:00Z",
+    "updated_at": "2026-08-26T01:01:00Z"
   },
   {
     "id": "43bd86380a3d1b03",
@@ -236,15 +445,15 @@
     "origin_inferred": true,
     "visit_date": "2026-08-24",
     "event_type": "other",
-    "destination": "",
-    "summary": "英媒：英国首相伯纳姆将访问基辅 为其就任后的首次外访 搜狐网",
+    "destination": "United States",
+    "summary": "英国首相计划下月前往美国 游说特朗普援乌 新浪财经",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHVBbDdIR2NTLUxVQjhoWkIwMzFfUVNHeDloYUpKV1JuV1pfQXpTQ1hkbTlJR0lHRDhTWk1rWkJXR1MwbFAteG9zcWJEa1VvU3NCZVNWR1AtWE9ubUxiSm1GZG83aXhaV1p2cUt6Q3VQZTJrajZPTlBwWllxU19xVEoxTmxZODRoNWFuMQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14SThJdV9naE5oXzRIVFBKNFhGYkg5dzl5bEZFSE5NQjJaRkJ6SUk5MUhJOUJ5SlV2eGgxOTNuZDJBVUMtUmc2Sk5hVQ?oc=5",
     "published_at": "2026-08-24T00:21:12Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-24T01:00:18Z",
-    "updated_at": "2026-08-25T00:59:35Z"
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "9c84f7e2aa724240",
@@ -890,7 +1099,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-22T00:57:35Z",
-    "updated_at": "2026-08-25T00:59:35Z"
+    "updated_at": "2026-08-26T01:01:01Z"
   },
   {
     "id": "7c2dae5fb55fce82",
