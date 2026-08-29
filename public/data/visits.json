@@ -1,22 +1,155 @@
 [
   {
-    "id": "e09e219cb18a8b4a",
+    "id": "2ebf06dfdd5a6a78",
     "leader_name": "",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-29",
+    "event_type": "other",
+    "destination": "",
+    "summary": "普京将赴上合组织峰会下周一晤中国领导人｜即时新闻｜中港台｜on.cc东网 on.cc東網",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVpSOTJJakdLQXJFYnVzcmFZTkxFQkRhM3dlVmdaQUdydV9vT0RrZ3pVV2xmTDI4VHRXaHppMklyZ081NUNfc2Y2ckVlT0VCcGN2VmJFd29NUHNoeHBRdGZpaEJsSk9jblFla2VIb1dyUkhMZXZILU0xNHowT3RLR1l3dWVIOVF5aFRQb2ktRQ?oc=5",
+    "published_at": "2026-08-29T00:00:16Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:53Z",
+    "updated_at": "2026-08-29T05:21:53Z"
+  },
+  {
+    "id": "4be0221690b10bba",
+    "leader_name": "见英国新",
+    "leader_title": "首相",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "meeting",
+    "destination": "United Kingdom",
+    "summary": "马克龙将访问伦敦，出席《贝叶挂毯》展览的开幕式，会见英国新首相伯纳姆 RFI",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPeXhmT1BDVGxqdnNzanNvZV9PNGtwenhGNTRGelB1NkdCMmpvTG1GVWxoOFJsVWtVeVRjd3E3dHFCX2I0WnlnSTV2NE5DaW5oT3dObDlrbjY5WHN2dGotVmxZRnVFeFRkZFBtem1hZ2pubDNoNVN6d0JyTGp0Y3RQRkNzVEotbDVfNXBidTFPMWN4aTVBeUdOS0dpMUI5RVhnMEo0YVR1U014dXgwVDNxaDlDYVFGNndmcE9vbTgtOFRwelJMQUJ5MGM3bUFQRWNJZkdvUjdCeUNwUkNzbTBITk1COHBEOUxPVEh0eDBMN3d4WWtieFBrWnl3WGx5NmJxZnV2eS16cWphV1h1SHk2OENqdHpDLWJpY0tKWjNsTFpNWTZmZlI0dHRGc1BhNXVfaTNKMHIzeGRMaTBDTkx5NVlJekZsYngyTGtYdGJKdFMxVzFYZGNGMzhkVjB6RFBYTERzVThqc29SeVBaakhvajlJMkt0aFdWWkdxOWVLQy1WN0NVSzlmdmswS0NGV3MtczJZc2Y4ZmdWZ0hxRkYzQzM2TGtKSmlWRHAtb1Zhbk5mWTFNN05RNkF6RDJWMHZBUkxVMWNsM0lKejdHdDZXemYxU21YM3hnNGxYTXJlQnJBQQ?oc=5",
+    "published_at": "2026-08-28T22:46:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:53Z",
+    "updated_at": "2026-08-29T05:21:53Z"
+  },
+  {
+    "id": "7fbb6a63505aceda",
+    "leader_name": "of India",
     "leader_title": "Prime Minister",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-08-28",
-    "event_type": "official_visit",
-    "destination": "Singapore",
-    "summary": "Thailand’s Deputy Prime Minister and Foreign Minister Arrives in Ethiopia for Official Visit ENA English",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "On August 29–30th, Prime Minister of India to pay a state visit to Uzbekistan Dunyo",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVERYVk9Oa0toQnQ1SEhiUllXQktMQkQ5bEJPak5fTDRMZFBodDBxWW9zLTlCcmRuZHhMbmpULWI1RzNZX2VpdWdYSHU4V1Z3Nnc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUUtV3ZxYjJJQlE5QmxYRzEtUEpMMUNmTHlONzhuQnZqM3ZLTE9mdmJVUnFRdG9ZSUprR2lFdmlSVXh6U2lGR0s0U0VicFpsR2hGZGNfY3dZcFhQQlVZQTR2SmdMSmtlNnUta0EzaEhuR3A5Um5CUFFzQ0VLajhOSVFkeVFDRHBuTS0xYlVTVi1vZWRVX2hwaE1YQlBVdEk?oc=5",
+    "published_at": "2026-08-28T14:38:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
+    "id": "9c0d4a654b639013",
+    "leader_name": "invites Indonesias Prabowo",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Timor-Leste president invites Indonesias Prabowo for official visit ANTARA News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjdyYUxIZTFUb00wRlBPQXo1a0pXakMzaTRvUmRRaDdCSkNTd1RJTnJVMnN3Z0pYaUtIN3ZkZUowZUFjVW9sV2tpbThsSGUwazRmY0VYOUNZcWxBN3FVLXI0a3dCemF2OVh4V3R4Zk5WQ2FrMnZ5dWpIVUIxY2dQQmp3MUVmcjQzdmk3SDBSYTJ2bjlnY3U0WDQ4RGZqSC1XTGtLM2cwSW40WVhDMVHSAa4BQVVfeXFMTkY3cmFMSGUxVG9NMEZQT0F6NWtKV2pDM2k0b1JkUWg3QkpDU3dUSU5yVTJzd2dKWGlLSDd2ZGVKMGVBY1VvbFdraW04bEhlMGs0ZmNFWDlDWXFsQTdxVS1yNGt3QnphdjlYeFd0eGZOVkNhazJ2eXVqSFVCMWNnUEJqdzFFZnI0M3ZpN0gwUmEydm45Z2N1NFg0OERmakgtV0xrSzNnMEluNFlYQzFR?oc=5",
+    "published_at": "2026-08-28T11:52:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
+    "id": "e71eab18580572f7",
+    "leader_name": "Nicosia says",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President's Kazakhstan visit gave impetus to economic and business cooperation, Nicosia says CBN.com.cy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2VtMm5LWU0zLV9oMTFuRFlhQ1g1U3NGakFQeC1OYW1NVWc0UzcxNnRtNWxXTWs1ZGVtOWppRjFaT0hOQ0FCalVzRVlmS1doYmJmZ05JWHBaZjNkeGpEYzVUSzc2dEQ0aXpwa3FUQW9ma1JmQnpLWTFuUU9iQXdRaWp4VHNHRVRVRzkxZTB6aFhzdlBBZjdCT3dUaTJ0anA2N29CakppQW1FaWpDdEppa1BWNmJLemROeXpMZzZPVWszZjJJOGlLaw?oc=5",
+    "published_at": "2026-08-28T10:38:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
+    "id": "29f898e73ada7f0f",
+    "leader_name": "英国新",
+    "leader_title": "首相",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "局势或将生变！多国领导抵达基辅火车站，英国新首相亲自带队 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazlhLUlZQ09pd2E1Rm0wWGJKejdSb3ZzSWplU2NDTGJYRERmdEt0NTBqYlBtZkVybW54VUdzSWREQm5BZFNIRUtaZDJGaGN4VHdSQVRCR0xObXNPemNHbXFEVHpfaGxBaElQV3JYdklvZ3JjTGU3b2hGQVBYSm1MYnIxSGNKM1RCVDFabg?oc=5",
+    "published_at": "2026-08-28T10:00:30Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:53Z",
+    "updated_at": "2026-08-29T05:21:53Z"
+  },
+  {
+    "id": "e09e219cb18a8b4a",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "Laos",
+    "origin": "Vientiane",
+    "origin_inferred": true,
+    "visit_date": "2026-08-28",
+    "event_type": "other",
+    "destination": "Singapore",
+    "summary": "纪念越南八月革命和九二国庆81周年：老挝领导人坚信越南在新时代继续取得更加辉煌成就 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzWmFJQjFFV0hWMEhsc3lleTd0anRuTVVjbUxDT2RlTXpaeXpsWW1NVUdtMjVLVC1sN0x1YVotMmxtbFg2emIxem9tTzc1T3ZzUzhTNkJJWVRqXzF3?oc=5",
     "published_at": "2026-08-28T06:41:23Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:43Z"
+    "updated_at": "2026-08-29T05:21:53Z"
+  },
+  {
+    "id": "a8bcd9e6e06c10c0",
+    "leader_name": "visit today. Pashinyan",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Pashinyan to leave for Georgia on a working visit today Radar.am",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5seDV4OUgtOXFlWWFFWV82NVJQUkFhbXFTTW83SDlNTFNEcU5mMVZZSFVHMk9FZTVLRDNqS0V0WFZIZzhoU0hkMHpweXhRZmdVZUhIaGRhd3I?oc=5",
+    "published_at": "2026-08-28T00:46:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "79de9244ae7ce62b",
@@ -35,7 +168,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
+    "id": "7dc9906ebff31b56",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-27",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Working visit to Russia Официальный интернет-портал Президента Республики Беларусь",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFRybmJvcUtFLTBBalFMZVNEdFBXOFduM05uSEdYSXBOeHZOLXYtSWxnSTRXdUwzNm9ERUpwYk9aVGZPQ0tjc0E3VUF1dWNGS2ozUHhvZ1A4S1ZEWEhFeTFIam9qc1lNWGFUWl95X3pkMklyUGpScUNvaVFiMmhBTDJGTTNtNE05bXc?oc=5",
+    "published_at": "2026-08-27T16:20:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "70fbda7369768e87",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "671d48e981135bcf",
@@ -73,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "e783ac1c2b571bcc",
@@ -95,6 +247,25 @@
     "updated_at": "2026-08-28T08:44:41Z"
   },
   {
+    "id": "2d3baa7cf2e14a87",
+    "leader_name": "of Pakistan. Sardar Ayaz",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-27",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Sardar Ayaz Sadiq Named Acting President of Pakistan ProPakistani",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2UzdDJwRUdQRG4wNTJBUEFvbzdZaUU5S0d0bzV5Y1ljdW5seG5XRUI0Z1BmYWJMQk50cHRFaFlpQW1xZUhoSlpFNWt3SE9nbW5iWVpENFUyY3lWdmVSNFZFZThnNkg2VTJrWm1GWmdsdm9pRWFPVEg2SWdxbzh1a0lSLURGck1HMmRxVk83dmtvQdIBlwFBVV95cUxNY245dFlEY0x6LTRBeWM0Q1RtMERrcWFxXzY5VmRiQV91VlhQckVMbThMOVFIT1hrNzJ0YVdzRVg3eEdXbWJPY1BNOGROWjZ4blBsc0tIRkFBazBOR0pUWGJkc1JLVC10dzFDZnN5QThEYXJUNUtDbTJoM3RTTk81SHBkMHVVRGYzZmF0S1UxaU5PU2I4czBn?oc=5",
+    "published_at": "2026-08-27T14:46:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
     "id": "2f446e1f6069b196",
     "leader_name": "Alexander Lukashenko has departed",
     "leader_title": "President",
@@ -111,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "a1826c771e39e153",
@@ -130,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:43Z",
-    "updated_at": "2026-08-28T08:44:43Z"
+    "updated_at": "2026-08-29T05:21:53Z"
   },
   {
     "id": "21655a603148820c",
@@ -149,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:43Z",
-    "updated_at": "2026-08-28T08:44:43Z"
+    "updated_at": "2026-08-29T05:21:53Z"
   },
   {
     "id": "1f94b3d92544a905",
@@ -168,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:43Z",
-    "updated_at": "2026-08-28T08:44:43Z"
+    "updated_at": "2026-08-29T05:21:53Z"
   },
   {
     "id": "1bfc6c7e26932c8f",
@@ -187,7 +358,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
+  },
+  {
+    "id": "58dbf4c16b3b3685",
+    "leader_name": "expected",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-27",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Senegalese president expected to visit Azerbaijan by year-end Report.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaEFWRGhhUmd3Y3NsTWdvUDZsODQzUlpheG03a3NNQURTVWVtMGwxTGRpdTUxaVpseHM4d2hKckw2dVU5anJYVmFRS2VleFZ1VmpQSDMzaGRtSzdMYkJlV0ZfS2tUQ3E0ZlBGSkZNc0RHc2F1ZF9mQzBoN21tNEhzOTROVUpxTHZLNFVJaUlLNFlNM3hoMUlpVHhCc1h4S0xX0gGmAUFVX3lxTE9CNG82aDBXXzh6bFFuelJKNjZjM19sd1EyUU84S2o1TUFDc0xEeTRlc2JGMkwwdC1yUWZDYVNCZkE4QldIQ3g1d3NXVzZXQ1Axa0RvU3drREdvWkZxN195YmQ1Y3JjcUg0RTRLQmlnYmUtd19lVFMzMlE2QzVsRHIyLWlLc1dLeGNva2ZCcU1SVHpHalVqU09GMUlnVUs2OUVyeWpmbFE?oc=5",
+    "published_at": "2026-08-27T08:52:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-29T05:21:52Z",
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "ca41c2d293a59af7",
@@ -206,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "74c5990865f7feac",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-27T06:56:40Z",
-    "updated_at": "2026-08-28T08:44:41Z"
+    "updated_at": "2026-08-29T05:21:52Z"
   },
   {
     "id": "354684c6efee1f46",
@@ -244,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-28T08:44:43Z"
+    "updated_at": "2026-08-29T05:21:53Z"
   },
   {
     "id": "9b84c754c859e89a",
