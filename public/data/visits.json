@@ -1,14 +1,128 @@
 [
   {
+    "id": "87e667a81597a416",
+    "leader_name": "of India",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-30",
+    "event_type": "state_visit",
+    "destination": "Uzbekistan",
+    "summary": "Prime Minister of India arrives in Uzbekistan on state visit Qazinform",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGpyTjJRZEtrcEpWbmtyZXJ4V2F4RWdhRkhuZlpJUW9SdTcycmhkVER2VkQ1Q0pYT0dBR24xNGdoeTFJVl9WRGZJUnVTRmdFdFl6d0QzakI0RERxcjRaaTVzQjY5N01pNU1YNWtDRHJTbDlkOWJRYXlfWlpicFpWZmxqQVVZRHRFeUJPZmNJS3dzemVHTVR1UHNn0gGaAUFVX3lxTE9xckFENFN4WXZ0YTI2cjhNZ2RBa2tiX01hOUdscTJucXhLcUcwaS1lVWNtVzk0RVlfWThUR3dWSVY5TU9aYlAySk93b19IZW0yRENvZjFubmUxV2pBMGUwXzBFSW9DMFduS1FyNFRfNkJNdXE4b082YVRWb21Ocks2YkFWdXh3LUxNdTBfOUZLNUVGdE42d3JjRHc?oc=5",
+    "published_at": "2026-08-30T02:28:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "f402b717ab3991ee",
+    "leader_name": "of Ukraine. Photos",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-29",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Photos: Foreign visits — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjd2VHZjWDQwRkF1NUY0cklleU5rOW9ZV29nSl9wSjk1cXJSUE8xSHdDMUNYRG9TTE1wRW0yb0RBNy1oWHJjQUNMWDFLUVl5SlZkUl8wVlFxNHF5WFlTZTdsbG1LZGJjZXdZeWp5YVc4bVhIU2UxQlE0NFhrSGxnSGc3U2pQZWpBS096TjNBLXhZNXl1OEI2NUtqOWkxYWNUUkE?oc=5",
+    "published_at": "2026-08-29T22:22:01Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "f16113c3d62d81f7",
+    "leader_name": "Narendra Modi",
+    "leader_title": "President",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-08-29",
+    "event_type": "arrival",
+    "destination": "Uzbekistan",
+    "summary": "PM Modi arrives in Uzbekistan for 2-day visit, to hold talks with President Mirziyoyev Firstpost",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzljUTdvLXYtV1oyb3o5LXE4RmVJTUdIVl9mZ0Y4M1pyNW0tTHJSeTk5R1Z2U3JUN1cxTTgtbFRSX01tT0U3b0VBNUdIT2NQa3duakR5dHJ5anlGbWhOZEVMWllrNk9pRmozUmRxcXlmMmFWYWMwUHN1c1g2OVl0WHVDVWdmWlpRWmRzbW5HZV94TGR0dFpOZ2JJS3VkU09OenItM0tYNU5FV0NkQkZoS1pvbHRWQXc1SkNFYjBjVEpFa3JUNmlXTUZVc9IB0AFBVV95cUxPcEI3TDhUUVM4YmdJbEpRQ0MyLVc4cGxGbVFXRE10dDhSaUlnUkMtNnRzQTltdmM5M2I0YWo0Q0RJZWNzdk9JdFUwV25BOVpTYTFUYnBpRWhRXzZkTGlTSTI1X2NzN2dXTWxacTF0SmJTYmo5UlhaWWctMlI5LV9HSHNKdDFBblZZdEFrLWlfdEx1c3Q5TjFGUjFvc2VTb2NldG9jQk84aGVENWFEajBjVTI0TkpaTUdjNXBNX25aZ2FCQnVFa25CRzFrUkZSTjhJ?oc=5",
+    "published_at": "2026-08-29T18:03:01Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "eba7ec316242a1da",
+    "leader_name": "of India has arrived",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The Prime Minister of India has arrived in Uzbekistan on a state visit. Zamon",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU43UFMtVlhLQmhZSEQ4NXpJRjNSTG1MMnBkMTZJMVhnMXNBTDZwNjRKSHZSa0JfTG15NC1TSGNZX05EOEw4ZWwxQjFadjJDWnM0aE8ybzZwYzBZNVNtMUVwci1EZnNOQmdwQkozSXJJSktjcnVlTEsyNmZaV2l1el9XM0RIU2xTblNUUmNfcFJtWng1cHFOZ0cwN0YxVlJLRmVr?oc=5",
+    "published_at": "2026-08-29T13:47:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "ff8e2de552797a6f",
+    "leader_name": "of India",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-29",
+    "event_type": "state_visit",
+    "destination": "Uzbekistan",
+    "summary": "Prime Minister of India arrives in Uzbekistan on a state visit yuz.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXc2dnU0UUZhdF9iTHo1c1o0d1lZUmZKTjQ0WTk3MmhaLWV3Nm9xaWFERmczd3NVVEMwQmZOZkxia2xDRGRjTk9WbFdWT1JFdmRmdUNEdmdWYjloQW9ydHB4OVQ3d1RuY2E1bkRRZWZ2elQ2R1o3LUhNbnhZOWZzdnNtNTF6VDQ5?oc=5",
+    "published_at": "2026-08-29T13:41:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "83eac9fcd8e8de77",
+    "leader_name": "习近平",
+    "leader_title": "主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-08-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问 光明网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtbzZSTmVTS1MwZVkzdlNLMUwwZW5iUjhKZzZoNzNtWjZ1Z0JMRlhEZUlZN3ROM05ZTmFOQVVVWGdVYTdRX1dNdmZnejNOc0VHTEFpVDhqODZDNGR6Qy1FY05FT0l2UQ?oc=5",
+    "published_at": "2026-08-29T12:47:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:01Z",
+    "updated_at": "2026-08-30T03:17:01Z"
+  },
+  {
     "id": "2ebf06dfdd5a6a78",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "premier",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-08-29",
     "event_type": "other",
-    "destination": "",
+    "destination": "Uzbekistan",
     "summary": "普京将赴上合组织峰会下周一晤中国领导人｜即时新闻｜中港台｜on.cc东网 on.cc東網",
     "source_name": "Google News - Chinese Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVpSOTJJakdLQXJFYnVzcmFZTkxFQkRhM3dlVmdaQUdydV9vT0RrZ3pVV2xmTDI4VHRXaHppMklyZ081NUNfc2Y2ckVlT0VCcGN2VmJFd29NUHNoeHBRdGZpaEJsSk9jblFla2VIb1dyUkhMZXZILU0xNHowT3RLR1l3dWVIOVF5aFRQb2ktRQ?oc=5",
@@ -16,7 +130,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-29T05:21:53Z",
-    "updated_at": "2026-08-29T05:21:53Z"
+    "updated_at": "2026-08-30T03:17:01Z"
   },
   {
     "id": "4be0221690b10bba",
@@ -54,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-29T05:21:52Z",
-    "updated_at": "2026-08-29T05:21:52Z"
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "9c0d4a654b639013",
@@ -73,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-29T05:21:52Z",
-    "updated_at": "2026-08-29T05:21:52Z"
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "e71eab18580572f7",
@@ -92,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-29T05:21:52Z",
-    "updated_at": "2026-08-29T05:21:52Z"
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "29f898e73ada7f0f",
@@ -114,6 +228,44 @@
     "updated_at": "2026-08-29T05:21:53Z"
   },
   {
+    "id": "10d29655a5733468",
+    "leader_name": "盟理事会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "欧盟理事会主席安东尼奥·科斯塔将于布达佩斯会见匈牙利总理彼得·马加尔 Daily News Hungary",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNYmZHQ2lzd2Rwc1J3RWg4aEpoSGJJVEN3WjZaRHo2NFlQYkVSY1N2TTR1TnJSNW1qeUg3MVlsQUduTUFKNEZjWnZldjhjTGtmaVItSGdJVlVPT2g2OFladE5BMHhMc2lzanVvLXRpU2hlS2RoRWJUcnFUMlEyTTlraTJsYVh3X21yclZyaDdJUEl0ak5hdTFSRnVWcjNaZFFPUUpiLVBUdExsMzFhWUZrVVlwQ2wtb2RkVlNraU9aSUt4YnJ4Y2Y2RTBxeTdyU1BKNXlLNU1LcHN5dTlJT3hGSEJIZ1ExWmpGMmxPcTc3V3ZVcXZoaTh2REFLS0lJaVV4eWwwN050c0tBTDZrbVBoZUpwYWo5SHFUcnEtcGdQTkxBVnJRLXpKaV9QQ2pHUVhUcV9sdm5FVlhYSUF4enBMWmdKWG5sb0plMEg1ZA?oc=5",
+    "published_at": "2026-08-28T09:54:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:01Z",
+    "updated_at": "2026-08-30T03:17:01Z"
+  },
+  {
+    "id": "2a418195a464331c",
+    "leader_name": "visit. Lukashenko",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-08-28",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Lukashenko arrives in Russia on working visit Belarus.by",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVliZGZEYzNOODNmTnlwQUdOMmxLTFJ0SzB6bm5LR1JEeUR4VXJ3c1Z1TDItY0RiQXFXdUQ2SHNFelM0ckl4cVlZMGQ1ZXdKZjltSnhqdlVvTHpXX1Q0c1dFUnFGN21tWmtvNkdrUWc3enJpOXJ6Vjh6RmhLanRIOG9kQTFibllrR09wZW5DR0JkZlFvUGhfeGdaSDJpWmJ0LXZGSnFzNzFfTGc?oc=5",
+    "published_at": "2026-08-28T07:45:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
     "id": "e09e219cb18a8b4a",
     "leader_name": "",
     "leader_title": "Prime Minister",
@@ -130,7 +282,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-28T08:44:41Z",
-    "updated_at": "2026-08-29T05:21:53Z"
+    "updated_at": "2026-08-30T03:17:00Z"
+  },
+  {
+    "id": "acfe76b513df8b9d",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-08-28",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Ramaphosa, Kiir hold high-level talks at presidential residence in Gauteng Eye Radio",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjNTX0VrYUVoZ0RyUU1VWTFta1FERmllVmg3TWRlcWg0Vy1ER0U1SkxvVmJWc0ZWdHpfUzVJZEhWTk80NDdoaWxRSkw5OTI5aTl3bkNob195b2p1dVlOWWk0bjBJaXBZWHRjZjQwNnRZSVNCQm1jdWRtbC03aEozWUthbG9GenhkazdQU0U2TkQ1UThpVFBYaDFaRDU1ZzlaZERmUXhB0gGmAUFVX3lxTE9iM1NfRWthRWhnRHJRTVVZMW1rUURGaWVWaDdNZGVxaDRXLURHRTVKTG9WYlZzRlZ0el9TNUlkSFZOTzQ0N2hpbFFKTDk5MjlpOXduQ2hvX3lvanV1WU5ZaTRuMElpcFlYdGNmNDA2dFlJU0JCbWN1ZG1sLTdoSjNZS2Fsb0Z6eGRrN1BTRTZORDVROGlUUFhoMVpENTVnOVpkRGZReEE?oc=5",
+    "published_at": "2026-08-28T06:34:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-08-30T03:17:00Z",
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "a8bcd9e6e06c10c0",
@@ -2467,7 +2638,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-17T00:58:34Z",
-    "updated_at": "2026-08-18T00:57:10Z"
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "b40649f442da89d6",
@@ -3360,7 +3531,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-11T01:18:35Z",
-    "updated_at": "2026-08-12T01:26:47Z"
+    "updated_at": "2026-08-30T03:17:00Z"
   },
   {
     "id": "33918af1349aa252",
