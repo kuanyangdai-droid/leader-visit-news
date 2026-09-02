@@ -1,5 +1,138 @@
 [
   {
+    "id": "ff99c08db4a257be",
+    "leader_name": "Vivian Balakrishnan",
+    "leader_title": "",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-09-02",
+    "event_type": "other",
+    "destination": "",
+    "summary": "刚完成帕劳访问 维文：将加强亚细安与太平洋岛国合作 8world.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3UWF3RzNsWk5EZzFHYjJHZHZhOVRfUmQxaTZjd1N6X2lTZ3VsMWFoRmd6MEpZX0RvOXFOZmg3eko3VzFNT2RBUnhjWWlvVlNGLWlEaVAwamV4S2JYaWNraUFEVy1XRTlyY1RhbGRkVl85R1BQaUlnag?oc=5",
+    "published_at": "2026-09-02T00:15:46Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:36Z",
+    "updated_at": "2026-09-02T02:34:36Z"
+  },
+  {
+    "id": "238b51b1d8705b4c",
+    "leader_name": "visit of President Ilham",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "VIDEO REVIEW of the working visit of President Ilham Aliyev to Kyrgyzstan Baku.ws",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjFhV3hPVDZlT2xoc0YxM0N1dUJvQU83WnlKaHlvdG9vWk1SallFdkh1QnI2VUFaMERFN2dkVUxNcUIxR1Rfbnl6SjJ2YWhleDhRLXBndEJuVEVaNWtZZ09SLXVacEVENDNIWDBlY0lZLVB1Y1BFaFM1SVNLc2tHTnBvQV9TU2N0THhGSWM2eGFESTBLSWNjTXBrczVDaVFNVFNV?oc=5",
+    "published_at": "2026-09-01T17:34:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:35Z",
+    "updated_at": "2026-09-02T02:34:35Z"
+  },
+  {
+    "id": "e12799de799a5fa0",
+    "leader_name": "Masrour Barzani",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister Masrour Barzani Arrives in UAE for Official Visit Kurdistan24",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcl9XdDJzZVFxcjc4NDhmVkNZNVpRVjZaZVpJcmR5V0UyZGM4aXFVNFRkN3Jrd0g0TG1VRUJUTE9QbWl6TVhfTko5WE5salpzRk9STWlmNjdBaDZadGd6ZU95QXlpNVZyYUhGeUhidnZFUXpuQ0p2cG5sREhSVllpeWhrYy1wUWxXWU5MQm9IU1pSRlJTX1lZOUJmbGFodjd6QVhTcHh3QjdCTlZt?oc=5",
+    "published_at": "2026-09-01T16:55:41Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:35Z",
+    "updated_at": "2026-09-02T02:34:35Z"
+  },
+  {
+    "id": "14a5181322569ccf",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-01",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Xi Jinping arrives in Cairo for state visit to Egypt news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXlveWY2aENfNkpmZ3dZNnlUeTJEdnkzSEFoU2RkRVhnZlhSRlNMSlVxYmpNRVNzdjhxaWhMcnJiU0hCOEU4bGJEdUR6bE1WRFJVX1RNdGtoYll3WnE3NmN1cEFnMmtzX0pSdmxIbWlhZlNEbXpKS0Zvc1lKd3p4UndIU1NXbXJvQml2LTZLMkhqY0xULVh2QTNFTXJXX0hBcmF3SWN5WllKQzFYRTdGNWMtRXJqTENyLWdV?oc=5",
+    "published_at": "2026-09-01T16:01:07Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:35Z",
+    "updated_at": "2026-09-02T02:34:35Z"
+  },
+  {
+    "id": "f8f2a90ed1bd7de9",
+    "leader_name": "黄循财",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "other",
+    "destination": "Thailand",
+    "summary": "黄循财总理访问泰国曼谷 出席新泰领导人非正式峰会 8world.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQjFxeDE5X2Z6aHIySVpBanYzSGR4a01BMjMxbzJkZVVNNm1oNkV1RGR1RThYb3U5d1RpVzhISEhZNHgzWmtGRVo3UURnRFhLRmwxOWVmT2tCYVA3Z29CTHJKQTJ4MVN6amtzdW9oQV9ETkxlWk9NcjhFZi10STA?oc=5",
+    "published_at": "2026-09-01T08:06:02Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:36Z",
+    "updated_at": "2026-09-02T02:34:36Z"
+  },
+  {
+    "id": "1058ea0a97f6f5cc",
+    "leader_name": "of Croatia",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prime Minister of Croatia on a Working Visit to Mostar Sarajevo Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdEFiU18ycWZJZXdCYXh3UjZzRDg2ZjRMWklMQTJabXBJaWhLYWlKeW83cGJaUndsckRiTXRHZnp3azFGbmF2NnlKZXZSS2JTREVOemt2T3llT01xbUpDWE9pY3BQUTBaRHFtRWZxbDFGcU9hc0JSZlcwMl9uOGJxRXhVd2hYUUl20gGIAUFVX3lxTE10QWJTXzJxZklld0JheHdSNnNEODZmNExaSUxBMlptcElpaEthaUp5bzdwYlpSd2xyRGJNdEdmendrMUZuYXY2eUpldlJLYlNERU56a3ZPeWVPTXFtSkNYT2ljcFBRMFpEcW1FZnFsMUZxT2FzQlJmVzAyX244YnFFeFV3aFhRSXY?oc=5",
+    "published_at": "2026-09-01T06:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:35Z",
+    "updated_at": "2026-09-02T02:34:35Z"
+  },
+  {
+    "id": "f1a6180b046c2f72",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-01",
+    "event_type": "other",
+    "destination": "Vietnam",
+    "summary": "Myanmar's Min Aung Hlaing to visit Vietnam this week, continuing push for re-engagement Reuters",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzJhMWhhRzFiTDRuWENSZGY1Y0RjcThsa0dYY2k3YUhmdHhnbXlMUUozUHA2c3JsWGtvS1I4cFNqeG9XQk80Q1VNM0o1V1EzTVA1clJhb2dKMEhkallWTXRiQ1NWc3N0bmpnR2dldWlkelUyak00YURiT19Db3JlN2pFN3RBamNCTU1ZWjRsZGVsRVkyMjNBd0dTRGRFVF9OMFhtVzgtbGpJWHNsZ1E4M0ViRzZxRkNac3AzakNkTkw1WVd0a2F2dUwySDhLQQ?oc=5",
+    "published_at": "2026-09-01T03:47:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-02T02:34:35Z",
+    "updated_at": "2026-09-02T02:34:35Z"
+  },
+  {
     "id": "c16723ca0d1e8f86",
     "leader_name": "去年实权",
     "leader_title": "总理",
@@ -35,26 +168,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:36Z"
   },
   {
     "id": "591fc1f3f4d64c99",
     "leader_name": "习近平",
-    "leader_title": "",
+    "leader_title": "主席",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-09-01",
-    "event_type": "departure",
+    "event_type": "state_visit",
     "destination": "",
-    "summary": "秋季外交新篇章：习近平多国密集出访释放的战略信号 haiwaiwai.com",
+    "summary": "埃及各界期待习近平主席对埃进行国事访问 中青在线",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qRHFHc1FxYkhQUFozQk10eEszOFlrdzYwQ3U1V3ExT3ZGTjY1MHFsMWtjdXdTLUZjeS1VVEZSQWpJZkNLZkJUMw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LaHlSWVNIV1R2NUtMR2xMOTlVQ3pCVnN1cTBIQkVwamJnM09Sak1rMXpScG1BNElMVlN0eXlVRGpmYzJXT1lJenBrd0ZGZktTWVNldHpKUEpJSk5YTk5aYjZTYnZkaWlMbEZMREl1OWI1Mno0M1RjejdoUlQ?oc=5",
     "published_at": "2026-09-01T00:13:28Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:10Z",
-    "updated_at": "2026-09-01T03:16:10Z"
+    "updated_at": "2026-09-02T02:34:36Z"
   },
   {
     "id": "89ac9684718f6cab",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "fbe7fe3ec14dce17",
@@ -92,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:10Z"
+    "updated_at": "2026-09-02T02:34:36Z"
   },
   {
     "id": "bf58f9ed6612f2cd",
@@ -116,21 +249,21 @@
   {
     "id": "8f10e87b933d79ca",
     "leader_name": "Narendra Modi",
-    "leader_title": "",
+    "leader_title": "President",
     "country": "India",
     "origin": "New Delhi",
     "origin_inferred": true,
     "visit_date": "2026-08-31",
     "event_type": "state_visit",
     "destination": "",
-    "summary": "Narendra Modi’s State Visit to Uzbekistan and SCO Summit in Focus of Indian Media Dunyo.info",
+    "summary": "‘Israel, its people look forward to welcoming you’: President Herzog on PM Modi’s State visit DD News",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWU3bVl3WF9UZkdJYzRNeW8xOWlvT0lLYW4tSlZwS29RcGlBX0dNSWtiUUE4Nk1nbkNDUkgwRkUyanUwbEtUdW9XOWFZeW5BZEpxLWZpSUNMTzg5dDZjZG5oMzdUNVJrWGhQUWc3RnU5OTB2S0FZM1pnUUVxc3dhNW5KM2lIYktHdDdqSlJKcGZKbndCcmtpclozLTVXX1paMnc?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmRXS3hQTHVqUXU4cndyOUxlYURYSVluZzRWOVdwWWNfUXRfWExWNVRnNGRnejJMVmVzbDA4WjFvem5hS2RjcWpJWmNjMHcwZDhRN1F4c1RRdzJkdzNkMENMS1FrZnhwUElXcjBBN1FVbmFWS2FYZXVtdjJYcm1vQVl5YVRDN3B3cFpxY3VNeVNScDVqbmNFM1VDdExlUzhDX0wtQ0JLa0VtTE5GVk9JV1k0S2k?oc=5",
     "published_at": "2026-08-31T12:21:44Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "2008e4cb7aca8c0c",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "6e084c5754038ea5",
@@ -225,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "d259336851c7478e",
@@ -244,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:10Z",
-    "updated_at": "2026-09-01T03:16:10Z"
+    "updated_at": "2026-09-02T02:34:36Z"
   },
   {
     "id": "762a6d168edbf4a8",
@@ -282,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "a9bb2b27d371dfad",
@@ -301,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-31T03:12:15Z",
-    "updated_at": "2026-09-01T03:16:09Z"
+    "updated_at": "2026-09-02T02:34:35Z"
   },
   {
     "id": "011e20f695accbbf",
