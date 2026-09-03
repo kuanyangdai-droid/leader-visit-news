@@ -1,5 +1,100 @@
 [
   {
+    "id": "e14f802b71f2b774",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-03",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "习近平出访埃及，在拟定赴美前巩固中东关系 华尔街日报中文网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPLXhrTER1eHYzS0R6Y0N3VWQ3a29VNVFVWTJ6ZDlpal9oenpGblVwellPQ0RoMWdnM21pbDBMVEZXbVI3VWF6U2d4TDFmM21qVXI3Zi11RDVSMmhhb0QtRTBUMnVWckFkUVpjMW5qYXNlTTZvSlpudVBRVU9iQXNvVnJpcFVZY1BPUmNzVXRoNjhSZTcwY240dVlrVGJ0YmFCY1R5ck9kOHBSbVZKYjk3WkgyUXBjdXdQXzNaNkxfUlVQbWxFSmhzWWVWdDNBb3gwdlpzcko0Q0ZOZVBIeEhLZ19TbXdDTDRZTkhJVTRBQVdCdUppS3BNNGhodm5ZVjRzX0xIWHJ2dWNSTlEzNS1KQ1pRcS00TWxkaTZCTGVxTDEyRTZzaXBhTWs3V0ZJSGduTXdN?oc=5",
+    "published_at": "2026-09-03T00:12:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:17Z",
+    "updated_at": "2026-09-03T02:41:17Z"
+  },
+  {
+    "id": "9341bec6bb8caa1f",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-02",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Xi Jinping leaves Egypt after state visit news.cgtn.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWQxVWp5dlVKTVVkREFRVmRBZ1kwYURTR1gwUU5nVjJOMGVUWUdERHpqVE9nYUtmbXNlRXBlMk0xTFZjNjlESFNUYjh4THdvV3g5b0pVNEU0ZXVXRmdSaHRGS19BalhZMjhDbEVZM1dHZXNuZlk0WHNod2pOakxXc256dlFxd2twT1pfbVhZUjVZR0tXam9QcDd2TUlJTUJSYk9BMVREZFFPMUlv?oc=5",
+    "published_at": "2026-09-02T19:18:20Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:16Z",
+    "updated_at": "2026-09-03T02:41:16Z"
+  },
+  {
+    "id": "e135ff8499cac008",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-02",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prosecutor General of China concludes working visit to Azerbaijan Azərtac",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWszNTRxQlR0UzhjOWp5VE5KanJ4Zk10RGhUb2NjbkpwYXhCb2daci1uM1k1dUJBVXVoNngzWVY0dENER1NIekk2TWJDYWNBdzRpZXhZV1lWMUtqVGtnc3ZfLWxlb1pXdUNDZDBYRVMtYnBzZXNpUVZ2dlZ5SmJvcVpWQ2ZaUzJBbUFWbElGMlpFbV9yaFpKZjA5N3RxVFd1eG9Z?oc=5",
+    "published_at": "2026-09-02T14:25:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:16Z",
+    "updated_at": "2026-09-03T02:41:16Z"
+  },
+  {
+    "id": "cdb1b4bdd30089d7",
+    "leader_name": "习近平",
+    "leader_title": "国家主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-02",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "北京和开罗就伊朗战争展开外交斡旋：中国国家主席习近平访问埃及 TRT中文",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYVZYSktEb2tEREdfdjRILTUxWDUzNUtpS0lDTGEybUoxeWxNR2tlUE5sVnZFUTJ5RVBFTTJwLVU5Q25qQ3h0R1pWckNiaVNlZDZSMDljTGNSNTB2?oc=5",
+    "published_at": "2026-09-02T13:26:18Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:17Z",
+    "updated_at": "2026-09-03T02:41:17Z"
+  },
+  {
+    "id": "415f646b166eab33",
+    "leader_name": "",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-02",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "Xi meets Egyptian president in state visit China Daily",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxOGJCOXp2b1NaaDF3ZWd5enZpVEVtSlk1akluSzJ3SzhVRmJJLUJHYjhrMVRKMU0zMTdxeU1BckRVcHBQLVV5QTFmTFo3TVc2Q2VOQ2N5dFk5X2ttV3FnZHZ5NWtNOHczUEl5Xy03NGZycllLN0Q0Y2VqZjVSQQ?oc=5",
+    "published_at": "2026-09-02T07:55:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:16Z",
+    "updated_at": "2026-09-03T02:41:17Z"
+  },
+  {
     "id": "ff99c08db4a257be",
     "leader_name": "Vivian Balakrishnan",
     "leader_title": "",
@@ -16,7 +111,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:36Z",
-    "updated_at": "2026-09-02T02:34:36Z"
+    "updated_at": "2026-09-03T02:41:17Z"
   },
   {
     "id": "238b51b1d8705b4c",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:35Z",
-    "updated_at": "2026-09-02T02:34:35Z"
+    "updated_at": "2026-09-03T02:41:16Z"
   },
   {
     "id": "14a5181322569ccf",
@@ -73,7 +168,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:35Z",
-    "updated_at": "2026-09-02T02:34:35Z"
+    "updated_at": "2026-09-03T02:41:16Z"
+  },
+  {
+    "id": "3ee9abb643183252",
+    "leader_name": "Indian",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "other",
+    "destination": "",
+    "summary": "View from Dushanbe: Indian Prime Minister’s visit to Uzbekistan marks a tectonic shift dunyo.info",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJWUHhObGZSZWxHTnNEWlBYRkZTZjNPTmZ1YWNnNlgwbngyRWRjODNsLWRtOWJ6RFBEdTFDbzJXSFQ5U0dlLWc5Mk54VGJhQm5Oc0ZySUlPSllGdE8xU2dCOFJqRjNCWnc5a2NXYXhNLUJEU1h5dHJIM2gtSDlua0RFcWdDYm93SWxTdDNGbFJubHBRaDl5T0hZdmpQZ1NVZFE?oc=5",
+    "published_at": "2026-09-01T10:14:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:16Z",
+    "updated_at": "2026-09-03T02:41:16Z"
   },
   {
     "id": "f8f2a90ed1bd7de9",
@@ -92,7 +206,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:36Z",
-    "updated_at": "2026-09-02T02:34:36Z"
+    "updated_at": "2026-09-03T02:41:17Z"
+  },
+  {
+    "id": "ed9842b88a860efe",
+    "leader_name": "Xi",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-01",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Egypt: China’s President Xi arrives in Cairo for State visit GBC Ghana Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWV1ci1rQUFpTE11MkIyZjVKbWkzdzZmMDVXMHBlVFJncjlxWlpEdUFBOG1HbXFpUktjczNIT3dEWml6aUNLcFhfSnowd0IyNGVfcmJWLTB5VEx1YnlPUGNEa2RGdzRIMDRvQzRNcVhuUldIakRuUmlPTllBMWQweTBWTk5kbmFnUUd4M2ExUEpRQ05LNmtZXzU4bHpkQTMyTUlwSER4bkM?oc=5",
+    "published_at": "2026-09-01T07:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-03T02:41:16Z",
+    "updated_at": "2026-09-03T02:41:16Z"
   },
   {
     "id": "1058ea0a97f6f5cc",
@@ -111,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:35Z",
-    "updated_at": "2026-09-02T02:34:35Z"
+    "updated_at": "2026-09-03T02:41:16Z"
   },
   {
     "id": "f1a6180b046c2f72",
@@ -130,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-02T02:34:35Z",
-    "updated_at": "2026-09-02T02:34:35Z"
+    "updated_at": "2026-09-03T02:41:16Z"
   },
   {
     "id": "c16723ca0d1e8f86",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:09Z",
-    "updated_at": "2026-09-02T02:34:36Z"
+    "updated_at": "2026-09-03T02:41:17Z"
   },
   {
     "id": "591fc1f3f4d64c99",
@@ -187,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-01T03:16:10Z",
-    "updated_at": "2026-09-02T02:34:36Z"
+    "updated_at": "2026-09-03T02:41:17Z"
   },
   {
     "id": "89ac9684718f6cab",
