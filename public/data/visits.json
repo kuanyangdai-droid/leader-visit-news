@@ -1,7 +1,45 @@
 [
   {
-    "id": "e2ae0b0452e3b5cf",
+    "id": "36bc554acfba785a",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-05",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President U Min Aung Hlaing, Spouse Daw Kyu Kyu Hla Embark on Official Visit to SRV Global New Light Of Myanmar",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1RQWmtMdDRoZUdmY1d1QkFqVk05b3hNell1QkkxSnowTmFxbjJEekp0Yy1XNkVhNVJiSl9CbTdwd2NpSmRiM3p3emJUZEEzb2RPU2dQVGZaMXE5bEVCUmRRbDRNMjF2cnEyTXh6dDVqTF9IclVzcUIwS1p2dU1ucG9hTElqR0hXUi01WUlfbDNERUR2ZmVmODhEMjc5UmEtSlFfaDh1NFFQa1k?oc=5",
+    "published_at": "2026-09-05T00:27:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:27Z",
+    "updated_at": "2026-09-05T02:39:27Z"
+  },
+  {
+    "id": "d4dadcb7bdbc7ebe",
     "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁 Shangbao Indonesia",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajd2TDJWXzVDWDFZaml6dHRoUzlhVEVUWTBZSDQtZlNtRkVnT25oY2NyMmtiRlEyNmIxdHRBdG0zVUNRMEpmMlE3TnVxLTRUWHlabFdyUXNBc1djMGMyNzQzMjR2SFF0RE1KaDAxZVJ1cHAwcjlYMmF4N0ZNMVMtUTlCME11QQ?oc=5",
+    "published_at": "2026-09-05T00:27:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:29Z",
+    "updated_at": "2026-09-05T02:39:29Z"
+  },
+  {
+    "id": "761538e04b63b640",
+    "leader_name": "Maduro",
     "leader_title": "President",
     "country": "",
     "origin": "",
@@ -9,14 +47,90 @@
     "visit_date": "2026-09-04",
     "event_type": "official_visit",
     "destination": "",
-    "summary": "Myanmar’s President begins official visit to Vietnam VOV World",
+    "summary": "Trinidad and Tobago FM Arrives in Venezuela on Official Visit (+US Kidnapping of President Maduro) Orinoco Tribune",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDlBU2tHMF9ubFFZMzJ6d2dVVVc5RzVjVUUxaGp6RDBzUzhHbkRNd3BEV2RWUlRiLVY5LVhMR3Zsb2tXQ2p2YmZPUmZFM3J1UDNscDllWmM0UlhKd2N0emV0ZzFGTHJ5RHp2eC1wVnJxWWpUY2gxM1BPVWFINkRNa1dtMWliNnNfN2ZxcGtDbmlnV00?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzcxdUphSFZkUFhEYTJkUlR6dHktRjk0Smxac25NYWVPdkE5QS1fWHhENWlEVTRUYXJURWI1eVY1YURXSWdrX21pZTZJRXhGcFllQlM4cG9zZ21fU2pHclZYWFVTVVlZdUMwSFBvcjE2M04wX1FUSGd0VXFQOVd0ZHg4bWRrZ1VHcG1iaGtiNVRianNWMGd6c29UX2Q1ZEpUVVJvNklPTjZGbkQ0XzN5dHRSNG9SQkZScVdFRG81Mk8?oc=5",
+    "published_at": "2026-09-04T16:48:29Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:27Z",
+    "updated_at": "2026-09-05T02:39:27Z"
+  },
+  {
+    "id": "de5741d0af3537e5",
+    "leader_name": "盟委员会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "乌尔苏拉·冯德莱恩将访问格陵兰岛。欧盟委员会主席将讨论欧盟合作以及北极地区的战略重要性 Informat.ro",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVhPUk5iZkoxMEZKZFBmZGhOUWo1bmJuSWxFYVFDYWxDNEd6eHctNEE3MDJuRTg2aTNsa1pnRkZCWGxVZWN5T2M2cUR3WXhiaGt2anRodzRpMTJWdUlmX0JLdUpyYjREYTkteGhiVm80ajNkLVEySVZDaG9SYVJ2aVBLQ0E5N2MyWnY3dkQ2bERhbW9XYjdhaUdYdXcxeDBJSG1VNVRESUZHX2laOUYxcg?oc=5",
+    "published_at": "2026-09-04T12:49:17Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:29Z",
+    "updated_at": "2026-09-05T02:39:29Z"
+  },
+  {
+    "id": "c57dbb100053de77",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-04",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "President U Min Aung Hlaing and wife Daw Kyu Kyu Hla arrive in Vietnam for official visit elevenmyanmar.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHNfQS1GWDZSYXJhRnp2LW5MeXFvdThMNVFHVjByMUt1emlhdHV3V1ZONjYyWmlYbzJtVHFUVUp0aXpuSFdES1lnSFAwZUJ4LWpvdlp1b3JyUGdPT0REYjNxWUxyb0lLcjVuanVBU19NVzBVUVJycmlhZDE1cVVPczdhanRfamJDTG5PR2hsNjF5S0drSzUxUmFTS1RoSGVTMkVwTVJLei1ncV9BUWVVN05VNWNrLXNISThfcA?oc=5",
+    "published_at": "2026-09-04T10:05:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:27Z",
+    "updated_at": "2026-09-05T02:39:29Z"
+  },
+  {
+    "id": "953783c24f5a48c9",
+    "leader_name": "Aleksandar Vučić",
+    "leader_title": "President",
+    "country": "Serbia",
+    "origin": "Uzbekistan",
+    "origin_inferred": false,
+    "visit_date": "2026-09-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Vučić, when asked if he will attend Mladić's funeral: I have an official visit from the President of Uzbekistan. vijesti.me",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1p1RmRKRUhPcFMyYkcwaDZRdTlhVXRMVWh2ZlRqeEFYc2lTc1JXRkY0c1dlbEo1QllQbmRaZ1dhaVIwRFJxRnhGSW15MUxzbGZRb3lkbVFteEpoOHpVeGluM2Z2cXZBWTF6d3lLcDI3SmFxWkNyeWRDeUx1X1V4SXdJRmc4ak1TWWstNTF0QVJMT3hzZEdqZ2FwWl9paVpyc1hGZURKdmcyUjA5Y2ZjTHp1ajk3a19BZWtpdlJSbGNUTHhJSklSZlFfUVBQS3FGZVRVX2JIQ1NhdDI4U1Z1clhSQzJZSFp0b1VGMFl1d0VOZEpTeGVoYVoxRFFreTJqaGwtZG93Q1hYc0U30gH-AUFVX3lxTE9ZR2x4cUF4bXpVYlZVOGYxNExhSVNwUkZVRDdjR0lMRnZPeDBISGEtRzMtVWdTN1dqSFlzdTA0aVZLaTloRkxZZmcta1VBMkxiTmtDTmRtR0RyZWxJVkExbmJMMjBmaHdQZEpkcjc2RzY3VzhUNlJ0SHpkbFc4QlRRYUNaZnJUM1BqcnhPRy11ejV4ZjV4TFpvWUFrbXRDUHlURkE5YkFfQXpQOXJiYjdPQnVJM2xneE04YnNzeFhmVWFGSzlJOXlpTkh1MjR2cG8xOFp6YkRQbHUyTC1MeHlfQmowd0dyNWVZTVY4WU5lTkhXRU1tZ1dDS3hVYWJR?oc=5",
+    "published_at": "2026-09-04T09:25:17Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-05T02:39:27Z",
+    "updated_at": "2026-09-05T02:39:27Z"
+  },
+  {
+    "id": "e2ae0b0452e3b5cf",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-04",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "Myanmar President arrives in Vietnam for official visit vovworld.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDJ0dHJaZDlDbVhOSFJPMDZwVEdWdzdRYjBaZUxrLUdsemMtWjhydFFUQzBoZElvYlg1MzBtamZjWUtsS1pKZUZvVjA3NGo0OTY0SjNUclp5M2RacXlBLUdFLTV5aFVLaUJGTnQ5ZWZlLWk5cXdsTUxzNkMxQmlmQzhqX2l3OHRqTHBnSThwb0lZRVNMVUNueA?oc=5",
     "published_at": "2026-09-04T02:17:00Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "3189ecfeff842c2f",
@@ -35,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "dc3aba357d59af76",
@@ -46,15 +160,15 @@
     "origin_inferred": false,
     "visit_date": "2026-09-04",
     "event_type": "state_visit",
-    "destination": "",
-    "summary": "President Lee to Pay State Visit to France from 6th to 9th...Cooperation with Macron on \"AI, Nuclear Power\" 아시아경제",
+    "destination": "France",
+    "summary": "[Breaking] President Lee to Visit France on State Visit September 6-9... Cooperation with Macron on AI and Nuclear Power 아시아경제",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zUDg5UTNWMW45QkVxdTVuYnFOcjZvQlVpdDhRdFU1SFhKTGY4TjZtRUhCNEJ6UjRVcWt3cndYc0dTZk1wU0MzT2o5dFRxZGVRMWdZN1pkcTQxVWE2LWUtM1lqQU4?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DM0o5Vk1vd0Y1aWtSNFE3OTJOeGpRTGlSR2NqNEdCb05BLU51WVJzcDlGZWVtNFhJN2RZUVBrdXBkNVlFYnpZTXFqY2lfVHA1Mk5IMHYzM0VjTHZEU3h6b1U3dmU?oc=5",
     "published_at": "2026-09-04T02:04:17Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "e680492723a0ea0a",
@@ -73,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:12Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "916ff5fbc7f1a485",
@@ -92,7 +206,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:12Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "4efe4781f4ec1bcb",
@@ -111,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "e23a51593f5d384c",
@@ -130,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "c35b223af520c991",
@@ -149,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "053c52d8001702d6",
@@ -187,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "1b8ee06fdf347528",
@@ -206,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "56159110ad753c5f",
@@ -225,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:12Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "0000be715ddbaac9",
@@ -263,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-04T02:38:10Z"
+    "updated_at": "2026-09-05T02:39:27Z"
   },
   {
     "id": "1a53b5fb3378e3c2",
@@ -301,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-03T02:41:17Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "9341bec6bb8caa1f",
@@ -1954,7 +2068,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-01T03:16:10Z"
+    "updated_at": "2026-09-05T02:39:29Z"
   },
   {
     "id": "8918a98a0d1e3337",
