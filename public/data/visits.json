@@ -1,5 +1,81 @@
 [
   {
+    "id": "f5adce69b9fe4719",
+    "leader_name": "Lee Departs",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-06",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Lee Departs for State Visit to France... Expanding Cooperation in Advanced Industries such as AI and Nuclear Energy 아시아경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10ZmxEVWFZNEFqYUtfc0RaM2pFWlgwdDNhZDZqYmNUOVo1S2puc1dhWUFnSEtZY2d1bWtraU9tUWVOOG11eWJ1cS02aEx1WC1ESmUtNzFsUFl0RURlUG1HaUtVTjQ?oc=5",
+    "published_at": "2026-09-06T01:57:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
+  },
+  {
+    "id": "f93dfb967350db4f",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-06",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Lee heads to France for state visit, summit with Macron The Korea Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1owRUxoeDFBRkxQaGdpSkd6RE5fbkN6T3J2LXRFU0R0SW5GZkdnalQwdDlSN2ZsWlB0Mko0azlGVGxCMGdMZnFkREVoX0hGdTVLVXlCZnRtOTA5dEhzaDhGRWRGWVRSUlBaMWxKNXkza3lWbXg2MUNlUWxqVDlROWlVMVQ0SElJRFVyTURXNmtsaHN5NFhNWXVuMllwREhqTjNORWp6V2haazTSAbABQVVfeXFMT1p5aE5xa3pTU0RFZl9MZ1VkQ0NfWWVZYm5KWTJOMVVETTBDbDl0NHk0aG1FT2o5czlDVXFWTWZRUzloTUJUVjd4blBpRkgyeWFOeW9ibUhmOWJoSXhvTEFMbExGMU9UdGI0WHBxbVh3cHJrWEV1Ulo0RWdXMFJBVGdzWmJzMTBTa2F6Vk9rVmZobmtLdlNRY1VQV0tJaEIzU0kySFpsR3RoM3ctRjctdEc?oc=5",
+    "published_at": "2026-09-06T01:38:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
+  },
+  {
+    "id": "f27ea3889689d4a3",
+    "leader_name": "习近平",
+    "leader_title": "主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实 湖南省人民政府",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QbHJGUHQ4Njk2QThJbHZLcVB6T3lWUGV0b19XZVdlQzhtTURLZU13WHhCd0dkdy13YXYtd3Rjbi1fYUpYdkpGeGxKQ1E5aS1hTE15eVdzWFdVd0NfUXVaZzBXOGhqcEt0Vksxekt5eWh1dW5pdkh3SEF1NHhvdw?oc=5",
+    "published_at": "2026-09-05T23:30:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:44Z",
+    "updated_at": "2026-09-06T02:36:44Z"
+  },
+  {
+    "id": "7391fb334ff69009",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-05",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Thai DPM Sihasak to undertake two‑day working visit to Malaysia from Sept 6 Malay Mail",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ViSTV2S1NmWGF6dzBPYWFsaEVkVnd4TVNTX2s5TDhWNnAzTnlzZVNuMEgxbEppMUhPclpCYmtJU3pKeGUtQkJWOG5OaGxwVnI1X3NJeUFCUkxmYU1yckFfQTRQZTQ2SnY1REpEZjZlSFFibnFFZ2dYOTJnR3YtNDNKT2lVRV9weDg4NzZSNURFOE1BVmlyUEN1ekVpcDBnME13aHBUNjJLZ3MwMmNCTU1mRWppSkFla3N4MFBTcVUzd3F4bl9ocnZ4NlPSAdIBQVVfeXFMTnVQOE8yeVNJVUQySDVSUjFkMVEwZVRwX2xVUFN3eU81M3BxQVVNRVI5cmYxSDVTRDFwaHV6UEFERmk4VTZsb2FSRjFkb01qRHVLYk9fQUduZFZvYjh3UU11WmNCRjZKRklnMEpjTEJlRDBtdHA1b1RLZ1JjZmU5eVZ1T0lqVzhjU0RWNkljTFYzd0NjYXhDYTZEVFRvamg5aWt2Nmt5d29XZGNTNmpXeWotU1lpekZKRVFtcDhnZXd0bEVyWlE5V24wUkZPT3JLNk93?oc=5",
+    "published_at": "2026-09-05T05:59:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
+  },
+  {
     "id": "36bc554acfba785a",
     "leader_name": "Min Aung Hlaing",
     "leader_title": "President",
@@ -8,7 +84,7 @@
     "origin_inferred": true,
     "visit_date": "2026-09-05",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "Vietnam",
     "summary": "President U Min Aung Hlaing, Spouse Daw Kyu Kyu Hla Embark on Official Visit to SRV Global New Light Of Myanmar",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1RQWmtMdDRoZUdmY1d1QkFqVk05b3hNell1QkkxSnowTmFxbjJEekp0Yy1XNkVhNVJiSl9CbTdwd2NpSmRiM3p3emJUZEEzb2RPU2dQVGZaMXE5bEVCUmRRbDRNMjF2cnEyTXh6dDVqTF9IclVzcUIwS1p2dU1ucG9hTElqR0hXUi01WUlfbDNERUR2ZmVmODhEMjc5UmEtSlFfaDh1NFFQa1k?oc=5",
@@ -16,26 +92,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-05T02:39:27Z",
-    "updated_at": "2026-09-05T02:39:27Z"
+    "updated_at": "2026-09-06T02:36:44Z"
   },
   {
     "id": "d4dadcb7bdbc7ebe",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "President",
     "country": "",
-    "origin": "",
+    "origin": "Uzbekistan",
     "origin_inferred": false,
     "visit_date": "2026-09-05",
-    "event_type": "other",
-    "destination": "",
-    "summary": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁 Shangbao Indonesia",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajd2TDJWXzVDWDFZaml6dHRoUzlhVEVUWTBZSDQtZlNtRkVnT25oY2NyMmtiRlEyNmIxdHRBdG0zVUNRMEpmMlE3TnVxLTRUWHlabFdyUXNBc1djMGMyNzQzMjR2SFF0RE1KaDAxZVJ1cHAwcjlYMmF4N0ZNMVMtUTlCME11QQ?oc=5",
+    "event_type": "official_visit",
+    "destination": "Cyprus",
+    "summary": "President of Uzbekistan to pay official visit to Serbia – News from Uzbekistan Газета.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSVNNRHlBLVVsRWtaZXhOQ1o1OTZDTGVKUzJIbDg3ZEptUGo3MnA0OEZRTk8tQkFHLVZsYXA0OC1wd1ctN1lpTF9fQlBGS2xyXzlzODF3?oc=5",
     "published_at": "2026-09-05T00:27:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-05T02:39:29Z",
-    "updated_at": "2026-09-05T02:39:29Z"
+    "updated_at": "2026-09-06T02:36:44Z"
+  },
+  {
+    "id": "d0b63a8ff2f32b41",
+    "leader_name": "of Turkmenistan Serdar Berdimuhamedov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Official visit of the President of Turkmenistan Serdar Berdimuhamedov to Iran Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOWFpyRDZsd244SEd6aTVQU1Q0RlVMWDhmd3RZay12ZjE4bXB4T2JPUjNnV0hYRXpVa09zeFUtdDYzcjg0TzZPMVFGR3BuUi1VekJsRWI1bHBqeDRkRHRvdkFUUDlid2YtNmtrQW9ya0FOLTRON2RCcmpfbnB0a0JfS2lfZFJUNVNLZlA3R3o1ckNWZ2l0VU5zbjhUS3pSQUZIcldEOTJzZHZKdlY2WUxYcnRpUXpidEZkYVdNLTVHTWx5MTc0YkJnNHhGd0pDNDI1V2Exd190cGprU3JkUEpzdmw1aXI1dS1MRURZblQ2a1pHdVZDSjhzaU5aSGtsVmpHR0tsdTgzYm0ydklMOVpodl9lNVVsTGxYWmZROEdUaEVIY1ZjajRkQ0t2RlBtWmRBRkZrT2FGTGtkWmlEaW1RLTd5eWlnMXdFU2tMdVdMTHRVejFoLTlB?oc=5",
+    "published_at": "2026-09-04T18:34:26Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "761538e04b63b640",
@@ -54,7 +149,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-05T02:39:27Z",
-    "updated_at": "2026-09-05T02:39:27Z"
+    "updated_at": "2026-09-06T02:36:42Z"
+  },
+  {
+    "id": "c48d7692380ec8ed",
+    "leader_name": "Fakhrul",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Festive atmosphere in Thakurgaon ahead of President Fakhrul’s visit The Financial Express",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZW13dmFWZ2hqdUptV0xFcHF6YldpZ245Ui1XejAyZXVrejNoZDNNckVkeHhIam1xQ2F0Z2JyaF9vazVGeXlZMlhLSG1YNUkzUTVjR1pzdndmeFFERDBCSUp4blJLMHMwbWsxZElKT1VGSVlLZGpGMURWSUg2SEphbzFYTU95ZExaaW1aQUxTQWNjWDRsLS1rTzB2Zlk2OUg0WHZ3ZHdyM2dWcmsyY1lF?oc=5",
+    "published_at": "2026-09-04T13:37:28Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "de5741d0af3537e5",
@@ -76,6 +190,25 @@
     "updated_at": "2026-09-05T02:39:29Z"
   },
   {
+    "id": "b51d5b8273a4928a",
+    "leader_name": "of Turkmenistan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Photo report: Official visit of the President of Turkmenistan to Italy Turkmenportal.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTM3pDTG9hY0RLZ29vNDR2em5TR0oxZGNBaVJwSjZ1YW1PMjBjWjR3Q0dhVERoRHc3bElRNG1FRjNYbUx0NHoweXNwWU10dHBpMjBIZVY0NEM3M0xiRkZoMEhjcEZ2dWs4THhsSUdKMGtvU00?oc=5",
+    "published_at": "2026-09-04T10:48:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
+  },
+  {
     "id": "c57dbb100053de77",
     "leader_name": "Min Aung Hlaing",
     "leader_title": "President",
@@ -92,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-05T02:39:27Z",
-    "updated_at": "2026-09-05T02:39:29Z"
+    "updated_at": "2026-09-06T02:36:44Z"
+  },
+  {
+    "id": "a8d4361c4c615006",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Xi Jinping arrives in Kyrgyzstan on state visit AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3YzRTQ1ejcta3lWZ1FFdjJIcjVqU3VMR1FiSUZZS0kyQ0w5V1U2dWJJbXZYOTMyVWg2Y05lek5TYkQtQnhuSVN3bDAxcWdOcmdya09vV0VPUnlEdGtOcGtKbnRwUl9yUjZySzQ5c1MwdzkxU1JPb0RMU3NJQW9xZWpBeGlrWWFQQm9VNzdxRTFzMUtrWTE4?oc=5",
+    "published_at": "2026-09-04T09:34:06Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-06T02:36:42Z",
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "953783c24f5a48c9",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-05T02:39:27Z",
-    "updated_at": "2026-09-05T02:39:27Z"
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "e2ae0b0452e3b5cf",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-05T02:39:29Z"
+    "updated_at": "2026-09-06T02:36:44Z"
   },
   {
     "id": "3189ecfeff842c2f",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-05T02:39:27Z"
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "e680492723a0ea0a",
@@ -192,21 +344,21 @@
   {
     "id": "916ff5fbc7f1a485",
     "leader_name": "习近平",
-    "leader_title": "",
+    "leader_title": "总统",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-09-04",
     "event_type": "other",
-    "destination": "",
-    "summary": "2026-09-04 《环看天下》： 习近平结束中亚埃及访问连串外访为世界注入确定性 gbcode.rthk.hk",
+    "destination": "United States",
+    "summary": "特朗普总统确认在白宫设国宴招待习近平；据报中国大型企业家代表团将随行 voachinese.com",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGpFWm9ZTHRTR1lZcEExS3NnQTBLLUx2SWFOWWFqUVNncHY3TkZlTkRsT3pydmtTcGxtOW5XVzVkS1pUUzNMY0V1cHB6MUJOS2lrMk9ndlZPNEhNSmpmQlI0VThTcTE4SnJfdkVSWXBGckg1aE1mMXc2ZXl4YV9ud05RT1N5QlhIR1FWd3pjTWVqcWNpRU5JVTJENF9ickNpR1BuZXBFQ2UzNTVjTHRBVlJkdFFWTl9zVGRVZVlEekRLZ1lia2J6a2MwWGh2VUE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmEtTVc4NjdnY0oxd3QzV0ZrWF9GazF4b2d5RFFuY2tjcXdNMXhMaWpWRVZwd2VUVkVTNjZGa0VfdHVSWlA4aUhrM2M5TkprdkJ2QVptcFZFSXkwQV9qaEVldGVpWUxPV0VyZTdqSEsxdnRTTGN1UDZJRGQ5S1pHTElWakwydnN3enVWcnVFTGQ4QzlvUmxnMEhXMHhQRW9fdFAzcFVUZmdmYzZFRlNjSjBkdmRWdTNjS2VIMmNmc25YUFprMTVxeEVYTExNV0Y3dExmVXV4X1FIWDE0X2gyOUdnWG3SAecBQVVfeXFMT05lTHJIX3ByZkZvNXVaOHlwQVNoenNDM3Q1QVN6Snp1VmdtMFk0TkttU1RuQzQ1M2FNZFJUbkdIZWkyNC1iX2QxblZGMnF4LWl0RlZLblRieVNlNFlXdG1XRDhSVEhzUHZnYm1McHp4OTZRZ0YzUGlDaThveFZONzJVSGt0WTUzZU5GVEVPLWRjdGRXOGlwd2JwM1pMZDFWYnBvTEtmWEhvZEV2UkxXY2tMYWdUeFZ5cDlrRjFGZllKOUJxd2cwYURhUEpCNU1wZ2szY1MwU2lya1BlMTJLMWM5ZFdKMGpv?oc=5",
     "published_at": "2026-09-04T00:26:53Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:12Z",
-    "updated_at": "2026-09-05T02:39:29Z"
+    "updated_at": "2026-09-06T02:36:44Z"
   },
   {
     "id": "4efe4781f4ec1bcb",
@@ -225,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-05T02:39:27Z"
+    "updated_at": "2026-09-06T02:36:42Z"
   },
   {
     "id": "e23a51593f5d384c",
