@@ -1,5 +1,195 @@
 [
   {
+    "id": "c0f073d7a9f1e73e",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "France",
+    "summary": "President Lee Arrives in Paris for State Visit to France... Summit with Macron Tonight news.sbs.co.kr",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSZ0ptTUJqVkFoUDFHby04SWZBYkVRVWlkcGJkUTlBMXp2YkhjQXNkV1pFblBmMHRHVlVnOURUS214dDNoUjZXdGczc2kwcGdiU08wTDNQbWJjM05xRy1nOGh0Nno0QQ?oc=5",
+    "published_at": "2026-09-07T18:59:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "78aab2e07a623e55",
+    "leader_name": "Kagame",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Kagame Arrives in Oman for 2-Day State Visit KT PRESS -",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0xxWWpWamxkR1FUeHNjX3liOHpPbUl4QktKOVE4VjlQTHVUWVV3UDlXTGpOcnVFWkZhV2NWazhFalFicVlpMm5Eb3NLTFl0WHhKTERmajR1OEhpbEN0Mmt4YmwyWVI2UUF3bG9nTU1jMnhISHB3aGM3R1J1UUNKVF9EeWV5VkNBLW14M2huSQ?oc=5",
+    "published_at": "2026-09-07T15:04:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "dd83489cb1252645",
+    "leader_name": "欧委会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "闪评｜欧委会主席访问格陵兰岛能否对冲美国压力 Sohu",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTm5USnVNNzNFanFUbXpxRXJReGVKN0JKTzhOUEllRkVjTDAxUmlnNHBBek45Q3R5YjN1Ykp1eXlFZkRkYmpsOUhNU1ZOa2FrSkNtY1BOMjVHSUlFN2RFU1FyNE1vcTdWZXFRbEVrSGxDaDFZMlh4R2dBaWlaQ2QwUnpMNHRKazcwZEpn?oc=5",
+    "published_at": "2026-09-07T13:23:56Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:22Z",
+    "updated_at": "2026-09-08T02:47:22Z"
+  },
+  {
+    "id": "7ce3e1907cbaf106",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "General Secretary and President To Lam begins state visit to Russia en.vietnamplus.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2pudWtmTWxpYU00Y1MyZjFfdGViSUdRQVNSRjBQMUNlQUVVQ0p0MmdiMVdPV0NRWEUwLXc0LTk2UGFLZk9WYmQ4RVlEYzZWeXFuN1lmN1pQVVJYMzQ4YlQ2TDluWDRmVVZQb1c2TXFmMUxSTzdKdTB4eDJXQ1A2WFNfSkxvc3lhc0Z5X05ZODVrcUNIT0R6ZDY0RUFtY1U4dTE1aWMtUGlNTUx5?oc=5",
+    "published_at": "2026-09-07T13:10:23Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "8772562677e96792",
+    "leader_name": "heading",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "UAE President heading to Germany this week for state visit circuit.news",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0I2SDZ1RmVxNFdIMjlZVHVGOVFUd1RPdXlMOEk5b2ZqdU5tZkN5dGJaWDdidWR6UG1TNWdzcHprUkxDcVNLVEx2dFpZcThlRFp0Tl9fczlOczA4OXZ6RWN3bmRzNjdXdGR1LUpTQ3RuOVRMcEVYVUUxdXhNZ3pEcklWN2xydmZyWXZQaldEUlRuQnd5ejdBWFRyaw?oc=5",
+    "published_at": "2026-09-07T12:48:38Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "8e665236cdb41ada",
+    "leader_name": "Shavkat Mirziyoyev departs",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "departure",
+    "destination": "Serbia",
+    "summary": "President Shavkat Mirziyoyev departs for Belgrade Kun.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclRHZ0FZOWpSY0pQa3E4WERRQXc5MHFCMXhYQWt0T2lPUl90MWFyNmtYeWNsN2o4RkpMZFVuVUdraUo0T00zV190Qkl6TUY5ZnNyU01MUDczcEdVV0xLZ1JnYUtVdVR5VDQ0RERaek1WVzFISFNac2pjaUxBSnNGdnRQai1rVXkwTmtN?oc=5",
+    "published_at": "2026-09-07T11:28:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "465a82afe4102eff",
+    "leader_name": "Lee Jae-Myung",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Lee Jae-Myung’s State Visit: France-South Korea, a Partnership for the Future? Institut Montaigne",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzdhWmhLY0JWUXJaQ3NRWjdzRHBtOU5SV01MZFYxQ00yQUNUcy1Ya1hYc1ptcGFLeE8zVFFwb1ZrVVhtOXhtQTZwQ0lsMENOdElURXl3ekxNTUhtel8yRkhDa1V3ai1UR1lkdlBYMXdXY3NDSnk3Z2sxcHdZSU1hUEV1WWVjTTc5VlRuZEh4N1ItQUlMTUVIUlNybDJaenpjUXkwYTVUZFJZNXJENHR3a0hlQi04MUlmcWt1bzAzUTk?oc=5",
+    "published_at": "2026-09-07T09:53:38Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "4d91e1894afb3472",
+    "leader_name": "Sheikh Mohamed",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Sheikh Mohamed to begin state visit to Germany on Wednesday thenationalnews.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFzUWd5WVlCajJUUVR3UDhvWTVCaDF5YUpyTHFMVkh3dFJJV3VaVmlZbEt3YWFyVDFnSEhTRFpxVkRGNVhjeHMwZVJpRmxyWjhnWi13TFdmTHhfdWQxRkMyVUlPLVNGNGNYUl96MmFNTE1icXRwalg2WlNPQWVoTklPRENIOXBPYkVZcHVSbHhBSXE3dk1PUlFseDI4R2tqVjZXU05Va1QyNXhHNHBtZWI3c3Rhak8tdDcyZWJWMA?oc=5",
+    "published_at": "2026-09-07T09:33:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
+    "id": "e59bceed4f2a4cc7",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "苏林总书记、国家主席启程对俄罗斯进行国事访问、对法国进行正式访问 VOV World",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXZWYjA2STVfajdLaU1ra2xhY2pBakxUdExFVWM2bU9BcXNpak52dFh0amdoc2QtcDdpUUVNNTg5d3RRbkVTQ2swcnBMUnd1NnVSYnh1MXluekt0cTRTVl9mNkNhMDBKNDRVZUdyYUdyM3ZLY21XcTJHS2M2LTh2ZThyOXZUcVY0MTZVNlNyUUJsM1RfOWh2Y3JvYTQ5Z0dpaTBtRXlFVC00Zjh0WWpoOE15SGdlQlBBc3lILVp3YmVMQ2Noc3cxcE56dFROdDVIYXh3?oc=5",
+    "published_at": "2026-09-07T08:41:06Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:22Z",
+    "updated_at": "2026-09-08T02:47:22Z"
+  },
+  {
+    "id": "105eea7409639ce2",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-07",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Myanmar President Min Aung Hlaing Concludes State Visit to Vietnam The Diplomat – Asia-Pacific",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEhlOWFrQlMtaTJZcHQ1WFc2TVgzU2FHdTRldHdWOVNTMlpDaVN6b1BlNnhuaVk1aHJxRXdsSEFsQ1F0ZGFsdThrYTAxbnpSS1h1aUN1ekJUZEZEX2NPWmtWRGN6MURPekh5TVlFdzFIV1VWekJWSUtDbG5VSUFvR29PdDQtV0hHRndwRU1UUkJzemM3NlR4UmNpZGtEelRk?oc=5",
+    "published_at": "2026-09-07T03:17:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-08T02:47:21Z",
+    "updated_at": "2026-09-08T02:47:21Z"
+  },
+  {
     "id": "43b143f8f4e2d9f6",
     "leader_name": "习近平",
     "leader_title": "主席",
@@ -16,7 +206,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:29Z",
-    "updated_at": "2026-09-07T02:34:29Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "b1ea74240df44ac4",
@@ -35,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:29Z",
-    "updated_at": "2026-09-07T02:34:29Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "de34167e99f20527",
@@ -54,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:27Z",
-    "updated_at": "2026-09-07T02:34:27Z"
+    "updated_at": "2026-09-08T02:47:21Z"
   },
   {
     "id": "b7a65bef6d4899c4",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:27Z",
-    "updated_at": "2026-09-07T02:34:27Z"
+    "updated_at": "2026-09-08T02:47:21Z"
   },
   {
     "id": "ba1254c876d1e774",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:27Z",
-    "updated_at": "2026-09-07T02:34:27Z"
+    "updated_at": "2026-09-08T02:47:21Z"
   },
   {
     "id": "e5c3b28ce3b9224b",
@@ -149,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:29Z",
-    "updated_at": "2026-09-07T02:34:29Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "8117b5d7c501c988",
@@ -168,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-07T02:34:29Z",
-    "updated_at": "2026-09-07T02:34:29Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "11c16485d21db712",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-06T02:36:42Z",
-    "updated_at": "2026-09-07T02:34:29Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "f27ea3889689d4a3",
@@ -17192,7 +17382,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-06-20T10:19:37Z",
-    "updated_at": "2026-09-04T02:38:12Z"
+    "updated_at": "2026-09-08T02:47:22Z"
   },
   {
     "id": "9b83b5960fe0517e",
