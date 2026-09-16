@@ -1,5 +1,233 @@
 [
   {
+    "id": "9e4828e227fd84b9",
+    "leader_name": "Connolly commences four-day Official",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Connolly commences four-day Official Visit to Scotland President.ie",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmlPMlNQZnRLX3lBenJTZkNXcldPNVhiaDlRYlZoWnE3ZFhIM2JtSmVrNnotSFhVTUFYS19PbWw2QkhXdERoLVJWSWpWQS1LQWo3VnFCLXJSdnY0dlRKbjR6S09PaDVIQU53R2ljbGFWWHM2MHdNbFBROG1iT1pmcGNUQzJOT2FOdzVINE5UN0lKMFJ3QXh0Wnp1WUFZeDVCcHhSYVNDTjdLcDNaR0YyTWx0Zw?oc=5",
+    "published_at": "2026-09-15T23:38:05Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "5b7b4ae376717c0b",
+    "leader_name": "Connolly",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Connolly arrives in Scotland for official visit RTE.ie",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZy1nTTVsVWxQTk5oOC03ci0ydWx2czNYWjVtUHU1cTF3Y0trWDFzSm84VV9UdldwV3p3c1p3ZWNiUllVUlVzR2txeHpnU1NwM3dybk1hZFFsQkd0TU4xRzQ2cmg1Mlg1UDQ1dEIzWWJ5c2tPYzVZTzU0aUhlLUNDdg?oc=5",
+    "published_at": "2026-09-15T23:01:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "e3bdf9632b908f66",
+    "leader_name": "Mirziyoyev",
+    "leader_title": "President",
+    "country": "Uzbekistan",
+    "origin": "Tashkent",
+    "origin_inferred": true,
+    "visit_date": "2026-09-15",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Uzbekistan President Mirziyoyev’s State Visit To South Korea Ahead Of First Central Asia-Korea Summit - OpEd Eurasia Review",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHo0TjlOTWdKalNMamdTeDFPWXlnNnI2RHdUOE1tRW51N1oxeVk4bHV1T3VtajVWNFYyZmoyQURUUUQ5Tk9JY05JZW0tQ0NtVm9ubGtQT3VhSGJoaGM0VDFYQ3VfVTJqSVpGZTR6WG5NTFRVSmVadW11REFHNFNUM1VHTE0waFJtNEpKYzN2TXE4QllESmFFSWdsUDZLNkhCOXNiTm0zdkRNVGczQU96d21laVlBVnpJSWJGRGQwelpkT1VUb3I2YnFiR0dWOVNRMUo1QUlucmhRTXhnNVE?oc=5",
+    "published_at": "2026-09-15T16:06:28Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "fe093f2050d2e2b9",
+    "leader_name": "Sadyr Japarov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Sadyr Japarov arrives on official visit to South Korea AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1N0T0NFTE5QSnlyVTZXd3ExNV81dmJQd0xRcFozNjlHaWdWWjBTWmlVQUJyd25kSDd0SVBLdkJKLUgxTzZRSlB0M3Rlbm5XTHdqZE9oNTJYUjI2dFdZTzdaaU1yaEwtbENEU25iRHF6RXM4VldKY0RsVTZWS3dpSXF4Q2JpdVIxYzA1TzlpWnBWRjRTRFNMZ3EtdEFEdUE?oc=5",
+    "published_at": "2026-09-15T15:36:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "5cda6a04eaf28e0f",
+    "leader_name": "Abbas",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Abbas arrives in Cairo for two-day official visit WAFA Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYcmdBWHYxWE5zendZQTlUMDdUMTN6ZENWWjlqeTgxYkhBazZJZjdQT0VWaVExWG5zYWhpT1Ytc3BLcUVqbldVNnlGQWx0RVNKcmRLa19NYw?oc=5",
+    "published_at": "2026-09-15T13:27:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "ae0840e8b1ea0900",
+    "leader_name": "of Turkmenistan has begun",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "The President of Turkmenistan has begun a state visit to the Republic of Korea vestiabad.ru",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXJXNXU2SVVmUFBLQmlfOFA1eW9kalNwLW54V3U2c05PeE80VkhYS1dQQlhOU0JyMGhrY0pZeHpGY0NWQWM5SGVkZkxVaTlpX1cwZ21lYTgyeTB4bGN1UDJMLXgtcjBvZVk2RHZGV0w0RS1GUndkRFZpOHJ5dkszWDB6M3hqRE9TVVBxYzl2TklGbENsXzhrdVd1dXlXM0lHblR1LW0ybHVCU3c?oc=5",
+    "published_at": "2026-09-15T12:41:40Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "1d59cf71f0740ead",
+    "leader_name": "Tô Lâm",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-15",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "苏林主持仪式欢迎泰国国王和王后对越南进行国事访问 VOV World",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFg2Qm5XdUxBOTJTeE9LbGNlbWxQUWNIVlZTTXhTS3NJNFFONi05Qk9lVW1STDVja1VTaDFQdExTQ1ctaFpYVVdFSEdWYXY4ZEt1UDJvcTlZMzhKS2hHUmhoa3c5YjZyX3dfRExHTlZVc2NYTXVOTDduYVhIZmNTel9yRjJYVGJQVmJILUVvZmN1cno2YkhidlJSakFqZWFzMEtIdjJTNmRCeDJYTjZCSjIzalBINnJTcGJNNjlR?oc=5",
+    "published_at": "2026-09-15T12:31:30Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:54Z",
+    "updated_at": "2026-09-16T03:02:54Z"
+  },
+  {
+    "id": "29fe586e8be61a96",
+    "leader_name": "Tinubu",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Voice of Emancipation: President Tinubu’s State Visit to the United Kingdom thebossnewspapers.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSS1MVHpEb1JaWGl5WnBzVmx1OWNWVWpITFFlb3hldVlCS3VGc0xnb0ZJYjZCM1ZKWVJWYUw5d0hNZ3gtRzRVMFgxLU1TWXBuOEtCaFJnS1BiYzVEdkxaNF95RDZUYlJfeXpYY2k4OURBVWRkM2RKNzNYQTNJcFE3Ql9hTkNHODRLT2JUeExWUy00M2dESXdERHctTWJ3R3hWSFp2OHFfOFhxY2lyVW5icXlUOWZCcmltamZKb0gtRGhXWG5R?oc=5",
+    "published_at": "2026-09-15T12:08:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "146fc17b0f8e74e6",
+    "leader_name": "Vivian Balakrishnan",
+    "leader_title": "",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-09-15",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "维文星期三出访卡塔尔 联合主持执行监督机制会议 联合早报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXN0RXaVlmczlhelc5WlA1c3FNWEpOUG1wSzRUR3hyWm5nZ2JRMFU3Qi1zWHlDeERVZGVveDBuT3p6amVkbWszVXF6emZjQW85TmtLZlptbktibGZpUFMzZG9yTWZIYS1sSWxDV29BWQ?oc=5",
+    "published_at": "2026-09-15T11:48:29Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:54Z",
+    "updated_at": "2026-09-16T03:02:54Z"
+  },
+  {
+    "id": "12f49a007f8b57da",
+    "leader_name": "王毅",
+    "leader_title": "外长",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-15",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "伊朗外长再访问中国 将与王毅会谈 诗华日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DMXhLMXNGUE1BaThIcnhyVFdPWVJQQUtCQTFiSF9GanYwY2w3SHlUVmhnZHNBVkQtLTZ3d3lUNERHMkNrS184ZElsV1djQQ?oc=5",
+    "published_at": "2026-09-15T11:17:28Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:54Z",
+    "updated_at": "2026-09-16T03:02:54Z"
+  },
+  {
+    "id": "f0782a95ca68225b",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Lee: \"Korea-Kazakhstan Trust Deepened with Hong Beom-do's Remains Repatriation\"...Bilateral Ties Upgraded 아시아경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQLVFPcVhobUxBdTF1d01CUzFydkxvVDdlZEtGb2lyUXRhQ3NuSWJsZkxESjNaOTlEcnNDT0JYVHlibHAtNzV1MFRKR3I0eGJJMUpkWE4td3hXRHl4dWlzTm9fUGI?oc=5",
+    "published_at": "2026-09-15T09:23:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
+    "id": "662722925e0653f6",
+    "leader_name": "Ndaba Gaolathe Discusses Economic",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Botswana Vice President Ndaba Gaolathe Discusses Economic Cooperation During Working Visit to Singapore INDiplomacy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQTBzOEpqRlo0bVRpVGFlOWpKN0pscWQ5VmlKNGxlNVFqMlZNREtqYUhqZ0NWSEJPTmpTZV9rWFRFd19fNWx1QUdqNWRLSmpxTU1UcGJmbXRqM3VnRGt2MnY4dlk0Q2FVX0ZZWm5ZdDdJZk5kYjVjVENhYkVTajZlRmdVbjdBck5FUGN2T0xRZ3FCa1owV1M2bHlHSXlJYXFMMGYxU00wMlFMMFlpT3pFaEF4eGwtOHo0OWFpWHh5dk9hLVJxRmZLLWx5QTM5Z3I2cEpkM0x3?oc=5",
+    "published_at": "2026-09-15T04:56:21Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-16T03:02:53Z",
+    "updated_at": "2026-09-16T03:02:53Z"
+  },
+  {
     "id": "cad79264dc12800b",
     "leader_name": "国会副",
     "leader_title": "主席",
@@ -21,21 +249,21 @@
   {
     "id": "b7bfa7a45bee1533",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "president",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-09-15",
-    "event_type": "state_visit",
-    "destination": "",
-    "summary": "杜总书记对老挝进行国事访问：越南高层领导人对老挝的特殊重视。 Vietnam.vn",
-    "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHJJcmVYUll3RlRuUFI3VlVTblNiM2pkYnRDNVoxU3dMWXA1cVNWV25QVTFWODRDUWdKUFVSQ0haMGRTQ2Q3WWRsdEFZSXE0WVBMamZ5dUtnRGY3YmhqeGVrXy0wSllZeE93dFFSU0tQYks0Ym9feXFkU0Q4UkxpeDBEemZnZkZzS2VYTDJxdWJ0bFg2REc3N3EzTll2OHNGeE1zcjJoa2JmNWdkNUJGbHh5ellabmQ4VTU5NkY0OElYdVBVQTBxWC1wN3h1dw?oc=5",
+    "event_type": "official_visit",
+    "destination": "Vietnam",
+    "summary": "Palestinian president arrives in Egypt for 2-day official visit Anadolu Ajansı",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWx3dVN4S2IyZTJYU0ZGUTluaE92cUtIZFNDa1R4QmlWY3NvcFV5cXFtYlNfQW5FSGJ4Z2JQLUJrUF9wR3ZuMjFhd2pRM0FlZEoybXJhZVYyQko1U01wN2FYb3NCUG9GRXdmUmc1Tm1XdkIwREFEOVpOMkpJUjdHYVZMY0VUTVN4VjVsV3V0OXhfTmhBRGQ3amQwQWg3eTNjcVRTaXVvUTloUk84?oc=5",
     "published_at": "2026-09-15T00:34:13Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:27Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "64da93512fe54789",
@@ -54,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:25Z",
-    "updated_at": "2026-09-15T03:06:25Z"
+    "updated_at": "2026-09-16T03:02:53Z"
   },
   {
     "id": "f30cc67d58b51c6f",
@@ -73,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:27Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "25ea1c47b85b6e5a",
@@ -92,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:25Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "bc951343d738931d",
@@ -111,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:25Z",
-    "updated_at": "2026-09-15T03:06:25Z"
+    "updated_at": "2026-09-16T03:02:53Z"
   },
   {
     "id": "a15d4bd92a4fee74",
@@ -149,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:25Z",
-    "updated_at": "2026-09-15T03:06:25Z"
+    "updated_at": "2026-09-16T03:02:53Z"
   },
   {
     "id": "a3f214db5249d588",
@@ -168,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:27Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "479459f1dc5f0cdb",
@@ -206,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:25Z",
-    "updated_at": "2026-09-15T03:06:25Z"
+    "updated_at": "2026-09-16T03:02:53Z"
   },
   {
     "id": "3c42bbca5fb36471",
@@ -244,7 +472,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:27Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "48105142a0fea723",
@@ -491,7 +719,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-13T02:50:14Z",
-    "updated_at": "2026-09-15T03:06:28Z"
+    "updated_at": "2026-09-16T03:02:56Z"
   },
   {
     "id": "0f079ff4a83df7ed",
@@ -795,7 +1023,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-12T02:51:46Z",
-    "updated_at": "2026-09-13T02:50:14Z"
+    "updated_at": "2026-09-16T03:02:53Z"
   },
   {
     "id": "89159226667220bd",
@@ -1441,7 +1669,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-10T02:48:48Z",
-    "updated_at": "2026-09-15T03:06:27Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "a2feb27f5c4d71d1",
@@ -4405,7 +4633,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-14T03:04:17Z"
+    "updated_at": "2026-09-16T03:02:54Z"
   },
   {
     "id": "8918a98a0d1e3337",
