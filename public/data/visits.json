@@ -1,5 +1,195 @@
 [
   {
+    "id": "8182025c8e29044f",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-17",
+    "event_type": "other",
+    "destination": "Laos",
+    "summary": "刘俊峰副署长率工作组访问老挝 见道网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NjhXOERxLXNUVDhfMExteVJ5S2hYVUYzZU9PZmJUR2FPTmYtcHVSNFpQRHpLc1JONHEzQTlobnp4ZUYyNWJIYXZUc1FwdW9TdHNiQw?oc=5",
+    "published_at": "2026-09-17T01:38:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:27Z",
+    "updated_at": "2026-09-17T03:06:27Z"
+  },
+  {
+    "id": "f39c02bb660521e5",
+    "leader_name": "Lee Proposes New Silk",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "President Lee Proposes New Silk Road at Korea-Central Asia Summit 조선일보",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2lEbkpBM1JFeVFwa0oyMXlWNXVOTkpLeW1WVGtHSWRjUWlqWmEtQ0M1VlV6T2hoZEEybThqZHpYUy1uSDhLTGR2R2NjMExxX3lQNUtpamRlcXNuN2daNHUwajJOU0JfaGRZemFHblpqTmlpOGFhUUJCbUpFTDNIRGZMVEpPMXZF?oc=5",
+    "published_at": "2026-09-16T23:22:27Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "cefd7d39716738a9",
+    "leader_name": "Wadagni",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Benin’s new President Wadagni on Rwanda working visit apanews.net",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdmZSMmsxSHpjRmFrRGVrRV9qa0V2M3JhSjgzQnRIV3RxRUV4N3p3bDdQY3BkcVNhSExQa09wNEFTdWpUa2xxbzJ1NHN5VkhncWJSczZIbTFHUVlIa2g5UEMxb2VLLUMwVU02TEZ0akhPV0FoUjJKb3VMZXAxUQ?oc=5",
+    "published_at": "2026-09-16T21:18:01Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "58c497a849b3c8a9",
+    "leader_name": "KT PRESS",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Wadagni Makes Maiden Official Visit to Rwanda as Benin President KT PRESS -",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzUtVWJWTU9RS3dpSl80c09rbXZubDFvS2QxZnByamVYc21aTHZ5VDEyZFVJWmp1MWlTUWdENmVFWElwWGxLeFQyNUpMWHYxSnJPOFhHZnBlWS1qdW5EVzZ3SlV5OGY5Tlo4UkI1akxhX2ZyTFJ6U25aeWNiQWVqT2JydnZBOTBoN09Odk51MUNTemZULTFXb0VCU2I?oc=5",
+    "published_at": "2026-09-16T17:58:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "ec27f55b72ba029e",
+    "leader_name": "南常务副",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "other",
+    "destination": "",
+    "summary": "越南常务副总理范家泽接见了数家中国大型企业的领导人。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHltX1hOeFpuV1JDV1N5WW9xMGttYmJRQzY0dE1zOGk0Y2VuNE1udTJybjJTSW1vLUtnbXdxd3l5NHc5TzhoSjNOUnV0SHNfMEt0dEo4eGczcG81R1BXa3dENU9MZHhONjZjY1haeVQwWnhFTTFZeG5rZ1NNRThmOEFFMFRvUHVtQm1TOV9VcGFHWkhIM0NCc0RpWk9Eb01DdkNrLWc5MVY2aEs3b21QMjNvbEYzcGM?oc=5",
+    "published_at": "2026-09-16T12:13:23Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:27Z",
+    "updated_at": "2026-09-17T03:06:27Z"
+  },
+  {
+    "id": "910c38814160215f",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-09-16",
+    "event_type": "official_visit",
+    "destination": "Thailand",
+    "summary": "Malaysia to invite Myanmar leader for official visit to spur Rohingya repatriation push The Straits Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnVlbGlnbEtRbDhHdXloZ2VMMWJpU2hObFVZUUc1enhpYl82eW9PbHFLUXF6WVpOSjVjcThYU2NpdFY0OVpibUVxUlR6WlNVUTZIZkVVbUlFdENPMG1ZZmZXMUtWR1Q3Rlh1cUF0blFMczNEbHN1UVRRWDFqRURQRnptb0E5QjBLQUthbnpLcmE1VFM4bkJBWGVnY1J1MTlUeGx0NUVDT2NfbFotV3hKNVhJNXg4ZmRDdHdZWUhrQkFQeURXZGFNaA?oc=5",
+    "published_at": "2026-09-16T11:37:26Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:27Z"
+  },
+  {
+    "id": "f742e229b056b2d1",
+    "leader_name": "Connolly",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Connolly Arrives In Scotland For Four Day Official Visit Ireland's Classic Hits Radio",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUlEdFY5NWpDNTRHZEpNRDNTenN5ckpLVXpnanp3aERaLXJ5c0oySW5DM0dJSWNkZWgwdEZ6Qm1yTTJ3WGVzYWRVOWpMYlBnSTlxS2tWWmZXRHhiR2ZrM1ZwYU40Rm4zVXdjbU9RZ1VYUm1IOE5WbVBSTkZVTzYxeU9WU3daVVZrNFdVRVBocnF4NzZQVzBjamRMMmpSLW5sV2s0TEtsNVhNNVo0dGhzYktQOA?oc=5",
+    "published_at": "2026-09-16T11:12:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "864f96a5490d5ed4",
+    "leader_name": "of Turkmenistan holds talks",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President of Turkmenistan holds talks with South Korean PM in Seoul trend.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KRnhZWU5IQjB1c3p0dXVZSWdwMkFVREpKakJPNlFsSTZ6SkxiVDZVUFd5YXpDaFpZN0ZnZHF4SVpiUzZoME9xSDhMd1JUUUhUTGpLOTdDR0g1dl96alBKYVl3?oc=5",
+    "published_at": "2026-09-16T10:09:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "7c1532215113c02b",
+    "leader_name": "honors President Ho Chi",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Thai king honors President Ho Chi Minh on landmark state visit to Vietnam VnExpress International",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmVJY0ZhSGtocWdvMmQyR1JiNTZabU5uVm1CTW9aaUJKQ18yQk51UktTLTZ4M1laQmtmYzA5MnNBRy15UlU4VXg1UXpMNjJjWV9hTEh4d0FJZE14TlBhNUd0Z25KOFJmbHJjTFdPb1pTM1lJQ3BjaGFQT0huY2lpZHVxRHViaERpdkNpSlIzWHRRb3dlMWZZUGRTVEMyd2czUFdJWjV0aTAyVUtpVHBDd2RtQ2JUUFhkQWJBQXpDZGdNbEswT3ZNUg?oc=5",
+    "published_at": "2026-09-16T08:42:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "5c4553aac2de7f9b",
+    "leader_name": "Le Minh Hung. Viet",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-16",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Viet Nam treasures friendly relations with Thailand: Prime Minister Le Minh Hung en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFBYSFdVUHVmSThOaGFZa2xxQS1rWHpBbS1RV01QVGxpMW1wUGhGY0kxVU1jT2REaWJJTEFiVU9USS13cEZkMzJSN2dSdDFpb0ZUamtFRVhjOWlEelpENzJNcXAxV2lHc1BBUXZNcjRsb2lyVHpfMi1hZzFBaGF1Vk50RjB3RlFTN0JyYkRDeFY5c1lvZHJnQkhCZGhpdG9sd215ZXFVVUUxTGtjNXctT3E5SU56allfbV9nTGsxVWNxYWdzMnpN?oc=5",
+    "published_at": "2026-09-16T01:53:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
     "id": "9e4828e227fd84b9",
     "leader_name": "Connolly commences four-day Official",
     "leader_title": "President",
@@ -16,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:53Z",
-    "updated_at": "2026-09-16T03:02:53Z"
+    "updated_at": "2026-09-17T03:06:25Z"
   },
   {
     "id": "5b7b4ae376717c0b",
@@ -35,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:53Z",
-    "updated_at": "2026-09-16T03:02:53Z"
+    "updated_at": "2026-09-17T03:06:25Z"
+  },
+  {
+    "id": "dff784e40aa441f7",
+    "leader_name": "speaks of",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-15",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Irish President speaks of ‘strong ties’ with Scotland as visit gets under way The Independent",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnc2emwwUEpDWmd2QjBmSU5tVG1VM0xaRGJDWkZDTW5pUzlmbnNOM0tyR2NCSUVrMVk0Ym5WNl9UTXF4enhPWGs4X1ptRFdNNGMyalMtSTNUc3VSTXVWaHphcHU5RDdmREl6OTY2OGF4cEFTMlFOVFl4VFNaV1k0Yl9zYW9QSjI0R3JnRUJVb1hyOXhVYkd3UHU5RjJ6VlJmVXRMa2JGNTZaMDZPRGl2d0FB?oc=5",
+    "published_at": "2026-09-15T23:01:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-17T03:06:25Z",
+    "updated_at": "2026-09-17T03:06:25Z"
   },
   {
     "id": "e3bdf9632b908f66",
@@ -54,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:53Z",
-    "updated_at": "2026-09-16T03:02:53Z"
+    "updated_at": "2026-09-17T03:06:25Z"
   },
   {
     "id": "fe093f2050d2e2b9",
@@ -73,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:53Z",
-    "updated_at": "2026-09-16T03:02:53Z"
+    "updated_at": "2026-09-17T03:06:25Z"
   },
   {
     "id": "5cda6a04eaf28e0f",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:53Z",
-    "updated_at": "2026-09-16T03:02:53Z"
+    "updated_at": "2026-09-17T03:06:25Z"
   },
   {
     "id": "ae0840e8b1ea0900",
@@ -130,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:54Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-17T03:06:27Z"
   },
   {
     "id": "29fe586e8be61a96",
@@ -168,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:54Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-17T03:06:27Z"
   },
   {
     "id": "12f49a007f8b57da",
@@ -187,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:54Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-17T03:06:27Z"
   },
   {
     "id": "f0782a95ca68225b",
@@ -263,7 +472,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-15T03:06:27Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-17T03:06:27Z"
   },
   {
     "id": "64da93512fe54789",
@@ -719,7 +928,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-13T02:50:14Z",
-    "updated_at": "2026-09-16T03:02:56Z"
+    "updated_at": "2026-09-17T03:06:28Z"
   },
   {
     "id": "0f079ff4a83df7ed",
@@ -1669,7 +1878,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-10T02:48:48Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-17T03:06:27Z"
   },
   {
     "id": "a2feb27f5c4d71d1",
