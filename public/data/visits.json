@@ -1,5 +1,119 @@
 [
   {
+    "id": "ab1d92c099c15755",
+    "leader_name": "Invites Tinubu",
+    "leader_title": "President",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-09-18",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Singapore President Invites Tinubu for State Visit Real Broadcasting Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUNqYS1VTkROUE9tWHI3SW9ZWFQ5SGliOXhJSExPS25tYmlXeFVNeFV1T05EelkxRVdsM3RNSjZBX2U3ZGgtS2RyU3BzazVxcFpoVDdtX3k2bmxDbmxNSFdFczZ5LVNNTWNMcXBhNkc5bXc4Y0NIbDJZNHVTYU1vQnh0T2Z1WHJpQlE?oc=5",
+    "published_at": "2026-09-18T21:09:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:20Z",
+    "updated_at": "2026-09-19T02:52:20Z"
+  },
+  {
+    "id": "7e3ae64edc0895de",
+    "leader_name": "习近平",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-18",
+    "event_type": "other",
+    "destination": "",
+    "summary": "为什么特朗普总统很少亲自到机场迎接习近平主席？ vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEtpZEROSF9feTUwQ0VsZ2cyLXVzdnlvbERVUUZRc09JTFE0LXhKaWN3azc4YkhzNXUtajVFUWV6MmZkbEdYODBocTdsT2ROYS0waE9ZTS1xcU4zSTl1RGJOM0pYQkdoRDN4TmZyZ1E1XzJ0dUJ3LVNLNmpVZWJyTGRCemJqRUpieXdMUklobm9HZ1h6SkxvOGgxNVI?oc=5",
+    "published_at": "2026-09-18T15:29:48Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:21Z",
+    "updated_at": "2026-09-19T02:52:21Z"
+  },
+  {
+    "id": "8fb561b5446bc68a",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-18",
+    "event_type": "official_visit",
+    "destination": "United States",
+    "summary": "Official visit by the President of the Council of Ministers, the Hon. Giorgia Meloni, to the Kingdom of Norway Ambasciata d'Italia Oslo",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRngwWHRuVm5LWkR0dHdYemlPeWdZR0FxckFBYTdWcVFyRFJyaGRCOUNSQlJPMGFuQmNfOUNFVUlKS1RmMTRGb1E4WnZKRndsVEdSNW1nT3VCVk5rOW5zSmNma3NjU2R5eVA4TGx0Rl9oeVRLU3laNkMwVzR0ZTJvRjM5cTZWZ3pmeVdvcEJuOGFNZ0tjTEhpbDgyWFJ6ZmI0VFhDWU13OUZfTHVZN1RUZDNNcTMtQ2FUTXZfb0lQVWFoOHFQR0xrN1MtVXA0Vm9zSldKd2d0REJ1WDVuTUNkQkdXb0xQdHFIc3d1SGJxRE8?oc=5",
+    "published_at": "2026-09-18T13:49:26Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:20Z",
+    "updated_at": "2026-09-19T02:52:21Z"
+  },
+  {
+    "id": "13ce055dcbd9efb7",
+    "leader_name": "Tinubu Amid Deepening Bilateral",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-18",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Singapore Extends State Visit Invitation to President Tinubu Amid Deepening Bilateral Ties streamlinefeed.co.ke",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2xBakZfR1huX0s4UEl5bUFMdndsUGM1b25lNnIyWVZVSEZxTENRb0VUT19Nd2VuQ3F0ZkpEaFItVERuZ3pLckZEclg4cmNtR09XbTVlbUl3YzZTMkd3eF8wNEJvZEE1eGREZU90SG4ySTZZeTJrZ2ZKa2hTd3plNU80ZjFlLVAwbllVdl9zWGNhMFRobm5CMXVpN1VTNW1pamNYYVNGMGk0QUlXS3h6ZzAwemJ4bmk2bjVIMUthZlFudw?oc=5",
+    "published_at": "2026-09-18T10:58:44Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:20Z",
+    "updated_at": "2026-09-19T02:52:20Z"
+  },
+  {
+    "id": "1f936d469818c282",
+    "leader_name": "意大利",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-18",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "意大利总理出访挪威 深化能源合作 新华网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10QnNNWlVlaDFEcmdNZDdMSjQ4S3BZQkp3dnFyTW1zUlVDa09XV3hHSnVZMjQ5RUVZX0J3am9KRWhKc29tVFpEVmxLaUcxSW10UHFmUXRfV1JVOFdIMmN6UW14OGlkR1JBeENuQzFuSWpqTHVRaWwyYlV0TlRLQQ?oc=5",
+    "published_at": "2026-09-18T05:57:47Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:21Z",
+    "updated_at": "2026-09-19T02:52:21Z"
+  },
+  {
+    "id": "74116583aed29a42",
+    "leader_name": "秘书长兼",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-18",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "秘书长兼主席杜林出席联合国大会高级别一般性辩论，并对加拿大进行正式访问。 vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1p2NV96cEJVVkxhN00yaXFuTkx4M0ZiNnlVS3VCcHB2OXZ6M1lBUk1teFRxUERjNDR5b01Jelo1T1NBcWF6aC02c0pzUUhlSm41NnQ2RzhESk54SHpzbnY0WFdVUEE2SkRLaWd1SHo1SC1BT1JnOGYzaHd0WUl5bFE3bTFNX1pjYWw4ckxEWFlYMS11bkRTVGpoQ3pFMFY4NTZuTFlnSDlZYV9YMm9rNUtUbWw2RnRHUjMyOV9qaWRkNGZpY2dDVnpWS1F0X2xlWnhwRy0ySDljYzU4WlctOQ?oc=5",
+    "published_at": "2026-09-18T00:30:17Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-19T02:52:21Z",
+    "updated_at": "2026-09-19T02:52:21Z"
+  },
+  {
     "id": "af97841d8ed55c83",
     "leader_name": "国民议会",
     "leader_title": "主席",
@@ -35,7 +149,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-18T02:54:24Z",
-    "updated_at": "2026-09-18T02:54:24Z"
+    "updated_at": "2026-09-19T02:52:21Z"
   },
   {
     "id": "93c50ee2680b21ba",
@@ -92,7 +206,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-18T02:54:24Z",
-    "updated_at": "2026-09-18T02:54:24Z"
+    "updated_at": "2026-09-19T02:52:21Z"
   },
   {
     "id": "44daddb7c470f705",
@@ -130,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-18T02:54:23Z",
-    "updated_at": "2026-09-18T02:54:23Z"
+    "updated_at": "2026-09-19T02:52:20Z"
   },
   {
     "id": "8182025c8e29044f",
@@ -149,7 +263,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-17T03:06:27Z",
-    "updated_at": "2026-09-18T02:54:24Z"
+    "updated_at": "2026-09-19T02:52:21Z"
   },
   {
     "id": "f39c02bb660521e5",
@@ -4975,7 +5089,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-16T03:02:54Z"
+    "updated_at": "2026-09-19T02:52:21Z"
   },
   {
     "id": "8918a98a0d1e3337",
