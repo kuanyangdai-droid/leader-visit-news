@@ -1,5 +1,138 @@
 [
   {
+    "id": "889817fd09de2c61",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Lee to Present Blueprint for \"Peaceful Coexistence on the Korean Peninsula\" at UN... First State Visit to Mexico in 16 Years 아시아경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pYmhzX2twY1k3MmI4RkdfMC1ndlFZZ3VBTU1fMHpWUi1Ya010bGZETUNRalBSc0hpTkoxZW9QcHgyWXNjZWJWYWFjb0YwdUdIVTVmZl9RM1ZZNS1ZMk9VN2l6ZFk?oc=5",
+    "published_at": "2026-09-21T02:11:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
+    "id": "b1b2b3095be083ea",
+    "leader_name": "李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-21",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "李在明总统自今日起访问美国和墨西哥，联合国上阐述和平共存蓝图 ajudaily.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hdk5yU1dfcUJEcWV4cUVnWmVESFVmblZUb1FjRV9vS3dYWGs3dEw4bzlmeHphZldtRVp0cVoyVWFPUHByWktUVXFIWGFNWW1SMUV5d1NmM1N2RWM?oc=5",
+    "published_at": "2026-09-21T02:11:49Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:34Z",
+    "updated_at": "2026-09-21T03:01:34Z"
+  },
+  {
+    "id": "fb3930e7fd0e746f",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Trump Set To Host Xi For Historic State Visit Amid Trade, AI, Iran Tensions Eurasia Review",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzBiLTd0TldKRjJCeTUzQnE5VW84VW5hLTJmUmNyMGR4Q3gtcUt6THBPM3FZYXJ1cmptanZwanJoMVc2QjRzLVJ2MDdvLW1MRmRBR0xCTmhkREpWZ2l1OU50T010OTFMOFZuUGNNVmlmRWMyQzFjZmJ0d2JnRDI2QS1kZjd0X1NaVS1LT0N1TnlXb2V4eHFyQ2U5NUNXZlJyRUlzd1NadktCSHUxaWJNUmJpOA?oc=5",
+    "published_at": "2026-09-21T01:19:58Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:34Z"
+  },
+  {
+    "id": "9d4d224786c52017",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-20",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Trump to host state visit for China’s President Xi Jinping | Morning in America NewsNation",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0l0d0QzYmpqN2V4SFB0WGptMXVkTkI1LWphM050M2ZnckhqZkEyNXlaaHctVjVNQVV6c1J2V25TNkFGX0NVbnpzZVZ3aUJiZVl1NkU5TzVMY0NqTFJmRjBhcDRZajFGakpjdVgwdl9xNklfb2xHSXVON3JiQ2F3YWZRbFFuNmd5NEVTRzlGbVhzMmdGTTJJSjZJeEY1NVhST2h2bjNCWmVfQlA0elJGaURnR1FaLUJKTXQyYzBfWQ?oc=5",
+    "published_at": "2026-09-20T16:16:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
+    "id": "ef0b8cfdb61a83f6",
+    "leader_name": "总书记兼",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-20",
+    "event_type": "other",
+    "destination": "Canada",
+    "summary": "总书记兼主席杜林开始访问美国和加拿大。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1pSemd4Vk92aFJKODRobkJsZVZ4aW1rVDRCemNHd1RKRlowWHpsdVcxSzVVaGY2UkZzMHBXckFuSkd4d085SUR1VVFib3lja2FBd3dscllMRS1rOXlEWVo0dnhFY0Z4RzdIdWFJWjg5eXB6dGo4QUgySGhobzc2cmpDcS1vZGYzS0VIbHdFTzhnOHli?oc=5",
+    "published_at": "2026-09-20T06:27:59Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:34Z",
+    "updated_at": "2026-09-21T03:01:34Z"
+  },
+  {
+    "id": "2eb46a0e14d958f8",
+    "leader_name": "土耳其",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-20",
+    "event_type": "other",
+    "destination": "",
+    "summary": "土耳其总统正在出席联合国大会，预计将与特朗普总统会面。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelljanNhMWhoNkl3eXFxbHlONXdxT2o0U3JZdGxuNmtoV0JrTmZYU3d0eHllSXgtYlo4OTk4Qk9PaUVnekVzNmNpN2FzN3N5Sm50aF9BaDdaZ0h5SFZuSGFva082b2ZHOC1va3o0R25BNjA3a1JtdTVYSXdoYmpsbWFITkJsQ2lLczdLSWZEZmRjMWR6R1RPcWh3cGgzc29y?oc=5",
+    "published_at": "2026-09-20T04:05:11Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:34Z",
+    "updated_at": "2026-09-21T03:01:34Z"
+  },
+  {
+    "id": "e340c1b0baf03736",
+    "leader_name": "of Kyrgyzstan met",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-20",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Visit to the USA. The President of Kyrgyzstan met with the leadership of the state of Utah. open.kg",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEZIOXBpVU1ja2Rab0EwUWhxMHBrMzhOUkJNS2RaMzBRTzBkQkZPckxOVnlUcjN1T1pCdFRpMHBVVW9feEZjR2hZNTF3VWlidDdaX2NyYW9VZHJJRE4wNmRNSmFrNXk1a0lzMjdIU0I5RkkySFFrOE92UHVDWGZZUHRvMXB6WDJJdERxWUhHejEyYk9CUmZYeThTUzN6YXNXMDk2enFwMUMzQkNxSEJoajdfNF9iSkJBV2dMVDdoUi1rQQ?oc=5",
+    "published_at": "2026-09-20T03:30:44Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
     "id": "ca4e28c49fe7c8aa",
     "leader_name": "",
     "leader_title": "king",
@@ -8,7 +141,7 @@
     "origin_inferred": false,
     "visit_date": "2026-09-20",
     "event_type": "working_visit",
-    "destination": "",
+    "destination": "Thailand",
     "summary": "The working visit of the General Secretary and President: A message about a Vietnam with vision, determination, and a strong aspiration to rise. Vietnam.vn",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOFF4bXgwLUlIQ2hOcHZUa0U0YmQ3eDBXdmFqMkFkaGE5M2YyejRoNnVsODAyRmZ5Z3Q1NFZEWnhyaHpoQWdkSzN2SUt5a3diRE9HRzBJR1M4TmRCLS1WMXRBWWJzbmY3UFl3UWxBYWNBYURVTU40eklkMWZzdmdwM1Bnb3hWLVZzdHhiejRDdjZQLUdBemRWYVdPNGt5ZGFkMm40b3J0clE3U2ZzR1dsY3I2TVk3MmwwV3NSelVVLV9zOWRVTV9saGhPNDhtckF2QTIyV3hsallFcFdmNWhxcWpmbFAtQQ?oc=5",
@@ -16,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:34Z"
   },
   {
     "id": "b51010e005a329e7",
@@ -27,7 +160,7 @@
     "origin_inferred": false,
     "visit_date": "2026-09-19",
     "event_type": "working_visit",
-    "destination": "",
+    "destination": "United States",
     "summary": "Paraguayan President Arrives to Venezuela For a Working Visit teleSUR English",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVm1hT3JnckpUeVZ5U25Gb19BTG84X01BR3pBRERlSWhSdlBYaW01bkNKdkNlN092YUMyeHo2VFlFXzItaDJ5SFlKQkV4UWlGMHRUOXBBd2NpYUViNjBsLXlNeDlBbkt3Nmp5Mzh6Qi1udGtTN1ZCMFA2M0p2UElSU1U4OEVEbFB6RV90WkF1LVM4THZzd2lQYQ?oc=5",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:34Z"
   },
   {
     "id": "ca8bac5e382c3636",
@@ -54,7 +187,64 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
+    "id": "2c8476fba9b0533a",
+    "leader_name": "意大利",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-19",
+    "event_type": "departure",
+    "destination": "",
+    "summary": "意大利总理出访挪威 深化能源合作 jpchinapress.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDlSMlROTUQ1Q2ttZlBxYlVPcTZNbVpqdGVhZGRVcmZiMnUySXE0UkRzUGpDNTl0cGR1Q0pPTXQwMDcySTFhMHdMUklfZ3pWNEluak13RnFEQ1dFNS16NW9FODlucDVwaVp4My11ajJOQm9zYi03SmFHLWRCRmxyN0dXdjYtVGdXSFE?oc=5",
+    "published_at": "2026-09-19T18:58:54Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:34Z",
+    "updated_at": "2026-09-21T03:01:34Z"
+  },
+  {
+    "id": "f4f55fd7ef0d3c82",
+    "leader_name": "invites Tinubu",
+    "leader_title": "President",
+    "country": "Singapore",
+    "origin": "Singapore",
+    "origin_inferred": true,
+    "visit_date": "2026-09-19",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Singapore president invites Tinubu for state visit justnews.ng",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnhZd3lzUkNSb3Bqd0NiOEdtR3RaWEZEV1F1UzNLbFJrRFVvSkpSbFk1a2YtQ25CTUtMY2JadmtlRHhMakxBVFRJWGFqdnJwODNhNzZuQ2FEVG1WbS1wd090ZVp2MWJmN2tOWXR0RG5KNjhBMGdwc1lGLVRnTU9INmtSNNIBgwFBVV95cUxPYnhZd3lzUkNSb3Bqd0NiOEdtR3RaWEZEV1F1UzNLbFJrRFVvSkpSbFk1a2YtQ25CTUtMY2JadmtlRHhMakxBVFRJWGFqdnJwODNhNzZuQ2FEVG1WbS1wd090ZVp2MWJmN2tOWXR0RG5KNjhBMGdwc1lGLVRnTU9INmtSNA?oc=5",
+    "published_at": "2026-09-19T16:12:24Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
+    "id": "06f5c59d7727f1d6",
+    "leader_name": "Xi",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-19",
+    "event_type": "state_visit",
+    "destination": "United States",
+    "summary": "Trump confirms President Xi will arrive in Washington for state visit TVB",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG5YSEkwMHBqbVVTYjlXWlhTcmZSVGJRSk4xN3FsLTlGc1pTd0g2dmtnREZQcGhjZnkwVXJJWDlDU3NHcGJWQmpmZkJZckN4dUFFenJRUXkyNlhOWFR4bS1MOTBVXzEwOF9FTXFxNXBTcEx1Z0F0TW5vc2FhVkhPTWFLUWVkWE9CbXJ0cXJWM1F6MVY2Tnc?oc=5",
+    "published_at": "2026-09-19T13:22:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
   },
   {
     "id": "7aff6a6fd1f2deb2",
@@ -76,6 +266,25 @@
     "updated_at": "2026-09-20T03:04:39Z"
   },
   {
+    "id": "4c09000203d053ae",
+    "leader_name": "of Ukraine. All galleries",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-19",
+    "event_type": "other",
+    "destination": "",
+    "summary": "All galleries — Official web site of the President of Ukraine Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDV4azlseFp4dGpaOHlxZFB5dnBZUC1YQlZ1UFpyVVlCRW1aMEZLMnR2UzVucWVudFFVQUNiRDJPcVFYSzBsdnVMa2lvcWk0aDE2Y3N5aXp4T0hCcGRkd2JYOHVjcUJka2lLR3JRNHhHNXZzbmQ0aktkR2pGYTA1am45Y0x0SmxBZUxZb09nYmtqMGEz?oc=5",
+    "published_at": "2026-09-19T08:03:17Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-21T03:01:33Z",
+    "updated_at": "2026-09-21T03:01:33Z"
+  },
+  {
     "id": "be3d662449ccb987",
     "leader_name": "Japarov",
     "leader_title": "President",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:33Z"
   },
   {
     "id": "31973cc704eb0956",
@@ -130,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:33Z"
   },
   {
     "id": "16d74cb9080d5756",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:33Z"
   },
   {
     "id": "5f59b345c45f0c6b",
@@ -168,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-20T03:04:37Z"
+    "updated_at": "2026-09-21T03:01:33Z"
   },
   {
     "id": "5d75dc7b2c85ae77",
@@ -833,7 +1042,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-16T03:02:54Z",
-    "updated_at": "2026-09-17T03:06:27Z"
+    "updated_at": "2026-09-21T03:01:34Z"
   },
   {
     "id": "29fe586e8be61a96",
@@ -5336,7 +5545,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-20T03:04:39Z"
+    "updated_at": "2026-09-21T03:01:34Z"
   },
   {
     "id": "8918a98a0d1e3337",
