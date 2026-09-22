@@ -1,5 +1,100 @@
 [
   {
+    "id": "360b511438dd5ee1",
+    "leader_name": "Xi Jinping",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Full schedule and honors outlined for Xi Jinping’s upcoming US state visit The Standard (HK)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2Qtd0dHVVlSejFLaHV1bGtGdG1KRm1NTUVjUXdfdjlXTkh4SlRrclBLaHAxeWl3LVpZVmNuVGFsTE5YVXBhd2lZcDFxZXJVcDVXWmJBNTNKakt4aS1vVkM4U1p6cVlNUWhjbFB3QS1acjUtRW51YUtWNkRqMEJpNG05clNrV1kycktaQ1M5N1pPSi1WOEdyRjdnbHJLeDRSc2dJZW9ZSDhsUWpnUUM0RWZKVEtIRFhiTkU0NzA3Z0RJNzQ?oc=5",
+    "published_at": "2026-09-22T01:15:02Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:05Z",
+    "updated_at": "2026-09-22T03:01:05Z"
+  },
+  {
+    "id": "2e6dd9ae07b51c5f",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "时隔11年再赴美，中方这趟国事访问，或许真能谈出大转折 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFViX3JUZTN5YVpYcEJFMzNqQmZOWlV2RjhEQ2NvSGJJY3EzSkpwNUw0QVJoTzZRSEZ4RWJfa1h6SGZGZ1ltNnJZbjNGV3kzMmlUXzVrWmNydEVYOWRwWDVXYk5qanNTUmgyRENGcjNjUXlSLTdkbFpGTzlCaUh3LWRvZU5ZN1UzT0lsaQ?oc=5",
+    "published_at": "2026-09-22T01:10:55Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:07Z",
+    "updated_at": "2026-09-22T03:01:07Z"
+  },
+  {
+    "id": "4aab19e614052be5",
+    "leader_name": "Lee Jae Myung",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President Lee Jae Myung Visits UN, Mexico Amid Domestic Turmoil 조선일보",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXFYRE55T3JSMHQzMUJBMU42eUp0TXUyanlYNmtLRUk0WWdTNGNENHRmS3FMX092Y2VsSDFDMllJaE1zWTJnY1hZOHB4dmozaEpNUGxPdGtjc0FCYnVwYWc1LXFPc3czazM0VzhnYWFkQllUUER4NUw0UEM3MVJBNzFKVUVqdGFC?oc=5",
+    "published_at": "2026-09-21T20:06:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:05Z",
+    "updated_at": "2026-09-22T03:01:05Z"
+  },
+  {
+    "id": "32a559f86e43db0d",
+    "leader_name": "习近平",
+    "leader_title": "主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-21",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "中国宣布习近平主席访问美国。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEhSMzlzWm1yVnh0YlluNDVkWGFmY1lkbHBuZWxpZFRsdXkwTExKdXJmMzhNeFVXS05BZnZfekNqUTg2eVc1R2R1M053VjM2YnU4THJQbXdwa29nWmZIYm5PREZNc0J0WHlGcGluWFFYcFJyWXhMS3pHRkZJWGY2UEhiQzZ6TXFYMUJuWGE0TG4yTUtyQ2tiSQ?oc=5",
+    "published_at": "2026-09-21T17:29:24Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:07Z",
+    "updated_at": "2026-09-22T03:01:07Z"
+  },
+  {
+    "id": "bfd48a11e0b8b816",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Xi Jinping to discuss tariffs with President Trump in state visit WFAA",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc1NVZDRNSUFUeUpEU0wyWml3cUVKeDVfRmp0QVN3ODg3VGdGVnN5UnpFc2VnMjVrcDJSMm1kdnlaem96Z21fT2JYS1ZSR2huSFM2bWVwU1hEb3kwem1EMFBzRUh6Qm90YVVQamNRQndMaGVNOFNnVnIwd3IzQ241Z2JYUTFqVndhdzVjWnJzMlA3NGlva0RqbTl4ZV91M0NmN0NGQ092QjZlQlQyMGdLaVVEUUFRNFoxdE8zWTYxVUdYeERpNHpvQkluVFVjTkhHUEF4RUZTb0g5dUFLZE1LeQ?oc=5",
+    "published_at": "2026-09-21T16:54:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:05Z",
+    "updated_at": "2026-09-22T03:01:05Z"
+  },
+  {
     "id": "889817fd09de2c61",
     "leader_name": "Lee",
     "leader_title": "President",
@@ -16,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-21T03:01:33Z",
-    "updated_at": "2026-09-21T03:01:33Z"
+    "updated_at": "2026-09-22T03:01:05Z"
   },
   {
     "id": "b1b2b3095be083ea",
@@ -40,21 +135,21 @@
   {
     "id": "fb3930e7fd0e746f",
     "leader_name": "",
-    "leader_title": "",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
     "visit_date": "2026-09-21",
-    "event_type": "state_visit",
+    "event_type": "other",
     "destination": "",
-    "summary": "Trump Set To Host Xi For Historic State Visit Amid Trade, AI, Iran Tensions Eurasia Review",
-    "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzBiLTd0TldKRjJCeTUzQnE5VW84VW5hLTJmUmNyMGR4Q3gtcUt6THBPM3FZYXJ1cmptanZwanJoMVc2QjRzLVJ2MDdvLW1MRmRBR0xCTmhkREpWZ2l1OU50T010OTFMOFZuUGNNVmlmRWMyQzFjZmJ0d2JnRDI2QS1kZjd0X1NaVS1LT0N1TnlXb2V4eHFyQ2U5NUNXZlJyRUlzd1NadktCSHUxaWJNUmJpOA?oc=5",
+    "summary": "官宣！中国领导人将访美，同特朗普就重大问题深入交换意见 中国青年网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pbXlmWmNlVW1MVnUybkFINU9oanRWTkoyRTl2X1YtSXBqekRVTkg5LTF0dGhVYVhqNllTUTZyYmozcm9UYUVLVWpCZkNHSF85Rm9JcWk1LWh2cXZzRXFZV1dHUnA?oc=5",
     "published_at": "2026-09-21T01:19:58Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-21T03:01:33Z",
-    "updated_at": "2026-09-21T03:01:34Z"
+    "updated_at": "2026-09-22T03:01:07Z"
   },
   {
     "id": "9d4d224786c52017",
@@ -73,7 +168,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-21T03:01:33Z",
-    "updated_at": "2026-09-21T03:01:33Z"
+    "updated_at": "2026-09-22T03:01:05Z"
+  },
+  {
+    "id": "f63efe89707dc5ae",
+    "leader_name": "习近平",
+    "leader_title": "国家主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-20",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "中国国家主席习近平将对美国进行国事访问 VOV World",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjNITEFyb3ljd2xiQ1J2c3RjVEtqNExrRFNNSTQwaDUtSlpyS0ZCV0x0cm9odTY2eGltb3NOXy1wM01kVVMxX1BUSWNNbUNIRlFWaGhiQlBmVlBBSGRiYjIwbVZFUDFnRFMzcUlscE01ZUdjeWtRclVacTV1XzBNYnZ3MGRYcEh0cXU4ZmYxVTFick9Pd1NwekNUclNSRWVRMm9SUkQ3alZfdS1J?oc=5",
+    "published_at": "2026-09-20T07:00:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-22T03:01:07Z",
+    "updated_at": "2026-09-22T03:01:07Z"
   },
   {
     "id": "ef0b8cfdb61a83f6",
@@ -90,9 +204,9 @@
     "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1pSemd4Vk92aFJKODRobkJsZVZ4aW1rVDRCemNHd1RKRlowWHpsdVcxSzVVaGY2UkZzMHBXckFuSkd4d085SUR1VVFib3lja2FBd3dscllMRS1rOXlEWVo0dnhFY0Z4RzdIdWFJWjg5eXB6dGo4QUgySGhobzc2cmpDcS1vZGYzS0VIbHdFTzhnOHli?oc=5",
     "published_at": "2026-09-20T06:27:59Z",
     "language": "zh",
-    "possibly_special_aircraft": false,
+    "possibly_special_aircraft": true,
     "created_at": "2026-09-21T03:01:34Z",
-    "updated_at": "2026-09-21T03:01:34Z"
+    "updated_at": "2026-09-22T03:01:07Z"
   },
   {
     "id": "2eb46a0e14d958f8",
@@ -149,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-20T03:04:37Z",
-    "updated_at": "2026-09-21T03:01:34Z"
+    "updated_at": "2026-09-22T03:01:07Z"
   },
   {
     "id": "b51010e005a329e7",
@@ -3702,7 +3816,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-15T03:06:25Z"
+    "updated_at": "2026-09-22T03:01:05Z"
   },
   {
     "id": "e23a51593f5d384c",
@@ -5545,7 +5659,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-21T03:01:34Z"
+    "updated_at": "2026-09-22T03:01:07Z"
   },
   {
     "id": "8918a98a0d1e3337",
