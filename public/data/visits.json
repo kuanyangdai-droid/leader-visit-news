@@ -1,5 +1,62 @@
 [
   {
+    "id": "1a9031782805a0e1",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President and First Lady Melania Trump Host Chinese President in State Visit East Wing Magazine",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tc19SamNCRjBiRmpnTEdDdzZRRDhublZlUURSSmxWcmpoX3g1TkoybVR6d18wMkIzTy1ZQjRFR3JDSlRWb1JVMjhib0ZES3J3R2RtRjItcWdCN2kxaWpmTG8xRllzdmd2MWh5NlE1dHFpVjdUeWc?oc=5",
+    "published_at": "2026-09-25T02:25:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-25T03:08:59Z",
+    "updated_at": "2026-09-25T03:08:59Z"
+  },
+  {
+    "id": "e486d5cad65d3839",
+    "leader_name": "美国各届",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "历史回顾：美国各届总统为到访的中国领导人准备的白宫国宴 美国之音",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFJlYi1ESy1qOVhLYjk2d201LU9EYlhIbHhGMWtFN3M0N1ExSVRhdE9LdERHVkY5cngteUtudVV0V1Rxbjhnb1RiM3hmUF8tM2RUOENjMmJseDJmdnVwZGtVdnd3X1dSbk1GVzluNnZBVHpoY3ZfTDFTaVUxeS1nMDFjcE1ub0kyQlNlTkx1a0pBcE9Xb0dGTXUxMF96cG9QRFZUZnhWbVV3NXNCdnfSAa4BQVVfeXFMT0xSZWItREstajlYS2I5NndtNS1PRGJYSGx4RjFrRTdzNDdRMUlUYXRPS3RER1ZGOXJ4LXlLbnVVdFdUcW44Z29UYjN4ZlBfLTNkVDhDYzJibHgyZnZ1cGRrVXZ3d19XUm5NRlc5bjZ2QVR6aGN2X0wxU2lVMXktZzAxY3BNbm9JMkJTZU5MdWtKQXBPV29HRk11MTBfenBvUERWVGZ4Vm1VdzVzQnZ3?oc=5",
+    "published_at": "2026-09-25T01:17:32Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-25T03:09:00Z",
+    "updated_at": "2026-09-25T03:09:00Z"
+  },
+  {
+    "id": "68e31003be3a4090",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-24",
+    "event_type": "state_visit",
+    "destination": "Canada",
+    "summary": "越南国家主席苏林国事访问加拿大 | RCI Radio-Canada",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSzBGcnJuVEVVVE9wcWlkazd5aGt5dFRocmVBVDlzXzJoS1lrMXk1LXdkc2tGdEcwOTdPcENPMm5uUUJmbW1RT2VjQTRaLUFhQko3VWlldW44OVpCdHRrcGNjaFNITkR6MWtmZHlrSjhvd2VWTVpBNzBTMVU2TnpwU2JlWEdBeU1kMWFGRDBXVFdBbldBTkY5VVFCMHBRTkp2d0pYQWRnUVlqbmxTaWFCQ3hJWnF4OGpsUHhmY2tRVXI5X3FzMTZaRlRjMEFYTVJsc1o2bWh4dFk0OHNpZUhPazNFUGhOWkEwNUVfRUZpTkQ5OUFDcFRTZ3NScUNFcGJjSXdSREh0a1lQU3dER0FEMDBjQVRMYVZrYkk2QUJyZ0hNX2FaWlZ2UWhYT0V4UmM?oc=5",
+    "published_at": "2026-09-24T23:05:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-25T03:09:00Z",
+    "updated_at": "2026-09-25T03:09:00Z"
+  },
+  {
     "id": "ee6a73d60b1e974f",
     "leader_name": "Xi",
     "leader_title": "President",
@@ -19,12 +76,31 @@
     "updated_at": "2026-09-24T02:52:39Z"
   },
   {
+    "id": "a75f35cb8bad4b5f",
+    "leader_name": "美国",
+    "leader_title": "总统",
+    "country": "United States",
+    "origin": "Washington, D.C.",
+    "origin_inferred": true,
+    "visit_date": "2026-09-24",
+    "event_type": "other",
+    "destination": "",
+    "summary": "1962年后首次，美国总统亲赴机场迎接释放何种讯息？ 凤凰网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jMTdBX25wOTYtUUFWYnNlSFBvck1YVVR0b05TdmpCaHpTNlp4dXNiek8xbjY3LXdmZG9CT2tPVE1ZUGlRd0R6TVZnUnk?oc=5",
+    "published_at": "2026-09-24T01:00:18Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-25T03:09:00Z",
+    "updated_at": "2026-09-25T03:09:00Z"
+  },
+  {
     "id": "ea0b8239fb4c93da",
     "leader_name": "",
-    "leader_title": "",
-    "country": "",
+    "leader_title": "President",
+    "country": "North Korea",
     "origin": "China",
-    "origin_inferred": false,
+    "origin_inferred": true,
     "visit_date": "2026-09-24",
     "event_type": "state_visit",
     "destination": "France",
@@ -35,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-24T02:52:39Z",
-    "updated_at": "2026-09-24T02:52:39Z"
+    "updated_at": "2026-09-25T03:09:02Z"
   },
   {
     "id": "f8c0be1b64b5f597",
@@ -54,7 +130,7 @@
     "language": "zh",
     "possibly_special_aircraft": true,
     "created_at": "2026-09-24T02:52:40Z",
-    "updated_at": "2026-09-24T02:52:40Z"
+    "updated_at": "2026-09-25T03:09:00Z"
   },
   {
     "id": "35f4df497c00a1d9",
@@ -73,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-24T02:52:39Z",
-    "updated_at": "2026-09-24T02:52:39Z"
+    "updated_at": "2026-09-25T03:08:59Z"
   },
   {
     "id": "afd06b5751939a92",
@@ -149,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-24T02:52:40Z",
-    "updated_at": "2026-09-24T02:52:40Z"
+    "updated_at": "2026-09-25T03:09:00Z"
   },
   {
     "id": "2ef671eea036fbfc",
@@ -168,7 +244,7 @@
     "language": "zh",
     "possibly_special_aircraft": true,
     "created_at": "2026-09-24T02:52:40Z",
-    "updated_at": "2026-09-24T02:52:40Z"
+    "updated_at": "2026-09-25T03:09:00Z"
   },
   {
     "id": "3898ab23f47230a4",
@@ -5982,7 +6058,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-24T02:52:40Z"
+    "updated_at": "2026-09-25T03:09:00Z"
   },
   {
     "id": "8918a98a0d1e3337",
