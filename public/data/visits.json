@@ -1,5 +1,100 @@
 [
   {
+    "id": "656d7c150f479fb2",
+    "leader_name": "Lee Departs",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-27",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "[Breaking] President Lee Departs for Home After Completing State Visit to Mexico 아시아경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYlpSQ1FVQ0YwLU1rdzFwQTdNNnFjUkktZHFXYnZ4aFAwdXI2U3hJdTJQR3d6TGxVS1M0UWRYc0dxUkVpSWxXQ2NiSVZVZjJEeGZTVm1SUUFkMkxDLXlmdG1sMzQ?oc=5",
+    "published_at": "2026-09-27T02:47:25Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:18Z",
+    "updated_at": "2026-09-27T03:20:18Z"
+  },
+  {
+    "id": "da01c877231895d7",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-26",
+    "event_type": "state_visit",
+    "destination": "United States",
+    "summary": "Utah Chinese immersion students travel to Washington during Xi’s state visit KUTV",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFhseDNYSnJTZ19fWkdSSGVfRzhnajNSMlJ3NW1UQUpnY0lPcFI2WWpQYzl2end1cXBvUkJ1OW5Db20tRHBJd2hwUmpTQlp1R1BLcGdHZjJhblJkVEpVZDJMMmhlc3ZFTkVVRFpDalBYNk9BX3BudXk2THQxRUs1UTl6Rm9FUS1kM0VzbGF0NWdlVmZuRWhNTi14MXVfaEh2cHZoUXp3?oc=5",
+    "published_at": "2026-09-26T20:37:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:18Z",
+    "updated_at": "2026-09-27T03:20:20Z"
+  },
+  {
+    "id": "5636255d98f83b87",
+    "leader_name": "中美",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-26",
+    "event_type": "other",
+    "destination": "",
+    "summary": "中美总统就访问成果达成八项共识——ECNS UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnlkMmZCWjJTOWQ5TWdCV1U1WWl2YUl1ZnlxM0FQam9FeGkyaVRKYzdrWjd6UkQtM21wRWF0dWtoQ1VWQkxWTXBJem5yM2IyY3hhT3VvcmZDTGpzRVBNVVNSNDZHMnRNY3c1RXM0UUxVcFlFM0xaLUhmS2FxdTFDbURDcWRpQkNselFVYWtZa3E1QQ?oc=5",
+    "published_at": "2026-09-26T14:43:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:20Z",
+    "updated_at": "2026-09-27T03:20:20Z"
+  },
+  {
+    "id": "c97f5a5f398a48ed",
+    "leader_name": "特朗普",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-26",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "白宫发布唐纳德·特朗普总统在接待历史性国事访问之际，推动与中国建立公平互惠关系的事实清单(全文翻译) voachinese.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JvYVpJdUJOTDVDdTd0RkgtbUtWRC1ZcFNxaFpiOWx1T0RZd3VRWk9PbTJFMlhaOEFPU1g4YnZ3cXUxRkMtX3VPQlprNzdnMnZmVGR6MGwyMndJZXNsem91YW1TLVdNSXBpYXIzNkJMeWRZanE0THVfTTU0YUY3WlZBclBaQ1lHUnNyYWNnNDJ4MTZROTlWeWZIVmdDRXVOenhN0gGjAUFVX3lxTE9TUm9hWkl1Qk5MNUN1N3RGSC1tS1ZELVlwU3FoWmI5bHVPRFl3dVFaT09tMkUyWFo4QU9TWDhidndxdTFGQy1fdU9CWms3N2cydmZUZHowbDIyd0llc2x6b3VhbVMtV01JcGlhcjM2Qkx5ZFlqcTRMdV9NNTRhRjdaVkFyUFpDWUdSc3JhY2c0MngxNlE5OVZ5ZkhWZ0NFdU56eE0?oc=5",
+    "published_at": "2026-09-26T12:55:44Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:20Z",
+    "updated_at": "2026-09-27T03:20:20Z"
+  },
+  {
+    "id": "f15c063be9e16624",
+    "leader_name": "习近平",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-26",
+    "event_type": "state_visit",
+    "destination": "United States",
+    "summary": "特朗普总统说，习近平的国事访问彰显了美国“实力”与“友谊”；总统助理称在贸易和技术领域取得进展 voachinese.com",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX3gwQTNYZWNzdE1EcVRuMnMxWXRqbHRVZFRyMC0tVk9KeWtpNW9rM2NJU29reTBFb0YzSzRNcnJNNzlId01XV0RCcGxiR0x2ZmN4Y1g1cUhiTnNjRlBEajlkaUg1MzJ3U0hQRmhSOVA0ZzBwcl81WmFwRjN1WnRHMElYd3NnMWlvYXZVQWRTQU9tamZqMHpOeTFkWDUtYU5UVmExMi14bnc4cGlLaWJOLTJOVHRGY0wyaDZjRmVMZmJjbnRiMjFWaDgxb0l5M1ptRUVUcmxHUUJ2Q2ZnUkFEVzlwbFVxQVpSZTZVYzNHbzM4aDdwMjctN3UxQkd5bE9zMkZqTm1sZnZyekhk0gGMAkFVX3lxTFBfeDBBM1hlY3N0TURxVG4yczFZdGpsdFVkVHIwLS1WT0p5a2k1b2szY0lTb2t5MEVvRjNLNE1yck03OUh3TVdXREJwbGJHTHZmY3hjWDVxSGJOc2NGUERqOWRpSDUzMndTSFBGaFI5UDRnMHByXzVaYXBGM3VadEcwSVh3c2cxaW9hdlVBZFNBT21qZmowek55MWRYNS1hTlRWYTEyLXhudzhwaUtpYk4tMk5UdEZjTDJoNmNGZUxmYmNudGIyMVZoODFvSXkzWm1FRVRybEdRQnZDZmdSQURXOXBsVXFBWlJlNlVjM0dvMzhoN3AyNy03dTFCR3lsT3MyRmpObWxmdnJ6SGQ?oc=5",
+    "published_at": "2026-09-26T04:04:21Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:20Z",
+    "updated_at": "2026-09-27T03:20:20Z"
+  },
+  {
     "id": "9eb198226d17bffe",
     "leader_name": "calls Mexico",
     "leader_title": "president",
@@ -35,7 +130,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-26T03:13:00Z",
-    "updated_at": "2026-09-26T03:13:00Z"
+    "updated_at": "2026-09-27T03:20:20Z"
   },
   {
     "id": "50b5862a7a216185",
@@ -73,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-26T03:12:59Z",
-    "updated_at": "2026-09-26T03:12:59Z"
+    "updated_at": "2026-09-27T03:20:18Z"
   },
   {
     "id": "163ae61b2a13faf7",
@@ -111,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-26T03:12:59Z",
-    "updated_at": "2026-09-26T03:12:59Z"
+    "updated_at": "2026-09-27T03:20:18Z"
   },
   {
     "id": "985338a3e3b94e2b",
@@ -130,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-26T03:13:00Z",
-    "updated_at": "2026-09-26T03:13:00Z"
+    "updated_at": "2026-09-27T03:20:20Z"
   },
   {
     "id": "00b566ced90eb786",
@@ -149,7 +244,45 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-26T03:12:59Z",
-    "updated_at": "2026-09-26T03:12:59Z"
+    "updated_at": "2026-09-27T03:20:18Z"
+  },
+  {
+    "id": "adb39eeb554878fb",
+    "leader_name": "美各届",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "历史回顾:美各届总统为中国领导人准备的白宫国宴 文学城",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTkRjRjdSazA3TE0ySDNBeUZzcnRwQWIzdXdDUnBPbUYxeG9sTEhLQ3Z4dlMzMERFeFNSS1BtQ1Uzem9TemZGbFd3eTZfa19xUjdKNllNM2ZPOVQybm1FRmREcnZ2dXBx?oc=5",
+    "published_at": "2026-09-25T09:22:30Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:20Z",
+    "updated_at": "2026-09-27T03:20:20Z"
+  },
+  {
+    "id": "1038a6f6fd5e3b19",
+    "leader_name": "Tô Lâm",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "苏林访华，越南驻华大使为何用“历史性意义”定义此次访问？ 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ09ha09pbVFXSWlfVVhNN2VIcGdwSlZVbjJ4SEJkZmk3ZmpsWGtRYWpLLVdXcDNTUWIxUkRqejBtQkNydFRRSG1KSVhhYVAtSTRwVWhZay1SQTJKdnNKMl9ibWhEbWJNMTVyaENyMzJVaENlc3d2MXJ3XzF3SW94QUl5X2lmMVk?oc=5",
+    "published_at": "2026-09-25T06:03:02Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-27T03:20:20Z",
+    "updated_at": "2026-09-27T03:20:20Z"
   },
   {
     "id": "1a9031782805a0e1",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-25T03:08:59Z",
-    "updated_at": "2026-09-26T03:13:00Z"
+    "updated_at": "2026-09-27T03:20:20Z"
   },
   {
     "id": "e486d5cad65d3839",
@@ -6210,7 +6343,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-25T03:09:00Z"
+    "updated_at": "2026-09-27T03:20:20Z"
   },
   {
     "id": "8918a98a0d1e3337",
