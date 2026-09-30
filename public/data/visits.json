@@ -1,8 +1,217 @@
 [
   {
-    "id": "764715b279a540f0",
+    "id": "a776ff93d2589c3f",
     "leader_name": "",
     "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-09-30",
+    "event_type": "other",
+    "destination": "United States",
+    "summary": "白等4天，越南领导人带上大半高层访问美国，特朗普最后还是不见 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2ZlazRxZGpxSmNUc2E0M3phMURoWlNPQ1VQeDdZQzA2bjhjdlR0R1lJVFVDZV9WUTJjSEpwR21NZDR5VktQQWdKTVo5eTBvUHZaTTlobDhrelMxQ0lGUnZ6T1Njc3lhcmZfTUxrSGRaQUZUUXJhcENwN0g2M0hjNDFqcDU4XzhFajg3cA?oc=5",
+    "published_at": "2026-09-30T01:02:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:35Z",
+    "updated_at": "2026-09-30T03:42:35Z"
+  },
+  {
+    "id": "f5c30f00789af3c5",
+    "leader_name": "holds talks",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President holds talks with Abiy Ahmed in Addis Ababa on a one day working visit Somali National News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVBMUjlseEJtM1FWME5sb3o0YmNjN0hCdWdfSFhyYVVkZkJ6MWZ1TkNSRm1peXJUWTFfSUtHcGhPT09LYmEwTkZ3MFc0TXY1QXJyeWFuSWc4dVZ5VzVPeFZTY0U0VUp1d2NuNmtQbmZLTFJEY0RuLTdRQ1lJUEtZRThiSkk3RUZRUTRvdjZxMGFjNm55UExqVjFwQzBETk04QzZlZTFJeFBjMWc?oc=5",
+    "published_at": "2026-09-29T20:48:45Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "b0b5649bae8b5d96",
+    "leader_name": "Letizia channels Disney princess",
+    "leader_title": "Queen",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Queen Letizia channels Disney princess at Spanish state visit honoring French president HELLO! Magazine",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzZwSzc2UnFEdi02Y1RBOWFHbkxEbHNBSjJkUWo2V0xvRVhQNjdaM18yWG9NSkg4dFRnb29PN3ZDbGNsa29vTlJhX2VsRmVGQjBlcTRFNHIwNTMwLUFWT0p2eDJqV3piRC14Vm1TM3FNOEgzamVuWENNcVRlYVVQcUdPa2lpWmIxclQxWTFxeEFSYXpZODJhcmlTVFoxMzhzaTV4T084MEQ1MG0tcE1yMHhzMlhIbzM0STlpWlJ3?oc=5",
+    "published_at": "2026-09-29T20:40:04Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "e6d8d0abedc59ff4",
+    "leader_name": "Letizia Chose Her Favorite",
+    "leader_title": "Queen",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Queen Letizia Chose Her Favorite Floral Tiara for French State Visit AOL.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX0RSaFFMeHRNZ2NNa2dPRjA2bEtNOGd3STdXMmJYWFJ3b2xXdmZZWWtzbnhNdFM2MEZKVnFXc3IyVTFKRnMzYmFvcWhhYmJtRGE0SGc2eGVGLVFLcmNvYkhTVGZid3EyWGxCQ1poZGQ5M19SYnFRQlFETktCdXpQWnVtSQ?oc=5",
+    "published_at": "2026-09-29T19:10:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "2cb1cf5641137d15",
+    "leader_name": "urges tougher line",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Finnish president urges tougher line on Russia ahead of Luxembourg state visit Luxembourg Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0FkWmRmNkZudGtUckJmS1hHdklZSjFEYzl4dU1SZi1fQUhYZFJ2MnlVVDM0ZDBYdUtkZGVrckFDRjRrTUZlOUtsYzF1R3dQbENxbGNhWXU0RFJ6eUFhcmpkRkhDdG5KX1ZYUHR2c2VHNElrVXlKbFVJYXFiTno5Z0NBTGxXSHRzWTVJU0U3aTFmekR3b2Z1ZTkwYWxvUEcyUWZjT1JFMGNqWHBILTZ0a3BkdnY4VHphWUJ0MVdDRGhUaUZ0THJN?oc=5",
+    "published_at": "2026-09-29T13:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "6c89f02ff9719ac8",
+    "leader_name": "Kazakh",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Kazakh President’s official visit to Germany begins Silk Way TV",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzdZMy16bzRVRnFUaFN3SVJxVkhmQ3JOb1Nzc3A3dmI3Sk1zQ3JPZWFtVVJJZ3RESWxoR3ppaXUtaDJRT1BNd1FpMkdES2NxR2kwUk5fSkxGVHg5N1JObVFDbkEwNnJKUmhyZURBRE5tcG5qYXpBNkJBSnBOQ1dUd1dWRlVhWlFG?oc=5",
+    "published_at": "2026-09-29T11:34:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "144692b288ec9bd0",
+    "leader_name": "Sergio Mattarella",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Italian President Sergio Mattarella to make historic State visit to Monaco rivieraradio.mc",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTV3R1FSNklDT0N5LUlQVERnS194N2xDWlRBY1hXa2x4Rkg4dEJ1N0RBNnNJbGd1VXJQR0dzX25nemw3bEl0ZEIzMlNqdmVrTEMxZWpCeGdqd21DazUzV2trRTd5ZTVLU0ZEQXV0cHVUaG1mb0c3NHZZZDM3dHBoNE5qc3ZMTEQ5Sjk5NFkxcGNTSy10d05oVlg1QVlaMEVBNDVyYlBZSG9GdF9WLW11enBwTWVVaEsxRExSbXd3?oc=5",
+    "published_at": "2026-09-29T06:10:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "263402475d4047e7",
+    "leader_name": "塔尼亚胡",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "本杰明·内塔尼亚胡总理在周末秘密访问阿布扎比时会见了阿联酋领导人 arch-web.com.tw",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPN1VLS2NPWTRQakxWeVgwNTNpTXdtbE55TS1OcHNmZlNqWjBXa0Uta1JRLWhyMk5pSUhTYXNRZzV1c21mQ25ZbkZWekJfVWlWbTRwaTJGUE9YNXBCdXVpNF9YYUtKMGhRMDBwRUt2VEdOTHNlaV9LaFEwTjF4cWd1WGdBUUN0b1J3Vl92c3VoX0l3NWlZMHlFUjQ0U1o3bFJjZ1dzTmQzeGE0QlVkMGtYWWNPbUhTUm1RQkwzQUhDSjJ6VS1hZW9EMzdvY2dBLVBHV082aC1hdFZuV3NZdk9DOU9Bc0F2Mkd3NVMta19yYXlzckV5STdQWTFMb0gzbnBxYVo0M0hTdHB6dE5fbEZEUEs2ZU1Sd19HdkdtTXBXRVgyNXg1Z2xoZzZodUNPOGo0U3hrN1Y2UUg0ZTBRX3NLVnJaWURLUjRBVXlDNjIzRGJOaWJCRnlLQ1dFalJoOHdVeDV5WF94X3BRX0Z6anBrRVY3WDRqZ2R5aGtDVy16Zm9PZw?oc=5",
+    "published_at": "2026-09-29T05:40:12Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:35Z",
+    "updated_at": "2026-09-30T03:42:35Z"
+  },
+  {
+    "id": "6d97663669540475",
+    "leader_name": "了以色列",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "other",
+    "destination": "",
+    "summary": "媒体披露了以色列总理访问阿联酋的目的。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFVuSTJfRjZucXdqRm9zRHQ2ZTJXZTV5TFpZeExTTEtISFFZUEdrOTBaTXJEdTh5VGtKVG91dThQRHNpdkh3MEw2RXNpanNsUVFTTEE4aGFvNnRrdmtjOC1lT1laZXktdUZjSjV6TnhXRUNwTDJOOWM0WHdOeE1YOXhieHJJN0I3TGVHSndmVVhGRzdXY3hVWnI0Zw?oc=5",
+    "published_at": "2026-09-29T04:29:19Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:35Z",
+    "updated_at": "2026-09-30T03:42:35Z"
+  },
+  {
+    "id": "45d2a37aad28011c",
+    "leader_name": "Dr. Cathy Bruce Delivers",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "Canada",
+    "summary": "Trent University - Trent President Dr. Cathy Bruce Delivers Official Response on Behalf of Canada During President of Vietnam State Visit Education News Canada",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSXBsSm04WGlpMjB3QVpVOURkNWxvT3U0dTZRNld6WU16WWlfSWlUZG9IREFIMnlMREFGdFA0ZXlIMG9ldjNnYmoxTUhZaW1fNlJHUURWQmJqMlg1QTlnU25GZm00Qm1qTV85QXNMWUt2dF9OQnZmN082Ujc5ZG5UandIZzQyVmE0bGhIYlo4WTJOZEFkQVlLN0dsX3FpUHZ0ZXVRU3FpOE5wMlZndDJaUVlOa0Q1UXdjSW1FbS1zNzZjNW9TU1RHc0JoYUVTSXpfWUZSVklOMC1lRmczTTNCVlpRLXRVY21ELUhhV3luTDd3SVhGVDRfdnNFXzlQb082RHNEMHlySEhoVTdkcjJqUUdYOVlsNC02ejY5NTBPMzFZbmRsV25B?oc=5",
+    "published_at": "2026-09-29T04:00:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "3df7929014a6bbe3",
+    "leader_name": "N.Uchral departs",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Mongolia Prime Minister N.Uchral departs for official visit to Japan Asia News Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWERHZ2QyRVNQYWJjLVYxUG5aMG81RU83aklwSVdJeVRyTDZLSGNXaDRZeEZ4Qjd6c05CYWJjbno3N3d5OXJ5NVYyeGh4QmhKaFFBQlRId3BHTDBmVFNBVTl3UGdnNHNNY2FHZUQ2dVpOejVpN0k0enQ4NWJDWF9lVTdBTlB4SGR4aWdFaVJJMVdOSUJ4LW9RT0pR?oc=5",
+    "published_at": "2026-09-29T03:55:12Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-09-30T03:42:34Z",
+    "updated_at": "2026-09-30T03:42:34Z"
+  },
+  {
+    "id": "764715b279a540f0",
+    "leader_name": "",
+    "leader_title": "President",
     "country": "Vietnam",
     "origin": "Hanoi",
     "origin_inferred": true,
@@ -16,26 +225,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:04Z",
-    "updated_at": "2026-09-29T03:55:04Z"
+    "updated_at": "2026-09-30T03:42:35Z"
   },
   {
     "id": "c72083561fdf80c6",
     "leader_name": "Xi Jinping",
-    "leader_title": "",
+    "leader_title": "President",
     "country": "China",
     "origin": "Beijing",
     "origin_inferred": true,
     "visit_date": "2026-09-29",
     "event_type": "state_visit",
     "destination": "",
-    "summary": "Inside Xi Jinping’s US state visit: Talks, ceremony, and state dinner with Trump Philippine Canadian Inquirer",
+    "summary": "PRC President Xi Jinping arrives at Joint Base Andrews for state visit jba.af.mil",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDVibTBUYkg1ek92Qjl0T19DN3lLcUhTekh1Vkc4YWVZQVVnRWI4b1BZSTc3NXBZaXgtNUxCMFhIdU9mUnlQVWt1TUVRck5jOERJd2V5M0NmdlNobEkzdk84eFhNX0tvbWJ5T2F5NlM0TTFWOEpualR4SlR5c0ZVbU5fNkpQcHJXRnQwdzNQczZ5YUR5VjR6UWtqZ3FLekNLZUcxMFZJblJZd3JxT0VBMFpyMkpHQUlD?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRNbDV1N21PMnEwYjMzYnRpREVHMVFwei02c18wQTYzWTJ1N0FnQ25qcnVMNlVqc2NBd1FCZll3UnZWVmhTNUtITDFKdXktS3dZc21veml4YnFFU00tZU1iU2N6X1k4UXJTTEI1bXJwekxudGRURXAwck9vYllnelBlSlo5ekxqcjJISHB6a19nbEJUWFk1aWVwazBZbWdxNWw5TXZMd1puSF9vMUdYaVZIZ3dIZw?oc=5",
     "published_at": "2026-09-29T02:53:02Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "a6008f4986858b34",
@@ -111,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "9fb20d2155c50bdb",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "f4a7b04f0c533914",
@@ -187,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "c134a991e43993c2",
@@ -206,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "c547864273558710",
@@ -244,7 +453,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-28T03:17:33Z",
-    "updated_at": "2026-09-29T03:55:04Z"
+    "updated_at": "2026-09-30T03:42:35Z"
   },
   {
     "id": "917070daefa5b4cc",
@@ -4956,7 +5165,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-29T03:55:02Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "e23a51593f5d384c",
@@ -6799,7 +7008,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-28T03:17:33Z"
+    "updated_at": "2026-09-30T03:42:35Z"
   },
   {
     "id": "8918a98a0d1e3337",
@@ -7901,7 +8110,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-08-23T01:02:23Z"
+    "updated_at": "2026-09-30T03:42:34Z"
   },
   {
     "id": "b4825024562a3e5a",
