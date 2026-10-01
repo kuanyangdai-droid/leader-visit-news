@@ -1,8 +1,160 @@
 [
   {
+    "id": "a84a197b3e4879bc",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "PRC President Xi Jinping departs from Joint Base Andrews after state visit jba.af.mil",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTBHanRsbFBKWnNDZGpRU3MzZTU5cmJPMWVEVjg3UExWbm16bXh0SkppZ3J2UkZJbXhCOXpmX0RNV1U1NWt4TWFHN3Y4d19uR0kyaTBZVmZ1YzZkOTQwRVNrcXJCOXlSWHZRYnMtSXVpa0hzd09qWlNJMzJvbFRYM2FUWG5FZXlSOGE0Z1Ftbm96UnFCaXVuV3RxSW14cWpsM1liZm43MEZYT2FycFVzZmpGckdSYkRTOUNv?oc=5",
+    "published_at": "2026-09-30T14:13:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:10Z",
+    "updated_at": "2026-10-01T03:49:10Z"
+  },
+  {
+    "id": "79ee52c5587323ef",
+    "leader_name": "Programme revealed",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Programme revealed for Italian president’s historic first state visit to Monaco Monaco Life",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1U2YklmTWkxb2Mzem45ZE5EQjJIejQwY3BlVXFEYUJTcDNwNHNqeWgtNXpJVzZCbzFWZ0hKdWh5UHdNZmx1TG0yeE9vb2pFYmdabkhQQnhrOUVIMEV3eE1tYkNGZlI0TEMxUVIzTlo4RDRaRjcyVnZOUmxSb0J2SHdMMUVPR1AyOWFwZjJnLUJ5LWRNZEpLdlJRd19EMF9HWlVvYQ?oc=5",
+    "published_at": "2026-09-30T13:51:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:10Z",
+    "updated_at": "2026-10-01T03:49:10Z"
+  },
+  {
+    "id": "25d6c7b4e2136c81",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-09-30",
+    "event_type": "other",
+    "destination": "",
+    "summary": "烈士纪念日习近平等党和国家领导人敬献花篮 gbcode.rthk.hk",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzFHelFzcnBEanJvTFd6TlpGRXdjTzVJUHo5ZUVaNmM5U1hxQzcyZERBZUxBaU56ZHVCUjkwek1jMTMzWHJXTy1WdWYwdWFSbjh4QUxyTWw5c0JvTzVBejJJdjhqZkVqN195YmM3bWJFR0VlT0ZiUms2WEZuUlNqWHZYZ3NjMVkxU1I5TUQzcUdiZ1lKaDRMeS1HVkRiZw?oc=5",
+    "published_at": "2026-09-30T11:09:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
+    "id": "3fec8a72bc169e6f",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-30",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Maia Sandu will pay a working visit to Finland on Friday cotidianul.md",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkh1RTE4dDNJcl9NTGVScjVTNVd2VnB1YktLajVDWmd5N0ZHTXFPaGQzelRpVU1ydGo4ZUVHdmxUc0kxRFpmRjVoZk9kR0F2TGVzUFotanVObWlKWlNyS25vRGlLR1pXdTdSQzZXV2FNQjZYVjgtZ3RudFltYk5JaTRQZWJ0WnlxcmE0UlU3UHNrUQ?oc=5",
+    "published_at": "2026-09-30T11:06:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:10Z",
+    "updated_at": "2026-10-01T03:49:10Z"
+  },
+  {
+    "id": "e1d660d3ca05f3ad",
+    "leader_name": "托卡耶夫",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-30",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "托卡耶夫总统对德国正式访问在慕尼黑继续进行 哈通社",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81QnhLZ0M0anJVMUlrUTktV2tLZWJHcU12YUtzV0w5R3dnUVdsZ3BRek5waXl2bERQYktIMXdXZHJ0U093UFg3UzNrY3F4RGZScGpfSkxDZDd6UG9yMFFPd2l2UWx1cWVFakw4YtIBa0FVX3lxTE5VeW9YZWtsRldzbExQS1NYOFFLVE9hZDZoZkJtX1ZYLUtJSjFHZXdOWW4yTjM3b3E5NXYyaXc2RWY5S1NrY1M4bEhsWHd1V2d3dFhVNU42dWRGemt0NHlDZ0xfOGdPSV96TkQ4?oc=5",
+    "published_at": "2026-09-30T10:11:16Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
+    "id": "2d5c11a64461fcdc",
+    "leader_name": "爱沙尼亚",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-30",
+    "event_type": "other",
+    "destination": "",
+    "summary": "爱沙尼亚总统卡里斯开启盟国告别访问之旅——ERR News UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFJWR2JDeU9aMS1oeXJnLWdkdVZEc3RKTmxjX1QtX3VucEZiVmx2UkNsQmNrMktrbUtja1JBY0Z6aXIxQjhjdG56bGdqSklCVUFSS0VUYlg2TDk2Wk0xMF9QUC1sMDRJaGpLT0VSeWgzeEU2SzA0T3VDTDYwN3BWZDNScG1vVnFnb1gxR0lycksyeFNuanNhZHFLYnBUcTN6cWNmb3BWOVpTSTAyenNR?oc=5",
+    "published_at": "2026-09-30T04:48:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
+    "id": "1304fef49b6c2b90",
+    "leader_name": "南国会副",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-30",
+    "event_type": "other",
+    "destination": "",
+    "summary": "越南国会副主席阮氏清访问瑞士联邦并开展工作。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdERvSUdQYkRuUEVHdmJlTk51dFNpR1laTndxb0VuUnR0c1o2eU44eUVMcXpPVjVqOXpUbjV4b25rRDVIeEJ3VEFtWEhfOGctMTNVc1FqXzVCaHVBbzhrR0JGUlN5c0owT0hzY3JGcm56VTJJOVB4RE10Q3NaS20tdDUzMm1ZNUljOVE3c2tTSTc0TDBCdmk4eVFLc1BJdUpWR0N2YWZ3?oc=5",
+    "published_at": "2026-09-30T03:15:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
+    "id": "bea9284ee91b6609",
+    "leader_name": "法国",
+    "leader_title": "总统",
+    "country": "France",
+    "origin": "Paris",
+    "origin_inferred": true,
+    "visit_date": "2026-09-30",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "时隔17年 法国总统西班牙国事访问谈什么 中国评论",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pWmNiNmtOSGdsYngwUkUwU3ZQREZVaDZwS0hWa0s1QU5rZndibGl2T0RuT2Y0MjVrYk0wTy1jT3pxWUNJS0M1YzF2OXhNdmo5Q0NZbjNOcFg?oc=5",
+    "published_at": "2026-09-30T02:11:22Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
     "id": "a776ff93d2589c3f",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "president",
     "country": "Vietnam",
     "origin": "Hanoi",
     "origin_inferred": true,
@@ -16,7 +168,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:35Z",
-    "updated_at": "2026-09-30T03:42:35Z"
+    "updated_at": "2026-10-01T03:49:12Z"
   },
   {
     "id": "f5c30f00789af3c5",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:34Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "e6d8d0abedc59ff4",
@@ -73,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:34Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
+  },
+  {
+    "id": "ef90c0b0931ed5f3",
+    "leader_name": "Letizia Turns",
+    "leader_title": "Queen",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Queen Letizia Turns to Her Wedding Dress Designer to Kick Off French State Visit to Spain Town & Country Magazine",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbENsbDgwYVRQRzJwU05iRnoyRGpLdTRPckpIalhfSzM0S2ZSWGwxaXFtMFZjLV80ZFlwdTRBa2xPbnVRUm03YXIwbURPZ0hNSDlLWUJwMXFnd2NSVHBYYjFSb1FKQ2NsVFNxLXdla25iNVBKenlBNVNWSzh5Xzk2ajFZN1NBV1dHNmxfbk9VWXI3YXlrTVl6Y2VMcVp4dUVUN1RTRDlIdzBSUDBDWW1QMW1YamFPUQ?oc=5",
+    "published_at": "2026-09-29T14:26:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:10Z",
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "2cb1cf5641137d15",
@@ -92,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:34Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:11Z"
   },
   {
     "id": "6c89f02ff9719ac8",
@@ -114,6 +285,25 @@
     "updated_at": "2026-09-30T03:42:34Z"
   },
   {
+    "id": "ed15cb474158c98e",
+    "leader_name": "法国",
+    "leader_title": "总统",
+    "country": "France",
+    "origin": "Paris",
+    "origin_inferred": true,
+    "visit_date": "2026-09-29",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "闪评 | 时隔17年，法国总统对西班牙进行国事访问谈什么？ 搜狐网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlFydzhib21MdC1TdUdIeE9rOElWODBLYnBFcm9tNXRFdWI4TTZYSUpCbzdhT2IwZ21ybDZkZGoza1h0N1lyT2hfOEJkdHFYUVlaTGtBbXlQUTVCTERXcXZ3RnlwUnNheC1sT1JJYzUzUFJmZWVNbmJsSEdjRXZXTlhRMEhiQ2tNc05n?oc=5",
+    "published_at": "2026-09-29T10:35:28Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-01T03:49:12Z",
+    "updated_at": "2026-10-01T03:49:12Z"
+  },
+  {
     "id": "144692b288ec9bd0",
     "leader_name": "Sergio Mattarella",
     "leader_title": "President",
@@ -130,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:34Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "263402475d4047e7",
@@ -206,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-30T03:42:34Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "764715b279a540f0",
@@ -225,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:04Z",
-    "updated_at": "2026-09-30T03:42:35Z"
+    "updated_at": "2026-10-01T03:49:12Z"
   },
   {
     "id": "c72083561fdf80c6",
@@ -244,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-29T03:55:02Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "a6008f4986858b34",
@@ -5165,7 +5355,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-09-04T02:38:10Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "e23a51593f5d384c",
@@ -7008,7 +7198,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-09-30T03:42:35Z"
+    "updated_at": "2026-10-01T03:49:12Z"
   },
   {
     "id": "8918a98a0d1e3337",
@@ -8110,7 +8300,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-09-30T03:42:34Z"
+    "updated_at": "2026-10-01T03:49:10Z"
   },
   {
     "id": "b4825024562a3e5a",
