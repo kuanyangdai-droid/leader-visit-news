@@ -1,5 +1,138 @@
 [
   {
+    "id": "80f8079af2e6db58",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "State Visit by President of the Republic of Panama Jose Raul Mulino Quintero to Singapore INDiplomacy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVl9mTWxkYVFoYzNDeno1Q3Z6bFVBLTlGamZ0V3J3dkRNQmdlUnkwNTFKRmlEZnVUNEk1WURfMHZsUWlFak9Tc1J4SDhMdVVFdjU1WmZuRkhYaHhFTFA3dk5QVUdJRXlfLU1hdTliekNWWHNXZUItdXUyRWVPaDFZMTRLV0EtM2VhMk1wcF9CTXBBVmxJWHVWcHYyRVVKMXJUdkJRaXVobDhENFpCcGFma0ktTjBiUjZtdjM1UXpGUDQ2TFE?oc=5",
+    "published_at": "2026-10-05T02:40:46Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "ccf25164ecc2ecfb",
+    "leader_name": "Narendra Modi",
+    "leader_title": "President",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-05",
+    "event_type": "other",
+    "destination": "",
+    "summary": "PM Modi to hold talks with Swiss President Guy Parmelin in New Delhi today News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUY3WGxEb0NWOXdnZ2ZyNlFhT0x3N3U5MnVZLXBEbWlkanEwNlF6YlVQYmUzel9DWllEbDB5UmxjVllIUERnRHRWOHhvQmw2NVBEcWhrVHFrSzdlUW82VUFOZEFDSGVoWmFhcmRZVy1uUWhuLTJ2bXZYRFJkazY1Z1FZUGtjcjY3T1BmaGRydi1zSENZTGJJV3d3ZHZvVGhjdmc?oc=5",
+    "published_at": "2026-10-05T01:20:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "ed0ddb5ada98dd3c",
+    "leader_name": "Parmelin",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Swiss President Parmelin to Begin 3-Day State Visit to India Tomorrow News On AIR",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JvVEtSZ090eWdRcU0tVkZPclNyVkVDQTdSYzJTRVdaY2RJc1BtRFVSNDA5Z1pudi1acXZLdkE3czBqZWJqX0Z3dkR2Y1h4dTZUT1QzRFhuNTZGX25KNjNwcERSY0g2X1ZyVlVxWldCQ3EtUkl4cDRPNGtzZ25yZVNtNzV2TXVzLUZaamp0RTVPVDIwM1RJWUt3cw?oc=5",
+    "published_at": "2026-10-04T19:10:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "288be862fbc4fb05",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-10-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Ramaphosa invites El-Sisi for state visit as economic ties expand Inside Politic",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVM4cHhDLVJUVlJmdE5Fdko3Yzk0X3pWYzhrcTVCem1YeElmck9BM3NGdGMweXhENV9DZkJRc2ZqbXNuS1NRY2RoUThkaUhxVmN4U01HM1hDdXM1UE53YkVMYzZCY080b2Z6eC1xQ202eUc3UjkxZzFIVjVmNEdZQl9NbXFFYjBOT3lNVk40c2hGRDliSG9IYUlB?oc=5",
+    "published_at": "2026-10-04T16:24:49Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "d91916c4031477d1",
+    "leader_name": "is",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "WADA President is in Kenya for a 3 day official visit KBC Digital",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRC1XRmxzcDlkSzhJc3plTGRFUjd4b1VjQU1raENKTWk1ZHU2ODhPODdKS3E1NUJsVlk0NmlpWjByVjFxUGFXa2xhcHRkUW9LY2kxcG5lM294eG9hRUZ6Zk5fRk9hTDJDUmRXRlhVX09PTk9yeEZFdXBpRXpRcDI0VUN3?oc=5",
+    "published_at": "2026-10-04T15:02:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "1df3db7163fb243a",
+    "leader_name": "Panamanian",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Panamanian President’s trip to Vietnam marks historic milestone in bilateral relations: ambassador Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDZCdkZtTFRsUGRZcDltR1lQc01Tb043QmYwRWJTQnB1NENLUDlpc3JEeElpaGlKRW5ranNZSUo2UTA5bVhEa0FZZl9wNWMxNzZPM0MzSGxULVZMS1R0TWRUSVl1aEh5aHd6UXhMelVyemJzdWRZZlBjQ1RxdVdqcER5WHpRSVNTLV9uNUU5ajdneUlwbDEwa1BZZGxHSlNhMVhUSE5CWFFkUHRPUHBZdmtTSTNraE5uZGhrdEY5ekh1OGZvWWMwR3I2RHF5bWdoaUZV?oc=5",
+    "published_at": "2026-10-04T13:13:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
+    "id": "554d14e9fe81e53e",
+    "leader_name": "德国",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "德国总理默茨“无预告”突访基辅，德将再向乌提供13.5亿欧元援助 thepaper.cn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ydEQ3QTZ0VC1pWVZueWdJQ3EyRl9ZalpUTEtpLVBKME1BVndsTzAtR3RndTdVaVcwOEVULWNkNEEzUTludFZuTk96em85N0U0dUZYZFV6czhVZmJ4TlE?oc=5",
+    "published_at": "2026-10-04T09:28:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:26Z",
+    "updated_at": "2026-10-05T03:45:26Z"
+  },
+  {
     "id": "c14778322a6b0f07",
     "leader_name": "Karol Nawrocki",
     "leader_title": "President",
@@ -16,12 +149,12 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "88ef0d16c58a0c23",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "Prime Minister",
     "country": "Vietnam",
     "origin": "Hanoi",
     "origin_inferred": true,
@@ -35,7 +168,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:04Z",
-    "updated_at": "2026-10-04T04:00:04Z"
+    "updated_at": "2026-10-05T03:45:26Z"
   },
   {
     "id": "219623b42196c4d8",
@@ -54,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "5b8fa81b56faedb1",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "1a92fac356a57e18",
@@ -95,6 +228,25 @@
     "updated_at": "2026-10-04T04:00:03Z"
   },
   {
+    "id": "d8f66454a17cfe48",
+    "leader_name": "Charles III",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-03",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "King Charles III, Queen Camilla state visit to proceed as planned after DC shooting ABC News - Breaking News, Latest News and Videos",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1VKd3ZpLVpjbjNiTDhacDg3dFUxWlZfR1lBNGVBVFRjcjdzaTV2Snl1MUdzVUM4blZscjQ1UG5PbDVwYUQtbmtxeEpEcmtsZ2RqLW85dXo5TnVEMjZHTU44RmtkR2h5X0tDalJvbDJtR2pIM1dUbnpIWHRYalpTamJXMmFmVUdtdFdTcGVlZXlldXRfbHVDRTJkeGRNS0hiZWlF0gGoAUFVX3lxTE9KNWs4Nms5SkRNX0hUVV80cXdIUGZYWkpLeUFWTU5mODhMbFBMUm1WV2pXaExLaHZUU2hQc0NlVmlkUlV4RzZYTUFaNWdKOEw5aEk5Sk53V19xczVwMklOQVVYbW96YktyeGdGYm1UZmd5d0JHUm9xRm1nYzV3eldNVmxwMnNKN3dKS0VQdXA5YkhJWWlGV09SRTdQa2hyRm5pdFUzeFBGeg?oc=5",
+    "published_at": "2026-10-03T17:42:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-05T03:45:24Z",
+    "updated_at": "2026-10-05T03:45:24Z"
+  },
+  {
     "id": "ff556c5fe18ead9d",
     "leader_name": "visit focused",
     "leader_title": "king",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "2abfdd0219aa14fc",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "316ffebcd144c0a3",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:04Z"
+    "updated_at": "2026-10-05T03:45:26Z"
   },
   {
     "id": "0186c9a5b1fd34c1",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "0b8cb462f92c9d9c",
@@ -187,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "5e7582ff4bb3f1e1",
@@ -206,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-04T04:00:03Z",
-    "updated_at": "2026-10-04T04:00:03Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "5f52a045f95dbe62",
@@ -377,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-02T03:47:05Z",
-    "updated_at": "2026-10-04T04:00:06Z"
+    "updated_at": "2026-10-05T03:45:27Z"
   },
   {
     "id": "f2a9a4d06b5f6baf",
@@ -7882,7 +8034,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-10-03T03:31:31Z"
+    "updated_at": "2026-10-05T03:45:26Z"
   },
   {
     "id": "8918a98a0d1e3337",
@@ -8984,7 +9136,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-21T01:01:01Z",
-    "updated_at": "2026-10-03T03:31:30Z"
+    "updated_at": "2026-10-05T03:45:24Z"
   },
   {
     "id": "b4825024562a3e5a",
