@@ -1,5 +1,214 @@
 [
   {
+    "id": "a8adcc62cdf4664c",
+    "leader_name": "visit. PBBM kicks off",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-08",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "PBBM kicks off multiple engagements in SG working visit ptvnews.ph",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQUZGbkE0a3JCenpac0RZcE96d2YyRl82NWtyOTN2QV9OZFd6ZUh1djA5ckZnRWtYd2Q5UUZTQ05xNVg1OE84UGJxTV9lU2FlWXlla1BDXzJpRzI1LUhIU3VnVUVOYk9CakxxVnlDRTlvOF91dzR3THNsbkI2ei1SUA?oc=5",
+    "published_at": "2026-10-08T03:00:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "366ef540779e9dc6",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-08",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩埃领导人会晤 韩联社",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05X1Zoa3NrLVV6RUNjNGpZNlJGX0hldjgxWDlwM3FFbm9lR0g5ZU1VVFhUUzJxd2hDRGtVMEdqdk9MQ2hhVnVySzhEZ3FjWjk0akgyX2Z3Tm1jZzJwWE5lQTVXTnNRVGhpVFZjbFRpczE3X0poMXc?oc=5",
+    "published_at": "2026-10-08T01:59:04Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:59Z",
+    "updated_at": "2026-10-08T04:11:59Z"
+  },
+  {
+    "id": "1da04dfc0838d5f1",
+    "leader_name": "黎明雄",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-08",
+    "event_type": "other",
+    "destination": "Laos",
+    "summary": "黎明雄总理首次访问老挝和柬埔寨，带来了新的动力。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWNJNU1yeW9uTlp3Umlrc3psUzBLcG11ZENyUG9LMTNaSXJiTlFVd0dPLXNoTnNlbnlUc05Hd3YwcGE2MmlPaVBRVkxPa0prLWVJd3JHcm9WakYzc3ZpNFAtdVZJT192Ujg0Zk9TekwtdXNlSWcwVHJmeV8tRkhEVnk2ZjA1UXhQVURtNVFyYzFrcllqUVFjSEQ4WGJEWnEtT3dtVzZmZk9zV054MFNnTTlSSQ?oc=5",
+    "published_at": "2026-10-08T01:36:37Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:59Z",
+    "updated_at": "2026-10-08T04:11:59Z"
+  },
+  {
+    "id": "b76932c6b9ce7d59",
+    "leader_name": "Lee",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-08",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Lee to Hold Summit with Egyptian President on State Visit, Discuss Supply Chains and Bilateral Ties news.sbs.co.kr",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CeHlGdWVQUWZuWko5QW1Jb1JkTjZWZngyQzNJbk9NckRBMGRHekFHWGY2V1l0ZG9BSzI0UV9td0FjcDBFUmFZemFDREVjNVE1aXRGY3Z3V2hUV2xtQXhaUnBHenNqZw?oc=5",
+    "published_at": "2026-10-08T01:22:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "4c771fc3ca48cd6e",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-10-08",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Ferdinand Marcos Jr. has left for a five-day working visit to Singapore. The plane carrying him departed at 8:10 PM on Wednesday. Executive Sec. Ralph Recto, Agrarian Reform Sec. Conrad Estrella III and Justice Sec. Justice Secretary Fredderick Vi Facebook",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmNZM3A1NGtIZkEtdFZDc1dYd0l2TVVwTjJ1dnhVOWlVRHVZRmVyTGhOODF3U1FqZ1lTMkVNbUZQanhrbFRXWHB6NFE4M292UjZvQm5LVTc0X0pGZ3p1TmVqNm5BQWM2eGpaV2hHVTFlNTBXeFBaNXhIYlN5Y0RJUUtuNE5zS2plUElKdjBsbFVHYS1qSDdmbUlTaVMzOTMwXzRRSlI2SVg0NnlGYVBsVnE5UVhLQVpjSDY1Uy1Mc2NsaFpXcWs4bG9lclVWdHZmX2lsVG4zMnYteVBX?oc=5",
+    "published_at": "2026-10-08T01:20:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "94bea1462cd6347b",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-10-07",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President U Min Aung Hlaing pays official visit to Malaysia Global New Light Of Myanmar",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmxjNFF6SnNlUHlISUNVZk1IQU9aSjNWWkJqRl9CenNBNmRZX1BveUhKcVpXallZaWU5WVNHeGhXMFRwenpzRmktNUc0TjN2Q0ZaMFMyQTQyNE92MUZPRlladkZFTDlSWVoybURVSWw0R2VjQ2xUZmJva3VFTnJTbEdEMXhaZlA5OUNEYg?oc=5",
+    "published_at": "2026-10-07T20:55:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "a22819b26fde8bd7",
+    "leader_name": "visit. Kassym-Jomart Tokayev",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-07",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Kassym-Jomart Tokayev arrives in Turkmenistan for working visit Qazinform",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjFxTGtpUXV4aGtkeU02eXl4dFdzQlpKa0tiTlhqWVp3dU5WUWlaX1lfSGg1a3ZkQ0hzbkR5RHhQdFMta1RsZVpDbDBrc0lnc25YVDdFeE1mWmlKS2xTY0lsV2p6WVpVWDhmeC1LODlyUXYxNWN6a2IyeE4wQlFzYjVHUjI5Tkc1OW1SdExjRTBYNUV6aEpJdUNQNGhFQdIBngFBVV95cUxONjFxTGtpUXV4aGtkeU02eXl4dFdzQlpKa0tiTlhqWVp3dU5WUWlaX1lfSGg1a3ZkQ0hzbkR5RHhQdFMta1RsZVpDbDBrc0lnc25YVDdFeE1mWmlKS2xTY0lsV2p6WVpVWDhmeC1LODlyUXYxNWN6a2IyeE4wQlFzYjVHUjI5Tkc1OW1SdExjRTBYNUV6aEpJdUNQNGhFQQ?oc=5",
+    "published_at": "2026-10-07T18:31:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "1f9dfbf7708564b7",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-10-07",
+    "event_type": "working_visit",
+    "destination": "Singapore",
+    "summary": "Departure Statement By President Ferdinand R. Marcos Jr. For His Working Visit In Singapore Presidential Communications Office – PCO",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelYtTWZLVFBrel9FdGJYQS11NXpqV014c09seU1RNmM5ODNlNi1nYlFZTUVQT1ExZUFFbmV4ZldVbFN2NUZhM0hkNVpGQjRZZDRVem84ajgyNUJ6LTdhQUdfX3NCSVNlNnd4WGFDSlVWUGZlOWZLV1dhN1BSa2FoYXh3UW02dmZSTktxTjdOeWlzM0R4QjJxWlJaUmYtZzYyTm9NOFZDTlRORDR0a00zWUdvaWo1NlpOSGxUdUR6TVNNQXR4R1lwZA?oc=5",
+    "published_at": "2026-10-07T13:05:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "67dd03a17504b1e7",
+    "leader_name": "埃及",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-07",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "埃及总统塞西抵达韩国与李显龙举行会谈 TRT中文",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kOEN6eENjOGRhU3ZuZHkzOTFfeEFLM2NGNFBjQ014dTU0VV9mRWxjbUJjSWVYQVN3VENveTBJV3dTMWhzM0ZzLTlrdnA0Q3ZNcHFEN19YVkVWZmU4?oc=5",
+    "published_at": "2026-10-07T12:34:39Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:59Z",
+    "updated_at": "2026-10-08T04:11:59Z"
+  },
+  {
+    "id": "ddc93963b54d5726",
+    "leader_name": "arrived at Kuala Lumpur",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-07",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Official Visit to Malaysia: President arrived at Kuala Lumpur Intl. Airport Myanmar International TV",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcU1USXZ6NjM0eEZhVFNsc01VVm1IVzFMUk1jZEhwQ1JHblk0VzZsSUp5bS1lRDZGZUc4MlczY1pMV1lYR0JjQm8wclFsa3dfYmpPdEpIdExTb2Q1N19zc1RIbzJMcm55UTFBY05tTnlJdlNwOU5ob0ZXTzg1c2NNeHljN2FHLUJZeXBGZFJfWGQ2NnJpRW1zam81NEI0UVZY?oc=5",
+    "published_at": "2026-10-07T08:48:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "75b96c8349bd8433",
+    "leader_name": "Highlights Significance of Vietnamese",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-07",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Laos Highlights Significance of Vietnamese Prime Minister’s First Official Visit ຂ່າວສານປະເທດລາວ",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTG1vS2J5bXBYM0hjY3JJQl9QVUl3VHFnTHJXMWREams2LXRrX1JkR1NCcDdmTjhfWlVveHJzU0lzcHk4SHRfVnlLNWJ1TnJUUElKb0hR?oc=5",
+    "published_at": "2026-10-07T07:50:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
     "id": "04a97c77da806b1f",
     "leader_name": "黎明雄",
     "leader_title": "总理",
@@ -16,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:07Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "dfd2ca913c736aef",
@@ -60,20 +269,20 @@
     "id": "0ec95a9180a72f62",
     "leader_name": "",
     "leader_title": "总理",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
     "visit_date": "2026-10-07",
-    "event_type": "official_visit",
-    "destination": "",
-    "summary": "越南政府总理黎明兴对老挝正式访问之行具有特别重要意义 Thông tấn xã Việt Nam (TTXVN)",
+    "event_type": "arrival",
+    "destination": "Laos",
+    "summary": "缅甸领导人抵达马来西亚展开为期两天访问 联合早报",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQS2xWdVFaZkFGSEVPTC1ZS0JhU3NnR25RYWctVklnUzdHLXNXVjlrYmxQdWNxMm01cUxsTjRZdndDRE1QdllfTGdPeEc2b253WmNGaDZXaEh2dU9tbXNLOEdmSEhaNGZpVEF4RnpnRlotYjA0dENhTWw2RDJSazBlVkI3cFNsZzNvb3VFVEdYdlkxTVBfam80YkYzU09nc0FwU0EtNkFuR0pzZWJhM1lTWF9BX3Y0WjllQVd2U1h2TUJnSU1KSFRJWFpwbVdhYTlRaFBEaW5xNFRIczgtYzAwRGsxZjdUdU1LdklNd29GcXdqZXl1Y3NTejdpdDY2MHZ5ZllJemkwWHA2UkpOaGRKcjJORmMtaGF2ZGh5YXFWT2tHcUtLY1h2MnU3blVYVTVVZjZYRXdwS0xuQ2hvb2RHcDYtc290Sm1KZGJQTm5hZmQxWHR5VmY5ejdweGRUQl9YRzRVREdMdmhTRC1USVNka3RJc3FfaGtTWDUxcGpxdU9pakc5ZFJZVV9sWi1pWWF3Wno5cFRNQWJIS0s0?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13cndCUktlMGVRMGtpNUpjUDF5bXJObGF4Zmdnb1FaSEUwMlJYYnMtVGRaWGpSOHBEWU53UjFqWkxCR2hEOW1pUXNySVZQbU5tbzZJTS1ERVRVR1JnQUMwYThZR2FCVDg?oc=5",
     "published_at": "2026-10-07T01:18:24Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:07Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "69553ab6224e3ae5",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "4e24b602a6867e72",
@@ -130,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "abec76a1ec1af7d7",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "1e7bb0dc8196bbcc",
@@ -168,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "c0d41f7f3029e570",
@@ -187,7 +396,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
+  },
+  {
+    "id": "fd213d6bcb17e838",
+    "leader_name": "SHARAA",
+    "leader_title": "PRESIDENT",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-06",
+    "event_type": "official_visit",
+    "destination": "Saudi Arabia",
+    "summary": "SYRIAN PRESIDENT SHARAA ARRIVES IN SAUDI ARABIA IN OFFICIAL VISIT TO MEET SAUDI CROWN PRINCE- SYRIAN STATE NEWS AGENCY CGTN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GWXViN1NPZHF2SUZ5WE15SlJfb0UzRE9iUkdQWVJoVThjMVRjR1QtNjR6Y1BSVkVLakl2MFVfUVhvTTJ0M09oZjl1NWlkNndqMVJPM2hfR3c1TTAtcnExNGRPZlJ3UVpnSkJETG93?oc=5",
+    "published_at": "2026-10-06T11:10:41Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "c4c8a66ff5e54cf5",
@@ -206,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "e376e2aa27601655",
@@ -225,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "3a54e0f2c3a78efc",
@@ -244,7 +472,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:07Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "e5449104f9f50ffc",
@@ -263,7 +491,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:07Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "a6188bc77cc2816a",
@@ -282,7 +510,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:07Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
+  },
+  {
+    "id": "b19f2eb59c146566",
+    "leader_name": "Wadagni holds talks",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-06",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Benin's President Wadagni holds talks with Macron during first official visit to France Africanews",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVNNenBvUWp2VDU0dUZJRFEtUXRhMDcwYVRUNS1DMzliZ0ZudDlCeVcxNkVkcWQwcVlVMlZSZWVuWkZhWHI5cV9rWnVPc2thR3ZOVVRvVG5lUDNhaUo4eVc4ZnJvWjVTb3ctcnpEeGd1RDB2NjVmUVlWRHh1SEtiVFBIMjJJcEtXSnFyWnkzQUlCMUlfUFBCeFdoTUt0NkZaaW5BcTdWNW9QWWt3aEJjeE5QMVRUamJSWkZlaTJZVEpIMTV3T3RVadIByAFBVV95cUxPOVNNenBvUWp2VDU0dUZJRFEtUXRhMDcwYVRUNS1DMzliZ0ZudDlCeVcxNkVkcWQwcVlVMlZSZWVuWkZhWHI5cV9rWnVPc2thR3ZOVVRvVG5lUDNhaUo4eVc4ZnJvWjVTb3ctcnpEeGd1RDB2NjVmUVlWRHh1SEtiVFBIMjJJcEtXSnFyWnkzQUlCMUlfUFBCeFdoTUt0NkZaaW5BcTdWNW9QWWt3aEJjeE5QMVRUamJSWkZlaTJZVEpIMTV3T3RVaQ?oc=5",
+    "published_at": "2026-10-06T05:50:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-08T04:11:57Z",
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "0932902059e3a157",
@@ -301,7 +548,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-07T03:59:06Z",
-    "updated_at": "2026-10-07T03:59:06Z"
+    "updated_at": "2026-10-08T04:11:57Z"
   },
   {
     "id": "27d6a7c6901d923e",
@@ -339,7 +586,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-06T04:33:18Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "9d38ae465abe24ae",
@@ -8566,7 +8813,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-10-07T03:59:07Z"
+    "updated_at": "2026-10-08T04:11:59Z"
   },
   {
     "id": "8918a98a0d1e3337",
