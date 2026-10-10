@@ -1,5 +1,214 @@
 [
   {
+    "id": "58b71cc5ec0c7347",
+    "leader_name": "of Council of Ministers",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-10",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Togo's president of Council of Ministers arrives in Xi'an for official visit to China People's Daily Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03WjRZeDh1YUpka1BhRWRfZHNFeTdhcmpsLU9JbXhwMWhlLUZJTC10WXJ6NXRyTXM2QXBuWV9qSVQyVHVfRE5QeG9XQVdOcFdBX1J6UmZ5WVlUelVTRHNrNXhZUQ?oc=5",
+    "published_at": "2026-10-10T01:16:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "88437a2b71e8f580",
+    "leader_name": "Joint statement from the",
+    "leader_title": "Foreign Minister",
+    "country": "United Kingdom",
+    "origin": "Canada",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Joint statement from the Foreign Ministers of Canada, Denmark, Germany, France, Italy, Japan, the Netherlands and the UK.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/joint-statement-on-support-for-the-international-criminal-court",
+    "published_at": "2026-10-09T16:22:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:40Z",
+    "updated_at": "2026-10-10T04:02:40Z"
+  },
+  {
+    "id": "b3bc78bd0da78140",
+    "leader_name": "Le Minh Hung's official",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister Le Minh Hung's official visit marks a historic turning point in Vietnam-Laos relations. Vietnam.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlB5d2R2UU5reGQwUHVVQzZvUFoydkVhOFowdmJUV3NmRWxOeWR4ZDRDVTNtVm1uTng2WkNGUFdaa0RtYmp3VDhMTlRlSlR0dlNjRVhEbXh2bi1aWnFJZUVac2dmREZrTGI4Q2lYRGhGN3o0R3lUNlUzY2RadUVaNGJOUllDbUp1clR6eS1jQlpFUlJuQ2lVT19zczRZQzNycVgyX0hFVVkyMDYyVW80U0paMUk?oc=5",
+    "published_at": "2026-10-09T16:06:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "e2940fe897da1312",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Ilham Aliyev concluded working visit to Turkmenistan President.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1id2pPcEtTRDNCNEY1UkVka3dnT0R3OFFYUDFsRzh6N2VHSFoxSXk5NGt0ZVNXUl82ZzM0XzViR19pRmVxMFdBMlhLdGdrQ0JtRXNZZHJn?oc=5",
+    "published_at": "2026-10-09T13:20:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "19457713865219ed",
+    "leader_name": "Ilham Aliyev concluded working",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Ilham Aliyev concluded working visit to Turkmenistan Azernews.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pczlVS3FGSHpnYkJjZXByZUFYNjdiSHg2dVk4azZnRG5POGlaeHRWRW42RHY5VlFNUGVPUGNuNXNaeFlEdHlvU09NNnRGWUYyb203TA?oc=5",
+    "published_at": "2026-10-09T12:40:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "005dc5011e2ed310",
+    "leader_name": "Felipe VI",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "State visit to Finland by Their Majesties King Felipe VI and Queen Letizia of Spain www.presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalRyclZRNXpCZGh2cGRjMWFZUWtiZWhKRjFDNkhwekM5aEwwWGtHbDhzSXdxRU1HajV5M1lwZ2MtYzhFd0VpZTZXVGs3Nk1nUDJFc0tNYWlEQ21wNVFFRElOYVI3MHBhQXY1ZjZlVng1TVNnOFVXUWVibkpTdU1hb0NSdWlXU01pejgwc0hIcWg1YVhxRlg3TnFNeGhhZXR0X0V0aW5lbkVjWUZWWFU3N3ZXTzk?oc=5",
+    "published_at": "2026-10-09T12:19:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "4fe12d9399e6a86b",
+    "leader_name": "El-Sisi",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President El-Sisi arrives in Malaysia on official visit الهيئة العامة للاستعلامات",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGlrSFdEcHRTNDVOR0ZJbklKR3FDQy1sZEVWYW1HM0FvellsMkcydWVDcTJnSFJyT3l1VkR3LTdMcW00WDRkdGVUakVPd2c3V0lSc1V4X1ZPbmFTU1cxU2xqdmJ1dU44Y2c1U2gzUUtVY25jTDI3bXk2MmRPQldNNXNTY25Qcjl6TGtPeWE5eUdlNDZXMTJyRFhoWXFBb0dOdnhaNC1oc3BCQ0lMZ09FMnBpMXAtVlJpMlF5WQ?oc=5",
+    "published_at": "2026-10-09T11:51:40Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "8821306b5b49d892",
+    "leader_name": "国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "国会主席陈清满访问中国：促进两国议会合作。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXRaVC1rMTNsZ01nMFpQTVpIMENuckF6ZnRZMUNsR1BfaWJQWnJzZzI3RHhfM3d3cFlfekktVVdmTm1kTWZQLXFxRGlCWXcxdWM0dVJmZGRraXAwNkk4VndOUk1MaHAtTmh0Rk9wSnpYWF9HTDllMjhyM2ltS3o4cWQ5TjV6ZW93RVFmbTVIRVFJZjZqU1RTVVZWTkJrNE5aTU95TXUxQ252NzNHOE50cjBMZw?oc=5",
+    "published_at": "2026-10-09T10:21:09Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:39Z",
+    "updated_at": "2026-10-10T04:02:39Z"
+  },
+  {
+    "id": "91e9cc1ee85666ad",
+    "leader_name": "柬埔寨",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "柬埔寨总理黎明雄抵达金边，开始对柬埔寨的访问。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEV6VGFBYnA3NGxvNTBMWFd4b2Rsd3RaQ2RvdmJubXViLVNmV0ZkNGFBT2FhRWR4dnl3Y1VVV3dBOXhkU1RlU2dfcmg1cVp3Z2pzREI5SXZLdzBOejZTQjh6RjlROTF5TjBJcHd6QU5ZLXBaRV92dFdBOEtfbDloYzNQWmo0TFU0UHNYcW1QaGEyZU0?oc=5",
+    "published_at": "2026-10-09T09:29:52Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:39Z",
+    "updated_at": "2026-10-10T04:02:39Z"
+  },
+  {
+    "id": "3e84f92f1ce146cf",
+    "leader_name": "Le Minh Hung starts",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister Le Minh Hung starts two-day official visit to Cambodia en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2NvanM2bWN1b0RZWTRjSmlZX24yOGZfWGxWVllFazQxQ3hJN0U1NUp2dldacGs0MmVEQlJTd0ZOQjctUW9yODJSSWNxR2Jyb2JkU0FCQk1oN1BvZG12a3I1b3dMUGk0Z1FvVEwtVi1GbHd6Y05xcEtzcHUzR2VnLV9tcWwtVWZYNVREa2V3ZEFnUmEyb2Y1azQ4Ul9Vc1hXVGY5QU9DaXd6VllXTTJsR1BMdEEzZC1F?oc=5",
+    "published_at": "2026-10-09T08:21:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:37Z",
+    "updated_at": "2026-10-10T04:02:37Z"
+  },
+  {
+    "id": "48520603f48004dc",
+    "leader_name": "默茨",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "默茨总理谴责施罗德出席普京生日活动—— 塞浦路斯邮报 UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnU1UkRKMnZLTUtJcVl1ZjBsZUVEeXQ1TFEybU83b2lxc1VsdVpvY0lPdVZqOTRzbU5ZaFlEMWVSWEE4LW05dGhsekF0WDRyZUx4ZkhNTHhhU2gwTkFKTElXYzh1UGxZSU9fMURKdnF5YTY1SGZxQlpsWjVaWFRTUFhxWllYYXJwSjhRZG1Gdm5pVUtkeWc3Q09mVkx6SWNqVkNz?oc=5",
+    "published_at": "2026-10-09T06:37:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-10T04:02:39Z",
+    "updated_at": "2026-10-10T04:02:39Z"
+  },
+  {
     "id": "e02dae82886f8bed",
     "leader_name": "",
     "leader_title": "总理",
@@ -16,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-09T04:17:23Z",
-    "updated_at": "2026-10-09T04:17:23Z"
+    "updated_at": "2026-10-10T04:02:39Z"
   },
   {
     "id": "11fcbaf305d673ff",
@@ -130,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-09T04:17:23Z",
-    "updated_at": "2026-10-09T04:17:23Z"
+    "updated_at": "2026-10-10T04:02:39Z"
   },
   {
     "id": "b03b339464e9b726",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-09T04:17:22Z",
-    "updated_at": "2026-10-09T04:17:22Z"
+    "updated_at": "2026-10-10T04:02:37Z"
   },
   {
     "id": "d95791cc575525ce",
@@ -168,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-09T04:17:23Z",
-    "updated_at": "2026-10-09T04:17:23Z"
+    "updated_at": "2026-10-10T04:02:39Z"
   },
   {
     "id": "a82c805fd9484375",
@@ -206,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-09T04:17:22Z",
-    "updated_at": "2026-10-09T04:17:22Z"
+    "updated_at": "2026-10-10T04:02:37Z"
   },
   {
     "id": "1a0a02b7aa143ba1",
@@ -263,7 +472,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-08T04:11:59Z",
-    "updated_at": "2026-10-09T04:17:24Z"
+    "updated_at": "2026-10-10T04:02:40Z"
   },
   {
     "id": "1da04dfc0838d5f1",
@@ -320,7 +529,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-08T04:11:57Z",
-    "updated_at": "2026-10-09T04:17:22Z"
+    "updated_at": "2026-10-10T04:02:37Z"
   },
   {
     "id": "94bea1462cd6347b",
@@ -9060,7 +9269,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-26T01:01:01Z",
-    "updated_at": "2026-10-08T04:11:59Z"
+    "updated_at": "2026-10-10T04:02:39Z"
   },
   {
     "id": "8918a98a0d1e3337",
