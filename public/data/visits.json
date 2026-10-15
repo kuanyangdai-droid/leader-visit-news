@@ -1,5 +1,214 @@
 [
   {
+    "id": "0cebc0c9da378219",
+    "leader_name": "",
+    "leader_title": "主席",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-10-15",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "Statement by David Riley, Ambassador and Permanent Representative to the Conference on Disarmament in Geneva.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/speeches/we-are-witnessing-an-industrial-scale-assault-by-hostile-actors-like-russia-on-the-information-environment-in-the-uk-uk-statement-at-the-un-first-comm",
+    "published_at": "2026-10-15T00:35:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:54Z",
+    "updated_at": "2026-10-15T02:55:55Z"
+  },
+  {
+    "id": "110aee4994d60d01",
+    "leader_name": "Sadyr Japarov",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Sadyr Japarov arrives on working visit to Azerbaijan AKIpress News Agency",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWZvTXdVVHNmNFhSd2VWZ20tbG1nSHhzUlh5QV9CdU5DRDh6M3k1V1piR1Z0MER6cVFqWDdVYi1HOGpvUl81SndHdEZuNlBqdTk5YjlycDNtVm55S3NzOENYR2Izbmg4QnFGcW5vVTVjS3UtX3czSmVLSk9oLW9iUjUya3ExTDAwMWMtbXl2bmhRdG9VVnh4Z2hSbm0?oc=5",
+    "published_at": "2026-10-14T18:05:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "ffeda61900784e22",
+    "leader_name": "代表大会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "全国人民代表大会主席访问中国陕西省一处历史革命遗址。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUlPeUpOVVNQSk5selN5UnJtbjNrQXNzSThGRDZBWlpCTmdVVUtfc212UjFRQ1ZmLUlSZF9xbGNRVmpwd1kycHNkNF8zVkFRMlRES0g1WkQ4M1NhM28yNmk5MFpnVmlXUUYzMzhyNGFtdXZycVl6Q1FJT2dMNktWeWNjem1pTjRQaHhTS0ZHWmdzWURDUmY3d3VNY3BwemVaOHdTYkxoTm5XNUE?oc=5",
+    "published_at": "2026-10-14T17:31:39Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:54Z",
+    "updated_at": "2026-10-15T02:55:54Z"
+  },
+  {
+    "id": "bf3492da378f6e5d",
+    "leader_name": "",
+    "leader_title": "king",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "Saudi Arabia",
+    "summary": "越南领导人将于下周访问布鲁塞尔欧盟领导人讨论削减对华依赖的计划欧盟文件指出，鉴于竞争日益加 富途牛牛",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON05sWmxQU3hkRWpHREE3RHlSaC1SV2c4cE9zYTZvOC1HRHNKbUczWlc1WFZjZnFPNjRCOThGLW9OV0owcjNabjJHSkVieVdUT1c1ZHQ3d0tYdlFqLW5Fa2JaM3ZES0FVY2FMU2hwcWx5NHZ0UHRydUdmS2JyOUVZWUpfdDhlRUp3Rm0tV1dCdklhTHUwWlJ0MkxkVjUxZ3hLLW5mNVR6bVphM0g5MHhJ?oc=5",
+    "published_at": "2026-10-14T15:21:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:54Z"
+  },
+  {
+    "id": "c7574a8cf2178f99",
+    "leader_name": "new",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Estonia’s new President Ülle Madise visits Finland www.presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzl4Z2lMSDN5OXJNa1pQUmxOeF9zcXp5SkFwYzNGcGFVWW82MHRLWFN0Q05kRmZVU0RIMjJfWEx0N1lQYXFWYjgtUU5CS2t1Zm5DSW9zOXRsejBFdjgwcGxTWHVkOXozakdtd05TaUxTSVBlMU1xWFR4dEQ0bmw1M0poZmRSMEU?oc=5",
+    "published_at": "2026-10-14T15:13:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "15b0483df8d41c56",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Working visit to Finland by President of Estonia Ülle Madise on 14 October 2026 presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0lDMjRFWVo2OUdzZlZQT0xoMHZESllvWUI3cEk3aFNuazFPRkdkSG80b056Yi1HVGkwWkx1bTNoZVNtRXZ6SU5USUhjY25TTWcxaTlPU0lTX3J0d3pmMEI5U3B0eGkxb1g2ckZmSGdXTGtOcGEtSTBNLUMyTU1TY19YbzBLUW8ybTR2bkktdy0xVGtxRmVia21PWUladjdYdFhzbV8xTktXdzI4Z1F2ektONVZXWVlpeWN3?oc=5",
+    "published_at": "2026-10-14T15:11:27Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "c711d34d3bec7a95",
+    "leader_name": "马克龙",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "",
+    "summary": "马克龙总统将访问四个海湾国家 — The National UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFpKS0lrTHVaWno5b2NYYi16RE1sdHdUd1NQMFR3RGRLNUZNUVA5OENKbGZuck9VQU55a2N4VkFLbVRxUDBZVGwwQ2hOYnlMWlZHWUhmeW5PNFdHaGNoMUVmdjAwTXE3akh5TlQ0MzV0TUFic2t3YzRleVlSQlJVZGtwSG9tY2RMQlN0aWZrUEI?oc=5",
+    "published_at": "2026-10-14T15:03:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:54Z",
+    "updated_at": "2026-10-15T02:55:54Z"
+  },
+  {
+    "id": "61de807c0af2e5b4",
+    "leader_name": "Sheikh Mohamed bin Zayed",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "UAE President Sheikh Mohamed bin Zayed Begins State Visit to Germany on Wednesday Yemen Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QcUV6dFBrWmd6UkRsZENjN0FkeVRDdDI3Y2FSaVBLS1J1c09oSnpxNmY1bS1UWTVuTGFqNmJkUF9nRU9IcVJpeXVnNW91eG1NblE?oc=5",
+    "published_at": "2026-10-14T14:29:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "eee6ff407f55f881",
+    "leader_name": "Vo Thi Anh Xuan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Vietnamese Vice President Vo Thi Anh Xuan concludes her official visit to Georgia Rustavi2",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IUElHZDdFUEQ0NXlpcEZxMGh6SGpkcGpKVEJFeExwWVZTOVd5TXd6RXRuT0VCSTBEQnZsNTd4a2pudVNER1V1NXNB?oc=5",
+    "published_at": "2026-10-14T10:39:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "2ba6d2f0cd3cb392",
+    "leader_name": "国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "国会主席陈青曼访问中国陕西省革命历史遗址。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmI0d2NRX2ZrdDZHVlVKalR2ZEdhSjQ0d0lRcTRqVHFfbzlXczJ3dTRHcFlLb1pqLU42SFhSd0J6NWNYaVlJSnc1bjA2WFlucVh0bER2OGF6VS14MnVKcllfMkRIME5yQnVidzRUMlJYeWxXMXBoRzZjSVQ0c1ZfSzI0cHI3VTNWVVBsMVpYcWpZcTcxV1FTbzh4LWNzalBYcmthUDlMRnNJRm9oSlBNQ0lPQWR3alJFMV9xaXJITHk1Sk5F?oc=5",
+    "published_at": "2026-10-14T08:08:28Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:54Z",
+    "updated_at": "2026-10-15T02:55:54Z"
+  },
+  {
+    "id": "c9f7144964f4e24d",
+    "leader_name": "Brigitte Haas",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Liechtenstein Prime Minister Brigitte Haas to pay official visit to Viet Nam en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1QtNjhaUkxSZXJLdDRobmNVTUtxTWxiSFZZUGE2dkdzay16d3pYR3JYZzU0bFIyUHN2X3RtVU4waXFuVThCN3JOMjdOaTRjdEtnYmpDaUxsRERqYWhCYlBOcmlPQVROejdUTjdYWUJha3FqZGNxQk15TmR2SHc0Vm11ZkRhV2lHQU5vVDFobVhqaEY3NTFYNldEXzR0enJzWUxONGRWNmxDXzZDYk9RNVNOenZMdXNPaDdYaExnWlFSQUU?oc=5",
+    "published_at": "2026-10-14T08:05:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
     "id": "387f6675690d40bf",
     "leader_name": "Ferdinand Marcos Jr.",
     "leader_title": "President",
@@ -16,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:06Z",
-    "updated_at": "2026-10-14T03:17:06Z"
+    "updated_at": "2026-10-15T02:55:52Z"
+  },
+  {
+    "id": "99d323a942c1b6ba",
+    "leader_name": "highlights defense cooperation as",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-14",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Prime Minister highlights defense cooperation as key pillar of Viet Nam–Laos ties en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlZBVEdDR0hXa21Ka1Z6R2NfeGNFUFM0LXVKRkFBQldsTmh4bE1RYV8wRFJXUWJVbjRCTUhFYWNjMlVRR3hoalFINS1CVDNEWEhWWHoyYk00aG95SFJrNkdqaEVGVFItWUNmMTZwX3AwNkpLSjA3WVh3SzNld3ZucXVId0QyTzhhME83aGtoSk13Q3BwMVVxT3h6dURnLU9yaTZOYWM5eERWY1dnNzlacUsyamNjMTRNMEFUckViQVVNSTZMSUVUcA?oc=5",
+    "published_at": "2026-10-14T01:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:52Z",
+    "updated_at": "2026-10-15T02:55:52Z"
   },
   {
     "id": "81972fdb11f96631",
@@ -35,7 +263,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:08Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "f41750a6ee3295d8",
@@ -54,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:08Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "4a132f780fd869ec",
@@ -92,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:09Z",
-    "updated_at": "2026-10-14T03:17:09Z"
+    "updated_at": "2026-10-15T02:55:55Z"
   },
   {
     "id": "086401015bd04a57",
@@ -111,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:08Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "e39c822ad9049375",
@@ -130,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:06Z",
-    "updated_at": "2026-10-14T03:17:06Z"
+    "updated_at": "2026-10-15T02:55:52Z"
   },
   {
     "id": "b4e3c585f2058381",
@@ -149,7 +377,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:08Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "da6c8e25e6ec62f6",
@@ -187,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:08Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "059dfdbd9ae5624d",
@@ -206,7 +434,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:06Z",
-    "updated_at": "2026-10-14T03:17:06Z"
+    "updated_at": "2026-10-15T02:55:52Z"
   },
   {
     "id": "79b1a0039c6aca7d",
@@ -225,7 +453,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:09Z",
-    "updated_at": "2026-10-14T03:17:09Z"
+    "updated_at": "2026-10-15T02:55:54Z"
+  },
+  {
+    "id": "86fcc524a8801e4f",
+    "leader_name": "国对国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "中国对国会主席陈清满的访问进行了广泛报道。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGNZbF9XQ0ZRdDRZbXNTUHBEUGpicTFUX3ZpdnQtZFRrTXpkTEZzOTFhLWJVZThQNjdONTFiMHBrWTFyNjM3cEdsWDVQRDVUSThVTkt2a0xpbFMwSVFjUzFNTG1WV3h3N1lmZUJIWDRHaTEyOFBtb055Nk5EZ1VwNURETUMxMWdKZW5IYzdMZERVYlVmZXkzX25kNDdpc1BsOXBjdUIzWGdiZ0k?oc=5",
+    "published_at": "2026-10-13T04:02:07Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-15T02:55:54Z",
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "6adbb453bf1d0d64",
@@ -244,7 +491,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "ffde289a9c38dd55",
@@ -263,7 +510,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:09Z",
-    "updated_at": "2026-10-14T03:17:06Z"
+    "updated_at": "2026-10-15T02:55:52Z"
   },
   {
     "id": "1a31168230ffb1e3",
@@ -282,7 +529,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "e30bb1983edd7f7a",
@@ -510,7 +757,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-14T03:17:08Z"
+    "updated_at": "2026-10-15T02:55:54Z"
   },
   {
     "id": "6525dd8a718bb919",
