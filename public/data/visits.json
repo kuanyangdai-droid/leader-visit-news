@@ -1,5 +1,176 @@
 [
   {
+    "id": "3b553cb1f169ce14",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-10-16",
+    "event_type": "other",
+    "destination": "",
+    "summary": "台湾学者分析：习近平的海外访问揭示了他的哪些健康状况 加美财经",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWUxQUXFsbkR5My1jV1Z5dHBtZnc3akhqT0daV1hIV01meVRJUTdRekllYThWNmtjQ0s1YWpoQVI0WWdQaTR1ZmtQNVlYS1VwRGNfYUtvclZPUQ?oc=5",
+    "published_at": "2026-10-16T02:02:16Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:35Z",
+    "updated_at": "2026-10-16T02:53:35Z"
+  },
+  {
+    "id": "729280d4a70de68e",
+    "leader_name": "",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-16",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "越南国会主席陈青敏会见老挝人民革命党中央书记处常务书记 Thông tấn xã Việt Nam",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaTFkY1ZWamZiY1hseHk0ZDNpM3JRNDlLWlBnNEZjWG8zVkRVdkx3MENQZ1lPY3ZYeXRlYkhXV25YcmI3YVVEcW85MFItR1RNME5TVm9NVkVndnFwUWlyTFpUZkpDejlsdDJLcHlsQlFpM1RBOWZhckVZU0drTzBCM3p6c2tkdlFwSnl3eE9rUXhaZDJWWlB5dUI1SzhwSmNPa0g5N0JiTWI1UnFyVkU2ZU9yNHV2NURTZkZteEdXR2tpTUlBNnpRV0pWdlZISEIzWkZaNTF5UGQzUzBzR3dwT1JQVnhBaEN0djdPTDlXcXlvM29jazVtemV2WTBJV0VMYUJ4TU1ZSzNWd2FrS0dyb2FtbFQ0WEJqX2Y5b1psZ2NXNUFHZXRiZ1VQS2wyYnBUM2pMVlB2ay12d0Z6cWd2TnBKOVY3TXl0Snp4THp2bmJOcHZBcy1sd29aQUdDaGFEUlNoc3NscFh3aXdKcUZTMUVDTjFGZjJpUGtBU3A2RURoRGVpa2VoSlFGbGRyLVhjWGJVYy1HdlF2ZnBSTWU4clJibjlnbWls?oc=5",
+    "published_at": "2026-10-16T00:41:05Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:35Z",
+    "updated_at": "2026-10-16T02:53:35Z"
+  },
+  {
+    "id": "1e32f2bcc135ba6c",
+    "leader_name": "of Kyrgyzstan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "The President of Kyrgyzstan will pay an official visit to Armenia. ArmInfo",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3eDQ4eHNaMUMyLUYyOTh4RWpBSzYtazg2Nl9CQmV3eUFmSGM3V2JNN2V0d2dfcU9OTFZuRDdQWWJUUTdkUFZlS1dKQ0hLRWdMYU1Rc01BcTFudklUNjlBcQ?oc=5",
+    "published_at": "2026-10-15T13:54:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:33Z",
+    "updated_at": "2026-10-16T02:53:33Z"
+  },
+  {
+    "id": "6d1a0c4a22cf37df",
+    "leader_name": "of Switzerland",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "The President of Switzerland and his wife will soon pay an official visit to Vietnam. Vietnam.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1Y1UWZ0S2g4Z1ZYLW5Hd1hJQXlzRWtPOG1WY0dkcURqcVBXNGtYSUVoSkF6V1lJR0lDX2J1TDFqaWRPaHotdkhINTAyRXVWS0l4QnVTdk5NX19TRUl3dDVsd3JsNHVuWkxKbGFtU1R2d0hCRWJDc2VzNlBJV2NzVlRJbl9ONnE3TVh6aGVR?oc=5",
+    "published_at": "2026-10-15T12:51:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:33Z",
+    "updated_at": "2026-10-16T02:53:33Z"
+  },
+  {
+    "id": "2746166171fdd3e4",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-15",
+    "event_type": "other",
+    "destination": "",
+    "summary": "General Secretary and President To Lam to visit Denmark, EU, Belgium Nhan Dan Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW9ycTFqeWExZzZRTzRsWEEteWcxNDFaWnhmNHNVT0ExcThiV1ZUYUxTWmI4N3c0MTNfZ1ZKdDhwZFNrcnd2cXBldThGUDB2X0tBVXdHZzJvZ0ZjM2wzR3p3cWpld2diX0xLQjY4b2NDNmZqSEZjQjVCWTI3dmxCY0xucko5MDRPU3VSQmgxS1JNUS11MUQ2TkNZSjBYZGNIUDZhRlEtSQ?oc=5",
+    "published_at": "2026-10-15T11:01:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:33Z",
+    "updated_at": "2026-10-16T02:53:33Z"
+  },
+  {
+    "id": "9032fd1eee1ee007",
+    "leader_name": "值此国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "值此国会主席陈清满对中国正式访问圆满结束之际：促进制度互联互通，将高层领导人的共识纳入立法议程。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMGQ5cUdhU0hLcHFIemd4QnNPa0NtT3YtcG9mWVlQN2pnRHJveVZJRnJPeGdQRlhGZm1QSG5VYnBlMlBDWlRGbjZKSWR3T2VrUFQ3T0NBX3MteS1YbzhpMUN4cDZlTEpvSE5aaGFuYllUNE9ISXV5dWdnVUJsOWJCc2lEWnN0S0VXUW9FMkhJd0ZlNlRfR0NKREdONWdLRXNSMUQ0M1JZS2JUOGlXWGtNaU1fSkxiaUxUREFuZHV6X0x0Q3ZZdjZWbTRHdG11YnppNVJpUjVHV28wdjV6UUVYcjBNUHktcUlndUdGYUEtdzh3aWViN3ctTVc1M2pXaWJRZWtoaXhfWERrYUZndlFpaEQ3VEFoRjE4R2UtdV9GUUtISHlOMUg0aGJwdlRHSjlOM1E?oc=5",
+    "published_at": "2026-10-15T09:10:31Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:35Z",
+    "updated_at": "2026-10-16T02:53:35Z"
+  },
+  {
+    "id": "3cff67aab8c1007b",
+    "leader_name": "of Mongolia",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President of Mongolia to pay state visit to Germany Qazinform",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTNMVzVGZGpWSlplZnZnd2gzNlYtTE1hekVSdjBrUC1rNW1JajlyWU1MdUNXazFaY251MzlleGRHbHpqdExWaGs0Yy1iWHltWk9ZUXFtUnItXy1aQUtiby1rX1dMNkFMdkg4VmlZTTA3cGhtT0p1N1MxTFp1NXZQamFlN1o1ek5xeTZ4SExB0gGOAUFVX3lxTE92bFdNNkRlZFRFcUs1UThNMHh4d0F1ME5wM3U4V0ZUcUcwLTNudnVVdVVMUl9EenUxNVZQZHFRTElJS2VrVTB1RFFSV1pRU0VyblY2M2ZnaDBqNVJsZ2R3eWppTFBaLUtDZk1MdlJ4RnFua3ZfaXY0QWhsN2lkcXRlMGdyMHRfLVBiOEM5YkE?oc=5",
+    "published_at": "2026-10-15T05:50:43Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:33Z",
+    "updated_at": "2026-10-16T02:53:33Z"
+  },
+  {
+    "id": "21a0589cb5f53f2f",
+    "leader_name": "of Turkmenistan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President of Turkmenistan arrives in Azerbaijan on official visit AzerNews",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yOUVGalZjVHFBb3RDRnNvSjNGZldoQ01tT2VpaDdDOVdqc0c1TjRZYnJWZk9vUks4Rl9SeU1NVDk2TDJYc19oZ29mNjVoREdIdnM2VA?oc=5",
+    "published_at": "2026-10-15T04:50:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:33Z",
+    "updated_at": "2026-10-16T02:53:33Z"
+  },
+  {
+    "id": "59e4c5340cd5bab0",
+    "leader_name": "国会",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-15",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "国会主席陈青曼访问中国陕西革命历史遗址。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnlEd1YzZkVkQ2pTMzVxRWdhd0FXZlZpM01pOEd0WTQtbzhkWVJEdVRXYnNsdGFkeEdsM2lucnFSTWh2VnU2TXZVVGt5aktYYlpOV2liZ3V0OFlGX3JZa2lvbkZOSXhWTXZKRXlLTGJhaHpLb2RfU0ZUZEpuNjI0SzdZVlppWkZzOG5saW15ZGVKV1dheHNIcGg4TjNHanJxbXhYMzR5MzRCTkRzWlE?oc=5",
+    "published_at": "2026-10-15T02:11:56Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-16T02:53:35Z",
+    "updated_at": "2026-10-16T02:53:35Z"
+  },
+  {
     "id": "0cebc0c9da378219",
     "leader_name": "",
     "leader_title": "主席",
@@ -8,7 +179,7 @@
     "origin_inferred": true,
     "visit_date": "2026-10-15",
     "event_type": "conference_attendance",
-    "destination": "",
+    "destination": "Canada",
     "summary": "Statement by David Riley, Ambassador and Permanent Representative to the Conference on Disarmament in Geneva.",
     "source_name": "GOV.UK FCDO",
     "source_url": "https://www.gov.uk/government/speeches/we-are-witnessing-an-industrial-scale-assault-by-hostile-actors-like-russia-on-the-information-environment-in-the-uk-uk-statement-at-the-un-first-comm",
@@ -16,7 +187,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:54Z",
-    "updated_at": "2026-10-15T02:55:55Z"
+    "updated_at": "2026-10-16T02:53:36Z"
   },
   {
     "id": "110aee4994d60d01",
@@ -35,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-15T02:55:52Z"
+    "updated_at": "2026-10-16T02:53:33Z"
   },
   {
     "id": "ffeda61900784e22",
@@ -73,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-15T02:55:54Z"
+    "updated_at": "2026-10-16T02:53:35Z"
   },
   {
     "id": "c7574a8cf2178f99",
@@ -111,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-15T02:55:52Z"
+    "updated_at": "2026-10-16T02:53:33Z"
   },
   {
     "id": "c711d34d3bec7a95",
@@ -130,7 +301,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:54Z",
-    "updated_at": "2026-10-15T02:55:54Z"
+    "updated_at": "2026-10-16T02:53:35Z"
   },
   {
     "id": "61de807c0af2e5b4",
@@ -149,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-15T02:55:52Z"
+    "updated_at": "2026-10-16T02:53:33Z"
   },
   {
     "id": "eee6ff407f55f881",
@@ -168,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-15T02:55:52Z"
+    "updated_at": "2026-10-16T02:53:33Z"
   },
   {
     "id": "2ba6d2f0cd3cb392",
@@ -225,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-14T03:17:06Z",
-    "updated_at": "2026-10-15T02:55:52Z"
+    "updated_at": "2026-10-16T02:53:33Z"
   },
   {
     "id": "99d323a942c1b6ba",
@@ -757,7 +928,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-15T02:55:54Z"
+    "updated_at": "2026-10-16T02:53:35Z"
   },
   {
     "id": "6525dd8a718bb919",
