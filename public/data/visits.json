@@ -1,5 +1,214 @@
 [
   {
+    "id": "a2063509dc6dc12d",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "马克龙访问阿联酋 讨论双边合作及地区局势 中华网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zU3RQdW85eUlvb29XZzBHN1plVTlYR25INVUwbjNheDVRMVRQbWZha2xHOEtqc08tb2o2enRPcmU2M3JzV3JhTy1QNzdnRHMySHNKREZJaXJMejdLNWMxQm5fVjBtRFFCZnBSSjByVVZDZw?oc=5",
+    "published_at": "2026-10-21T01:51:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:48Z",
+    "updated_at": "2026-10-21T03:03:48Z"
+  },
+  {
+    "id": "c8cfdaffac236e6b",
+    "leader_name": "李在明",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "李在明总统表示,将通过国政直播和媒体接触、现场访问、社交媒体(SNS)扩大国民沟通。 将社交媒体称为政治生存的\"命脉\"的李总统表示要增加与传统媒体的接触点，对国民沟通方式是否会发生变化备受关注。 매일경제",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuN0FDaTBVZTAzSDFOSFFoUkZtX3dSUDNyWHI5TUZZNVoybVBiMm85OUNBdXBUNUl6ZHoxWDJRSDNKXzVwTWhqcldFdVgwbEFRNGdJ?oc=5",
+    "published_at": "2026-10-21T00:51:16Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:48Z",
+    "updated_at": "2026-10-21T03:03:48Z"
+  },
+  {
+    "id": "c0f8ff3f4495f667",
+    "leader_name": "of Germany Officially Welcomes",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "other",
+    "destination": "",
+    "summary": "President of Germany Officially Welcomes the President of Mongolia Montsame",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43djFLeWY0OGtpM1NqWW8wTFM5VlEyZW9xMWtJUUtLMDRDTTBzNk9CUVBjeWJRZ2FLQXhGOUJDY3VhcXoxOURIYThn?oc=5",
+    "published_at": "2026-10-20T17:13:20Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "553b1373bbc5cfdb",
+    "leader_name": "加拿大",
+    "leader_title": "总理",
+    "country": "Canada",
+    "origin": "Ottawa",
+    "origin_inferred": true,
+    "visit_date": "2026-10-20",
+    "event_type": "other",
+    "destination": "",
+    "summary": "加拿大总理卡尼将访问土耳其启动伙伴关系—— 阿纳多卢通讯社 UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDM4enFfRElDYkRxM21wUU1YVDh2X1h0NDg1MjlkZnFhVTEwUkcwRXpFSnJjamNXb0VVb2MtYlJDSlJwandUajBvVWdxTEVIbVhGaHdPYkliQkU0WGRnTmlRWEVYYktzOC1aZDF6NUVoMmFDWnJYZjc5ZW43TDY3eW1wYjdGeUl3U1N2Z0NyUEYxOVN4OUlQcHA0NWFqQmlhckJ0cnJ5aHV2T3hSdWNfY0l1Y3FrUWR5a2E1Vg?oc=5",
+    "published_at": "2026-10-20T17:01:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:48Z",
+    "updated_at": "2026-10-21T03:03:48Z"
+  },
+  {
+    "id": "5b198fa5208c05c0",
+    "leader_name": "lands",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Maldives president lands in Pakistan for three-day state visit The Express Tribune",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGN5eEdEN1JNbmV6VnVqWldyLWxhMjM5SjUyVVRyQnlYbUdQQ282TTlTYVVpYk5GRzhCekFQVm5sNTYtS1d2d3kxZTFIQVJJenZJendVTE5WSXFnc1VMcnhtT1BpNGs0bFB0S3RkallQelVUOHhSamRxVW94MGllMmtERkdQazNsR01ORlZ4TmJrNVUzRk5nTGYyWk14eXJI0gGoAUFVX3lxTE5QR29nZmVsa1lTdFY1TURRN1NjYzRTLU1TT0FVN203a3B6RWQtemNGQ01Cam14cENNTk1zWktkcFk2SllwQnZJYnJEYmJCRUh4LVotSWZ1Y2sxVXJFWjhteGVFWEJjWmZQQWNRbm9lX0gyTHZGelBicWRsS3dBc2FtZ3BGZ3NHclVTcEZCR200VlRRdGtqaERHWTNqUGRUX1BYdWwxenJCWg?oc=5",
+    "published_at": "2026-10-20T16:43:48Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "a17e996658bf206b",
+    "leader_name": "of Ukraine",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Official Visit of the President of Ukraine to Norway Офіційне інтернет-представництво Президента України",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFl0eS1uWEE0OUloWWZScGVQbmlEanpILUI2alIwNnd4R3YxVVd3R1NCWnAzWm9rU3llaFVabHN0ZjVMeTcyNHo4Z0ZBcS0xRkNZRGlvTl9MNGU1d19IY2dDdEExTkZ1enRMTUZTUFNnaU5wMkF1OEoxT2k5ZlMwQ1N3M1plR1NpTlFidS1HTXpseUdBblA0?oc=5",
+    "published_at": "2026-10-20T13:56:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "3e5c14ca49413479",
+    "leader_name": "the invitation of its",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "At the invitation of its Prime Minister, Crown Prince of Abu Dhabi to begin official visit to Greece tomorrow مكتب أبوظبي الإعلامي",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQ09QQVZ1NmdaSzFWM2hhVkNCTTdWNXY4VGVJU05jcmpFeDQ2dGdsdC1OaGstTjVoQzdkTnNrZ1FMYzFFVGJaVXV0R2ZSNG05UE5iM3Zwb3RZeGowNUt2M2dtZkJUVG1fVVE0UDJOZXNRMGlUSUdCbFdrcEFhQS1UQjhJN1Vlei1hMDdQQ2Y3dXA0dmxkdmxYcjV0ZTlXbGN5eEU1MVI2bUdsQjdtQUNpQUJ3NHZLdFVGRFpuRjJ6U2pzWHUzVUN5YlpsWVdNdVVjSlo0b3d0TkRJQ1hfb1dtLWpXcG02akcyRHFwZUlhdVBvY2VhYWc?oc=5",
+    "published_at": "2026-10-20T13:24:45Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "f1ce14aa85a1f304",
+    "leader_name": "bids farewell",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "UAE President bids farewell to French President upon conclusion of official visit Gulf Today",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE1LZ0czc01jdlJnTXVrdExnRlV5YS1rUnUxTU9MMktYSnN1MjZ2MUM2OE9weUhpNkY3a0NGVzY4aDYxRzJ0YWp0X0hmZnNzbllCUzY4TWtSYzgzcGNzOVAxdzNVak1aREdWRy10cjFkNm8wQnVabm9KTUNPaVpFdWlTbzVEekM1MHA2N0lFUzJMOTlXZE9VMVlSZGpobkw2enRFOGxSM3Y?oc=5",
+    "published_at": "2026-10-20T13:00:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "dfddd04fc95f98ea",
+    "leader_name": "Receives French President Macron",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "UAE President Receives French President Macron in Official Visit Global Arab Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYW5LekY3ZjlKUXkxSEl6YlZydlVZVXhDRkEyelA2UU5OeDZOdkNXdXJpZDlLSENLQUs3UzBLM3lqUU9yZmhMTUk5eEhiWF9EcWxublNZSTUxS0dRUXVQR3BDNUdPbWxOdHd4R2U4V0VCRHh5TC1mWFZ5d05OU3Z4TGs4djYxSWJqN1ZWU2ZadUlFbmhMd3AwNDUtSFI4S0h3b0JBakVqbUY4T19BbllwVVBnTlo?oc=5",
+    "published_at": "2026-10-20T08:20:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "6ad5443fbffd0cc9",
+    "leader_name": "Hosts French President Macron",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "UAE President Hosts French President Macron on Official Visit India News Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNW9MSFZVcEpWSnBLckVLa01FZUo2ZzVQaDNpdEFyZmNEVUZJdjkzaE9JM3hUTDBTWGxORWJMSWF5bUtrcGpLLWs1cm56Q2RNVW9UdlBXajYtVFpkOVhWN0xrcEo3RXBCRHRUdFdFaWstSmwxYW0zTTYwRWF6WWE4cDQ3eDNHaGFkQzRzYjdLTDdmdTNOSjZRWDBOZ1Nyamo1aHQtUHRn?oc=5",
+    "published_at": "2026-10-20T06:40:57Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
+    "id": "9e07a1f882f6e21b",
+    "leader_name": "Stubb",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Stubb to pay working visit to Oslo www.presidentti.fi",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamN4UFQ0TTcxb0UycDNpTnhsSV9iTGNKZHNYektmOGJ4eG0zV2J6WGc0SFhqU2dpdGVGTDdkaXlWNVRGODFZVlZJVGdkTDdoRThDeHdLWF92X21vcE9adE1aX1Y0NU5xeklCV01PWm5LNzlhQ1F3SUg3d0JscnVOYjE4Yw?oc=5",
+    "published_at": "2026-10-20T05:04:40Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
+  },
+  {
     "id": "7656cd684722d974",
     "leader_name": "",
     "leader_title": "Prime Minister",
@@ -16,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:55Z"
+    "updated_at": "2026-10-21T03:03:48Z"
+  },
+  {
+    "id": "73217d501dfafde4",
+    "leader_name": "Khurelsukh",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-20",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Khurelsukh Arrives in Berlin for State Visit Montsame",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jY1Z5T2hPS182Y2MweTVIbE5ON21lMGxtY0VWTFE0Tnd1S3JxTlA1R29mQ2RBbHRYMWtmVXdtWDFJWDBaRXdiTEtB?oc=5",
+    "published_at": "2026-10-20T02:34:14Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-21T03:03:46Z",
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "db1cc9b4fe4779d3",
@@ -35,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "602fb8e0eadf39d6",
@@ -54,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "dfd0164433172682",
@@ -92,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:55Z",
-    "updated_at": "2026-10-20T03:08:55Z"
+    "updated_at": "2026-10-21T03:03:48Z"
   },
   {
     "id": "90c0af2348ac88e5",
@@ -111,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:55Z"
+    "updated_at": "2026-10-21T03:03:48Z"
   },
   {
     "id": "cf0cb3a4d370cfb3",
@@ -130,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "a29eea87dec8b54a",
@@ -149,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "f1445bd720492050",
@@ -168,7 +396,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:55Z",
-    "updated_at": "2026-10-20T03:08:55Z"
+    "updated_at": "2026-10-21T03:03:48Z"
   },
   {
     "id": "a1bbdee048977dbf",
@@ -225,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "1cf8657ba2a84b89",
@@ -244,7 +472,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-21T03:03:46Z"
   },
   {
     "id": "32feb57eb62184bd",
@@ -282,7 +510,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:55Z",
-    "updated_at": "2026-10-20T03:08:55Z"
+    "updated_at": "2026-10-21T03:03:48Z"
   },
   {
     "id": "8adfb9f2c64fbaae",
@@ -1859,7 +2087,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-19T02:59:07Z"
+    "updated_at": "2026-10-21T03:03:48Z"
   },
   {
     "id": "6525dd8a718bb919",
