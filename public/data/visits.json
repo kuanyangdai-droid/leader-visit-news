@@ -1,22 +1,174 @@
 [
   {
-    "id": "a2063509dc6dc12d",
-    "leader_name": "",
-    "leader_title": "",
+    "id": "4c4b5576c2a876a4",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林及夫人圆满结束对丹麦王国的国事访问 Thông tấn xã Việt Nam",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOUS1IVFNsR3NpUVRMMnFaUkxBZGJtbF9oNjkxZjF1ZS1uZ3V1VEdXZVpuQ251YWZyMDZaZkd3Rm4yNG9vZGJWXzhaTzNGOVZjRzJTVGNWekh0bzF2a0puZW5Ua2VTNGg2NjdfMGNVMFEzaTNHYVJ5TFhqUFlRb1BXZTRKb2tOOS1OeXpNWUhzejJEZXItMjdocWZXN2o5TjNHeVV1U2Z5Mk51Rm45VEpxU2QyZHc1Qk5LSzFoUllKWk9IYVZKQXpjS0doMnRDQVFrNS1VNndvdlp0MzFXRURrWDcybGJoYVVST09SZzEwNXhrenp0QUZTWFA1WU1Cd2hvZWkyMnR0NzdyX2xGM2x6NTl2NXd2RUlYVDhzQlJvSnQ4aFlSWHhpWXVvaEQ0SVc4dEZra1Rva1lPdXpBemwxNk1WMjFMV1FCbHJsQXNNYjI2b1FrajBnTW4weEFTMWU2ejRNTXNzcm5LeUpDajB6Vm1aOTdKcnk3ZkhKdkNGSWlpYmw1aUtxeUc5Q0doMDNjanJIaWl5dVNSazJoNVNSV3hXY0U0VFM2RlhyaHFTNGhPYkVxMWs5ZXZwS18wdm00QlJnZ2JuZU9XRVdRZXk1emVxZ0Y1Z1do?oc=5",
+    "published_at": "2026-10-22T00:14:25Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:27Z",
+    "updated_at": "2026-10-22T03:02:27Z"
+  },
+  {
+    "id": "e0fc4c95307f6c20",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-22",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "General Secretary, President To Lam begins official visit to the EU and Belgium VnEconomy",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUMwNDZDdzA1YUtEd1lQZFNrZEZteFVPLUJaSXVwcjdJdXpzZERqNDFsN1FkXzBxSVdUZUU2ZkhVdHVKcU13aU1ZRHFhRE9kMU5aY01NRU9SZmxuNk9tSkNObXgxaVJNTUk4TXJNX25qZHZkMFliMUZTbjJ2bURGbEUyRG00eUlRRF9YQUxFclFIM0hXeXRYNDNZeUJZb0N6eGtTa1U3bGhwUQ?oc=5",
+    "published_at": "2026-10-22T00:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "e5bf1cf5cd5186c4",
+    "leader_name": "UAE",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-10-21",
     "event_type": "other",
     "destination": "",
-    "summary": "马克龙访问阿联酋 讨论双边合作及地区局势 中华网",
+    "summary": "UAE President, Singaporean PM discuss boosting ties ARN News Centre",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLS1ZamtlaE5ncHRkbEFVMVZxc3JDZXU0dlV3THY0VUl6bElKb0dRTjhfZFdDbVZ2bEFwOWFLTVZIZnh3UlcyOXNQZUVEdjMxcVlLcTJoWDVWOWp3eUJ4TmdYM3VLSkcteFNwM2dtbGdMeWlBT1pJZi1ITHBid2daUnc0b2k1dDJvNERlRi1GNk5td0R5YmdpZ2ZCcHBnUQ?oc=5",
+    "published_at": "2026-10-21T19:12:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "a897bf6ceced05ac",
+    "leader_name": "Charles lauds Omani peace",
+    "leader_title": "King",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "King Charles lauds Omani peace efforts on Sultan’s state visit Kuwait Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1ItT3RoQUVDWERGNTFnNnBkLTQxTW1xd1BXN0lENzZvTk5nVXV2bGhpTFNjeTNaVnE1OGl4eDUxM0ZmUEtranFhcmN1VHY4Nld6VmVHeWp6SkRELUxFN3ZTN016WU1QbnZMcnJoNmJUMFJpbVNEZXdGVTlpX0RiNk5MMjJtV2tzOHAtYXN5cW9tcjh4VUpKelVrdEFlUmJGdVVBejk2OUxUQdIBrgFBVV95cUxOa0taelc3SHNGUWRjQTdfZ3RlT2dtX3o2eE5aczBhMXgwcEtjc2hYUkJ5YnVhcU5pODhkdlgwNzI4TlY4OVZBVU5wTGt4d2dQWDJRdWUwX3dkdWJpem5MNjhUcEhRdUx1cHZuUFFBLUpUWm1lMmZRMl81WnNnaWdpSE5qMERabEtrc3lWTV9GRjRFb21NeVFSbzZqOTRXRkRDelJpbDFmY09nUzhSNnc?oc=5",
+    "published_at": "2026-10-21T17:53:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "83a68d98b681c292",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Party General Secretary and President To Lam begins official visit to EU, Belgium VOV.VN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXFrcWx2ZkVrb3YyQjk0SmR6Qnh1SmpmaEhkLVNuZWhvYXVXZG5xNTdKVE1MbF8wREVSSUZSOWppeFJWeTNGbHllWUhoYl9LRmdVSDI0ekFmRGMxdFVtMEkzdEtGMm5DMVpSelgtemhia0lJUTJMSWt4aENMUWNfMnJONkt0eW8xSV9IY2RTdk9xMTJpQ3RZMWtaN05ndmNKeDg1S3VVTW82dEFQQVRhRnh2RUV1NTh2c081aDA2MTJnajZMYnZMVXkxaw?oc=5",
+    "published_at": "2026-10-21T17:16:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "0653e000c7f68782",
+    "leader_name": "Visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "St. Martin News Network - No Ordinary Working Visit: Prime Minister Mercelina Engages Dutch Leadership on Sint Maarten’s Most Pressing Priorities. SMN News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQX2EzLVl4WHdSb3FVVk92Q1VmNmxIQ01oMDd1WkNCX08yUEtKMktlN3NYQWpKTnRtRVp2QmM5a05jSnF0Yy12X2dYdXUwRVBoT0xXNUU1YlFVakQzRWc2ZGRMMWhtcEpCWmlFNUxiLU9tcjlRU1VnQkUzY3NyNUZWajRzV3JEUC1pUVNvLXhTUDlkVzBjOEhyZlVUUDNra3FEVDZwSjBSMEZiT0V1OHFXZEoxdWUwV2U4WmtOb1pxT3VrYm9vY3BuRXpSaVBsaHdHTzlEWmd3T1o1S1hpT1VKRVVmNHhtamktZlJUNktnek1CV3NBcU9icjlzYkpfOHJUTzU0V2wyRUFZMGpOX2UtZ1pTT3c?oc=5",
+    "published_at": "2026-10-21T16:14:29Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "ad243c08e9feadcb",
+    "leader_name": "法国",
+    "leader_title": "总统",
+    "country": "France",
+    "origin": "Paris",
+    "origin_inferred": true,
+    "visit_date": "2026-10-21",
+    "event_type": "other",
+    "destination": "Saudi Arabia",
+    "summary": "法国总统马克龙成为胡塞武装冲突升级以来首位访问沙特阿拉伯的西方领导人 Al-Monitor",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zU3RQdW85eUlvb29XZzBHN1plVTlYR25INVUwbjNheDVRMVRQbWZha2xHOEtqc08tb2o2enRPcmU2M3JzV3JhTy1QNzdnRHMySHNKREZJaXJMejdLNWMxQm5fVjBtRFFCZnBSSjByVVZDZw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HUnMzWTZUZnB1eDUzWFlQY2g4dTRkc2hKbExLY2ppdFZMLS1EODdGaGNSVUNCTGNMWmVscGE2aDFiNzNpWkZfQWtiU2k5TWk2ODNGVDFrU01FdDQxdVRYR2ctOVV5QQ?oc=5",
+    "published_at": "2026-10-21T16:08:19Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:27Z",
+    "updated_at": "2026-10-22T03:02:27Z"
+  },
+  {
+    "id": "e742eda92776a32e",
+    "leader_name": "Macron",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "LIVE: Qatar’s emir welcomes French President Macron on state visit Daily Gate City",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ2hZY2ljVWZyYjRUNHg3ZXc4ZkgwYXNRLTlkaUF5cjU3bWg0bGlqV1QxQV9qY0o3VWtiMUtERmk2TXhKRkEyVjBVWkJzUFR3ejY4cW1nQ2JpVkFWRFhnZ3ZUS2phQnV3bGQycmJLZHNHY3dZOVo0UUxsRGxoZUtXZ1dVeUJReldkU1hmSllGN0xycmhSZ3NLbm9OMmdfZ3FobWxhQ0VrTmhPLVgtaEtmM1pacWpIQmNEXzBHbFNxbS1SN0Q5LXQ0UGRhX3N0TzREOTVsQ0xDbjBKWkJDeU41MW1nZk9uWEl3T3o0bUFR?oc=5",
+    "published_at": "2026-10-21T04:03:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-22T03:02:26Z",
+    "updated_at": "2026-10-22T03:02:26Z"
+  },
+  {
+    "id": "a2063509dc6dc12d",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-10-21",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "UK and Oman commit to closer cooperation across security, defence and trade on State Visit",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/major-investment-to-drive-growth-and-jobs-across-britain-as-sultan-of-oman-visits-uk",
     "published_at": "2026-10-21T01:51:34Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:48Z",
-    "updated_at": "2026-10-21T03:03:48Z"
+    "updated_at": "2026-10-22T03:02:28Z"
   },
   {
     "id": "c8cfdaffac236e6b",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "553b1373bbc5cfdb",
@@ -73,7 +225,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:48Z",
-    "updated_at": "2026-10-21T03:03:48Z"
+    "updated_at": "2026-10-22T03:02:27Z"
   },
   {
     "id": "5b198fa5208c05c0",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "a17e996658bf206b",
@@ -130,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "f1ce14aa85a1f304",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "dfddd04fc95f98ea",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "6ad5443fbffd0cc9",
@@ -206,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "7656cd684722d974",
@@ -225,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-21T03:03:48Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "73217d501dfafde4",
@@ -244,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-21T03:03:46Z"
+    "updated_at": "2026-10-22T03:02:26Z"
   },
   {
     "id": "db1cc9b4fe4779d3",
