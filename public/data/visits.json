@@ -1,5 +1,119 @@
 [
   {
+    "id": "d07b4b5c4db438cd",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-23",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林正式访问欧盟联合新闻公报 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jT0d2b3oyeTFzX3VucDRiblBKSXBzTHVJZFpTZjgxVjlIQWQ4ajZFeHBHVVI3Rm55VnI0SU1Ccmo3VHhvRUdUOUZxWFZPZFU2ZVE?oc=5",
+    "published_at": "2026-10-23T01:24:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:25Z",
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "3d8c858c4c29f034",
+    "leader_name": "秘书长兼",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "关于秘书长兼主席访问欧盟的新闻稿。 Vietnam.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0MyNmtTWGZPdlRaOXZNVHVLZFRfcTJHRUhsWUNOLUpGTTkxdDZ4eFJreURsTmVDVTFSak1DSFlyTVNKMHBzckVPX1R5WDgwZmlhb1YwdUp4QVRJYlBFUVRSLTVmT2xwb2tqdlFJVWdSOFpsZVZHZnpYbXRJZDlHZVNVY3NfTm9Wc3lHRzZqNENXN0EybHJxSTltWDdoRVdjbjdN?oc=5",
+    "published_at": "2026-10-22T16:53:13Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:25Z",
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "8f145fcfd35d6325",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "Canada",
+    "origin": "Ottawa",
+    "origin_inferred": true,
+    "visit_date": "2026-10-22",
+    "event_type": "other",
+    "destination": "Laos",
+    "summary": "Carney访土耳其：加拿大领导人首次双边访问，想少靠美国 VanPeople",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WNTZxX1A1eHQ3c1NLUkxXRnF1Ym01ZWo5R3lrWE9tTW1tZUpkdEx3NFFHU0FMUVFqZlZHeEdlUHBCNE5qM3hUNnE4VnNiM1JT?oc=5",
+    "published_at": "2026-10-22T15:03:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:23Z",
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "1f826c913f2adb3f",
+    "leader_name": "BJP national",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "BJP national president’s 3 day state visit from today The Times of India",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWjNXY3drNnY1MnR0QjFuS2Z1NVNXd2owZkthVHVUd3NlZzdKZThwQWVmSHFkX0pqYTc5OGtnTTVsZEJkcVBZTFBIUDlWbjQ3UTNSMDJrYzlzWndXbHFrdFUzMHoyb25mSVpXRC1pc3hUTlh1RFhPLXdZbVpCQmE1TTl2T3pjdWFuQ0tRSnRsdk93OTg1N2ZDWENlYV9lS29xUnJyT3d3Y0VvTHZXcW1Xa2w3WEM0Wm5LdW4wc2ROVHczMk9tX3U4cjJn0gHKAUFVX3lxTE9aM1djd2s2djUydHRCMW5LZnU1U1d3ajBmS2FUdVR3c2VnN0plOHBBZWZIcWRfSmphNzk4a2dNNWxkQmRxUFlMUEhQOVZuNDdRM1IwMmtjOXNad1dscWt0VTMwejJvbmZJWldELWlzeFROWHVEWE8td1ltWkJCYTVNOXZPemN1YW5DS1FKdGx2T3c5ODU3ZkNYQ2VhX2VLb3FScnJPd3djRW9MdldxbVdrbDdYQzRabkt1bjBzZE5UdzMyT21fdThyMmc?oc=5",
+    "published_at": "2026-10-22T11:42:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:23Z",
+    "updated_at": "2026-10-23T03:06:23Z"
+  },
+  {
+    "id": "aaa786395315d935",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-10-22",
+    "event_type": "state_visit",
+    "destination": "United States",
+    "summary": "习近平抵达华盛顿对美国进行国事访问 华人头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenF4NVZKMDlnY21va0JJVk1veDg2NUVFQ2FzTmpHOEFjWmk0YWJKeFVMYTdMa0V6M015eTg5cDE1cERlMUxJM2lGZ2VUNEVEMzljdk9TeGoxZnJWUGhSQWw1Nl9vV3RWZEVkLWpvMVJaUEt2QzJJRXpVZE5YRUJ5SUNsc2VKRTZrRlE?oc=5",
+    "published_at": "2026-10-22T07:50:48Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:25Z",
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "d1dbfcbb81c52e8e",
+    "leader_name": "Tharman",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "S’pore, Sweden can learn from each other on social cohesion, competitiveness: President Tharman The Straits Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHktRGdFMTdkVU5BWkFvcVg0cmdpeHFlYTBLZF8ydlBIZUlEWklpZ1RwaHR5MHBZUU5wTkh2d1h6RHgzTWlsZ0dpZkM5VTd6YmRMYWdZRDFKaldHZUk4WTV1dFBZLTRscHlLNE90VFA0T21kRmg2R3JsY0pzNWhzbXN1QXN3aDlIaEhuZTBldGpOVGlwUUNDRzBVem1TdHVlaUNTMDQyNkdEbGNVRDFIOVlCSWJLNkhjSjZBc1lTeHdZSFc2ejNLS0F4dXI3cjVkYnU1SjZNSy1VMGc?oc=5",
+    "published_at": "2026-10-22T04:22:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:23Z",
+    "updated_at": "2026-10-23T03:06:23Z"
+  },
+  {
     "id": "4c4b5576c2a876a4",
     "leader_name": "Tô Lâm",
     "leader_title": "国家主席",
@@ -16,7 +130,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:27Z",
-    "updated_at": "2026-10-22T03:02:27Z"
+    "updated_at": "2026-10-23T03:06:25Z"
   },
   {
     "id": "e0fc4c95307f6c20",
@@ -35,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "e5bf1cf5cd5186c4",
@@ -54,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "a897bf6ceced05ac",
@@ -73,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "83a68d98b681c292",
@@ -92,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "0653e000c7f68782",
@@ -111,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "ad243c08e9feadcb",
@@ -130,7 +244,45 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:27Z",
-    "updated_at": "2026-10-22T03:02:27Z"
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "1dceb279d033086b",
+    "leader_name": "马克龙",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "arrival",
+    "destination": "Saudi Arabia",
+    "summary": "马克龙总统抵达利雅得进行团结访问——《印度教徒报》 UA.NEWS",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2JoLWNlYVZGUUh5UVlLVGJ5LS04NHNmRmFJUTZRZkY0NS1fOHItTUxFd2k3SlBFelFVeU9LdzVGQ0tXd3N3WVVPYU42ZTVjaHpDaTNCbmp2aHlkdGx6MjRkeWJXT1p6Nm9IanQxRGxBTTkzdkxlMjctZmpSYzBPTGhSd2Z3UzV3N1RuV0trZXZtb0paT3ZSVW9zYWhGR210cldmZQ?oc=5",
+    "published_at": "2026-10-21T08:29:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:25Z",
+    "updated_at": "2026-10-23T03:06:25Z"
+  },
+  {
+    "id": "070862c4f5c2e0fb",
+    "leader_name": "Donald Tusk",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Poland's Prime Minister Donald Tusk to visit Viet Nam this week en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFpRVXlRcG00dzNnSWRkWElmOHNEN29UUW5aUUdlNS1pVXJnQTVVeU9oS0s2dGRGZVBwVUJGQ1VUR0NXbUlvNkFndWNfZ19HODJDQk9JTXlMMGllVzFhRWZUS2F5a04tMll4ZlppWkd3emdESnZrQlEzLUZNYTQ0YzFBNjUyTE5xR0tVdGNpeWtqZy14ODhvWm1SU2luSnBIX2phZjd2NkRPQ1ViVVYzbQ?oc=5",
+    "published_at": "2026-10-21T04:43:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-23T03:06:23Z",
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "e742eda92776a32e",
@@ -149,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-22T03:02:26Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "a2063509dc6dc12d",
@@ -168,7 +320,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:48Z",
-    "updated_at": "2026-10-22T03:02:28Z"
+    "updated_at": "2026-10-23T03:06:26Z"
   },
   {
     "id": "c8cfdaffac236e6b",
@@ -244,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-21T03:03:46Z",
-    "updated_at": "2026-10-22T03:02:26Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "a17e996658bf206b",
@@ -681,7 +833,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-20T03:08:54Z",
-    "updated_at": "2026-10-20T03:08:54Z"
+    "updated_at": "2026-10-23T03:06:23Z"
   },
   {
     "id": "d56d19a3b259bccb",
