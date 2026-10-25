@@ -1,22 +1,98 @@
 [
   {
-    "id": "2f37ba77875475a6",
-    "leader_name": "",
-    "leader_title": "Prime Minister",
+    "id": "cba5e47a6c53c890",
+    "leader_name": "blasts Trump ahead of",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-25",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Michigan Democrat Abdul El-Sayed blasts Trump ahead of president's battleground state visit Fox News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5udXlpZHIwU05YVzJEUUpGSk9IT1FVcnJEWjA2dG1WNXNDU1VxdTVBamZNRW5wdFZtTHNnT29GY1Y1dTkwZDVOeF9RMlNxOVBHV2pMNFFR?oc=5",
+    "published_at": "2026-10-25T00:53:54Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-25T02:56:23Z",
+    "updated_at": "2026-10-25T02:56:23Z"
+  },
+  {
+    "id": "a865435c566ad46f",
+    "leader_name": "Zardari Leaves Germany After",
+    "leader_title": "President",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-10-24",
     "event_type": "official_visit",
     "destination": "",
-    "summary": "Prime Minister of the Republic of Poland Donald Tusk arrives in Da Nang, begins official visit to Vietnam Laodong.vn",
+    "summary": "President Zardari Leaves Germany After Official Visit Focused On Stronger Bilateral Ties UrduPoint",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmdWTHVlOEVySzhacHVKQzdQYVBrdUltRmhGbGJHLUgySUlFekgzOERFN1hjNE1SUVBPZTdwYl9rb3I2eE8xN25CUEoxeVo3TTNPeVVPWXMwOThlZ1g5T2duZWxSbHRTZjJqdkMwVUJLNXR6VkRuXzJQUFdfc3dDZHNIc3Nva2U1Njk0TkJhQklhaTFzYzdCdWJjNGJSdVFfQUdjQmJkUmF1OHl3SXFad1ZxWnI0ZzEweDY2X29JZ1RzNm5n?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ppWlBuYUMzel81RjlMb2M4VFN0Qk8wczFVQzdLdGlES2hDRGI5dEhDZzVrSjFSQ0ZPM0dSUEFOSGNfU01EWmVBcWFIOXBMcmUxYVluQjhXU3ZKbkpVcXNqc1pJNm5FQ3R3Zmx5SHlMRVFja3ZWd1FyOE02aDVVLVF3dENSZ3JlQ29JT0daeGxjcEVkeG10YjFWMmc?oc=5",
+    "published_at": "2026-10-24T17:25:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-25T02:56:23Z",
+    "updated_at": "2026-10-25T02:56:23Z"
+  },
+  {
+    "id": "c6db2c294df6074c",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-24",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Full Joint Statement on outcomes of General Secretary, President To Lam's official visit to Belgium en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnlkdU5RYVdDNnk3TWFMaF9tNmRpRXNpSXRUWWtqc2J5Sl9nQVVNREJHU25iMnpUMlluTThrVFVtU1UxZjVseGFZWWRMeWxuSXhtdWNGZ2t3YlpJT1RrMVhreThlb0RKTXYzVkJwWXJRWE10RklnTllqdjkyZkZhSTVKNmNpWUZXWWwwYXl6LUZLRVVRVldCVmZjWUdfalZiX0t0dEVVb0s5Tzh5MlQwWlNfZWx1cHBNWVl1ZDBLSU91WDFaUU9GTU1VckFHaWVUVU5zS2tuVDRabjRYd0ZR?oc=5",
+    "published_at": "2026-10-24T14:33:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-25T02:56:23Z",
+    "updated_at": "2026-10-25T02:56:23Z"
+  },
+  {
+    "id": "b145b8b931d6fe8d",
+    "leader_name": "Tô Lâm",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-24",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "General Secretary and President Tô Lâm wraps up official visit to EU, Belgium vietnamnews.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUzctWVNCQlQwYVd5NGRIUlh6QUU1WlFwc0U4X1BHMGZqbUF3ZjRyUDVaa2QteHZCdUFYRkw3SzNXYVJ1U19PRzNQLXVDczVUWUNuVFlvVUR5X0hrS3lISktnX1dEa3EzOGw2VVB5WFY0X1FOU2hBaFBMUkFRd1E3MHlpNG1oMmhBOEtUVWQ3Y0ZaaVAtNjh2aEpvWHlpclRzTjNMWF9aR0ZveTdCWmt0MGlDbmpfaUU5eWZ4eW1reEw1X2pV?oc=5",
+    "published_at": "2026-10-24T14:06:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-25T02:56:23Z",
+    "updated_at": "2026-10-25T02:56:23Z"
+  },
+  {
+    "id": "2f37ba77875475a6",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "North Korea",
+    "origin": "Pyongyang",
+    "origin_inferred": true,
+    "visit_date": "2026-10-24",
+    "event_type": "arrival",
+    "destination": "China",
+    "summary": "韩联社：朝鲜领导人金正恩抵达中国丹东 RFI",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQZ1Z6Um5feTB1S3N6T2N4RGtoTlFEUnczZGE0NkQySElhOXVZRjZlWmU0ZTBNNmVxQW9FVEVEaFh5YWE5dWRnRDM3WmFHcXFyTXlBTnZwOVV6aHN5Zm9ZVDJlM1l6VHBiZWJyX3Z4YkFhQXdyWXd0eldtS292bFVEZUEzTktlUk52aEUwVm12SWJxOHREbXpULVJGNmV4aGFpRVJlWWpIdEduMkZVVUJkd21XX2g3YmxWal9HdVhJWU9zcGd2aXM5bTJEZXBDUElOZDlxbU1aMWpqemVfTVMzRzJDaWxTV05qSzJncWpXTmo0dll2ZDQ2RHdkVzNINTBfOF9jRWpqb0FYZTNZU0NuZFNaWVBFaWdITjRrek5TWWdNUVhsX0FtbFlQV0I?oc=5",
     "published_at": "2026-10-24T01:08:43Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:24Z"
   },
   {
     "id": "c79c2fcc3b4f6cda",
@@ -54,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "35f8240437ff6a76",
@@ -73,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "eefdde734e10113f",
@@ -92,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "7c39199841c0ae02",
@@ -111,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "e86a915dd7f9afe4",
@@ -130,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "480c7f8b1f3896ac",
@@ -168,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "bb68d1c8b5145d82",
@@ -187,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-24T03:02:10Z",
-    "updated_at": "2026-10-24T03:02:11Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "0a47b5ef283ea776",
@@ -2030,7 +2106,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-15T02:55:52Z",
-    "updated_at": "2026-10-24T03:02:10Z"
+    "updated_at": "2026-10-25T02:56:23Z"
   },
   {
     "id": "eee6ff407f55f881",
