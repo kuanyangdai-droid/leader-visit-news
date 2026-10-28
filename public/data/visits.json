@@ -1,22 +1,117 @@
 [
   {
-    "id": "15e40f2b83fe87d7",
-    "leader_name": "",
-    "leader_title": "",
+    "id": "6d5bc07cf1d3f86c",
+    "leader_name": "菲律宾",
+    "leader_title": "外交部长",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-27",
+    "event_type": "other",
+    "destination": "Myanmar",
+    "summary": "菲律宾外交部长拉扎罗将访问缅甸 联合早报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CVG5oYS1IOTdfU09nR1VkeHZsMWtTUjN6WlhCdTlEeDJtR2ZFOXZmQmR4WU1WemtGVjU2eEZmTFRUQzRaRUFnQTVRaHh3OWtIZzRrSEQ4NmR4TkJqODNqNnlWNXVuVTQ?oc=5",
+    "published_at": "2026-10-27T12:29:34Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:41Z",
+    "updated_at": "2026-10-28T03:43:41Z"
+  },
+  {
+    "id": "43a2f6e58e756b72",
+    "leader_name": "Donald Tusk wraps up",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Polish Prime Minister Donald Tusk wraps up official visit to Viet Nam en.qdnd.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEdkY2cxQzRLLURVWl9vVUtNczJIT3VPYVdueGNEU1JrTkphRGNSQklaM195SWlnM2FFT1l1T3ZmTjF1Z0NxQTdxZm8tZFQ5dDRrVHNvQUc1blVjYnpadlljNjROaWp0RW9pODluREx1amduQ1VlV2J4VHoydTQ1M2Z0Qk53V25uUGJXUkNyNVNhOWd3ZHQyXzdzRkRLcHoxcjdDVHRpM2xWNUlLSW9XUF9sYkJYZjFqSW96QUpuVm5pbWI3UExsN2tQQQ?oc=5",
+    "published_at": "2026-10-27T11:39:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:40Z",
+    "updated_at": "2026-10-28T03:43:40Z"
+  },
+  {
+    "id": "da9cd4e39ecff761",
+    "leader_name": "日勒苏赫",
+    "leader_title": "总统",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-10-27",
     "event_type": "other",
     "destination": "",
-    "summary": "朝鲜最高领导人金正恩上周访问丹东，外交部：维护好、巩固好、发展好中朝关系始终是中国党和政府坚定不移的战略方针 搜狐网",
+    "summary": "白俄罗斯议会上下两院领导人拜会乌·呼日勒苏赫总统 Montsame",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXdDZ2Z2aGhIOTBEOHB6dlgxYldNdHhsOGliZHVqeFRON3B3d0pLcnRsQXBoZ1hYZ2NXRHhlbVlIU3ItODMxTWVTeTNrU1ZSV1F6WUU2TmZ1ZHNNbjBLVW9aWmhkS21NRVZSSG5SNGVuYlFjOVpXMGl3aS1IOTFfUEUwbzUxQUxG?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9YX2pscXRQS2pHX2VYNlFXZW1JLXdFS2lxbHg0dTFOMDVxMnQwS3JvdVREVmpqeVJ4bG5tUGt4cUdqMFBMajQyQzlR?oc=5",
+    "published_at": "2026-10-27T02:16:03Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:41Z",
+    "updated_at": "2026-10-28T03:43:41Z"
+  },
+  {
+    "id": "15e40f2b83fe87d7",
+    "leader_name": "",
+    "leader_title": "prime minister",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-10-27",
+    "event_type": "other",
+    "destination": "Myanmar",
+    "summary": "The UK’s Ambassador for Human Rights, Eleanor Sanders, visits Tanzania ahead of the UN’s forthcoming review of the status of Tanzania’s human rights landscape",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
     "published_at": "2026-10-27T00:56:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:52Z",
-    "updated_at": "2026-10-27T03:27:52Z"
+    "updated_at": "2026-10-28T03:43:42Z"
+  },
+  {
+    "id": "02bec33f1417664c",
+    "leader_name": "兰共和国",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-26",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "波兰共和国总理唐纳德·图斯克圆满结束对越南的正式访问 Thông tấn xã Việt Nam",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOVVRwTHBNdkJHcWlkdFd2Yk11RjN3R3p2aWlXaklTMFhBTXRrYkd2ZTdLLXB3M1IzWVA2QlRmelFBVExvQmE0UXV6V0M2VGo0RzFDblpCZ0VxS0llSS1PcWZ1dHRnQkNPMzVfVVlBVjQ1QmZfaUNXQ2JzZVJ1Wk10cjNqLWtjNXZrYm01bnJ4SDRZYzlrS2hINHVxOVpGeWJJdWZaMzBiaC1rLTZzWlAwQVViYnA5Y1RmR3hYNEJDS1BVMWQyTHMySFBaNk1WUUUxQVJWWnVHTXU2RW1lYlM5LVQ5cW1xbFdXMlFFaXlNQ2dZRUplZGZjQldnTVJYTVBvclJoYURvSUZzeUhGZDAzMmMwVnVWVGQ3WnY5WktMbS1LRVVqRW5XX1lPVmZKSlVYZmVJaTZORmQwQkhabHBRdlRCRWE4SGpvcE5qcFdOb00xR1NSMHFVMlVTeEthQUw0NlJlQ0lVX041OG4zb1BNRG9wNEVlMm5HRTVwMUp1LVM0UnhObDhHVlMzc1pGMVBZWmc3Zw?oc=5",
+    "published_at": "2026-10-26T23:53:11Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:41Z",
+    "updated_at": "2026-10-28T03:43:41Z"
+  },
+  {
+    "id": "8f3ebf8bdd87e4e7",
+    "leader_name": "日本前",
+    "leader_title": "首相",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-26",
+    "event_type": "other",
+    "destination": "",
+    "summary": "日本前首相福田康夫逝世 美国之音",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGpJbURSUGM5UG9NX1c4bVFuaDdDZWdPYndzR1UwRzBYQ3NyalZKb0lFX1ZfcVA5X0FRSllRTWlFakVRU1BFeTV2R3c1RzIydWZkUy1XWEY4cVlkQk5IM1JBNW9zM0V2WjRkb2NwNWxzWWI1LS1JNFdodTdFd0kwa0EtR0RCTVd4UXAyb2VTcXM4M3N4eHNsRUtfTG9vU2pPb0QyVFZlc25ySE9k0gGsAUFVX3lxTE9kakltRFJQYzlQb01fVzhtUW5oN0NlZ09id3NHVTBHMFhDc3JqVkpvSUVfVl9xUDlfQVFKWVFNaUVqRVFTUEV5NXZHdzVHMjJ1ZmRTLVdYRjhxWWRCTkgzUkE1b3MzRXZaNGRvY3A1bHNZYjUtLUk0V2h1N0V3STBrQS1HREJNV3hRcDJvZVNxczgzc3h4c2xFS19Mb29Tak9vRDJUVmVzbnJIT2Q?oc=5",
+    "published_at": "2026-10-26T16:54:32Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:41Z",
+    "updated_at": "2026-10-28T03:43:41Z"
   },
   {
     "id": "f6a1f4373bc55093",
@@ -35,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
   },
   {
     "id": "e5111ec93ae58c16",
@@ -73,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
   },
   {
     "id": "19d4763e7bc21d99",
@@ -92,7 +187,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
+  },
+  {
+    "id": "70330ba86d6ae3eb",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-10-26",
+    "event_type": "other",
+    "destination": "",
+    "summary": "苏林总书记、国家主席访问欧盟和比利时王国的历史性印记 Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DWWlCUEE1ZWF1b0RxdTJWcjV6VWlOZHFaM0ktT1RqNDRBekZ4cDR0R0lidVlzakh2cmpZVERfUFloajBsLUxocWd6SG9xanpwRklFSk1XbWNqT0pL?oc=5",
+    "published_at": "2026-10-26T08:43:33Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:41Z",
+    "updated_at": "2026-10-28T03:43:41Z"
   },
   {
     "id": "ef45f1219650c5d6",
@@ -111,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
   },
   {
     "id": "347ec2e11e8bbfff",
@@ -130,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
   },
   {
     "id": "17dc6d3a4960694d",
@@ -149,7 +263,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-27T03:27:51Z",
-    "updated_at": "2026-10-27T03:27:51Z"
+    "updated_at": "2026-10-28T03:43:40Z"
+  },
+  {
+    "id": "bb119b307d9ddcc6",
+    "leader_name": "Le Minh Hung chairs",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-26",
+    "event_type": "other",
+    "destination": "",
+    "summary": "Prime Minister Le Minh Hung chairs the official welcoming ceremony for Polish Prime Minister Donald Tusk Laodong.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3NCTUdiLTVlWFFFcHZHWVhlMnBROTg1bDl0aTQtMk5YNUlrdmRkN0hEbS1XakNxdEdUMEttaEM4TUJMOTlLRUM0OWFuUkdJaG05M09rUi1Pc0tIanFDamRCSzlZMXF2Rm45bW9QUWxEOU1KNzVIaUJYYVhpTGgzaHNyZ2xlOTV2MEVjUEN2NnpMSkRDV0dxdnhJMlJ3WFpqYl80Y09TNzd4TDJMa285ZjNETENJd1RzVGRxSHRB?oc=5",
+    "published_at": "2026-10-26T04:01:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-28T03:43:40Z",
+    "updated_at": "2026-10-28T03:43:40Z"
   },
   {
     "id": "9536d5789da2f71e",
@@ -168,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-26T02:54:51Z",
-    "updated_at": "2026-10-27T03:27:52Z"
+    "updated_at": "2026-10-28T03:43:41Z"
   },
   {
     "id": "c3a3efe724c249d0",
