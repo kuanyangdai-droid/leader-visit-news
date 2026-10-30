@@ -1,22 +1,231 @@
 [
   {
-    "id": "fa8bfbd547a2a69b",
+    "id": "c9e3682f880c7ab0",
+    "leader_name": "of Laos",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-30",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "NA President of Laos to pay official visit to Vietnam VOV World",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmZEdUMzV3pDZHZTSm81MGVDM3VtVTh0bzFSVVpTSmZjckNCRmRVdFEtYmF6U2xMbG9XQnJGNlpTb3Y2bzVqREVOVjdpWFVNNldFektXaDVWNjBKX3RNbkg1RmVuYjBUQ3NlVGRxR0pLV3QwMzV1U2YxXzZaQ21XOTdnY1pGcUQtbmtQZDA0aGdYazZnYnc?oc=5",
+    "published_at": "2026-10-30T02:08:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "1b0698deba448a5e",
     "leader_name": "",
-    "leader_title": "",
+    "leader_title": "主席",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-30",
+    "event_type": "official_visit",
+    "destination": "Laos",
+    "summary": "老挝国会主席和夫人即将对越南进行正式访问 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRzh0czNXTkRtRDdiQ19LWlRja0xGZUJheEh2eWEtWk1tcHJpSW93NnhkWjlMUlBRbDNtcEJjc0xQejM1aldCMnIxUU5zSVhHS2c?oc=5",
+    "published_at": "2026-10-30T00:39:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:52Z",
+    "updated_at": "2026-10-30T04:05:52Z"
+  },
+  {
+    "id": "7b3cbd787e5c8002",
+    "leader_name": "El-Sisi Heads",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President El-Sisi Heads to Budapest to Start Official Visit الموقع الرسمي لرئاسة الجمهورية",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdFlqM1N0RFRZSWIxVmtaamhVNnRpTTJjaEw5bGVkbnBTSzhteGR5UmlpNDRiN2k2MmcwR1pmSHRfUjludVY5aGwtWnRoZWtWdklGdEprUTdIYUw4cW9Kb085d1FaUDJkMzRrRXp5SVVuNHhCWDg0MGFwZ3FUTXJ0c245eENZdkFQQl94Mkt0emJ0Vk1aN1ZGUXlkX1dpdmVZV1R5SlBjRUhkYVRmOW1Ra084UUFZY1p6MjhjU29VZ1RVZjB5M2dkR1JlMHQ4bkRZLUFGWklwb2FqUlR4eDZMWUhfdXVkcGRzajRuMTcxU2RIb1RnSWNJUlliVHBRajlfU0tiVQ?oc=5",
+    "published_at": "2026-10-29T17:38:25Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "e04570aa55c6bb26",
+    "leader_name": "of Laos",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "NA President of Laos to pay official visit to Vietnam VOV.VN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTBEaTdSN2RTMDNhZW1ZOHI2R1UzRDZCNW5jUGdHMlRLUHZaQktTQkpJOHUxaVNqNExQbkxiNTdILWxhd0lUNlBnZkhwS3pJYXpzQXVqbW9kNXZZdklraG5WWm9LN3dHcE5LYUN4OWQ4RVNYMWhNbUZWcFMxWU4tTXYwN0hpWEpiWGlOSGs5VFpkNFBaQV9qUUVwcnZZT25ULXl6YmhFbw?oc=5",
+    "published_at": "2026-10-29T13:06:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "8e17d335a52ce655",
+    "leader_name": "of Azerbaijan",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prime Minister of Azerbaijan to pay a working Visit to Georgia Georgia Today",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanVucWppQktoaGxDbEJIWURNNWtPU0RONmxJcDRBbGFkZ0lJczllWW5fVzRwRmtobDh5bU90ZnhiS2xTQ2dia2pSWmpteW01bXlXNTMxdDFTUmFwc1B1YkFPZVhJOGFHbjlxOWFNSGp1aTlrQzhMS25ZQkN1OVNjMG5hZXdGRk9MUU5ybEtnYzg?oc=5",
+    "published_at": "2026-10-29T12:06:40Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "e0adae513f78a3ee",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Ali Asadov is on a working visit to Georgia - UPDATED 1News.az",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlJZSHVFWk84TGxWak1aRUhLcWdtVVdULUdCSTFKNEpmazZ1NEhqZDlhMU1Qem1qUzM5WlpjMGs5TzZUUlg2TEJURFFuTVBOdEVmeFdnNnZwSFEzbmpMbUhRYWV5alc4M2NtQ25TY2V5ME1ONmlhZEl4S1dDS0RfVzBVUTNSTVd1Z3ZOTTFMRnZ2S2hNY1hUVWJn?oc=5",
+    "published_at": "2026-10-29T11:48:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "e59aa901dbb547c7",
+    "leader_name": "El-Sisi",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President El-Sisi arrives at Budapest in official visit Egypt Today",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmZNVG5zdllkbEt6bVVQUWhRRXM3OHd4Z29NWkw0d1lhb0NOY1poaWxPdUp5dE9YUFJYaWEwY054OVZVazk4NkRuOG5lbXAwak1aUnkzZWIxbmpnVklYYVNrdmJsMUdPQXRVS2QtRHFQbnhTelZRX2VialZZdWQ2alFudU5qWFhmOFVCM0NpMFNnNFRDSXIzandCQ0xmYVpN?oc=5",
+    "published_at": "2026-10-29T09:54:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "7baff24e3e64b210",
+    "leader_name": "Aoun",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "German minister meets President Aoun on official visit to Lebanon Naharnet",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHFMNGJfald6WHUzeDNJREhYXy1XWUtzS2JJcGdWeU5HTmNDSGlENm51RXdWYVZHMW5UbkNNOUpHMjJ3d3VYUEZZSU5na1pGRFI2WHBIXzFNRm9jSnU3Tm13b0tZUnRjM0ZWYkZnMUhxQzdhRzZrczdjZkxqZjhkam1qUngzUHRtTFYxZW1meFk5cDFRNWRoeUFINC0yS3d2b01PcHBCRTYxTTQ2?oc=5",
+    "published_at": "2026-10-29T08:38:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "93249308ce3ac342",
+    "leader_name": "瑞士",
+    "leader_title": "外长",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "other",
+    "destination": "North Korea",
+    "summary": "瑞士外长23年来首次访问朝鲜 SWI swissinfo.ch",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPX2lwOXBPaG1qc2k0MXl0TkZXaTByNzhnODVvZzdRYVpBVHBVT3VVZHRLeFdyYzVsdkhqbVlqRTh2Z3Z0bWNuY2JPcldoUklRU2doUkFha29qSlFVTDYwR0gtM3dYdkVSd1kxZmFZVGtSY0NHYzBIMm90UTI2U0d2TGNxOG5BbzExTWRMRHNna2N1MjlzRWQwd0g5QzNhY1BYdUlkT1ltTDhfcWYzWU1QQWVhZ0VfcEJSN0J0VTlIbVdvZkZNWW5kb3ZISmFuNEdhU2hCUE14MUx2b0lKQmptaXB3bkZFX0NaMUxFdm4xVHpqZlA4Qk9Ja010Y2E5MHVrVUZ5MkxIU2lxTFo4NkF1VnFDaXphTFRzcmpFZkc1S0QxbUZCdE95RGZZT0NKVDZGSzNHOUJMeVlpTy1EbnV2d1N2ZWNUeUc1STRnbFRTUTFJbjRabWxQbG5Kd0ZwcDk3ajhDbTBnWnBJdmlFR1ZtNHNmd2lrYmdOU0pMcFp2RWVydWlMWlVENm5YVDRtU18wMWFybWgybTBIMDhMcXBUcG82bUgyZEd6Q3hDd0VXM2tCamQwWnBnOVhR?oc=5",
+    "published_at": "2026-10-29T08:04:40Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:52Z",
+    "updated_at": "2026-10-30T04:05:52Z"
+  },
+  {
+    "id": "3daa7ece89d80137",
+    "leader_name": "Keiko Fujimori arrived",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-10-29",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Keiko Fujimori arrived in El Salvador for an official visit Agencia Andina",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3MzMVU2cXJDMnd4d3hFX0xrVWVBcTlzQ2JlRzhBTWJSYlVYcWc1MkNpNWVkZzJtQnc0UXpSS1J1SlBRaHlLV0F6OVNvVFF4eXdORW5jdmVwdkhwaVgwSkNsUE0tbllzcUNfZGVNY1lTbWlYVGEtend2VUlqT3djUEtLMFlfZDNlWmlEWWZSQWZzc04yQngxa0NuZG42VGtQYjlabFBYOV9VcktzVjEydGtn?oc=5",
+    "published_at": "2026-10-29T04:54:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:51Z",
+    "updated_at": "2026-10-30T04:05:51Z"
+  },
+  {
+    "id": "6d926b848226ebde",
+    "leader_name": "德国",
+    "leader_title": "总统",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-10-29",
     "event_type": "other",
     "destination": "",
-    "summary": "同一时刻，总统访华，总理访问新韩日：德国不是第一次这种作派！ QQ News",
+    "summary": "德国总统为何时隔8年再访华 深化经贸合作信号 中华网",
     "source_name": "Google News - Chinese Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWktHdEw2SUp6b1JOMWJLazNwZTAwdmlxUHlLVUpFWGNiXzV2Qkp2TnlKRGpIbWdxLXhVTkxBeWhCVndEQ2F4bzNrMmFEZVFUdnhhYlRVUQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XS2t5eVVCZmdhUVp0TmV4bzd5NlVzT2dnZHRyUFdpV2pWS01pS2dnanJESGlQTW5qMXJ0UkJvZ0JtUnFqLW50MmFiMG93WWVVaVVKTkJMLWtuWGpTVGJTa3lfYzhsRW5MNG9vUWw0a3I?oc=5",
+    "published_at": "2026-10-29T01:56:43Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-10-30T04:05:52Z",
+    "updated_at": "2026-10-30T04:05:52Z"
+  },
+  {
+    "id": "fa8bfbd547a2a69b",
+    "leader_name": "",
+    "leader_title": "prime minister",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-10-29",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "Ambassador Holland congratulates Montenegro on a successful Berlin Process Summit, and welcomes the practical progress the Berlin Process is delivering on integration, resilience and reconciliation in the Western Balkans.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/speeches/berlin-process-leaders-summit-2026-uk-statement-to-the-osce",
     "published_at": "2026-10-29T01:09:00Z",
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:03Z",
-    "updated_at": "2026-10-29T04:05:03Z"
+    "updated_at": "2026-10-30T04:05:54Z"
   },
   {
     "id": "a341ef3271cf0ed2",
@@ -35,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "93dde0f75e9e6fc9",
@@ -54,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:03Z"
+    "updated_at": "2026-10-30T04:05:52Z"
   },
   {
     "id": "9c3882d0fdd5c7fe",
@@ -73,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "47539b4cb9e67dc1",
@@ -92,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "40ec2ba62d72f983",
@@ -111,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "29b3476be8f47ddd",
@@ -130,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "0337822c65dec707",
@@ -149,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "c8ba217284b37049",
@@ -187,7 +396,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-29T04:05:02Z",
-    "updated_at": "2026-10-29T04:05:02Z"
+    "updated_at": "2026-10-30T04:05:51Z"
   },
   {
     "id": "30634691fa2b8de1",
@@ -3436,7 +3645,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-10-21T03:03:48Z"
+    "updated_at": "2026-10-30T04:05:52Z"
   },
   {
     "id": "6525dd8a718bb919",
