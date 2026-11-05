@@ -1,5 +1,157 @@
 [
   {
+    "id": "e6f8ec3ec9b6e665",
+    "leader_name": "Nguema pays first state",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-05",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "China-Africa Ties: Gabon's President Nguema pays first state visit to China since taking office CGTN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90eFN2NzBVbC1ZSWhFWW5nemQ4bU05WDJtVlRueE8yYjdCb1JFamp0UlpER1VhdWgtaTdKVUY2SzJmb1lVYVB3bG54cW51WXBBTG9lQVhCZDVFSHdLRU94bE5YRVRBX3pJMWQtRXpIU01TRUpxRDEzOQ?oc=5",
+    "published_at": "2026-11-05T03:29:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "b4e4197a9a219484",
+    "leader_name": "visit. Ahmad Zahid",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-05",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Ahmad Zahid arrives in Istanbul for four-day working visit Newswav",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzZYaDRzelN1WVJZdVZPc3IxSjY5UzhpVmltZDZNXzZCTnpuZW1vYUJLaEVneVJXS1VTZnRKS05JOWlxRTdpdmdfOEUwY3VDYnR6dk9UcFhlWGFTSDY2RmxadVF3VjUzX1I2T0JPOEtzYkJ6WlpzT3ZqdGlXNlh5ZXRoMk9FRFF5eDBscWgxaFhoX3hHQ0wzT080cURxZE4x?oc=5",
+    "published_at": "2026-11-05T02:08:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "e6d0207b10028585",
+    "leader_name": "Lee welcomes Horta",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-05",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Lee welcomes Horta’s first official visit to Korea, hopes to expand cooperation with Timor-Leste 파이낸셜뉴스",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxQjAzYnkwMUVneWVuTlh0alZmOXpRb0pzWXhKOFpWSnlhRlA2SzRIdU5feG9TdklxOUkxQnhrMDVMNG1kN0REdTVCZlV0bUJFaTg5eWJ6X2M?oc=5",
+    "published_at": "2026-11-05T01:38:36Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "9da03ed4b62cfce0",
+    "leader_name": "习近平",
+    "leader_title": "主席",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "韩正将作为习近平主席特别代表赴土耳其出席《联合国气候变化框架公约》第三十一次缔约方大会领导人峰会并访问格鲁吉亚 人民日报",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdDZ6TEM5VUVHLThMc2hGM0RGUWhFOS1aSTB0cDJqVWhzNVk5M0RPTG5nekt2eWxSdExmVm1TX1hQOW5MaUNlZHlpVVU5THZoNjZScThUNWNLWU1KMmxOMHVkMEJTdHpBcnAybUNSamg2Yzd5Tk9YUEtqbF91MlU?oc=5",
+    "published_at": "2026-11-04T22:00:01Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:29Z",
+    "updated_at": "2026-11-05T04:51:29Z"
+  },
+  {
+    "id": "bbfbf2f12ead0ff5",
+    "leader_name": "discuss advancing bilateral relations",
+    "leader_title": "Foreign Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-04",
+    "event_type": "other",
+    "destination": "",
+    "summary": "H.H. Sheikh Abdullah bin Zayed, Italian Foreign Minister discuss advancing bilateral relations وزارة الخارجية الإماراتية",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CdE10eTkxaXNyUVNzSXFNR2otZV9rVFJUV2prSV9hcmZVZUVUR3kzdnE1YTVCWTN3M3B3b21mUWlNcENmMEw4MU5YbHlUMTZaWElQXzN3dUlPTWFRREh6THRyS2UwdHdDSXVFZDczZmlBTGI0?oc=5",
+    "published_at": "2026-11-04T17:20:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "94489292fba7ecbe",
+    "leader_name": "Shavkat Mirziyoyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-04",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Shavkat Mirziyoyev to Pay Working Visit to Kazakhstan president.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuNENQbHBsazRmaThpT0Rkd1F2QXBqbFh5T0hJb0QzZ3Z5NkZyR3hWM2phbFBHajBQejM3UWRseEpXaV9CV2J3aGRJT1lSdU81?oc=5",
+    "published_at": "2026-11-04T15:58:15Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "addadc60b5afc792",
+    "leader_name": "al-Sharaa",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-04",
+    "event_type": "official_visit",
+    "destination": "Saudi Arabia",
+    "summary": "President al-Sharaa arrives in Riyadh on official visit سانا",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oOHJTMUNVVklwYmVSZzgzUlRPRDl5NkNYYjVzN1ltcXIwTnRRZHl4c0FsNVV3NFpLWXpYa2J4QkVLWU8yU09DYU9WZks?oc=5",
+    "published_at": "2026-11-04T10:31:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "2c8d6ef3be97630b",
+    "leader_name": "of Chinese conglomerate Greenland",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-04",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Economy Minister meets President of Chinese conglomerate Greenland Group during official visit 1TV.GE",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSnd3NW1sX29GY21fVXhIUnZwQ0l3UHlOZ1hFQXNvUFNGNmd4WFdJRnk4REZDa284SjRrRTQ4NkVrYUFudGZZSHVoRnFyNE5jMUpiM25FczdyTkZxbk5TdUNHdkNOQ1BYSTlURmRpLWdMSGZUY0VVM2xaYzBHUHl4UmYxM2hkVGh4MnJ5b1dOd3RTalRmU1Frdzh1X1UwV3RGSkk5QTBGTDlQZ2RQYXFJV0FKQ2JnZG9LalZXakZpQVM?oc=5",
+    "published_at": "2026-11-04T10:15:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
     "id": "3991ef5fb70b9071",
     "leader_name": "现任",
     "leader_title": "总统",
@@ -19,6 +171,25 @@
     "updated_at": "2026-11-04T04:36:39Z"
   },
   {
+    "id": "8282a4e9afcd0221",
+    "leader_name": "receives Italian President",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-04",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "UAE President receives Italian President during state visit to UAE وزارة الخارجية الإماراتية",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGNOdjRFU0cwQjR3LVkxd3hRRDBUUGhhU2t4Y3NpU21UOTd0MWd4UXRwZXlVYWo2Q1pIVW1mYWN3VHM3UkdQQ2Z4NXBwMkgtbWFITUdTRm5vdGtWQWlIVTdOQWdJdnBnR2Nqa3ZtNWxYX1lLUEk1dTZ1UzV6aDh2bmVFMHRtSXlDQjdQcA?oc=5",
+    "published_at": "2026-11-04T03:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
     "id": "1a7f59e116bd8656",
     "leader_name": "",
     "leader_title": "总理",
@@ -35,7 +206,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:39Z",
-    "updated_at": "2026-11-04T04:36:39Z"
+    "updated_at": "2026-11-05T04:51:28Z"
+  },
+  {
+    "id": "6005c3c477fae6b1",
+    "leader_name": "Vo Thi Anh Xuan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-03",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Vietnamese Vice President Vo Thi Anh Xuan concludes her official visit to Georgia Rustavi2",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44TlJwNmRyMHU3Y2E3RW4yWFNseWxvVDVRS2Q4SE5URWRBaC05UUllWWZtcmpYWUI0VlZZdG5sWENyX3B6QnVsX3pvbUJhT00?oc=5",
+    "published_at": "2026-11-03T22:17:24Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-05T04:51:28Z",
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "a7b56cdff836ada7",
@@ -54,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:37Z",
-    "updated_at": "2026-11-04T04:36:37Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "09a685f1af718aad",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:37Z",
-    "updated_at": "2026-11-04T04:36:37Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "19623be5aa087d11",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:37Z",
-    "updated_at": "2026-11-04T04:36:37Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "3d7b0d1d2c5cce86",
@@ -130,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:37Z",
-    "updated_at": "2026-11-04T04:36:37Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "8a71d00fb487fddf",
@@ -168,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-04T04:36:37Z",
-    "updated_at": "2026-11-04T04:36:37Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "a1d7fc52024c1442",
@@ -225,7 +415,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-03T05:03:48Z",
-    "updated_at": "2026-11-04T04:36:39Z"
+    "updated_at": "2026-11-05T04:51:28Z"
   },
   {
     "id": "7411fdaa717098ec",
