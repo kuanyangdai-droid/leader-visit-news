@@ -1,5 +1,62 @@
 [
   {
+    "id": "e613516d1b473df7",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-08",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Party General Secretary, President To Lam leaves for official visit to Japan VOV.VN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFI5LTduanNaZnZaU1lJZUxTeGFLVkRtNVBfYTl5eTl4cWRaZm5tMXd3VTZvaGc2cFhBSGJyRTFJNlVNOUVOZTNQd3V3V3Zib1owSTJ6QTVSbkJCU25kX1dRaVN0aWZhTnFQdUhOUGcwazlacEZ4VTMyYXR2MmpiRFdlTFFhZHhUUVM3dVNHLXVCOEtIZ0otMW84TWNZYWt5bWJHNTZMQVJqbjRxa1h1WEdyemV0U0Q3SWc?oc=5",
+    "published_at": "2026-11-08T01:50:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-08T04:03:37Z",
+    "updated_at": "2026-11-08T04:03:37Z"
+  },
+  {
+    "id": "13886d9e6e601807",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-08",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Top leader and spouse depart for official visit to Japan Nhan Dan Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTd5RVA1VjE0eDVqanpWVkZKYnl2bWxxc3piY3lUdjZZeW9lcnc0UC1kYWdOWU5GV0Nnb2NPdzNVblk5cmhoSW83TkVFQlFDcGk1TEFrWU9jc2RaanQtZTVrSGJwZVhXcjJpRzlLTnhsQXNNcmE2N3ZKM0FYTVkwdXVpVWhZNE9JZlkzOHprQ1FXc1BuQmtfbURR?oc=5",
+    "published_at": "2026-11-08T01:39:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-08T04:03:37Z",
+    "updated_at": "2026-11-08T04:03:37Z"
+  },
+  {
+    "id": "db980e567c0a2240",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-07",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Palau President arrives in Doha for working visit | Gulf Times Gulf Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnA4UU5MeEhNX1JTWHNpY3VxRmNlYmtqQjlDOXhjMGJROUdQLVdSSDJlOFRKRGk0WDBWR0pOWjRtaURhTEprUGtoc2JPQVNyTkV6UXA3am4xWWw0SW5TdVRCRFMyalBDWTJBVW5UZWtUUm9qOVlTZ0JKX2JPaWh3RW1RNG9nV29GdUVYWTNaMmpHM2NBZUlvOS1xRGdId9IBowFBVV95cUxPQXcyeEQ4MUFFaU1PQTNyS251RWpDNEJvY3dvbzVCcVRWMmtBRWZtMVgtZDI0Qms2eWtCWFp3aHdrNjlDSnFUMW4zZm1lM1BqVndZWEVHSVVlRlRqU29YMDI3UFQ5UHNnSG1ZcGpjc0VSUHJ6SDFsQWlJOXBPWEFraGxGRnFqaEo5ZWF5OVNXYW4yVFJhZlpZdVlmdFNsZUhDUnRN?oc=5",
+    "published_at": "2026-11-07T09:36:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-08T04:03:37Z",
+    "updated_at": "2026-11-08T04:03:37Z"
+  },
+  {
     "id": "c88ff23266005860",
     "leader_name": "习近平",
     "leader_title": "总统",
@@ -16,7 +73,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:26Z",
-    "updated_at": "2026-11-07T04:21:26Z"
+    "updated_at": "2026-11-08T04:03:39Z"
   },
   {
     "id": "4c90f56590703448",
@@ -35,7 +92,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:25Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "5b9d6484ac681142",
@@ -54,7 +111,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:25Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "8b32a4ee0d34b5f6",
@@ -92,7 +149,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:26Z",
-    "updated_at": "2026-11-07T04:21:26Z"
+    "updated_at": "2026-11-08T04:03:39Z"
   },
   {
     "id": "4e866aca06c9871d",
@@ -111,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:25Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "a21980cfc79619d9",
@@ -130,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:25Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "cfb012743859dab0",
@@ -149,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-07T04:21:25Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "fbdd931f6ba5a3c6",
@@ -168,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-06T04:51:01Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "e8f0eb1da45fc1fa",
@@ -1004,7 +1061,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-03T05:03:47Z",
-    "updated_at": "2026-11-07T04:21:25Z"
+    "updated_at": "2026-11-08T04:03:37Z"
   },
   {
     "id": "7955da98502e311a",
