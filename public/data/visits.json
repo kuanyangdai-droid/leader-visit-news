@@ -1,22 +1,174 @@
 [
   {
-    "id": "e585a365abf8b6b0",
+    "id": "eb8a3e6de2801393",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-10",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "In pictures: Welcome ceremony for General Secretary and President To Lam and his spouse on official visit to Japan Nhan Dan Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX19rVFB4QklVSFYyS3JLV0hpZGV4N1dGV0NMd05mcktkWUY4NUJSczdqRlFRZlhGTWpUdW1iSksyZmlIeFZDNjFlLXJITEM2NGgwNzVpQ2xSdTVKSmh2ZVlmNmZNLWNTX1VoUy1OaTJmRWdXQ2dpVjBic2pCX2E2N3RhM0hicWJqRHVObGJZZjVHTHE5Nml5Zm0tdlZFNGlKUXVDb2RNX1pQd2hTZkl0Y3pFY2RCNWRnUDF0UFVlMTZWdFJOY2pJbmg2VU1PQzFWc0RRR0xrNUNqTjZwTjlWalNOQ0hFQQ?oc=5",
+    "published_at": "2026-11-10T03:44:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:41Z"
+  },
+  {
+    "id": "5541d6f7fa3476d0",
     "leader_name": "",
     "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Brazilian President to undertake State Visit to Manila Manila Bulletin",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS25HNF8tdm1lWWxNNmFBY2JMbGtULTJLcVVCWmlNZnIxcTE5UzBwY3h1dF9MZjA2SEY2S3ZzTzRhSklYX2dlcmhJUGQ3c3dGcUNJQlh0eEVwNHZkRGllellQbHk3MUdlaER1VEpQd1hpUWxOSXdUdzJWcDdRR3NqWE0yd213aFhRb1gw?oc=5",
+    "published_at": "2026-11-10T03:30:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:42Z"
+  },
+  {
+    "id": "03e4cbfd08f29e9f",
+    "leader_name": "Lula",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Brazil President Lula to visit PH on Nov. 14-15, 2026 for state visit GMA Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa21Bam9ZckhtR0JXZ2dFU0ZwTzBQQ0wtSW9kOENWSmw5Yl80SkdJRVdtRlBURnFYenF0dV9fc3NyRjRmNnVST2VTazk2NmhSVU9JU193eGwxdmd1ZjJRSUN4WmlnbDl4Y0tXUDc1QVNCUzc2amV6a2RxRHlQeWQ5d1BNcVQ1SHFtbFR5THZRazNNR05RZjF0eWkydVhmTUx5MktkaldhanBKN01zaENBd0VmbW90dzE3eTJXOElJUFdwWnBvYXhpbjU4aTfSAdIBQVVfeXFMTzZmZG1CV0dmNEp1akM0dUZfWDZxNjVBc1J2VlBvU3pZdmFhNjI2em5sSEZCRkxJQ25vYldGSWo5Yi1PN3FfWGpqWE9QQWh6MVZBWUNULURPTnJReUFnUEFQTFRnTDA0VnNYalJGWUNPVHh1Y1dTemdQTUoxTW9ibnlhZXVlRm1ta21KZUQzZWZhM1lyNjlmSE9OTzFwZXY1b25BWDJ0dXdqOHBEZjhnb19WZGE3NmlueExMc3dKbWJZUHI3VjNyVG11UFJTVkVma1BR?oc=5",
+    "published_at": "2026-11-10T01:00:52Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:41Z"
+  },
+  {
+    "id": "73b043df12d62025",
+    "leader_name": "Nikol Pashinyan travels",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-09",
+    "event_type": "working_visit",
+    "destination": "France",
+    "summary": "Prime Minister Nikol Pashinyan travels to France on working visit Armenpress",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yU2JfaWRtZjdBRzNUZU9FSFI3cHQ5bVIzanNpaDVSbkMyd3lMMWNzeTVIaWhBamNuUzl5d1NsS04tNlNBbVI2bFhSMkVtem9kaEHSAVdBVV95cUxOd2FWRDFOdml0WlVYVEhrT1dQTVp6YzQzODJaSnozU1dRSnpDVXRSQkdiOU9lSDI2TW50SXRPVDViVnUzZktJY3hNX24xQjBNV0hoRG8wVG8?oc=5",
+    "published_at": "2026-11-09T17:19:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:41Z"
+  },
+  {
+    "id": "3f57008fedd15f1d",
+    "leader_name": "Shavkat Mirziyoyev",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-09",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Shavkat Mirziyoyev will be on a working visit to Turkey Zamon.uz",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0dPMy1tZzBXVDZNdmdZSnkwb3FYT1JHdWtzdHEzY0ZIWldHTjZ5ZXFSME9PZ04zX3lvSGtWTUZXcUVISVhacTNUNnJWMVdpR0NFVWxTMEIwTlVzSDY4a1VPV1BqYllzTi1FTGROSXZkLWpoZmNWcGtWclYzelc3Sk5pRWZFajN5SS03V1VlcUxfbzFrVERYamUtT0U?oc=5",
+    "published_at": "2026-11-09T15:01:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:41Z"
+  },
+  {
+    "id": "a8567fd4bfaebadd",
+    "leader_name": "Charles be about",
+    "leader_title": "King",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-11-09",
     "event_type": "state_visit",
     "destination": "",
-    "summary": "French President will pay a state visit to Cambodia Khmer Times",
+    "summary": "Could King Charles be about to embark on historic state visit to China? Royal Central",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORE1rQXBFa2FHcEhSSmEtbTB3azZRc3lGcHNCdHp1NmdoZUhOTTNieXRnOWtyc1JXR2g5Wk1kdmZBbndrV3NOYk1JX2hCZXpIcWpiZm9CazVjMk5vQ1VDRGs3UkpYTWRLeG8tekhZbXFpR2JhUkIyZEI2MDlVa0h2WGhrSksyZW9DT1NEMjJWVTBwZmVVSVE?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTNvTDI5MzdVTFBvaEl5dzR6T2tYZDhueThLVUV4blVQUzh0SW1HZlN3R1JENE42c3JOWmt6TGdOTGVnV1BEZDk1Y2l0U09LdDRRb2JVei1aODB4RUFqX293aTk2czRpSUxkT21HZDNEZlQxUnRKNUdzNGRoQkxYVmxKYkM3UFdFa2NhaXZZRjJGSXgwcXE3LTFTcHBMWXNRWGlWd3IzVjNEMVBRNURLT1haRG5KNkk?oc=5",
+    "published_at": "2026-11-09T14:26:17Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:41Z",
+    "updated_at": "2026-11-10T05:44:41Z"
+  },
+  {
+    "id": "1707f99d429d2b35",
+    "leader_name": "Tô Lâm",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "越南领导人苏林访日本 深化经济安全合作 e南洋",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aUnVEN3BfZnVNNUVfbl9JWDZyWDNPUFN1bVhUTklsTF9yczlmbjRQYm5jdzMxOW13bkpRNVN4dks0aE9rV1hiN1RhSlBvQ0lVeWdaMnk4MXlnZ1UwNFhpelA0Z1NkTW5sLWY4?oc=5",
+    "published_at": "2026-11-09T06:45:50Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:42Z",
+    "updated_at": "2026-11-10T05:44:42Z"
+  },
+  {
+    "id": "45e7f6b447cce08c",
+    "leader_name": "习近平",
+    "leader_title": "总统",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-09",
+    "event_type": "other",
+    "destination": "",
+    "summary": "习近平同加蓬总统恩圭马会谈 中国政协网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Qi01YnRVek5MQVZMWVJFSk5ZUXNrZlp3aU9rbFB5SHBXTUEtTEpsajVsN05ISkY0QUJMU1ZvUTQteE5FSkgwTFg5Q2U4UnJNYWZLVmlyRWtUT1JXLXBzZXM2aUpaZFJRaHB1S2lFcDFLMFU?oc=5",
+    "published_at": "2026-11-09T05:44:40Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-10T05:44:42Z",
+    "updated_at": "2026-11-10T05:44:42Z"
+  },
+  {
+    "id": "e585a365abf8b6b0",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "United Kingdom",
+    "origin": "London",
+    "origin_inferred": true,
+    "visit_date": "2026-11-09",
+    "event_type": "conference_attendance",
+    "destination": "Vietnam",
+    "summary": "Minister Chris Elmore's opening remarks at the London Conference on Antisemitism, on UK and international efforts to combat antisemitism.",
+    "source_name": "GOV.UK FCDO",
+    "source_url": "https://www.gov.uk/government/speeches/combating-antisemitism-at-home-and-abroad",
     "published_at": "2026-11-09T02:58:34Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:50Z",
-    "updated_at": "2026-11-09T04:19:52Z"
+    "updated_at": "2026-11-10T05:44:44Z"
   },
   {
     "id": "c2616c73b86e6109",
@@ -73,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:50Z",
-    "updated_at": "2026-11-09T04:19:50Z"
+    "updated_at": "2026-11-10T05:44:41Z"
   },
   {
     "id": "448c532b5550e8b6",
@@ -92,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:50Z",
-    "updated_at": "2026-11-09T04:19:50Z"
+    "updated_at": "2026-11-10T05:44:41Z"
   },
   {
     "id": "3d39c502374a99e6",
@@ -111,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:50Z",
-    "updated_at": "2026-11-09T04:19:50Z"
+    "updated_at": "2026-11-10T05:44:41Z"
   },
   {
     "id": "6b0f096870982804",
@@ -130,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:52Z",
-    "updated_at": "2026-11-09T04:19:52Z"
+    "updated_at": "2026-11-10T05:44:42Z"
   },
   {
     "id": "338423c8072617b3",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-08T04:03:37Z",
-    "updated_at": "2026-11-09T04:19:50Z"
+    "updated_at": "2026-11-10T05:44:41Z"
   },
   {
     "id": "13886d9e6e601807",
@@ -187,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-08T04:03:37Z",
-    "updated_at": "2026-11-09T04:19:52Z"
+    "updated_at": "2026-11-10T05:44:42Z"
   },
   {
     "id": "db980e567c0a2240",
