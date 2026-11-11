@@ -1,5 +1,138 @@
 [
   {
+    "id": "11e9f2a34d4720d9",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-11",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Rwandan President to pay state visit to Cambodia this week Khmer Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmhTVVdQSHg4d2xXd2RJZUY1X0g5RFItanJleDFxNGswc2dDQXFNTWpnby1Kb3Q5dDlPQlUzT1BFeDBkemI5d1dsUUtXMndnYWtKWDUxRi1haEd5Rnl5MjJwT1QyN2xWenpDZEVxbi1Vb2ozanhJLWY4cXRJb3RnSkVrMWZtSHZWWll3ZERhRHpYMkEya1dqbEpkaWk?oc=5",
+    "published_at": "2026-11-11T03:35:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "17b1bf2612ed0213",
+    "leader_name": "阿利耶夫",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "arrival",
+    "destination": "",
+    "summary": "伊利哈姆·阿利耶夫总统抵达土耳其进行访问- 阿新社 Azərtac",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHelJTYTYwQ1lFcmp1YVNoRDVsSVl2Q1R0d0dLR3BxSDFfV0hpN2ZWQVQzaWoxaEFuTUc5WnFua3g3cEJVRWstR2ZkdGJGMUM1ZVRkRw?oc=5",
+    "published_at": "2026-11-10T18:46:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:49Z",
+    "updated_at": "2026-11-11T04:24:49Z"
+  },
+  {
+    "id": "6ddaf6cb6f04cee0",
+    "leader_name": "Vasile Tofan",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Prime Minister Vasile Tofan will make a working visit to Antalya on Wednesday to attend COP31 Informat.ro",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXdmRGRoNGpiWFA4QzF5QV9CM3UteHNKUTh5MUhSRmlDRGMxR0xNLU85ZEw3aG1CYTU5ajU0ajgtZFdWV3lrZnZua0FXbkR2b0JUa0lyMV9QLU1PYXlSOHd4R1lxY1o4VzV4WUZPWXRtQnk1Q1E1bnRDVnpHS2tBQXZaVDF4aU9IZXZPelFHMTFScWc?oc=5",
+    "published_at": "2026-11-10T17:03:10Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "af941504da608914",
+    "leader_name": "visit",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Vasile Tofan is on a working visit to Turkey. The Prime Minister will participate in the UN Climate Change Conference and the Antalya Leaders' Summit cotidianul.md",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZlNhLWhUM1hZcUI0QmxMX2lFTkZMY3ltZURGb2FvVDBHczJQc3RsVmZUNmNqM2h4X2FQUzVPeWY2WWpleVNxR0Q4UFhEM1dnM0ZFc0VycVBVcGdWQm0wdXk1dk10U0JEZHdrMkhjd3cyX1phWFJSUWpnN2xpRU1uTVFoU0lHUDl5TjRkeUt4WG96TDk0V1dvclpBa2diN2ZDWmZmUGIzUFpJY213OHBXUVBvMW1iSDNPM0NZVmtTcWR6OEJXb2xlalNjeE9XR0VtenNJSlVFVEoyTzBTSW1nNnNhbkVxNWxueFNhQ1g2V0k3ZmhSa3hNN1l6Qzk1MWVJMUtlMjk5ME84OTRkVkxNQlVtWFNJYmEyRkNrQlFYZw?oc=5",
+    "published_at": "2026-11-10T15:09:37Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "b87e6f3babc5dba3",
+    "leader_name": "Steinmeier",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "FILE PHOTO: German President Steinmeier on state visit to France The Lufkin Daily News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYkZpNW1hMVNMV1ZRMTdyOXMyajFqeExBTXI0OWdjSDljUkd2Q1JfVTNheVplMDRocFhtYThtRkZqSjZuYUR3OTlQbXBVdEhnS3VpWVJZS041bmg2U2VrMzIzYW8xLWlnXzFqd2JielBXaHR6dkxwVVQ4VERuUFFfTlMxMnFFb0pjYm03OWUwMWF4YlFUZ2dVNW1CQ3VvZDUzZVItYXNhOENJV2M4SFpHdWV3eEhGazEyMUZ4Y1FfaTViX3Zsam11TE53QlNlSjUzTFM3dmxsa0Q2b3dwS3d5NWhmVEFxVThoUzAzNEVqWWtqUDg?oc=5",
+    "published_at": "2026-11-10T12:39:35Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "137cb72a51a3d56e",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-10",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "FILE PHOTO: Chinese President Xi Jinping in Kyrgyzstan on a state visit The Lufkin Daily News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbFFrV2l1OTVQcU9qQkJYU0lLMi1paHpFbWVWQ2xuUy1FbUR3NDg4SGgxLTVmNEdTWF95aWhETmlvbkdBYm1nYVpqbDBFQWN0OUFLWGVsTm1sMFJIUUlHamdqbmp0MlY1VmlpUnBNWkVUZ1dJMUVNUGZpVlZJSi1PUGtVN3FmcG1sWDBkNTdHbXprc0FVb1pFRVFfWDBfZFNxbHBXck5WNk1OaXY0endvQ251RHNZTlV4cUZiZUttTUtVVm1oYTMyZktkSzVJRG9JUWJlTXU0MjJ2QWNhVXRrZk1lNTRxVDNBeEl4R0x4YzJycm1JZ1J1SEFlV3Y?oc=5",
+    "published_at": "2026-11-10T12:19:53Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "c013c94a18ac46a8",
+    "leader_name": "of Belarus is Heading",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President of Belarus is Heading for Working Visit to Russia News.by",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnBKTWhjd2tsdlgyYTBUaVZYWDFDRTdJTjRrWmVVX3FzNzgyWGxXTndJOV93Y1BYeURKckQzX184S1Q4dEhscElNTFRLOERYYXEyUjg4bFNxRjE3emdQVzVPZE9TQzRtZmtwRy16eTZnc0NpbnFFZG4tWVZ2aUhocGtTY1ZkWlhPbElaTTJkdE1OZUE?oc=5",
+    "published_at": "2026-11-10T07:17:13Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
     "id": "eb8a3e6de2801393",
     "leader_name": "To Lam",
     "leader_title": "President",
@@ -16,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-10T05:44:41Z"
+    "updated_at": "2026-11-11T04:24:48Z"
   },
   {
     "id": "5541d6f7fa3476d0",
@@ -35,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-10T05:44:42Z"
+    "updated_at": "2026-11-11T04:24:49Z"
   },
   {
     "id": "03e4cbfd08f29e9f",
@@ -54,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-10T05:44:41Z"
+    "updated_at": "2026-11-11T04:24:48Z"
   },
   {
     "id": "73b043df12d62025",
@@ -73,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-10T05:44:41Z"
+    "updated_at": "2026-11-11T04:24:48Z"
   },
   {
     "id": "3f57008fedd15f1d",
@@ -92,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-10T05:44:41Z"
+    "updated_at": "2026-11-11T04:24:48Z"
+  },
+  {
+    "id": "b0fe726b13638553",
+    "leader_name": "Visit Tuesday. Jigawa Police",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-09",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Jigawa Police Deploy Security Ahead of Tinubu's First Working Visit Tuesday Head Topics",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3RIUE9udF9teVdNbHM3UXhOVjN6MzNac19hM0xlcnpseFVkXzExalkzUWRoRm1xaUhkUTdYLWY3OHZ6WXU0SEJGTk5Fa1lGSFBROGZtdThxdUdvcHV4azk2YjJKMkZJNnFlV3doaWFVaXJYWDNTN3BGSlJvMXg0YVdmUC01bkR0aEtVc3VvMnc5bjJkbDFJ?oc=5",
+    "published_at": "2026-11-09T14:28:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-11T04:24:48Z",
+    "updated_at": "2026-11-11T04:24:48Z"
   },
   {
     "id": "a8567fd4bfaebadd",
@@ -168,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-09T04:19:50Z",
-    "updated_at": "2026-11-10T05:44:44Z"
+    "updated_at": "2026-11-11T04:24:50Z"
   },
   {
     "id": "c2616c73b86e6109",
