@@ -1,22 +1,98 @@
 [
   {
-    "id": "11e9f2a34d4720d9",
+    "id": "607f82f2d4b5eb78",
     "leader_name": "",
-    "leader_title": "President",
+    "leader_title": "外交部长",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-12",
+    "event_type": "other",
+    "destination": "China",
+    "summary": "越南外交部长黎怀忠：越南与日本确立新合作方向 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRkJRQ3k2RU5jOVdkbTAzMVlwM2FhZlpMaUxVN2RELWhLQWVFQlhYVFktT2J2V2ExSFhTUEpJTHR0LXNoaVBzQ0sxSlBRNF9jQ0E?oc=5",
+    "published_at": "2026-11-12T01:56:35Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:54Z",
+    "updated_at": "2026-11-12T05:30:54Z"
+  },
+  {
+    "id": "291fcd698503f79d",
+    "leader_name": "介绍李强",
+    "leader_title": "总理",
     "country": "",
     "origin": "",
     "origin_inferred": false,
     "visit_date": "2026-11-11",
-    "event_type": "state_visit",
+    "event_type": "conference_attendance",
+    "destination": "Philippines",
+    "summary": "中方介绍李强总理访问泰国并赴菲律宾出席中国—东盟领导人会议有关安排 中华人民共和国外交部",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGdSME90T3p1eFZiVXo3bW9zU3NzRE5DYnB5WHBkOTl5Tm9veGN2ZTFHNlBnMTZFeUNJWjhxeTFlb3FneVRKTW1VUkFkN0lwTHd0UHVaQTdPOElFWGxvSmFWZS15WlVSVmZOQ1dud3d6VXJXbXh6bHlySFZDM1RaNGFyX0tuSFFhcEh5bk1wTDc?oc=5",
+    "published_at": "2026-11-11T10:52:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:54Z",
+    "updated_at": "2026-11-12T05:30:54Z"
+  },
+  {
+    "id": "8ff1b34eec2e224d",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-11",
+    "event_type": "official_visit",
     "destination": "",
-    "summary": "Rwandan President to pay state visit to Cambodia this week Khmer Times",
+    "summary": "Vietnamese President To Lam Departs Tokyo Following Official Visit to Japan INDiplomacy",
     "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmhTVVdQSHg4d2xXd2RJZUY1X0g5RFItanJleDFxNGswc2dDQXFNTWpnby1Kb3Q5dDlPQlUzT1BFeDBkemI5d1dsUUtXMndnYWtKWDUxRi1haEd5Rnl5MjJwT1QyN2xWenpDZEVxbi1Vb2ozanhJLWY4cXRJb3RnSkVrMWZtSHZWWll3ZERhRHpYMkEya1dqbEpkaWk?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjBSTExaWTVaNkxsV2tUbFdNS2FMbDR2ZGR5eDFDVmFzR2wydExjUnIxdHJzaW1yak5fZGY1RURUeHhLR1R2LUFWa1RSc21UNTFfWlBSVXJEVGQ0TkNZbkZhRG0xclVmbndhSVNWY2VVdHJNaE00WVpkWEcyS2xQQ19CbjFVOW1kajM1MzBCY0FRSVVvN1k4QUhEVjZvNGtPRFhKLWtYSTYyc182U01UaQ?oc=5",
+    "published_at": "2026-11-11T10:00:06Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:53Z",
+    "updated_at": "2026-11-12T05:30:53Z"
+  },
+  {
+    "id": "b684197124d8c91f",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-11",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林会见日本主要金融机构领导人 越南人民报网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoQjVYR2RxNTJWYXVoLVpKcDVHLUd6UFdjY29wRDdMS2ZfMVl5WC1mSVA4OXdBRF9yNG1Hbmoyam9VVHBScXZfNXl0Z05HVDk0M0FxQ0dqdXI?oc=5",
+    "published_at": "2026-11-11T04:22:51Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:54Z",
+    "updated_at": "2026-11-12T05:30:54Z"
+  },
+  {
+    "id": "11e9f2a34d4720d9",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-11",
+    "event_type": "conference_attendance",
+    "destination": "Philippines",
+    "summary": "中国总理李强将访问泰国并赴菲律宾出席中国—东盟领导人会议 东盟头条",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9maHV6MXV4Zlh5bFN5d25JOU9mbFNydlRuT2hiT1FINTljX2F5SEY5UjgycjRuWmRTWHhLZVdCRFZySEpPS3RaNUVlOA?oc=5",
     "published_at": "2026-11-11T03:35:42Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-11T04:24:48Z"
+    "updated_at": "2026-11-12T05:30:55Z"
   },
   {
     "id": "17b1bf2612ed0213",
@@ -73,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-11T04:24:48Z"
+    "updated_at": "2026-11-12T05:30:53Z"
   },
   {
     "id": "b87e6f3babc5dba3",
@@ -92,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-11T04:24:48Z"
+    "updated_at": "2026-11-12T05:30:53Z"
   },
   {
     "id": "137cb72a51a3d56e",
@@ -111,7 +187,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-11T04:24:48Z"
+    "updated_at": "2026-11-12T05:30:53Z"
+  },
+  {
+    "id": "37e41b0430ee44b8",
+    "leader_name": "visit. Lukashenko",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Lukashenko arrives in Russia on working visit СБ. Беларусь сегодня",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HbGxqbENOT1Y0NDN6b2o0Szhvc1l6eWdzdEpmazBBZDR6c0kxZ2ZCeVpnTkx0ckw3dDRnb3BiWkpON1JZY21vTXY3ZU1SYkdXekIxTXFqSmladjg3ODVMZ2I0TldPS2pnVUVhUmRnZ05KdjRUUTBIczFSaw?oc=5",
+    "published_at": "2026-11-10T08:45:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:53Z",
+    "updated_at": "2026-11-12T05:30:53Z"
   },
   {
     "id": "c013c94a18ac46a8",
@@ -130,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-11T04:24:48Z"
+    "updated_at": "2026-11-12T05:30:53Z"
+  },
+  {
+    "id": "8fe17e89b54223f4",
+    "leader_name": "Ilham Aliyev's social media",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-10",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Footage of Turkish President's official visit to Azerbaijan posted on President Ilham Aliyev's social media pages [VIDEO] AzerNews",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRjl5djZCcVUzeVdQMUFkVDlqeWNFNEkxMkxWbFRXV1EyMjNaZVN4bjNPUUFkYTVQVzZYWDg1SEdYVW5SMVgwR3RsT2tjOEhGWWpSRQ?oc=5",
+    "published_at": "2026-11-10T06:10:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-12T05:30:53Z",
+    "updated_at": "2026-11-12T05:30:53Z"
   },
   {
     "id": "eb8a3e6de2801393",
@@ -168,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-10T05:44:41Z",
-    "updated_at": "2026-11-11T04:24:49Z"
+    "updated_at": "2026-11-12T05:30:53Z"
   },
   {
     "id": "03e4cbfd08f29e9f",
