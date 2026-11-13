@@ -1,5 +1,100 @@
 [
   {
+    "id": "6fec77cd032582d1",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-13",
+    "event_type": "other",
+    "destination": "",
+    "summary": "这趟越南领导人访日，日方把外交礼节做到了顶配，但还是敌不过一个现实 Sohu",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTF9LRHpVSW9ONGFLYVd0OFVxaUpadVhsMC04NHBHc3JXVVFvS0VaelZOb1ltUVJHZUs2WmpZV0RDeVB1RTZPRkhOZVg5NXBlZ1JLQ3V1WmtQQ01uVk5TRExGNDB2ZFM3UWVXWS1UaFZPN053dzB0LTlrS2dDQnBPUzBpTkI2WUJWbk52Wg?oc=5",
+    "published_at": "2026-11-13T02:11:36Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-13T04:48:25Z",
+    "updated_at": "2026-11-13T04:48:25Z"
+  },
+  {
+    "id": "a273773878005280",
+    "leader_name": "国务院",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-13",
+    "event_type": "conference_attendance",
+    "destination": "Philippines",
+    "summary": "今日看点｜国务院总理李强将访问泰国并赴菲律宾出席中国—东盟领导人会议_国内经济 证券之星",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xa19qWm16UDl4TkpPUmREelhfT3AzNUtDd0ZsR0dRWEZnZkwxSjd2Vm5HR1VtNUlPTWtFMDVKMnVQdF9lNEh1ZjVvRjhRa1FEdm5IX0VjdG92ZzJpaHBjbHFCT1M?oc=5",
+    "published_at": "2026-11-13T00:36:38Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-13T04:48:25Z",
+    "updated_at": "2026-11-13T04:48:25Z"
+  },
+  {
+    "id": "5651a285c7509ccf",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-12",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Weekly Highlights: General Secretary and President To Lam pays official visit to Japan Vietnam+ (VietnamPlus)",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdy1hWU5xZ1hNTTNGeXR4eFNvTV9LVzA3d2NNTVdNa19uNF9JN0FqLXA4X1lFbmVZZlJWU1RwSXo3NlAzc3ZtRURIeFJIYVZSdU90N1pNMjhpMUFyMWh1NnRWRHZoTlJ0b2hWV0dQVlJCWGNpelNKSEg0aVE1LXhQOUJmUGJJZVJWdC1sbTgzcXNjbEpQMWN2N1NoemVNeDJpRUpZdlRJUjEzNE5NMU13c2padXpQOHNndkpEcjRwOE9ocEQt?oc=5",
+    "published_at": "2026-11-12T23:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-13T04:48:24Z",
+    "updated_at": "2026-11-13T04:48:24Z"
+  },
+  {
+    "id": "616b7b91df52f770",
+    "leader_name": "Herminie Reviews Major Development",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-12",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "Seychelles: President Herminie Reviews Major Development Projects During Working Visit to La Digue Africa.com",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVhS1diZXI0cVBkQklQR0N0RTA0Y004cUtyWmtrQ28yNXJrUDFqTGl6dDFUWDBiRnhuY0lSOVFxR0twZ2JpdGhlTmIxd0pyelFCWEVVVXgwcTRYemtjeUVZRkctcHZFUmxsMkRYT2twRFpNejFLbDdaNkFST3J5ZER5TWEtWmhBSEFPSlFMZ2xydDdFQlo1MGkxSTdzUmthZVZQZk1NV1R0LTJ3Y0hGYkFQVDRUUkxTRWZtdw?oc=5",
+    "published_at": "2026-11-12T16:46:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-13T04:48:24Z",
+    "updated_at": "2026-11-13T04:48:24Z"
+  },
+  {
+    "id": "2275d3b0355f2c90",
+    "leader_name": "Erdogan",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-12",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Turkish President Erdogan arrives in South Korea for official visit Ednews.net",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU9zbjdrVDJCSkJUaUpEUVpjaEthenlCazZVcUItTVVTcFpTRWk4b3dQek5vT1dGZ1psVzV0bW1PaXk1LXlHVmx0alhMVjA1SnZkQTF4UG9JMFlkMk5meVhpelgzZzZsbDgtMUJlMDN5Y2c0bjFuc1VleEJYLV96MnhOZEk3blYwU3ZoRlB5TzJIeGFIRklv?oc=5",
+    "published_at": "2026-11-12T11:04:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-13T04:48:24Z",
+    "updated_at": "2026-11-13T04:48:24Z"
+  },
+  {
     "id": "607f82f2d4b5eb78",
     "leader_name": "",
     "leader_title": "外交部长",
@@ -16,7 +111,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-12T05:30:54Z",
-    "updated_at": "2026-11-12T05:30:54Z"
+    "updated_at": "2026-11-13T04:48:25Z"
   },
   {
     "id": "291fcd698503f79d",
@@ -54,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-12T05:30:53Z",
-    "updated_at": "2026-11-12T05:30:53Z"
+    "updated_at": "2026-11-13T04:48:24Z"
   },
   {
     "id": "b684197124d8c91f",
@@ -92,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-11T04:24:48Z",
-    "updated_at": "2026-11-12T05:30:55Z"
+    "updated_at": "2026-11-13T04:48:25Z"
   },
   {
     "id": "17b1bf2612ed0213",
