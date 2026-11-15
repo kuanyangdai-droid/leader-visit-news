@@ -1,5 +1,62 @@
 [
   {
+    "id": "0e3440daa38b7f91",
+    "leader_name": "of Venezuela",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-14",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Acting president of Venezuela arrives in Doha on official visit | Gulf Times Gulf Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmliVTZ1Q2xwSGZJaktTQXgxVF9PVUp5QmdIUVMxVExYZDRjU19XclRBUlVOeEd0N0hUZktrNmRmNzhVdGtjaWNHbFJNZVo4RVVSTHJidk8xZmhVV0FfRGRQc1V1UFBzZUg4ZDZJOEhfc2xYU1NSVkxlMkc1VlRTZEdHYV9wbzJDTHBMd1Q2enFwUUR3eUZLalpvWDVkS0ZWTnB0TmxWWEM0WlNxUmhjddIBtgFBVV95cUxNa3g5aXFYMnk4RXFkUV9DWWdpM01RRXZpRmdRMDd4d3ktYWI1UFlKbXgxQktLYXREdmhseGZwN3BqVkxYZURJVTFvbWNISzlHSC1DMml3LTlkVVhkTllZNkNkUE9VeXN4b2ZhVVlqN1gxVzdCUjdhbG01R2dxS29CYl9CeGFQVm1GaUJ5UUc4Uk14Z3o5aURRNE5WOEc0aHUwcGFNR0RPeWVkVU9CUXdNaWVXS0M0Zw?oc=5",
+    "published_at": "2026-11-14T21:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-15T04:32:17Z",
+    "updated_at": "2026-11-15T04:32:17Z"
+  },
+  {
+    "id": "d756d6b49ee8a74a",
+    "leader_name": "Cyril Ramaphosa",
+    "leader_title": "President",
+    "country": "South Africa",
+    "origin": "Pretoria",
+    "origin_inferred": true,
+    "visit_date": "2026-11-14",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President Ramaphosa, his delegation arrive in US for working visit SABC News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnhITEUtUHlQTExoTFMtQWVLWHcyUzNFaFRRTms2dzVucXZBUWlUUVpzME9LN3RDUnkzMjdfVDV1UUtXbUxBSE5PbTFweG9vN1NxQlZfYk83UjVoMWFmYk9PLTNvX3JiUVA5TkhWUGphWk1JWWlRTmljN20tTElsd2s1bWRMWWoxUGdQQ2ZSU3ZnYlhYZFk2SmQ4TQ?oc=5",
+    "published_at": "2026-11-14T20:19:39Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-15T04:32:17Z",
+    "updated_at": "2026-11-15T04:32:17Z"
+  },
+  {
+    "id": "2a0235a82553a78c",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "President",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-11-14",
+    "event_type": "meeting",
+    "destination": "",
+    "summary": "Rappler. . Expanded bilateral meeting between Marcos, Lula WATCH: Philippine President Ferdinand Marcos Jr. and Brazilian President Luiz Inacio Lula da Silva have an expanded bilateral meeting at the Philippine International Convention Center, the offici Facebook",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlM5VjA3YXd6UzlteXFqLV9Gc1dSOThTNzA1UGhWbldmV3lRVU50clpwb25iMXdKMG9xRnFaZXRXYWNXYzFSR05aMHFDcjdlc2FWdUpnR3Q2SGp3el9DaTBLVjQzQTBZLWlWdmQtbmV2aW9ZZU1wZ25hb1pWNDJKYnJHRm5GR3JQUnZzaTlubTAzZWV0b3o1dWdtU0ZoR2o5bUpmYUljUDdXaC1UWkpZamtxVEV0anVySlI2UXN6M09tbmliam9xRndVVGY5ZkU2WnVBbE1kWXJRNlBX?oc=5",
+    "published_at": "2026-11-14T08:02:26Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-15T04:32:17Z",
+    "updated_at": "2026-11-15T04:32:17Z"
+  },
+  {
     "id": "657750524fdfb5b9",
     "leader_name": "习近平",
     "leader_title": "总统",
@@ -16,7 +73,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:54Z",
-    "updated_at": "2026-11-14T04:41:54Z"
+    "updated_at": "2026-11-15T04:32:19Z"
   },
   {
     "id": "fa53962f3cf63220",
@@ -35,7 +92,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:19Z"
   },
   {
     "id": "ba160c1a67f3b975",
@@ -54,7 +111,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:54Z",
-    "updated_at": "2026-11-14T04:41:54Z"
+    "updated_at": "2026-11-15T04:32:19Z"
   },
   {
     "id": "39c1abeef2550686",
@@ -73,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "4776cb5d27555efa",
@@ -92,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "d3edf09b2c4083c8",
@@ -111,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "7d8812943ff01230",
@@ -133,6 +190,44 @@
     "updated_at": "2026-11-14T04:41:52Z"
   },
   {
+    "id": "3b932d50cf0aa342",
+    "leader_name": "astig.ph",
+    "leader_title": "president",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-13",
+    "event_type": "state_visit",
+    "destination": "Philippines",
+    "summary": "Brazil’s Lula arrives in Manila for the first state visit by a sitting Brazilian president astig.ph",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHNNSkltQlUwQlRYNWgyS1gzcHBMTldPRmJrbHN4MEgyTENkajFGUEhJU0pPSzBkWmF4LWxwd29mZEJCSHE4eHJHcEFkRUt0SFAzSlFZUTJSRERQczRyT0tnSGpIdnhNSHlyR3Yxd0Z4VVVZckdxekRFREVuR2Q5NWptSQ?oc=5",
+    "published_at": "2026-11-13T14:37:18Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-15T04:32:17Z",
+    "updated_at": "2026-11-15T04:32:17Z"
+  },
+  {
+    "id": "25863b6a7ccc28f1",
+    "leader_name": "visit of President Ilham",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-13",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "The working visit of President Ilham Aliyev to Ireland has concluded Baku.ws",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd01XbWp6T2hBYWNLMEdxZXduQm1YdjQxWXBNUklVcnZlckQ0clUwLVNRUDIzQUxSb2JBT08tZkxjYzZxODNRSGFHS3VuTnFZQWxDbC1oLXF2TmcxNzNtMFNFazA2NERjSEFoQ3dGaFF4N0Q2azNRY3h5LW1mMUxwYmlCR0xFWmZsU0I1dU1MZE9PY2dvejNxa2tIaHc?oc=5",
+    "published_at": "2026-11-13T14:35:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-15T04:32:17Z",
+    "updated_at": "2026-11-15T04:32:17Z"
+  },
+  {
     "id": "d29149296bfc5645",
     "leader_name": "Ilham Aliyev concluded working",
     "leader_title": "President",
@@ -149,7 +244,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "5909db6c2b7da729",
@@ -168,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "cc7753dce60949e1",
@@ -187,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:54Z",
-    "updated_at": "2026-11-14T04:41:54Z"
+    "updated_at": "2026-11-15T04:32:19Z"
   },
   {
     "id": "ee072d472e674274",
@@ -225,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "3fa24cbf64bc0a3a",
@@ -244,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-14T04:41:52Z",
-    "updated_at": "2026-11-14T04:41:52Z"
+    "updated_at": "2026-11-15T04:32:17Z"
   },
   {
     "id": "6fec77cd032582d1",
@@ -263,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-13T04:48:25Z",
-    "updated_at": "2026-11-14T04:41:54Z"
+    "updated_at": "2026-11-15T04:32:19Z"
   },
   {
     "id": "a273773878005280",
