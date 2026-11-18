@@ -1,5 +1,157 @@
 [
   {
+    "id": "8abada49554eeabb",
+    "leader_name": "Donald Trump",
+    "leader_title": "President",
+    "country": "United States",
+    "origin": "Washington, D.C.",
+    "origin_inferred": true,
+    "visit_date": "2026-11-18",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "U.S. President Donald Trump arrives for a state visit banquet luncheon with President Ferdinand Marcos Jr. and first lady Louise Araneta-Marcos at Malacañang Palace in Manila, on Wednesday, Nov. 18, 2026. Also present in the luncheon is White House Chi Facebook",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1AyT0lkd2VFWXcydTR2eDdGVXplMERQTDZaTFlWcTVxOXo5MHFIZW9aTlNydjVZWEx3aEh1VWVBUlhPMlBZRnBQa2o5SzFiREUydVpFR0tpdmluR0lkOVNzRkNYbHRsMkxCaEd2QXBRSVFZZVRJQVNMZVJhYnFBQW1BTVBIc2QzRVBzbjhyanBuVW9WUjBVQ3dqSkFYd2toQ0U5NmNsUTBNVnc3Vlk0YUVZMzhqZmtfS0hZQ0pfclUxMFZrcGlPYWFUd2pjci1hZ3pr?oc=5",
+    "published_at": "2026-11-18T05:15:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "c98e67be6cb1aeb4",
+    "leader_name": "Ferdinand Marcos Jr.",
+    "leader_title": "",
+    "country": "Philippines",
+    "origin": "Manila",
+    "origin_inferred": true,
+    "visit_date": "2026-11-18",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Marcos, Lipton: No signing of Pax Silica during Trump's state visit GMA Network",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZTg2eVRNNzRqanczRHVkOG81MjZ1TVlPVV9LdWt4TUxqaVNqTV9ubTNVbzVUaWhhMXBETkM0VUltdzdaSzVkbG1KaWlQWUFZaTFNeWM3UWgtelBjcVhaRDV5NmlISXVCTjlhQkI0T29ob3RtVW1hOTJWM05wTzFpemN0UU1tc251OFlKRU5Rd2dreEdrX0pLMXo4WDlaei1nOHBiNlBnYmM4OFRkdS1sVDJudkZsd1JTR0lKYWRMbzkwdGdtZ3ZzaWxB0gHPAUFVX3lxTE4tckFGVUY0bVRSWS15Nm9wanNjZ3UwYUdiWDk5OHU4V08xWkNQRXdGUmRlSG5YazA2SzE5dlBZXzNqYkJmcENFU2VubkJCS0VXLVZxTkJ2VW15N3YzRVBQX2dxbkVtLXNwV042Y2hwTUJ6SFpILV9FTXJFX3FYX1JCc0J0UGxOcTVmeFE0YWp4X1U5cWdsa0pSb2RxUzU3SFdDWW14V3luNlhRd1lXV0Y5Q2V2Z2tCRlQ5ZjdJYmYtby1sZ2gyblBXV1g4TWcwMA?oc=5",
+    "published_at": "2026-11-18T04:14:32Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "7c2b52652cd3c848",
+    "leader_name": "",
+    "leader_title": "king",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-18",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "The working visit of the General Secretary and President: Expanding cooperation opportunities and creating momentum for Vietnam to host APEC 2027. Vietnam.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUmViX1NrcFZLMG5TR1ZkRjdmMHpNdFdYOGUzeGktYjYyVmg1ZjhxZmkzN3psZmtMS0pMdGgtZDg2bVNUUUwtT2p5Qk41amFJYW82dFlObkxpbjlyVnAzRF9FSjU1WTFkOV8zNVRuOGIxR2lhdzVuWmt1cENKTklCY0hrZXdUdzdIU2V3aWN2ZGtqZWZUUmlmLXNVSTlKNU5XNlltY0tYQVNyeDVoMFVYdldHaDhNRzBCQ1dVZW5UU3NvVDkyTExrQTBTWjZhdw?oc=5",
+    "published_at": "2026-11-18T03:03:47Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:55Z"
+  },
+  {
+    "id": "ddc839a1b5c90b75",
+    "leader_name": "Lee Jae Myung made",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-17",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "When President Lee Jae Myung made a state visit to Brazil in July, good news such as welcome rain ca.. 매일경제",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRVU5QVERpWlhNcTAxNC1BeENPSVNlVHBuOG5SX2FHdk9FRTg3cVRubmVrT25FVGFBeXlhdzBqT2xFYXl3SEtzWWNwSE92eXJKRFR6bkV3?oc=5",
+    "published_at": "2026-11-17T23:33:22Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "ca2cf1507a5383d4",
+    "leader_name": "Xi Jinping",
+    "leader_title": "President",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-17",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Peru's Head of State: President Xi Jinping invited us on state visit to China | News | ANDINA - Peru News Agency Agencia Andina",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVNjc29melZlNURMNXJ1NjczZGJvTnB6emJJSTNCb2pXeXVHQkJMWHpDQmwySG5aeWRBYkxzeGRtS3k5aEdJU0xvUGZUeDlKUFBrQ1dCUXRDQjZaM0VfajlXRDdwVjB1M2FlZ29CTW94dGxKekRaM0ZFZ1RQNFFrV19PLUZRaUw1MlNjcE5GbWg2Y2Uwdy0xSFhBeWNIVDZES1l2QXhaRjktU21UaklLdGJ4bXQ4czdxbFNaSnBR?oc=5",
+    "published_at": "2026-11-17T18:16:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "5a8c24c5925c2242",
+    "leader_name": "Donald Trump",
+    "leader_title": "President",
+    "country": "United States",
+    "origin": "Washington, D.C.",
+    "origin_inferred": true,
+    "visit_date": "2026-11-17",
+    "event_type": "state_visit",
+    "destination": "Philippines",
+    "summary": "Trump arrives in Manila for state visit, ASEAN-US Special Summit US President Donald Trump arrives in Manila for a state visit and to participate in the ASEAN-US Special Summit. Full story: https://www.rappler.com/philippines/trump-arrives-state-visit-asean-s Facebook",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcU53UEQ3dEV4SGRUbkh4bWV3LVNBNm03WG9VZmdMeVhrLXNvaVFZa2prS0poUVVnWW9lS3BBTkVETEFkTWxvYUZqZW1IVlJpcmVWZmdWRnNRbUJWMUVWU2tPQWd5YXZrN1A2UVdLbkRBUHZnekduQ2pVS0NoVTRyaXRrZ2xQQzlRQXh1YXk4eTFCZl92WlZia3E1ZmduaDktQmh0UlZ4V190SGtCWmhScUNPVzFldzBRSmlzSFJ4bjBZNEhHMWt0SG9FZ2QwR09sVlFtTDV0Nk9FSEM0?oc=5",
+    "published_at": "2026-11-17T16:30:16Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "d7a5ca531810b22f",
+    "leader_name": "Macron Departs After Two-day",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-17",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "French President Macron Departs After Two-day Official Visit Sarawak Tribune",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3V1bmtaM0R2ZG5KUTlDOF9sQU5ERE00RE9jcGJfNGdqS1doZzhYaDZTbmtuVXNURVJNV2luY0ljTXlabkh0cmstZ29lOHRmX1BzbkVhWnZBSmphMTJDWHlTUUVJUExud00zTGZ1WnNEd3BFY1ZuMTNsREpILTdCMktRbjF6bXgzM2czc0tlWXppQ2JMSXVj?oc=5",
+    "published_at": "2026-11-17T10:56:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "fc5de8cb875f8ce2",
+    "leader_name": "SAU",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-17",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "SAU President’s Official Visit to Maldives Strengthens Regional Academic Engagement and Opens New Avenues for Higher Education Collaboration India Education Diary",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb1UwS1VGcWE0M0dlRlljdjR1N1Z0SWthakxnQWtQekpNck0tMVV5QlBTODRkRHR3V184Mk1iX18xYjR3b0pjV1JnRF9SeVFwSjNsU045MlFwbDNWRWxIYWRWSFdTbEVyc3pxX0RPcklaX3ZIOTdLTmFibk9WUnd1S3ZscGVLSFZHb1FNT3RLYVJ6QzFIQ0RsOTJtUm5LZW9NVjQwRk5fdHJHcGNXSVE0dXJHdHZxMEl0MUwtNk52cFVxTHAwd0JVWGdkQUlZSmU1b0xXLVRuUS01OEVxWUZjZVM1bVJ4dE56WHpxMVc3SzJ5a3c0bDdtbXVoZy1VM0lO?oc=5",
+    "published_at": "2026-11-17T10:03:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:54Z",
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
     "id": "d2bd821aa9c980ae",
     "leader_name": "",
     "leader_title": "Prime Minister",
@@ -8,7 +160,7 @@
     "origin_inferred": false,
     "visit_date": "2026-11-17",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "Singapore",
     "summary": "Director-General of the Department of American and South Pacific Affairs chairs an inter-agency meeting to follow up on the official visit of the Prime Minister to Australia and to prepare for the official visit of the Australian Prime Minister to Thailand กระทรวงการต่างประเทศ",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmxHYXBfd0xjaHpmYzhxRjJKMG1sNVRlZmwyOWtPVWF6TGtlZTFxT0VXbjZra1J4emNtSHU4anBuYVpOZzAzWjFnc1V4Z3dJU3B2SkpkQ1dPVWdrVTdBZHhMRjZROHN2em05M05ZMlhzOTYxNzJEdEVtMHo5Zkd2dV8wajJVMGpzaDR6QVYtaGNCWWlRdFZ2WmVpWW9kbVFidkt2YjJQaDc1MmpXQmZB?oc=5",
@@ -16,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-17T06:14:39Z",
-    "updated_at": "2026-11-17T06:14:40Z"
+    "updated_at": "2026-11-18T05:41:55Z"
   },
   {
     "id": "943ae09bee483a07",
@@ -35,7 +187,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-17T06:14:39Z",
-    "updated_at": "2026-11-17T06:14:39Z"
+    "updated_at": "2026-11-18T05:41:54Z"
+  },
+  {
+    "id": "bfa45f3051e18f0b",
+    "leader_name": "习近平",
+    "leader_title": "",
+    "country": "China",
+    "origin": "Beijing",
+    "origin_inferred": true,
+    "visit_date": "2026-11-17",
+    "event_type": "other",
+    "destination": "",
+    "summary": "外交部介绍中方特使、特代访问中东海湾等地区国家情况 习近平外交思想和新时代中国外交",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40OUFTbG5EZXlQcWRuVjNTYlNPZW5sNTZaNUJjMVBpc3VJTkpoamJyYmdocGZYVVJ5cS1Ub2YxSERYUE1jSUxWRk5sZEJSWkVucGtfNU1FVFV5b2hia1lWSGlpMEdOM3pzcnktMEljdW1ZTEtFbEE?oc=5",
+    "published_at": "2026-11-17T01:54:54Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-18T05:41:55Z",
+    "updated_at": "2026-11-18T05:41:55Z"
   },
   {
     "id": "4f6485749e67da21",
@@ -130,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-17T06:14:39Z",
-    "updated_at": "2026-11-17T06:14:39Z"
+    "updated_at": "2026-11-18T05:41:54Z"
   },
   {
     "id": "6ee19f41e8fe13ff",
@@ -149,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-17T06:14:39Z",
-    "updated_at": "2026-11-17T06:14:39Z"
+    "updated_at": "2026-11-18T05:41:54Z"
   },
   {
     "id": "5f67cd933d4d6f94",
@@ -168,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-16T04:28:57Z",
-    "updated_at": "2026-11-17T06:14:39Z"
+    "updated_at": "2026-11-18T05:41:54Z"
   },
   {
     "id": "5d36c8813f9875ef",
@@ -187,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-16T04:28:57Z",
-    "updated_at": "2026-11-17T06:14:41Z"
+    "updated_at": "2026-11-18T05:41:55Z"
   },
   {
     "id": "dfcf266160ef303b",
@@ -244,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-16T04:28:59Z",
-    "updated_at": "2026-11-17T06:14:42Z"
+    "updated_at": "2026-11-18T05:41:57Z"
   },
   {
     "id": "3292c71d00d07b59",
