@@ -1,5 +1,195 @@
 [
   {
+    "id": "606b2f3e607d573d",
+    "leader_name": "Narendra Modi",
+    "leader_title": "",
+    "country": "India",
+    "origin": "New Delhi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-22",
+    "event_type": "state_visit",
+    "destination": "India",
+    "summary": "Nepal PM Balendra Shah to arrive in India today on two-day state visit, hold talks with PM Modi tomorrow ANI News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUFh4a0V5Z1ZCWDJOdVJXZkxPZHRtVTkxVEI5Qm5VdXRXSV9uSVRaQ2Z1S2JPN0dzbzBRX2Vvc2F0blc1Y1RoRGhSd2ZxbEE0LXZYOXJPQTZQQVNybGdrWExIYV9tUnk5anJfT2lKWVRYQnpUbzZJUnNEN0lHTlF2X3c0ZzAzSkstcmtpWFM1dHVHZ0Y0dE44MkFDVE4temNHSmRWSkdqTWhVeWRsTXBMS3ZWalBOWnJ2ZFE0b1NnbTUzc3UzV1RucjRlTXNrclF4OTRXS0s1Q2ZQaUNWY2t5Z1ZWa0xrR2stTVZCUg?oc=5",
+    "published_at": "2026-11-22T04:16:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "044a10a8e449342d",
+    "leader_name": "Balen Shah",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-22",
+    "event_type": "state_visit",
+    "destination": "India",
+    "summary": "Prime Minister Balen Shah Arrives in New Delhi for State Visit Ratopati",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkhRMWozX1R1VExuNm4tMGctWlNkVFg2SXdqUU94QmZBR2M5aHdpRGFWVm5oM3pFSXV1NHVvZUtWamRHTmpRUnNwei1KeVlWMVlJdExtclY0dHFOZkhGaUgzWGN0ZXgzWlVTbFJ6SDluaUFWaGROeVJXb2JJeTVmSkJlMkd2N1FlNG10eWVWZzhPN01OTG5kLXc2LWdDYnFB?oc=5",
+    "published_at": "2026-11-22T04:05:59Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "7e5b0f264779c5b2",
+    "leader_name": "",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-22",
+    "event_type": "other",
+    "destination": "",
+    "summary": "越南领导人在开完会之后，没有直接回国，带着一大队高层直接飞到一个关键城市 Sohu",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnNlNzdEem83U3lqNEJweVpBa0VHX1JUZ2d2TVJYeTRKMGItOUd3ZUNkRUxrSU5vRE5TUGtBOHloZ1V5eTQtNHd2a3pmeGdmUndYaXdsRUhDS01jTGJSdmVfQmkzTkhqeFQ4SjhhdFduQ0JHR0JCekt0ZW82alUzMk9jX0lTOXNPTHJDMA?oc=5",
+    "published_at": "2026-11-22T02:57:23Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:55Z",
+    "updated_at": "2026-11-22T04:47:55Z"
+  },
+  {
+    "id": "b36c182e2d0c1ac0",
+    "leader_name": "Shah leaving today",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-22",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Prime Minister Shah leaving today for state visit to India myRepublica",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGdzZmpreHdNSkZXRkVzVkU2Z21BNWcwclRxN3JGZ01TVEFlYXVGVWhEb2pOVk9RdDdDUkF6UnFkc2QxWDVqWUcwVEZHb0cyUXA5dWE5b1ZBWWstdEtnN1FxeHN0WnBsQ2xFZjRVak5iTzlBSG9wS3pyamh0cmx1MGpzWC1tdDdTX1dDQ2dpZVpkc2tVcENObFc1ME5ocUIwRGxHTzFNeHk1c0xVbEF6NUZQOA?oc=5",
+    "published_at": "2026-11-22T01:34:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "c5306bb8d979cff0",
+    "leader_name": "",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Video on the outcomes of the President’s official visit to Vietnam was shared TodayPress.tv",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1pZX3lZYTRGUEFPWWhDWndCWHQzSWRWaFhoTkxzMzNvX1BrN29nWXJSUHZkYUVMaHZFdEpOUTd1eE5NaEcwUEdrVUp3UWpBaW40V3UxTEd5V3A3N2VVcWowdXNEbzI3SndfTDNPZ09wS3J5UWtMaDRZcjBtNGtHYUN4RnJhQTl3bXFfV2FCSkx6YlJFQ1ZDUWJ3MmFLQlk1UEJxOFk3eC15UQ?oc=5",
+    "published_at": "2026-11-21T18:42:55Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:55Z"
+  },
+  {
+    "id": "86d272d82e06b649",
+    "leader_name": "Balen Shah Embarks",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Prime Minister Balen Shah Embarks on Official Visit to India Amidst Significant Attention Ratopati",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbEt0TS1HWEkxWk93WU5XSGxiOWJ5MGdnaVFfSk4wN3o3cmM3T2UxWXMycUZvVHh2TXJ5Skxwc0NnYkVOQnJqd3g1MUVBWkdqMnpGOEJCb05hUC1pTzJ2X3ZhWnFCUWlVNzBIS0tVdGotZGp5WlFPOVJIMTFUc0U1R3ROc2JnRTBnV296dkg3NHY5SUJ1UVpuaVh3ZUl3OElra3MtRjZja2FTa0FtSEZHTGdTZVFheElOUmFwWnV0ekNIU0FCOEhja3R5MA?oc=5",
+    "published_at": "2026-11-21T15:23:34Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "c562f3fa0997816d",
+    "leader_name": "Balen Shah",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-21",
+    "event_type": "official_visit",
+    "destination": "India",
+    "summary": "Prime Minister Balen Shah Arrives in India for Official Visit Ratopati",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWZDcTlmNTRibHo5dXhHcE9mRldKZG9MazhmRmRnSk51S1NPSzk2Yzc3NXVTZzUzZTBub0d6SWxlTU1sUjJxU3Y4YkkwZHpuampUVWVucjFfbjhScUt2Wno2VVBRLXBxZzBqNU9vM3FLbU9DaFg4Um1SMFFXM1IzSmJFTzdrWkFrdGV3bkI4X2FMbEw3UmtjMlR0WW9pcWF6eE41YnRiLTZEWThPRFdhcThwUEVyeHdWTXRfVnRveVdqQTRUaVE2NGlWZHMzWWd5eDh2N3B3WQ?oc=5",
+    "published_at": "2026-11-21T14:50:56Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "78bcc6863f7cf0ee",
+    "leader_name": "Tô Lâm",
+    "leader_title": "国家主席",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-21",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "越共中央总书记、国家主席苏林主持仪式，欢迎阿塞拜疆总统对越南进行正式访问 cn.baochinhphu.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQdkV3dFNhMWNNcHlFSVNmLUw0MVFaSFU1NU5hYTJSeEF6WmxYNHJCMXg0SXVaWVkwYkJWalBOOXBpYkdGT290bmJjRWxyaVhBVVpIWTN4R3FtWXdLYzd2aEpZVF9UMVBoQ2sxclp1TThOdWpWaVFuRWNSaG1SX2tONXhOLUdwVGQ5V3EyWl9qM3VTVGUtQW4xQjlCQTdKMWlDSlVYYXdJT2JkMWF5dU1DUlBScm9QUUVzSGNDSjVMNjJxa0ZlQU43eDlqMXJsU29SVE9abmVKUmxYaW55ZjBlSEwyQ3I4R21jNUNaVnV1QU1rbHl4MTJDOHdCN1BCT3RnTzN3cjlxc0o1MzRhU2MwRWRRZjBycU1BaUo5WHc1QktwRzU4ZUl1S2x6RDlnXzRVeEdES3p1ekdYa0o2SEhycXRtTnpSNkppREZMVWpLMWhfM1pKUlVBWGN6enY3ODFVSnVIdGVjdnR5bTl2TGNwcHZwdmhhY0JjSkY0cWprQldZcUNkZlpKLUpVT0QzbFc5QnAyUWtMUWFhVlY0d0E5X0xOWHVZOU11YkhsZWE1cUd6ekdicVYxMVZZd0dfakFoWWk5OHJIclhGWllRMmVobzJEUlVGLTdoU1JFLVpEODM5WkkzR1FjMkZBNG1aZlRIQk5sUjNn?oc=5",
+    "published_at": "2026-11-21T10:36:00Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:55Z",
+    "updated_at": "2026-11-22T04:47:55Z"
+  },
+  {
+    "id": "c01c8f9638217b61",
+    "leader_name": "To Lam",
+    "leader_title": "President",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "To Lam hosts welcome ceremony for President of Azerbaijan in Ha Noi en.baochinhphu.vn",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjBqWVNqUzgzdWNCYlF0ZVR5T19pMS1GQ1JiUXVKSnhoVTdqald4ZmRxQlBmaFZNRm16cWszVVF1ZjlDczlXNC12LWI1VjdJZnl5aTVKZXNFZVltcTRhV0VNdFFReHhYT0loUzZaUGx1UWpWUEpnOF9MYTQyX0h2LWN6NjZjbzRYU0ZfY2liN2FlcHRPOGNOcnJLb3lETzREM202eGtybVU5RDloaGpuRUJXb05yRkU?oc=5",
+    "published_at": "2026-11-21T09:24:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:54Z",
+    "updated_at": "2026-11-22T04:47:54Z"
+  },
+  {
+    "id": "75e3f05d40ed05fa",
+    "leader_name": "美国",
+    "leader_title": "总统",
+    "country": "United States",
+    "origin": "Washington, D.C.",
+    "origin_inferred": true,
+    "visit_date": "2026-11-21",
+    "event_type": "other",
+    "destination": "",
+    "summary": "“满分10分，我打12分”，特朗普给中俄美元首会晤打超满分 11月19日，在深圳APEC峰会期间，中俄美举行了元首会晤，这是三国最高领导人首次聚首。美国总统特朗普高度评价这次会晤，在接受采访时表示：“如果满分是10分，那我觉得能给它打12分。”特朗普称：“这是一 Sohu",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SWdBUmpzS0dmZXdSeDdLX2o3UXVPcld4eE5KSnpTeEd2Nm9LYVZfVDB2N1d0ZnRHVWZyc1ZoVi1lc1pYcXVCMVJPckR6cmgzeUE?oc=5",
+    "published_at": "2026-11-21T08:14:43Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-22T04:47:55Z",
+    "updated_at": "2026-11-22T04:47:55Z"
+  },
+  {
     "id": "85619704b9596de7",
     "leader_name": "Cyril Ramaphosa",
     "leader_title": "President",
@@ -16,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "c70efe2bde7d2ebc",
@@ -35,7 +225,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "b7744e72e8a5cf2d",
@@ -73,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "95bbeb0049ff9d33",
@@ -92,7 +282,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:18Z",
-    "updated_at": "2026-11-21T05:22:18Z"
+    "updated_at": "2026-11-22T04:47:55Z"
   },
   {
     "id": "12c2cb445b067a88",
@@ -111,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "8e8381c3e256774e",
@@ -130,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "8ac057866aa4dc07",
@@ -149,7 +339,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "4c2e4a65a5228a3b",
@@ -168,7 +358,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "26cc0d3d1dc9fb25",
@@ -187,7 +377,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "0c848dbcb4b1fcc3",
@@ -225,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-21T05:22:17Z",
-    "updated_at": "2026-11-21T05:22:17Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "7e899b7ac45f34b4",
@@ -255,7 +445,7 @@
     "origin_inferred": false,
     "visit_date": "2026-11-20",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "Singapore",
     "summary": "Azerbaijan president and spouse begin official visit to Vietnam VOV World",
     "source_name": "Google News - Global Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbG85US1kMFNWTWRRZDBhTmpfU2UwQ1IzSWVfT1hkeDBpemh0RWgzT3RpTTNZcFBWTkF6NVl4c1dCanZnSkxNczI4ZU1IR3d2VnY2ZVhEMVk1eWV3N2lCek4wRy1sdFdJN3FZRDJDTHdEMS1xS0lCaDdEbWxqRVBZbnFfVWcwYXp5MzUyeTJ4aUV2cXpuUGplbUdENE1FRXhuaklZ?oc=5",
@@ -263,7 +453,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-20T05:29:12Z",
-    "updated_at": "2026-11-21T05:22:18Z"
+    "updated_at": "2026-11-22T04:47:55Z"
   },
   {
     "id": "b2cb5f2b3b69d8e4",
@@ -24127,7 +24317,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-08-06T02:07:47Z"
+    "updated_at": "2026-11-22T04:47:54Z"
   },
   {
     "id": "7186f6139146bd21",
