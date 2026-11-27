@@ -1,5 +1,138 @@
 [
   {
+    "id": "30b87149db0388d6",
+    "leader_name": "",
+    "leader_title": "总理",
+    "country": "Laos",
+    "origin": "Vientiane",
+    "origin_inferred": true,
+    "visit_date": "2026-11-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "老挝总理沙伦塞·贡马西和夫人对越南进行正式访问：推动越老关系日益紧密 cn.qdnd.vn",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTjVUQ3l2MzV5bFpTOW16a055em82RWo4WjAxd2U2ZndCQTJzbnA5WmpFb2xZNnJFaU9JRkNTaWF0THFhQng3d2tya09DNGJFOEE?oc=5",
+    "published_at": "2026-11-27T06:19:30Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:26Z"
+  },
+  {
+    "id": "27f0121eb8bdf58e",
+    "leader_name": "Mahama Departs Ghana",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-26",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Mahama Departs Ghana for Five-Day State Visit to Barbados Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GSkUwLVlGSjk0OFVZTEFoQ2ZFOVFaanhGNERhZnJRc2xuUHFLUi0yT3d1TkJJejQ0UHNZMUI3VkJKSkR5UjBMZEJxU1NrdXYwME5QUzVEelk0ek5Y0gFcQVVfeXFMTkZKRTAtWUZKOTQ4VVlMQWhDZkU5UVpqeEY0RGFmclFzbG5QcUtSLTJPd3VOQkl6NDRQc1kxQjdWQkpKRHlSMExkQnFTU2t1djAwTlBTNUR6WTR6Tlg?oc=5",
+    "published_at": "2026-11-26T22:40:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
+    "id": "c5c16a6a11b02c72",
+    "leader_name": "Sisi bids farewell",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-26",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Sisi bids farewell to Qatar’s emir following official visit Egyptian Gazette",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA?oc=5",
+    "published_at": "2026-11-26T17:03:04Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
+    "id": "0b44a9324daa13b2",
+    "leader_name": "Mahama heads",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-26",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Mahama heads to Barbados for a state visit from Nov 26-30 Ghanaian Times",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFVrYlpjTDhFOERWSy14ZGtIQXZDSGRzbVYwTG50dGp6NUE2X2hOOVhoS2RidXppX2lhSDZYZjJWRVZjQXBLb1dnVVFDaC1JUkRFb2ZuNVhDcFBVTDNVRkRaY05iUTc1azBnS1ZLYmcyeFZTMXNZT2h1U2NhSFl1UkwxX3lfMXFBZHFTM1ZCZ0ZwRk14b0xfQVNvbzdQQQ?oc=5",
+    "published_at": "2026-11-26T13:23:42Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
+    "id": "dc4aeab274ac637e",
+    "leader_name": "普京",
+    "leader_title": "总统",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-26",
+    "event_type": "other",
+    "destination": "",
+    "summary": "普京总统点赞中俄教育合作，华师人在场！ 腾讯新闻",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZGQ4TTR3MGdLeHRfNnZjYzUyREdyYmZhRDN6ZUVzUWd6VTNhMi03YW5fZjBJaHBsSm9ISFdEdGRzS21veXI0WnZXYkZGMVI3RnRheHVB?oc=5",
+    "published_at": "2026-11-26T12:39:18Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:26Z",
+    "updated_at": "2026-11-27T06:25:26Z"
+  },
+  {
+    "id": "a19af12e9c12ba50",
+    "leader_name": "",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-26",
+    "event_type": "state_visit",
+    "destination": "China",
+    "summary": "Nepal's Prime Minister Balen Shah Concludes State Visit to India Ratopati",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ2NHNkpRc2l4dnBCckZ3QTQzLVRReFBvNmt1a0xVZDR2YkF4dTZOYUg2bTBPa19lSFJEOURnWHBSZHFaYXhVMDlhdTZ3dXdSTFB2ZU1hTklmaXBocHlWT3doVXdvdmxwOWN0bk51OHR2Tk8tYXNPOVphSm5walZXYXFOcVNGaDAwOWVzTXJWWUJHWnhucWtHLXFXRFk5TkRaWW1iZ0lrd21rOE9ITnJjRXlCWGR1cUN5ZURaXzN1eGlreVk0RnB6ZjlNNXYwOUwtcDRZb2h2Wi1PbTVaa18xZ1dFaDNPUQ?oc=5",
+    "published_at": "2026-11-26T11:41:08Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:26Z"
+  },
+  {
+    "id": "068371896eb26f31",
+    "leader_name": "Min Aung Hlaing",
+    "leader_title": "President",
+    "country": "Myanmar",
+    "origin": "Naypyidaw",
+    "origin_inferred": true,
+    "visit_date": "2026-11-26",
+    "event_type": "working_visit",
+    "destination": "",
+    "summary": "President of the Republic of the Union of Myanmar H.E. U Min Aung Hlaing, to make working visit to the Socialist Republic of Viet Nam to attend the 11th ACMECS Summit and the 12th CLMV Summit – Ministry of Foreign Affairs နိုင်ငံခြားရေးဝန်ကြီးဌာန",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORVNKNHRpeXNsRW0xRTBvdUhoNHJkelpuUjk3VzZlMlFLVWtGcnVsRnVRT3VTaXREWnpIZTRIUE9XelJ1UDlUTk1DeHFYWk5ieGFlSzV0amxMSnY5VlRLOEhnQXpxNkp1NGc3eG1LenkwTE1pY0xpdTFxS2VNSmFIcHZtM3VqRHRNY1pFWm1aUW1TYTF5cXdyZUtrRkg4Z0lPS0luYV8zZGpaR1EwNENFMFBDTTYwRnZDLVdOUVd6M19uZnBxOTN4VVQ4UXU2RGFsSEZDUXlBclQtb1ppUy1HY2FPZ1N4WGg0QU1KaFdqT1pGWjhjaThlbUlIa01zeHg1T0pzXzZZUXZtbThteUlsOTFHR0doUF9BSWRRRXFMd0tFdHFmMFFjVmU2LWhNbXZqSnVpMnFKbXgxWDYzU2c?oc=5",
+    "published_at": "2026-11-26T04:27:50Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:25Z",
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
     "id": "b70452935c15d8d2",
     "leader_name": "Visit",
     "leader_title": "king",
@@ -16,7 +149,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
+    "id": "43d12579915b5def",
+    "leader_name": "Tô Lâm",
+    "leader_title": "",
+    "country": "Vietnam",
+    "origin": "Hanoi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-26",
+    "event_type": "conference_attendance",
+    "destination": "",
+    "summary": "苏林圆满结束出席2026年APEC领导人会议周及在中国双边活动 VOV World",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWR4OU1wdzZvX3dVNXF1TVFtTTdmZDJIYW5SZWdLRzZoZ0xKTmphMk83dnhlaEp3SzFlZjJGWGFqVmx2TWhGZEpTRVQxLUxEZGItb2NsMWh4UTJrUXFCUWk4TjRHU1ItV2RYVy1oTmpGOWFUUDdublZ1Y1VrdnA4UE83ZjNCNnY3YjhpbnR4b1lydnRKUXlCYmhVUko2Q1hqRHRWaHZFbVVqa3MzMm4yQTdPSWs4Wmp5ZHAyWTljLVdJdFZ5WjJCTlVR?oc=5",
+    "published_at": "2026-11-26T01:36:27Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:26Z",
+    "updated_at": "2026-11-27T06:25:26Z"
   },
   {
     "id": "009f258af96f27dc",
@@ -35,7 +187,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "aef05c6959a022d4",
@@ -54,7 +206,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "efa7d1efca1eea5d",
@@ -73,7 +225,26 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
+  },
+  {
+    "id": "3474c7e3ee167ccd",
+    "leader_name": "与匈牙利",
+    "leader_title": "总理",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-25",
+    "event_type": "other",
+    "destination": "",
+    "summary": "泽连斯基与匈牙利总理祭奠阵亡将士后打排球，被批有失庄重 凤凰网",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QeTNtMTRybFIyY05mSnRJbnlhWVJPZlZMMGRPTnFqZHdHSlJRX0Z4VEZFbVpvck1wQXdZU2phd1VwTW5DWkQyZ29PaEo?oc=5",
+    "published_at": "2026-11-25T12:23:07Z",
+    "language": "zh",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-27T06:25:26Z",
+    "updated_at": "2026-11-27T06:25:26Z"
   },
   {
     "id": "d5b28d3b267125c6",
@@ -111,7 +282,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "8da9ab9f9ef8eb17",
@@ -130,7 +301,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "117e2850c188039e",
@@ -149,7 +320,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "53559644009d48fe",
@@ -168,7 +339,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:52Z",
-    "updated_at": "2026-11-26T06:34:52Z"
+    "updated_at": "2026-11-27T06:25:26Z"
   },
   {
     "id": "f29c06ccdb4ef8df",
@@ -187,7 +358,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:52Z",
-    "updated_at": "2026-11-26T06:34:52Z"
+    "updated_at": "2026-11-27T06:25:26Z"
   },
   {
     "id": "d097522056c33bf8",
@@ -244,7 +415,7 @@
     "language": "en",
     "possibly_special_aircraft": true,
     "created_at": "2026-11-25T06:43:21Z",
-    "updated_at": "2026-11-26T06:34:53Z"
+    "updated_at": "2026-11-27T06:25:26Z"
   },
   {
     "id": "c5d29aa5de878d88",
@@ -25248,7 +25419,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-07-25T02:12:06Z",
-    "updated_at": "2026-11-26T06:34:51Z"
+    "updated_at": "2026-11-27T06:25:25Z"
   },
   {
     "id": "7186f6139146bd21",
