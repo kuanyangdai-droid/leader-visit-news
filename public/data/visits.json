@@ -1,5 +1,119 @@
 [
   {
+    "id": "841a02b7ebfda995",
+    "leader_name": "Mahama of Ghana",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-27",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "Barbados – President Mahama of Ghana on State Visit NY Carib News",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNUNEOVk5c0JVWlhqWlZGbmdQN19pRTh0LXpibEVzdENIZ0xldEdRSE5HNkVrVm5PR1N3OEdfNFNDbWhJZlhTUVhONTBOVWFvNHd3UmhHSFVPNmNwQzR3R3ROS0lzWHpXNkpSaG8tRHdleTRIa3ltNUNHSkt6YzQ?oc=5",
+    "published_at": "2026-11-27T18:14:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
+    "id": "f6df7778e7fdda3b",
+    "leader_name": "Mahama",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-27",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President Mahama Arrives in Barbados for Five-Day State Visit Modern Ghana",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xMm9VTXdCQVdkQlRZM1JBc3J4RVZUM0pPcENaR09SNzJaWDJzQ0d1Z25yaWNGclYteWZTYWRHQmd6Y3NzMWxPT1ZkNEhqY1NwZVVVc09iUnd6TjVqYTRRNmFxd9IBXEFVX3lxTE8zQUYxdTVMMy15SjM0bW5fTFIyZTN1NnpIN0cyM1RoV0JqUGsyWG1lQ1FJcEFXWURTWHlmZTlJWWhtajczXzNYTjVCdWM2QVFYMWY5cS1LZllteVUy?oc=5",
+    "published_at": "2026-11-27T14:00:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
+    "id": "aefad20bbfefcefa",
+    "leader_name": "welcomed",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Lao Prime Minister welcomed in Hanoi on official visit to Vietnam VOV.VN",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0dJVDNRYnZpdUZXbWprdXR1TnZEQkdGUk1KRjJ6YWdZTnludmcydTZMX1JweUE3MTI2WGc3dXpEeWdCeDZ5TUlhZHVCQnpXZ1M1S1dSdzdSalVXU3VGMkJQRGRLTmt0ZUZSOEJTSzlhM2IyTkp4VHNITGdoWFlWcUtFYmZkUkRMNWlnSVl6bzdLeS16YUZyblJFWVZuMk53M1dGQlJmM2NPUTVDUmdjNW44SzlsS3FWZjVncU00UXZSYlRK?oc=5",
+    "published_at": "2026-11-27T12:13:00Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
+    "id": "252710295023ecda",
+    "leader_name": "Amedi",
+    "leader_title": "President",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "President Amedi Arrives in Najaf on Official Visit رئاسة جمهورية العراق",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zRE9iSXdmaHhLWGJpZ1dISzlFNkE2Ny1BRmJMakUycmdEVC1ZMFB0VmJEb3NlMFJhVnVva1hpbld2ZkFPOTVCVTBiRXY4RjdlbjFCdmFnQnhCWmM2Snc?oc=5",
+    "published_at": "2026-11-27T11:10:03Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
+    "id": "ab4d53dc07e6c06f",
+    "leader_name": "Saleumxay Kommasith pays official",
+    "leader_title": "Prime Minister",
+    "country": "",
+    "origin": "",
+    "origin_inferred": false,
+    "visit_date": "2026-11-27",
+    "event_type": "official_visit",
+    "destination": "",
+    "summary": "Lao Prime Minister Saleumxay Kommasith pays official visit to Viet Nam Nhan Dan Online",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFI5Q1JOZk83U3p5SWg4enFtRFdnOTEwWENMYS12R2s4OWQ3OXExTnBtV2hnN2hDUDViWUwyNFpybWNXalV5WUNoRTdrTjk1dVFFbUV4UlFKd1oxUE9qOVpEbGxHUWJ0VVk5N2ZraG9kTW45Vm54WlBmUFZxcEVickV6UFZoMGM1eHRDM095WDVSal9rc0pXel9HSUxYem5jajByTVY1SnFDLUJm?oc=5",
+    "published_at": "2026-11-27T08:30:24Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
+    "id": "2f8441e1f69f732e",
+    "leader_name": "William Ruto",
+    "leader_title": "President",
+    "country": "Kenya",
+    "origin": "Nairobi",
+    "origin_inferred": true,
+    "visit_date": "2026-11-27",
+    "event_type": "state_visit",
+    "destination": "",
+    "summary": "President William Samoei Ruto hosts his Zimbabwean counterpart, President Emmerson Mnangagwa, during his state visit to Kenya, State House Kenya, Nairobi. Facebook",
+    "source_name": "Google News - Global Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3MzbXp4NzVaSW1fZGItb25DdUtYUS1remhGQ2pfSXhwX2RQOGFMVFpGZnhHTHpta1lybXk1OWhXMDVnM1VJVC1GdE1PLWwwS2xtS2tqaGhYZnBQaE1uejUwaDdrbGJCNW1EMmdDR0xXbmd1RXZkdnJhaVRNNmJwMEFCNkQtVTgyd3pGMjZEeWY5dHZrV2NLVXRORnRtRnJoZW91ZnUxNk0zOEQteHAtU3E0bzRjNV9BbG9pX0dvR1pDRUU3a3V6VDNHUGxFVDFqU0JPTUNWd2YwRkx1WkE?oc=5",
+    "published_at": "2026-11-27T07:00:09Z",
+    "language": "en",
+    "possibly_special_aircraft": false,
+    "created_at": "2026-11-28T06:00:58Z",
+    "updated_at": "2026-11-28T06:00:58Z"
+  },
+  {
     "id": "30b87149db0388d6",
     "leader_name": "",
     "leader_title": "总理",
@@ -8,7 +122,7 @@
     "origin_inferred": true,
     "visit_date": "2026-11-27",
     "event_type": "official_visit",
-    "destination": "",
+    "destination": "Vietnam",
     "summary": "老挝总理沙伦塞·贡马西和夫人对越南进行正式访问：推动越老关系日益紧密 cn.qdnd.vn",
     "source_name": "Google News - Chinese Leader Visits",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTjVUQ3l2MzV5bFpTOW16a055em82RWo4WjAxd2U2ZndCQTJzbnA5WmpFb2xZNnJFaU9JRkNTaWF0THFhQng3d2tya09DNGJFOEE?oc=5",
@@ -16,7 +130,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-27T06:25:25Z",
-    "updated_at": "2026-11-27T06:25:26Z"
+    "updated_at": "2026-11-28T06:00:59Z"
   },
   {
     "id": "27f0121eb8bdf58e",
@@ -35,7 +149,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-27T06:25:25Z",
-    "updated_at": "2026-11-27T06:25:25Z"
+    "updated_at": "2026-11-28T06:00:58Z"
   },
   {
     "id": "c5c16a6a11b02c72",
@@ -54,7 +168,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-27T06:25:25Z",
-    "updated_at": "2026-11-27T06:25:25Z"
+    "updated_at": "2026-11-28T06:00:58Z"
   },
   {
     "id": "0b44a9324daa13b2",
@@ -92,26 +206,26 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-27T06:25:26Z",
-    "updated_at": "2026-11-27T06:25:26Z"
+    "updated_at": "2026-11-28T06:00:59Z"
   },
   {
     "id": "a19af12e9c12ba50",
     "leader_name": "",
     "leader_title": "Prime Minister",
-    "country": "",
-    "origin": "",
-    "origin_inferred": false,
+    "country": "Laos",
+    "origin": "Vientiane",
+    "origin_inferred": true,
     "visit_date": "2026-11-26",
-    "event_type": "state_visit",
+    "event_type": "official_visit",
     "destination": "China",
-    "summary": "Nepal's Prime Minister Balen Shah Concludes State Visit to India Ratopati",
-    "source_name": "Google News - Global Leader Visits",
-    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ2NHNkpRc2l4dnBCckZ3QTQzLVRReFBvNmt1a0xVZDR2YkF4dTZOYUg2bTBPa19lSFJEOURnWHBSZHFaYXhVMDlhdTZ3dXdSTFB2ZU1hTklmaXBocHlWT3doVXdvdmxwOWN0bk51OHR2Tk8tYXNPOVphSm5walZXYXFOcVNGaDAwOWVzTXJWWUJHWnhucWtHLXFXRFk5TkRaWW1iZ0lrd21rOE9ITnJjRXlCWGR1cUN5ZURaXzN1eGlreVk0RnB6ZjlNNXYwOUwtcDRZb2h2Wi1PbTVaa18xZ1dFaDNPUQ?oc=5",
+    "summary": "老挝总理沙伦塞·贡马西和夫人对越南进行正式访问：推动越老关系日益紧密 Thông tấn xã Việt Nam",
+    "source_name": "Google News - Chinese Leader Visits",
+    "source_url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOYXB2S2VoaklWMU1NVVN5UW5rMHZSMURGbFZiS3BVdHRua210cHIxVjYzdURnSDdSS3FGZnI0bnltR0V5UU90dV9NV002YUx1SHMybTZBSDcwODJBOFdnQkhTYUFQeXpQMmhmN000d2NId01KX3RGMURqTVhTZDFLUnZERmVVWlpoa1NMQ1k3OXh1cVJPMjNpdER0anMybERIaUJIbl9xRVVoT2VSTXh6SmFmVVZKc1V4UFZRUThZTUFmZXRiX2lSOV9tZlBuWW5tbWo5UDRVZkxtQllBV0MxTnJ3aXZMUlg4aE9NcUpCTTB1QUhvamh0My1oeS16QWFxQUU1NDVuYk1rcEV6eFZ1TkNacnprTTAxNEtEbUZ6Mm1LUWh3RzFrazVmU1RvUVVYeGxiZWtyM21CS2dDYVZvdVRRcGcxdHdrc3hPamRFVDJ3WXUxTzNDTk9yQ1d2SUhVNkcxT0ZaV0owaV9taTQxMVJjZ0F2T3BLdThEbFY2UE43dmJWaGc0YmU5b3NsZm4xQTZBNnBDb251b19WTDJOaVdMSVRoTXVTZHpmSm5JMzZObFNmM3k2ekd1Tnl6MGJkdl9BR2FGR295T09JWUYxU3FJTlBvanh3R0FjbXRfZUxqZnRSX1ZCdWtTV2VUd29lVkJ4eg?oc=5",
     "published_at": "2026-11-26T11:41:08Z",
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-27T06:25:25Z",
-    "updated_at": "2026-11-27T06:25:26Z"
+    "updated_at": "2026-11-28T06:00:59Z"
   },
   {
     "id": "068371896eb26f31",
@@ -149,7 +263,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-11-26T06:34:51Z",
-    "updated_at": "2026-11-27T06:25:25Z"
+    "updated_at": "2026-11-28T06:00:58Z"
   },
   {
     "id": "43d12579915b5def",
@@ -8642,7 +8756,7 @@
     "language": "zh",
     "possibly_special_aircraft": false,
     "created_at": "2026-10-13T05:11:11Z",
-    "updated_at": "2026-11-04T04:36:39Z"
+    "updated_at": "2026-11-28T06:00:59Z"
   },
   {
     "id": "6525dd8a718bb919",
@@ -22911,7 +23025,7 @@
     "language": "en",
     "possibly_special_aircraft": false,
     "created_at": "2026-08-04T02:04:21Z",
-    "updated_at": "2026-11-25T06:43:21Z"
+    "updated_at": "2026-11-28T06:00:58Z"
   },
   {
     "id": "98851e22d48696b0",
